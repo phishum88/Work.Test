@@ -22,7 +22,13 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install Python dependencies
+        run: pip install anthropic
+
       - name: Fetch news
+        env:
+          OPENEVIDENCE_API_KEY: ${{ secrets.OPENEVIDENCE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python3 fetch_news.py
 
       - name: Commit and push feed.json
