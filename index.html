@@ -438,6 +438,46 @@
     }
     .btn-clear:hover { border-color: var(--red); color: var(--red); }
 
+    /* API error banner */
+    #api-errors {
+      display: none;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+    .api-error-card {
+      background: #ef444412;
+      border: 1px solid #ef444444;
+      border-radius: 8px;
+      padding: 12px 16px;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+    }
+    .api-error-icon { font-size: 1rem; flex-shrink: 0; margin-top: 1px; }
+    .api-error-body { flex: 1; }
+    .api-error-title {
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--red);
+      margin-bottom: 2px;
+    }
+    .api-error-msg { font-size: 0.78rem; color: #e8a0a0; line-height: 1.5; }
+    .api-error-action {
+      background: none;
+      border: 1px solid #ef444466;
+      border-radius: 5px;
+      color: var(--red);
+      cursor: pointer;
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 4px 10px;
+      margin-top: 8px;
+      display: inline-block;
+      transition: background 0.15s;
+    }
+    .api-error-action:hover { background: #ef444422; }
+
     /* GitHub sync section */
     .sync-result {
       font-size: 0.75rem;
@@ -534,6 +574,8 @@
 
 <!-- ── Main ── -->
 <main>
+  <div id="api-errors"></div>
+
   <div id="digest-panel" style="display:none">
     <div id="digest-header" onclick="toggleDigest()">
       <div class="digest-title">
@@ -953,6 +995,44 @@ function goPage(n) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+// ── API error banner ──
+function renderApiErrors(data) {
+  const container = document.getElementById("api-errors");
+  const errors = [];
+
+  if (data.oe_error) {
+    errors.push({
+      title: "Open Evidence Unavailable",
+      msg: data.oe_error,
+      action: "Update Open Evidence Key",
+    });
+  }
+  if (data.claude_error) {
+    errors.push({
+      title: "Claude (Anthropic) Unavailable",
+      msg: data.claude_error,
+      action: "Update Anthropic Key",
+    });
+  }
+
+  if (errors.length === 0) {
+    container.style.display = "none";
+    return;
+  }
+
+  container.style.display = "flex";
+  container.innerHTML = errors.map(e => `
+    <div class="api-error-card">
+      <div class="api-error-icon">&#9888;</div>
+      <div class="api-error-body">
+        <div class="api-error-title">${escHtml(e.title)}</div>
+        <div class="api-error-msg">${escHtml(e.msg)}</div>
+        <button class="api-error-action" onclick="openDrawer()">${escHtml(e.action)} &rarr;</button>
+      </div>
+    </div>
+  `).join("");
+}
+
 // ── Digest ──
 function toggleDigest() {
   document.getElementById("digest-panel").classList.toggle("collapsed");
@@ -988,6 +1068,7 @@ async function loadFeed() {
         " · Refreshes every 72 h";
     }
 
+    renderApiErrors(data);
     renderDigest(data);
     applyFilters();
   } catch (e) {

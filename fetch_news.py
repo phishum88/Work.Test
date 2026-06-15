@@ -81,6 +81,10 @@ def fetch_url(url, timeout=20, headers=None):
         return None
 
 
+class APIAuthError(Exception):
+    """Raised when a remote API returns 401 or 403."""
+
+
 def post_json(url, payload, headers=None):
     import urllib.request
     h = {"Content-Type": "application/json", "User-Agent": "CriticalCareNewsFeed/1.0"}
@@ -92,6 +96,10 @@ def post_json(url, payload, headers=None):
         with urlopen(req, timeout=60) as r:
             return json.loads(r.read().decode("utf-8"))
     except Exception as e:
+        # Surface auth failures distinctly so callers can stop immediately
+        msg = str(e)
+        if "401" in msg or "403" in msg or "Unauthorized" in msg or "Forbidden" in msg:
+            raise APIAuthError(f"Authentication failed for {url}: {msg}")
         print(f"  [WARN] POST failed {url[:80]}: {e}")
         return None
 
@@ -227,9 +235,9 @@ def parse_rss(xml_text, feed_name):
 # ---------------------------------------------------------------------------
 
 def query_open_evidence(query, api_key):
-    """Query the Open Evidence search API and return a result dict."""
+    """Query the Open Evidence search API and return a result dict.
+    Raises APIAuthError on 401/403. Returns None on other failures."""
     headers = {"Authorization": f"Bearer {api_key}"}
-    # Try /search first; fall back to /ask_question if needed
     for endpoint in ("/search", "/ask_question"):
         result = post_json(
             f"{OE_BASE}{endpoint}",
@@ -242,15 +250,21 @@ def query_open_evidence(query, api_key):
 
 
 def collect_open_evidence(api_key):
-    """Run all OE queries and return a list of result dicts."""
+    """Run all OE queries. Returns (results, error_message).
+    Stops immediately on auth failure."""
     results = []
     for q in OE_QUERIES:
         print(f"  OE query: {q[:70]}...")
-        r = query_open_evidence(q, api_key)
+        try:
+            r = query_open_evidence(q, api_key)
+        except APIAuthError as e:
+            msg = "Invalid or expired Open Evidence API key. Update it in Settings."
+            print(f"  [ERROR] {msg}\n  Detail: {e}")
+            return [], msg
         if r:
             results.append({"query": q, "response": r})
-        time.sleep(1)  # be polite
-    return results
+        time.sleep(1)
+    return results, None
 
 
 def oe_results_to_text(oe_results):
@@ -310,16 +324,15 @@ def build_article_block(articles, max_articles=40):
 
 
 def synthesize_with_claude(articles, oe_results, api_key):
-    """Call Claude claude-sonnet-4-6 to produce a combined digest."""
+    """Call Claude to produce a combined digest.
+    Returns (digest, highlights, error_message)."""
     try:
         import anthropic
     except ImportError:
-        print("  [WARN] anthropic package not installed; skipping synthesis.")
-        return None, []
+        return None, [], "anthropic Python package not installed on the runner."
 
     article_block = build_article_block(articles)
     oe_block = oe_results_to_text(oe_results) if oe_results else "(No Open Evidence results available)"
-
     prompt = SYNTHESIS_PROMPT.format(article_block=article_block, oe_block=oe_block)
 
     client = anthropic.Anthropic(api_key=api_key)
@@ -331,10 +344,14 @@ def synthesize_with_claude(articles, oe_results, api_key):
         )
         full_text = message.content[0].text
     except Exception as e:
-        print(f"  [WARN] Claude API error: {e}")
-        return None, []
+        msg = str(e)
+        if "401" in msg or "403" in msg or "invalid" in msg.lower() or "authentication" in msg.lower():
+            err = "Invalid or expired Anthropic API key. Update it in Settings."
+        else:
+            err = f"Claude API error: {msg}"
+        print(f"  [ERROR] {err}")
+        return None, [], err
 
-    # Split digest from JSON highlights
     digest = full_text
     highlights = []
     marker = "JSON_HIGHLIGHTS:"
@@ -346,7 +363,7 @@ def synthesize_with_claude(articles, oe_results, api_key):
         except json.JSONDecodeError:
             pass
 
-    return digest, highlights
+    return digest, highlights, None
 
 
 # ---------------------------------------------------------------------------
@@ -444,20 +461,29 @@ def main():
 
     # 3. Open Evidence
     oe_results = []
+    oe_error = None
     if oe_api_key:
         print("\n[Open Evidence] Querying...")
-        oe_results = collect_open_evidence(oe_api_key)
-        print(f"  {len(oe_results)} OE responses collected")
+        oe_results, oe_error = collect_open_evidence(oe_api_key)
+        if oe_error:
+            print(f"  Stopped: {oe_error}")
+        else:
+            print(f"  {len(oe_results)} OE responses collected")
     else:
         print("\n[Open Evidence] OPENEVIDENCE_API_KEY not set — skipping")
 
     # 4. Claude synthesis
     digest = None
     highlights = []
+    claude_error = None
     if anthropic_api_key:
         print("\n[Claude] Synthesizing combined digest...")
-        digest, highlights = synthesize_with_claude(all_articles, oe_results, anthropic_api_key)
-        if digest:
+        digest, highlights, claude_error = synthesize_with_claude(
+            all_articles, oe_results, anthropic_api_key
+        )
+        if claude_error:
+            print(f"  Stopped: {claude_error}")
+        elif digest:
             print("  Digest generated successfully")
     else:
         print("\n[Claude] ANTHROPIC_API_KEY not set — skipping synthesis")
@@ -473,6 +499,8 @@ def main():
         "count": len(all_articles),
         "digest": digest,
         "oe_query_count": len(oe_results),
+        "oe_error": oe_error,
+        "claude_error": claude_error,
         "articles": all_articles,
     }
 
