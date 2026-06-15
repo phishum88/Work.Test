@@ -438,6 +438,42 @@
     }
     .btn-clear:hover { border-color: var(--red); color: var(--red); }
 
+    /* GitHub sync section */
+    .sync-result {
+      font-size: 0.75rem;
+      line-height: 1.6;
+      margin-top: 10px;
+      padding: 10px 12px;
+      border-radius: 6px;
+      display: none;
+    }
+    .sync-result.visible { display: block; }
+    .sync-result.ok  { background: #3ecf8e18; border: 1px solid #3ecf8e44; color: var(--green); }
+    .sync-result.err { background: #ef444418; border: 1px solid #ef444444; color: var(--red); }
+    .sync-result .sync-row { display: flex; align-items: center; gap: 6px; padding: 1px 0; }
+
+    .btn-sync {
+      width: 100%;
+      background: #24292f;
+      border: 1px solid var(--border);
+      border-radius: 7px;
+      color: var(--text);
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 9px 0;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .btn-sync:hover:not(:disabled) { border-color: var(--accent); background: #1c2029; }
+    .btn-sync:disabled { opacity: 0.5; cursor: default; }
+    .btn-sync .spin { animation: spin 0.7s linear infinite; display: none; }
+    .btn-sync.loading .spin { display: inline-block; }
+    .btn-sync.loading .idle-icon { display: none; }
+
     .save-toast {
       position: fixed;
       bottom: 24px; left: 50%;
@@ -603,6 +639,49 @@
       </div>
     </div>
 
+    <!-- GitHub Secrets Sync -->
+    <div class="setting-section">
+      <div class="setting-section-title">GitHub Secrets Sync</div>
+
+      <div class="setting-row">
+        <div class="setting-label">Repository <span>owner/repo</span></div>
+        <div class="key-input-wrap">
+          <input type="text" id="gh-repo" placeholder="phishum88/Work.Test"
+                 autocomplete="off" spellcheck="false"
+                 style="font-family:inherit; padding-right:11px" />
+        </div>
+        <div class="setting-hint">The GitHub repo where your Actions workflow lives.</div>
+      </div>
+
+      <div class="setting-row">
+        <div class="setting-label">Personal Access Token</div>
+        <div class="key-input-wrap">
+          <input type="password" id="gh-pat" placeholder="ghp_••••••••••••••••"
+                 autocomplete="off" spellcheck="false" />
+          <button class="toggle-vis" onclick="toggleVis('gh-pat', this)" title="Show/hide">&#128065;</button>
+        </div>
+        <div class="key-status" id="gh-pat-status"></div>
+        <div class="setting-hint">
+          Needs <code>repo</code> scope (or <code>secrets:write</code> for fine-grained tokens).
+          The token is never sent anywhere except the GitHub API.
+        </div>
+      </div>
+
+      <button class="btn-sync" id="sync-btn" onclick="syncToGitHub()">
+        <svg class="idle-icon" width="15" height="15" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+        </svg>
+        <svg class="spin" width="14" height="14" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+          <path d="M21 12a9 9 0 1 1-6.219-8.56"/>
+        </svg>
+        Push API Keys to GitHub Secrets
+      </button>
+
+      <div class="sync-result" id="sync-result"></div>
+    </div>
+
   </div><!-- /drawer-body -->
 
   <div class="drawer-footer">
@@ -620,6 +699,8 @@ const LS_DAYS    = "ccfeed_days";
 const LS_OE_KEY  = "ccfeed_oe_key";
 const LS_OE_ORG  = "ccfeed_oe_org";
 const LS_ANT_KEY = "ccfeed_anthropic_key";
+const LS_GH_PAT  = "ccfeed_gh_pat";
+const LS_GH_REPO = "ccfeed_gh_repo";
 
 // ── State ──
 let allArticles = [];
@@ -640,13 +721,19 @@ function loadSettings() {
   const oeOrg  = localStorage.getItem(LS_OE_ORG)  || "";
   const antKey = localStorage.getItem(LS_ANT_KEY) || "";
 
-  document.getElementById("oe-key").value       = oeKey;
-  document.getElementById("oe-org").value       = oeOrg;
-  document.getElementById("anthropic-key").value = antKey;
+  const ghPat  = localStorage.getItem(LS_GH_PAT)  || "";
+  const ghRepo = localStorage.getItem(LS_GH_REPO) || "";
 
-  updateKeyStatus("oe-key-status",       oeKey,  "oe_live_",  "Open Evidence key saved");
-  updateKeyStatus("anthropic-key-status", antKey, "sk-ant-",   "Anthropic key saved");
-  updateKeyStatus("oe-org-status",       oeOrg,  "org_",      "Org ID saved", true);
+  document.getElementById("oe-key").value        = oeKey;
+  document.getElementById("oe-org").value        = oeOrg;
+  document.getElementById("anthropic-key").value = antKey;
+  document.getElementById("gh-pat").value        = ghPat;
+  document.getElementById("gh-repo").value       = ghRepo;
+
+  updateKeyStatus("oe-key-status",        oeKey,  "oe_live_", "Open Evidence key saved");
+  updateKeyStatus("anthropic-key-status", antKey, "sk-ant-",  "Anthropic key saved");
+  updateKeyStatus("oe-org-status",        oeOrg,  "org_",     "Org ID saved", true);
+  updateKeyStatus("gh-pat-status",        ghPat,  "ghp_",     "PAT saved");
 }
 
 function saveSettings() {
@@ -656,17 +743,23 @@ function saveSettings() {
   const antKey  = document.getElementById("anthropic-key").value.trim();
 
   // Validate key formats (warn only, don't block save)
+  const ghPat  = document.getElementById("gh-pat").value.trim();
+  const ghRepo = document.getElementById("gh-repo").value.trim();
+
   const oeOk  = !oeKey  || oeKey.startsWith("oe_live_") || oeKey.startsWith("oe_test_");
   const antOk = !antKey || antKey.startsWith("sk-ant-");
 
-  updateKeyStatus("oe-key-status",       oeKey,  "oe_live_",  "Saved",   false, !oeOk  ? "Expected format: oe_live_…"  : "");
-  updateKeyStatus("anthropic-key-status", antKey, "sk-ant-",   "Saved",   false, !antOk ? "Expected format: sk-ant-…"   : "");
-  updateKeyStatus("oe-org-status",       oeOrg,  "org_",      "Saved",   true);
+  updateKeyStatus("oe-key-status",        oeKey,  "oe_live_", "Saved", false, !oeOk  ? "Expected format: oe_live_…" : "");
+  updateKeyStatus("anthropic-key-status", antKey, "sk-ant-",  "Saved", false, !antOk ? "Expected format: sk-ant-…"  : "");
+  updateKeyStatus("oe-org-status",        oeOrg,  "org_",     "Saved", true);
+  updateKeyStatus("gh-pat-status",        ghPat,  "ghp_",     "PAT saved");
 
   localStorage.setItem(LS_DAYS,    days);
   localStorage.setItem(LS_OE_KEY,  oeKey);
   localStorage.setItem(LS_OE_ORG,  oeOrg);
   localStorage.setItem(LS_ANT_KEY, antKey);
+  localStorage.setItem(LS_GH_PAT,  ghPat);
+  localStorage.setItem(LS_GH_REPO, ghRepo);
 
   displayDays = days;
   applyFilters();
@@ -679,15 +772,14 @@ function saveSettings() {
 
 function clearKeys() {
   if (!confirm("Remove all saved API keys from this browser?")) return;
-  [LS_OE_KEY, LS_OE_ORG, LS_ANT_KEY].forEach(k => localStorage.removeItem(k));
-  document.getElementById("oe-key").value = "";
-  document.getElementById("oe-org").value = "";
-  document.getElementById("anthropic-key").value = "";
-  ["oe-key-status", "oe-org-status", "anthropic-key-status"].forEach(id => {
+  [LS_OE_KEY, LS_OE_ORG, LS_ANT_KEY, LS_GH_PAT].forEach(k => localStorage.removeItem(k));
+  ["oe-key", "oe-org", "anthropic-key", "gh-pat"].forEach(id => {
+    document.getElementById(id).value = "";
+  });
+  ["oe-key-status", "oe-org-status", "anthropic-key-status", "gh-pat-status"].forEach(id => {
     const el = document.getElementById(id);
-    el.textContent = "Keys cleared";
-    el.className = "key-status";
-    setTimeout(() => { el.textContent = ""; }, 2000);
+    if (el) { el.textContent = "Keys cleared"; el.className = "key-status"; }
+    setTimeout(() => { if (el) el.textContent = ""; }, 2000);
   });
 }
 
@@ -920,6 +1012,140 @@ document.getElementById("search").addEventListener("input", e => {
   clearTimeout(searchTimer);
   searchTimer = setTimeout(() => { searchQuery = e.target.value; applyFilters(); }, 250);
 });
+
+// ── GitHub Secrets Sync ──
+
+// Lazy-load libsodium-wrappers from CDN (only when user clicks Sync)
+let _sodium = null;
+async function getSodium() {
+  if (_sodium) return _sodium;
+  await new Promise((resolve, reject) => {
+    const s = document.createElement("script");
+    s.src = "https://cdn.jsdelivr.net/npm/libsodium-wrappers@0.7.15/dist/modules/libsodium-wrappers.min.js";
+    s.onload = resolve;
+    s.onerror = () => reject(new Error("Failed to load libsodium from CDN"));
+    document.head.appendChild(s);
+  });
+  await window.sodium.ready;
+  _sodium = window.sodium;
+  return _sodium;
+}
+
+async function encryptSecret(sodium, b64PublicKey, secretValue) {
+  // GitHub requires libsodium sealed box encryption
+  const keyBytes = sodium.from_base64(b64PublicKey, sodium.base64_variants.ORIGINAL);
+  const msgBytes = sodium.from_string(secretValue);
+  const encrypted = sodium.crypto_box_seal(msgBytes, keyBytes);
+  return sodium.to_base64(encrypted, sodium.base64_variants.ORIGINAL);
+}
+
+async function putGitHubSecret(repo, pat, keyId, secretName, encryptedValue) {
+  const url = `https://api.github.com/repos/${repo}/actions/secrets/${secretName}`;
+  const res = await fetch(url, {
+    method: "PUT",
+    headers: {
+      "Authorization": `Bearer ${pat}`,
+      "Accept": "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ encrypted_value: encryptedValue, key_id: keyId }),
+  });
+  // 201 = created, 204 = updated — both are success
+  if (res.status !== 201 && res.status !== 204) {
+    const body = await res.json().catch(() => ({}));
+    throw new Error(body.message || `HTTP ${res.status}`);
+  }
+}
+
+async function syncToGitHub() {
+  const repo   = document.getElementById("gh-repo").value.trim();
+  const pat    = document.getElementById("gh-pat").value.trim();
+  const oeKey  = document.getElementById("oe-key").value.trim();
+  const oeOrg  = document.getElementById("oe-org").value.trim();
+  const antKey = document.getElementById("anthropic-key").value.trim();
+
+  const resultEl = document.getElementById("sync-result");
+  const btn      = document.getElementById("sync-btn");
+
+  // Validate inputs
+  if (!repo || !repo.includes("/")) {
+    showSyncResult("err", [{ icon: "✗", text: "Enter a valid repository (owner/repo)" }]);
+    return;
+  }
+  if (!pat) {
+    showSyncResult("err", [{ icon: "✗", text: "Enter your GitHub Personal Access Token" }]);
+    return;
+  }
+  const secrets = [];
+  if (oeKey)  secrets.push({ name: "OPENEVIDENCE_API_KEY",  value: oeKey });
+  if (oeOrg)  secrets.push({ name: "OPENEVIDENCE_ORG_ID",   value: oeOrg });
+  if (antKey) secrets.push({ name: "ANTHROPIC_API_KEY",      value: antKey });
+  if (secrets.length === 0) {
+    showSyncResult("err", [{ icon: "✗", text: "No API keys to push — save them first" }]);
+    return;
+  }
+
+  btn.classList.add("loading");
+  btn.disabled = true;
+  showSyncResult("ok", [{ icon: "⋯", text: "Loading encryption library…" }]);
+
+  try {
+    const sodium = await getSodium();
+
+    showSyncResult("ok", [{ icon: "⋯", text: `Fetching public key for ${repo}…` }]);
+
+    // Get repo public key
+    const pkRes = await fetch(`https://api.github.com/repos/${repo}/actions/secrets/public-key`, {
+      headers: {
+        "Authorization": `Bearer ${pat}`,
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
+      },
+    });
+    if (!pkRes.ok) {
+      const err = await pkRes.json().catch(() => ({}));
+      throw new Error(err.message || `Could not fetch repo public key (HTTP ${pkRes.status})`);
+    }
+    const { key, key_id } = await pkRes.json();
+
+    // Push each secret
+    const results = [];
+    for (const secret of secrets) {
+      try {
+        const encrypted = await encryptSecret(sodium, key, secret.value);
+        await putGitHubSecret(repo, pat, key_id, secret.name, encrypted);
+        results.push({ icon: "✓", text: `${secret.name} — pushed` });
+      } catch (e) {
+        results.push({ icon: "✗", text: `${secret.name} — ${e.message}` });
+      }
+    }
+
+    const allOk = results.every(r => r.icon === "✓");
+    showSyncResult(allOk ? "ok" : "err", results);
+
+    // Persist PAT and repo to localStorage now that we know they work
+    if (allOk) {
+      localStorage.setItem(LS_GH_PAT,  pat);
+      localStorage.setItem(LS_GH_REPO, repo);
+      updateKeyStatus("gh-pat-status", pat, "ghp_", "PAT saved");
+    }
+
+  } catch (e) {
+    showSyncResult("err", [{ icon: "✗", text: e.message }]);
+  } finally {
+    btn.classList.remove("loading");
+    btn.disabled = false;
+  }
+}
+
+function showSyncResult(type, rows) {
+  const el = document.getElementById("sync-result");
+  el.className = `sync-result visible ${type}`;
+  el.innerHTML = rows.map(r =>
+    `<div class="sync-row"><span>${escHtml(r.icon)}</span><span>${escHtml(r.text)}</span></div>`
+  ).join("");
+}
 
 // ── Init ──
 loadSettings();
