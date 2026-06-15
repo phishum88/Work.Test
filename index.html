@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Critical Care Medicine News Feed</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #222535;
+      --border: #2e3148;
+      --accent: #4f8ef7;
+      --accent2: #7c5cbf;
+      --text: #e2e6f0;
+      --muted: #8890a8;
+      --green: #3ecf8e;
+      --orange: #f59e0b;
+      --red: #ef4444;
+      --purple: #a78bfa;
+      --teal: #22d3ee;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 18px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .header-left h1 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: -0.3px;
+    }
+
+    .header-left p {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    #last-updated {
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+
+    #article-count {
+      font-size: 0.75rem;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 999px;
+      padding: 2px 9px;
+      font-weight: 600;
+    }
+
+    .controls {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 28px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    input[type="search"] {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      padding: 6px 12px;
+      font-size: 0.85rem;
+      width: 220px;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    input[type="search"]:focus { border-color: var(--accent); }
+    input[type="search"]::placeholder { color: var(--muted); }
+
+    .filter-btn {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--muted);
+      padding: 5px 12px;
+      font-size: 0.78rem;
+      cursor: pointer;
+      transition: all 0.15s;
+      font-weight: 500;
+    }
+    .filter-btn:hover { border-color: var(--accent); color: var(--text); }
+    .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 24px 20px 48px;
+    }
+
+    #feed { display: flex; flex-direction: column; gap: 16px; }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 20px 22px;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .card:hover {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px var(--accent)22;
+    }
+
+    .card-meta {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+
+    .badge {
+      font-size: 0.7rem;
+      font-weight: 600;
+      border-radius: 4px;
+      padding: 2px 7px;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+    }
+
+    .badge-guideline  { background: #7c5cbf22; color: var(--purple); border: 1px solid #7c5cbf55; }
+    .badge-trial      { background: #3ecf8e22; color: var(--green);  border: 1px solid #3ecf8e55; }
+    .badge-systematic { background: #f59e0b22; color: var(--orange); border: 1px solid #f59e0b55; }
+    .badge-review     { background: #22d3ee22; color: var(--teal);   border: 1px solid #22d3ee55; }
+    .badge-case       { background: #ef444422; color: var(--red);    border: 1px solid #ef444455; }
+    .badge-research   { background: #4f8ef722; color: var(--accent); border: 1px solid #4f8ef755; }
+
+    .card-source {
+      font-size: 0.73rem;
+      color: var(--muted);
+      font-weight: 500;
+    }
+
+    .card-date {
+      font-size: 0.73rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+
+    .card-title {
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.4;
+      margin-bottom: 6px;
+      color: var(--text);
+    }
+    .card-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .card-title a:hover { color: var(--accent); }
+
+    .card-authors {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    .card-abstract {
+      font-size: 0.85rem;
+      color: #b0b8cc;
+      line-height: 1.65;
+    }
+
+    .card-abstract.collapsed {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .expand-btn {
+      background: none;
+      border: none;
+      color: var(--accent);
+      cursor: pointer;
+      font-size: 0.78rem;
+      padding: 0;
+      margin-top: 6px;
+      display: block;
+    }
+    .expand-btn:hover { text-decoration: underline; }
+
+    #loading {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .spinner {
+      display: inline-block;
+      width: 28px;
+      height: 28px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 12px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    #empty {
+      display: none;
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+
+    .pagination {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 28px;
+      flex-wrap: wrap;
+    }
+
+    .page-btn {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      padding: 6px 14px;
+      cursor: pointer;
+      font-size: 0.83rem;
+      transition: all 0.15s;
+    }
+    .page-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .page-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+    .page-btn:disabled { opacity: 0.35; cursor: default; }
+
+    @media (max-width: 600px) {
+      header { padding: 14px 16px; }
+      .controls { padding: 10px 16px; }
+      main { padding: 16px 12px 40px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <h1>Critical Care Medicine Feed</h1>
+    <p>Clinical news &bull; Guidelines &bull; Trials &bull; Practice-changing research</p>
+  </div>
+  <div class="header-right">
+    <span id="last-updated"></span>
+    <span id="article-count" style="display:none"></span>
+  </div>
+</header>
+
+<div class="controls">
+  <input type="search" id="search" placeholder="Search titles, abstracts, sources..." />
+  <button class="filter-btn active" data-cat="All">All</button>
+  <button class="filter-btn" data-cat="Guideline / Consensus">Guidelines</button>
+  <button class="filter-btn" data-cat="Clinical Trial">Trials</button>
+  <button class="filter-btn" data-cat="Systematic Review / Meta-Analysis">Sys. Reviews</button>
+  <button class="filter-btn" data-cat="Review">Reviews</button>
+  <button class="filter-btn" data-cat="Research Article">Research</button>
+</div>
+
+<main>
+  <div id="loading">
+    <div class="spinner"></div>
+    <p>Loading feed&hellip;</p>
+  </div>
+  <div id="feed"></div>
+  <div id="empty"><p>No articles match your search.</p></div>
+  <div class="pagination" id="pagination"></div>
+</main>
+
+<script>
+const PAGE_SIZE = 20;
+let allArticles = [];
+let filtered = [];
+let currentPage = 1;
+let activeCategory = "All";
+let searchQuery = "";
+
+function badgeClass(cat) {
+  if (cat.startsWith("Guideline")) return "badge-guideline";
+  if (cat === "Clinical Trial") return "badge-trial";
+  if (cat.startsWith("Systematic")) return "badge-systematic";
+  if (cat === "Review") return "badge-review";
+  if (cat === "Case Report") return "badge-case";
+  return "badge-research";
+}
+
+function badgeLabel(cat) {
+  const map = {
+    "Guideline / Consensus": "Guideline",
+    "Clinical Trial": "Trial",
+    "Systematic Review / Meta-Analysis": "Sys. Review",
+    "Review": "Review",
+    "Case Report": "Case Report",
+    "Research Article": "Research",
+  };
+  return map[cat] || cat;
+}
+
+function renderCard(a) {
+  const hasAbstract = a.abstract && a.abstract.trim().length > 0;
+  const uid = a.id.replace(/[^a-z0-9]/gi, "_");
+  return `
+    <div class="card">
+      <div class="card-meta">
+        <span class="badge ${badgeClass(a.category)}">${badgeLabel(a.category)}</span>
+        <span class="card-source">${escHtml(a.source)}</span>
+        <span class="card-date">${escHtml(a.date)}</span>
+      </div>
+      <div class="card-title">
+        <a href="${escHtml(a.url)}" target="_blank" rel="noopener">${escHtml(a.title)}</a>
+      </div>
+      ${a.authors ? `<div class="card-authors">${escHtml(a.authors)}</div>` : ""}
+      ${hasAbstract ? `
+        <div class="card-abstract collapsed" id="abs_${uid}">${escHtml(a.abstract)}</div>
+        <button class="expand-btn" onclick="toggleAbstract('${uid}', this)">Show more</button>
+      ` : ""}
+    </div>
+  `;
+}
+
+function toggleAbstract(uid, btn) {
+  const el = document.getElementById("abs_" + uid);
+  if (el.classList.contains("collapsed")) {
+    el.classList.remove("collapsed");
+    btn.textContent = "Show less";
+  } else {
+    el.classList.add("collapsed");
+    btn.textContent = "Show more";
+  }
+}
+
+function escHtml(s) {
+  return String(s || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function applyFilters() {
+  const q = searchQuery.toLowerCase();
+  filtered = allArticles.filter(a => {
+    const catMatch = activeCategory === "All" || a.category === activeCategory;
+    const textMatch = !q ||
+      (a.title || "").toLowerCase().includes(q) ||
+      (a.abstract || "").toLowerCase().includes(q) ||
+      (a.source || "").toLowerCase().includes(q) ||
+      (a.authors || "").toLowerCase().includes(q);
+    return catMatch && textMatch;
+  });
+  currentPage = 1;
+  renderPage();
+}
+
+function renderPage() {
+  const feed = document.getElementById("feed");
+  const empty = document.getElementById("empty");
+  const pag = document.getElementById("pagination");
+
+  if (filtered.length === 0) {
+    feed.innerHTML = "";
+    empty.style.display = "block";
+    pag.innerHTML = "";
+    return;
+  }
+
+  empty.style.display = "none";
+
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const slice = filtered.slice(start, start + PAGE_SIZE);
+  feed.innerHTML = slice.map(renderCard).join("");
+
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+  if (totalPages <= 1) { pag.innerHTML = ""; return; }
+
+  let btns = "";
+  btns += `<button class="page-btn" onclick="goPage(${currentPage - 1})" ${currentPage === 1 ? "disabled" : ""}>&larr; Prev</button>`;
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) {
+      btns += `<button class="page-btn ${i === currentPage ? "active" : ""}" onclick="goPage(${i})">${i}</button>`;
+    } else if (Math.abs(i - currentPage) === 3) {
+      btns += `<span style="color:var(--muted);padding:0 4px">…</span>`;
+    }
+  }
+  btns += `<button class="page-btn" onclick="goPage(${currentPage + 1})" ${currentPage === totalPages ? "disabled" : ""}>Next &rarr;</button>`;
+  pag.innerHTML = btns;
+}
+
+function goPage(n) {
+  currentPage = n;
+  renderPage();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+async function loadFeed() {
+  try {
+    const res = await fetch("feed.json?t=" + Date.now());
+    if (!res.ok) throw new Error(res.statusText);
+    const data = await res.json();
+    allArticles = data.articles || [];
+
+    document.getElementById("loading").style.display = "none";
+    document.getElementById("article-count").style.display = "";
+    document.getElementById("article-count").textContent = allArticles.length + " articles";
+
+    if (data.generated) {
+      const d = new Date(data.generated);
+      document.getElementById("last-updated").textContent =
+        "Updated " + d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }) +
+        " · Refreshes every 72 h";
+    }
+
+    applyFilters();
+  } catch (e) {
+    document.getElementById("loading").innerHTML =
+      `<p style="color:var(--red)">Could not load feed.json.<br><small>${e.message}</small></p>
+       <p style="color:var(--muted);font-size:0.8rem;margin-top:8px">Run <code>python3 fetch_news.py</code> to generate the feed.</p>`;
+  }
+}
+
+// Wire up controls
+document.querySelectorAll(".filter-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    activeCategory = btn.dataset.cat;
+    applyFilters();
+  });
+});
+
+let searchTimer;
+document.getElementById("search").addEventListener("input", e => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    searchQuery = e.target.value;
+    applyFilters();
+  }, 250);
+});
+
+loadFeed();
+</script>
+</body>
+</html>

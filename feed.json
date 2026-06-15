@@ -1,0 +1,39 @@
+{
+  "generated": "2026-06-15T06:00:00+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "id": "placeholder_1",
+      "title": "Feed will populate automatically after the first GitHub Actions run",
+      "abstract": "This is a placeholder entry. The GitHub Actions workflow is scheduled to run every 72 hours (Monday, Thursday, and Sunday at 06:00 UTC). You can also trigger it manually via the Actions tab in your repository. Once it runs, this feed will be replaced with real articles from PubMed and major critical care journals including Critical Care Medicine, Intensive Care Medicine, CHEST, NEJM, JAMA, The Lancet, AJRCCM, and Annals of Internal Medicine.",
+      "source": "System",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Jun 15",
+      "url": "#",
+      "category": "Research Article"
+    },
+    {
+      "id": "placeholder_2",
+      "title": "To trigger the feed now: go to Actions tab → Update Critical Care News Feed → Run workflow",
+      "abstract": "Navigate to your GitHub repository, click the Actions tab, select the 'Update Critical Care News Feed' workflow, and click 'Run workflow'. The script will query PubMed for the latest critical care publications and filter RSS feeds from top journals for critical care relevant content.",
+      "source": "System",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Jun 15",
+      "url": "#",
+      "category": "Review"
+    },
+    {
+      "id": "placeholder_3",
+      "title": "Sources: PubMed (MeSH: critical care, ICU, sepsis, ARDS, mechanical ventilation) + 8 journal RSS feeds",
+      "abstract": "The feed searches PubMed using critical care MeSH terms and free-text queries, prioritizing Clinical Trials, Systematic Reviews, Practice Guidelines, and Review articles published within the last 72-96 hours. It also monitors RSS feeds from Critical Care Medicine (CCM), Intensive Care Medicine, CHEST, NEJM, JAMA, The Lancet, AJRCCM, and Annals of Internal Medicine, filtering each for critical care relevant keywords.",
+      "source": "System",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Jun 15",
+      "url": "#",
+      "category": "Guideline / Consensus"
+    }
+  ]
+}
