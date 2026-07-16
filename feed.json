@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T13:40:36.580462+00:00",
-  "count": 77,
+  "generated": "2026-07-16T11:55:35.235990+00:00",
+  "count": 79,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -213,6 +213,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42323038",
+      "title": "DeepEN: A deep reinforcement learning framework for personalized enteral nutrition in critical care.",
+      "abstract": "Enteral nutrition (EN) delivery in the ICU remains suboptimal due to limited personalization and uncertainty regarding appropriate calorie, protein, and fluid targets under dynamic metabolic demands. We introduce DeepEN, a reinforcement learning (RL) framework for personalized EN optimization using electronic health record data. DeepEN was trained on over 11,000 ICU patients from MIMIC-IV to generate 4-hourly, patient-specific caloric, protein, and fluid targets. The state representation incorporated demographics, comorbidities, vital signs, laboratory values, and recent interventions. A physiologically aligned reward framework balanced biomarker stability with long-term survival. Policy learning employed a dueling double deep Q-network with Conservative Q-Learning regularization to enable safe offline training. DeepEN achieved the highest estimated policy value (V DeepEN demonstrates the feasibility of conservative offline RL for safe, individualized EN optimization, highlighting the potential of data-driven personalization to complement guideline-based approaches in critical care.",
+      "source": "Journal of biomedical informatics",
+      "authors": "Tan Daniel J, Chen Jiayang, Perera Dilruk, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42323038/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42319221",
       "title": "Feeding under support in critical care illness: metabolic and nutritional management during extracorporeal membrane oxygenation and continuous renal replacement therapy.",
       "abstract": "The use of life-support therapies like extracorporeal membrane oxygenation (ECMO), mechanical circulatory systems (MCS), and continuous renal replacement therapy (CRRT) creates a complex and dynamic metabolic environment that profoundly challenges nutritional management for these critically ill patients. Current existing guideline recommendations are largely based on expert opinions and observational data. No specific guidelines exist for this population. This mini-review synthesizes the current, limited evidence on the pathophysiological and metabolic alterations induced by ECMO, MCS, and CRRT and provides pragmatic recommendations for nutritional assessment and delivery. The key challenges include dramatic nutrient fluxes in the case of CRRT, a possible hypermetabolic state exacerbated by ECMO, fluid overload constraints, and drug-nutrient interactions. Practical strategies are proposed for calorie-protein targeting, micronutrient repletion, and monitoring, emphasizing a 'start low, advance carefully' approach within a multidisciplinary framework.",
@@ -360,22 +374,6 @@
       "date": "2026 Aug",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42119490/",
       "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42048766",
-      "title": "Artificial intelligence and computerized decision support in adult intensive care: A systematic review of randomized controlled trials.",
-      "abstract": "Artificial intelligence (AI) and computerized clinical decision support systems (CDSS) are increasingly applied in intensive care, yet their clinical impact remains uncertain, as most studies focus on model development rather than prospective evaluation. To identify randomized controlled trials (RCTs) evaluating AI-based or CDSS interventions intended to influence real-time decision-making in adult intensive care units (ICUs) and to assess their effects on process and patient-centered outcomes. We conducted a systematic review of randomized controlled trials (RCTs). PubMed, Embase, Cochrane CENTRAL, ScienceDirect, and IEEE Xplore were searched from inception to November 2025. Eligible studies evaluated AI-based or CDSS interventions in adult ICU patients. Study quality was assessed using RoB 2 and CONSORT-AI criteria. Ten RCTs were included, enrolling approximately 100,000 adult ICU patients. Five trials evaluated AI-based interventions and five evaluated CDSS. Eight trials showed improvements in at least one process measure, including earlier recognition of deterioration, improved protocol adherence, and physiological stability. However, patient-centered benefits were uncommon. Tw",
-      "source": "Journal of critical care",
-      "authors": "Muñoz Javier, Fernández-Araujo Nerio José, Ruíz-Cacho Rocío, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Review"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42048766/",
-      "category": "Clinical Trial",
       "highlighted": false
     },
     {
@@ -887,6 +885,22 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42247841",
+      "title": "Pregnancy and hantavirus infection: maternal, fetal, and neonatal outcomes - a systematic review.",
+      "abstract": "Hantavirus infection is a rare zoonotic disease caused by rodent-borne RNA viruses and may present as hemorrhagic fever with renal syndrome or hantavirus cardiopulmonary syndrome. Evidence regarding its impact during pregnancy remains limited. This systematic review synthesized available data on maternal manifestations, maternal and fetal outcomes, and vertical transmission. A systematic literature search of PubMed/MEDLINE, Embase, Scopus, Web of Science, and Google Scholar was conducted from database inception through May 2026 in accordance with PRISMA 2020 guidelines. Studies reporting pregnant women with confirmed or suspected hantavirus infection and relevant maternal or fetal outcomes were included. Nineteen studies comprising 24 unique pregnancies were included. Fever (22/24, 91.7%), myalgia (20/24, 83.3%), thrombocytopenia (21/24, 87.5%), respiratory compromise (11/24, 45.8%), and renal dysfunction (10/24, 41.7%) were the most frequently reported maternal manifestations. Intensive care unit admission occurred in 10 cases (41.7%), mechanical ventilation in 7 (29.2%), and maternal mortality in 2 (8.3%). Live birth occurred in 18 pregnancies (75.0%), preterm delivery in 8 (33.3",
+      "source": "European journal of obstetrics, gynecology, and reproductive biology",
+      "authors": "Baradwan Saeed, Alshamrani Nada Mohammed, Hafedh Bandr, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "date": "2026 Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42247841/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42242271",
       "title": "Respiratory trajectories of infants born before 26 weeks of gestation from birth to discharge: an exploratory analysis of a randomised controlled trial.",
       "abstract": "To survive, infants born before 26 weeks' gestation require respiratory assistance immediately after birth. However, the respiratory trajectories of these most preterm infants are not well delineated. We aimed to describe the early respiratory trajectories of infants born before 26 weeks' gestation who received surfactant during their initial neonatal intensive care admission. This study was a post-hoc exploratory analysis of PLUSS, a randomised controlled trial comparing intratracheal budesonide mixed with surfactant versus surfactant alone. Infants were recruited from 21 neonatal intensive care units in Australia, New Zealand, Canada, and Singapore. Infants born before 28 weeks' gestation and aged less than 48 h were eligible if (1) they were mechanically ventilated, or (2) they were receiving non-invasive respiratory support and there was a clinical decision to treat with surfactant. For this analysis, only infants born before 26 weeks' gestation were included, and treatment and control groups were combined. We aimed to describe early respiratory trajectories, including the levels of respiratory support and oxygen administered during the first 14 days, and respiratory outcomes a",
@@ -983,21 +997,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42055500",
-      "title": "What should ideal built-in software offer for monitoring home mechanical ventilation?",
-      "abstract": "Monitoring of home mechanical ventilation (HMV) - including noninvasive ventilation (NIV) and invasive mechanical ventilation (IMV) - as well as continuous positive airway pressure (CPAP) is essential to ensure effective ventilation, optimize adherence, and improve patient outcomes in both pediatric and adult patients. Analysis of data derived from the built-in software of HMV and CPAP devices constitute a key component of routine monitoring. These data provide valuable information on treatment adherence, unintentional leaks, residual respiratory events, and patient-ventilator synchrony. In many clinical situations, these data may be sufficient to guide ventilator adjustments without full in-lab poly(somno)graphy. Although current built-in software offers multiple monitoring features, their availability and implementation vary widely across manufacturers. Limitations include incomplete access to settings and alarms, inconsistent leak and inspiratory time statistics, limited waveform visualization, and insufficient tools for scoring respiratory events and patient-ventilator asynchronies. Additional features-such as customizable adherence thresholds, dual cursors for time measurement",
-      "source": "Sleep medicine",
-      "authors": "Khirani Sonia, Arnal Jean-Michel",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42055500/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42424121",
       "title": "Use of Cystatin C in Tandem with Creatinine to Improve GFR Estimation and Clinical Decision Making.",
       "abstract": "Recognizing its clinical utility, the 2024 Kidney Disease Improving Global Outcomes (KDIGO) guideline recommends using equations that integrate serum creatinine and cystatin C for chronic kidney disease (CKD) diagnosis and staging. Cystatin C-inclusive equations generally outperform creatinine-based equations in bias and accuracy across diverse populations, including children and patients with comorbidities. Moreover, cystatin C-inclusive equations consistently demonstrate greater prognostic value than creatinine-only equations for clinical outcomes such as kidney failure with replacement therapy (KFRT), cardiovascular disease, and mortality, particularly in individuals with large differences between creatinine- and cystatin C-based estimates of glomerular filtration rate (eGFR). Among hospitalized patients and those undergoing significant changes in muscle mass, such as during weight loss or critical illness, cystatin C may improve GFR estimation and facilitate earlier detection of acute kidney injury. In clinical practice, cystatin C informs CKD staging, risk stratification, and medication dosing, particularly in scenarios where creatinine-based equations are less reliable. Altho",
@@ -1037,6 +1036,23 @@
       ],
       "date": "2026 Jun 29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42371750/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42441699",
+      "title": "Bleeding Risk Associated with Novel Oral Anticoagulants in Critically Ill Patients: A Scoping Review.",
+      "abstract": "Novel oral anticoagulants (NOACs) are widely used for the prevention and treatment of thromboembolic disease; nevertheless, critically ill patients were mostly excluded from the landmark randomized clinical trials. The purpose of this scoping review is to systematically map and synthesize the available evidence on bleeding risk associated with NOACs use in critically ill patients. Furthermore, we have also focused on ICU-specific risk factors, pathophysiological mechanisms and management strategies. Critical illness is characterized by dynamic pathophysiology, dysfunction of organs, and systemic inflammation that might change the exposure to anticoagulants and the risk of bleeding. A scoping review approach was utilized to synthesize findings of reviews, observational studies, clinical trials, and guideline documents on NOAC-associated bleeding. The focus was on populations related to critically ill units, such as patients with organ dysfunction, sepsis, malignancy, and invasive operations. The evidence summary was not conducted quantitatively. Bleeding is always prone to renal and hepatic dysfunction, old age, malignancy, polypharmacy, and concomitant antiplatelet treatment. The m",
+      "source": "Journal of visualized experiments : JoVE",
+      "authors": "Lin Zhichao, Yu Xiaoping, Ma Ruibin, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Video-Audio Media",
+        "Scoping Review",
+        "Review"
+      ],
+      "date": "2026 Jun 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42441699/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
@@ -1157,6 +1173,18 @@
       "date": "2026 May",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41544697/",
       "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2850666",
+      "title": "Postoperative Delirium May Predict Long-Term Cognitive Decline",
+      "abstract": "Delirium after surgery may be a strong predictor of long-term cognitive decline in older adults independent of illness or frailty, a recent study suggests.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Jul 14",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2850666",
+      "category": "Research Article",
       "highlighted": false
     }
   ]
