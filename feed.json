@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T11:55:35.235990+00:00",
+  "generated": "2026-07-19T07:59:18.354423+00:00",
   "count": 79,
   "digest": null,
   "oe_query_count": 0,
@@ -48,6 +48,20 @@
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41607080/",
       "category": "Systematic Review / Meta-Analysis",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42335637",
+      "title": "Causally-informed deep learning towards explainable and generalizable outcome prediction in critical care.",
+      "abstract": "The rapid evolution of deep learning is revolutionizing critical care medicine by enabling highly accurate early warning systems. These systems are capable of predicting diverse clinical deteriorations, including acute kidney injury, myocardial infarction, and circulatory failure. While demonstrating strong predictive capabilities, conventional deep learning models face two fundamental limitations in clinical implementation: their opaque decision-making processes and limited generalizability across diverse patient populations and care environments. To address these challenges, we present a causally-informed deep learning framework that integrates causal discovery to jointly identify the causal drivers of clinical outcomes alongside prediction. This approach yields two unique advantages: demonstrating the explicit interpretation of the prediction while exhibiting decent performance when applied to unfamiliar environments. Benefiting from these features, our approach achieves superior accuracy across six different critical deteriorations and also demonstrates improved generalizability across diverse patient groups compared to various baseline algorithms. Besides, we provide explicit ",
+      "source": "Artificial intelligence in medicine",
+      "authors": "Cheng Yuxiao, Song Xinxin, Wang Ziqian, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42335637/",
+      "category": "Clinical Trial",
       "highlighted": false
     },
     {
@@ -257,6 +271,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42288058",
+      "title": "Obstetric critical care admissions, organ support, and severe maternal morbidity in an Irish tertiary referral centre: a retrospective cohort study (2013-2023).",
+      "abstract": "Recent Irish and European reports have highlighted variation in obstetric critical care, but patient-level data spanning a longer timeframe from tertiary centres remain limited. In particular, few data describe how admission incidence, case mix, organ support requirements, and temporal trends vary within an integrated tertiary maternity and critical care model. We aimed to describe obstetric critical care admissions over 11-years at an Irish tertiary referral centre. We performed a retrospective cohort study of all pregnant and postpartum women admitted to the critical care unit at the Galway University Hospital from 2013 to 2023. Eligible cases were identified from critical care admission records and reviewed using the Metavision clinical information system, supplemented by paper chart review where necessary. Extracted data included patient and obstetric characteristics, indication for admission, level of care, organ support, acute kidney injury, critical care length of stay, and maternal mortality. Admission incidence was calculated per 1000 maternal deliveries. Temporal trends were assessed using logistic or linear regression, as appropriate. There were 207 admissions, represent",
+      "source": "International journal of obstetric anesthesia",
+      "authors": "Hartigan Sean, O'Loughlin Christopher, Costello Joseph, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42288058/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42284525",
       "title": "Parenteral nutrition and supplemental parenteral nutrition: should we use more?",
       "abstract": "This review examines when parenteral nutrition (PN) (inclusive of total (TPN), supplemental (SPN), or peripheral (PPN)) may be provided in intensive care unit (ICU). We discuss adapting PN across metabolic phases, including early and late acute phases in ICU, post-ICU, and ward recovery. Given emerging data, it is more likely that historical negative sequelae associated with PN were driven by overfeeding than the feeding route itself. With conservative energy delivery and strict aseptic care, TPN/SPN is likely as safe as enteral nutrition (EN) in modern ICU settings. TPN should be considered when the gastrointestinal (GI) tract is non-functional, and SPN when EN is insufficient or not tolerated. Furthermore, amino acid uptake and muscle responses are comparable. Substantial energy and protein deficits persist post-ICU, particularly with oral intake alone, highlighting SPN's role to support rehabilitation. PPN may provide short-term strategies to bridge inadequate nutrition. PN prescriptions should consider individual patient needs and phase of illness. In the ICU, PN should be considered when EN is not feasible or insufficient, particularly in later phase. Post-ICU and postoperativ",
@@ -346,34 +374,18 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42144160",
-      "title": "High-fidelity simulation training in clinical nutrition and metabolism for critically ill patients: An educational evaluation study.",
-      "abstract": "Optimal nutritional and metabolic support is a cornerstone of intensive care management, yet translating evidence-based guidelines into bedside practice remains challenging due to metabolic instability, organ dysfunction, and patient heterogeneity. While high-fidelity simulation (HFS) is well established in critical care education, its structured application to clinical nutrition and metabolism is poorly documented. This study was primarily a qualitative descriptive investigation aimed to evaluate the educational impact and participant satisfaction of an advanced HFS course focused on nutritional and metabolic management in the intensive care unit (ICU). This prospective observational educational study was conducted during the NutriLab 2025 - Advanced Nutritional Simulations in ICU course. Twenty healthcare professionals participated in a two-day HFS program integrating interactive lectures with case-based simulation scenarios. Participants were allocated to small groups (maximum five learners). Seventeen participants (85%) completed an anonymous post-course questionnaire based on the Italian-validated Satisfaction with Simulation Experience (SSE-ITA) scale, assessing Kirkpatrick L",
-      "source": "Clinical nutrition ESPEN",
-      "authors": "Cotoia Antonella, Di Staso Lucia, Tamburrano Stefania, et al.",
+      "id": "pmid_42466900",
+      "title": "Voices from the neonatal unit: Mothers' and healthcare workers' perspectives on respectful and collaborative care for small and sick newborns in rural districts in KwaZulu-Natal, South Africa.",
+      "abstract": "Neonatal care increasingly emphasizes improving the experience of care by engaging mothers as active partners alongside health workers providing clinical care for newborns. Guided by the World Health Organization's Standards for improving the quality of care for small and sick newborns, this study focuses on Standard 4, which promotes care that is respectful, responsive, and supportive of families' needs and preferences. We conducted a concurrent triangulation mixed-methods study among health workers and mothers of small and sick newborns admitted to neonatal units in two rural districts of KwaZulu-Natal, South Africa. Effective communication emerged as a foundational factor shaping mothers' experiences of care. Many mothers reported frustration due to inadequate, unfriendly communication and exclusion from clinical decision-making, resulting in limited collaboration and lack of informed consent. Health workers, in turn, described barriers to providing respectful, family-centred care, citing overcrowding, staff shortages, fatigue, and lack of space for mothers to participate. Findings reveal persistent gaps in the implementation of Standard 4 within rural neonatal units. Strengthen",
+      "source": "Global public health",
+      "authors": "Mapumulo Sphindile, Kinney Mary, Haskins Lyn, et al.",
       "pub_types": [
         "Journal Article",
-        "Observational Study"
+        "Review"
       ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42144160/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42119490",
-      "title": "Validation of the intensive care infection score for infection discrimination in burn patients compared with other inflammatory biomarkers (ICARUS study).",
-      "abstract": "Distinguishing infection from non-infectious systemic inflammation remains a major challenge in critically ill burn patients. Conventional inflammatory biomarkers are frequently elevated following thermal injury, which may limit their diagnostic specificity. The Intensive Care Infection Score (ICIS) is a flow-cytometry-based composite biomarker that has not been systematically evaluated in burn patients. In this prospective single-center observational study, adult burn ICU patients were included between June 2021 and August 2022. Infection status was determined retrospectively for each blood sample using a composite clinical reference standard incorporating microbiological findings, imaging when available, and documented antimicrobial treatment decisions, reflecting routine burn ICU practice. To avoid bias from repeated sampling, the primary analysis was performed at the patient level using one representative blood sample per patient. ICIS was compared with C-reactive protein (CRP), procalcitonin (PCT), white blood cell count (WBC), lipopolysaccharide-binding protein (LBP), presepsin, and calprotectin. Discriminatory performance was assessed using receiver operating characteristic ",
-      "source": "Burns : journal of the International Society for Burn Injuries",
-      "authors": "Bakalář Bohumil, Zajíček Robert, Kubicová Barbora, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Observational Study",
-        "Validation Study"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42119490/",
-      "category": "Research Article",
+      "date": "2026 Dec 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
+      "category": "Review",
       "highlighted": false
     },
     {
@@ -699,22 +711,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_41527456",
-      "title": "Risk factors of venous thromboembolism in ICU patients: a systematic review and meta-analysis.",
-      "abstract": "This study aimed to identify risk factors associated with the development of VTE in patients admitted to the intensive care unit (ICU). A systematic literature search was conducted  A total of 2465 relevant studies were identified through the systematic search, of which 30 were included in the meta-analysis. The pooled data showed that the following were significant risk factors for venous thromboembolism (VTE) in ICU patients: central venous catheterization (OR = 2.67, 95% CI: 1.67-4.28;  Invasive mechanical ventilation, central venous catheterization, and elevated D-dimer levels are associated with VTE risk, supported by relatively high-quality evidence. These findings may help identify ICU patients at higher risk of VTE, inform the development of risk assessment models for patient stratification, and ultimately contribute to improved prognosis through optimal screening and management strategies.",
-      "source": "Annals of medicine",
-      "authors": "Yang Xiaoli, Zhou Xiaoli, Qiu Yuehong",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41527456/",
-      "category": "Systematic Review / Meta-Analysis",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42324603",
       "title": "Cross-kingdom microbiome interactions along the gut-lung axis: immune-microecological coordination, shared mechanisms, and disease-context dependence in respiratory disorders.",
       "abstract": "Cross-kingdom dysbiosis of the gut microbiome along the gut-lung axis has emerged as a key driver of chronic and acute respiratory diseases. Beyond bacteria, the intestinal mycobiome and virome, including bacteriophages, shape mucosal immunity and metabolism through partially overlapping but non-redundant pathways. In this Review, we synthesize rapidly expanding evidence that fungi, bacteria, and phages in the gut form an integrated network that may influence susceptibility, inflammatory tone, and therapeutic responsiveness across asthma, chronic obstructive pulmonary disease (COPD), acute respiratory distress syndrome (ARDS), and lung cancer via the gut-lung axis. We first summarize how cross-kingdom communities in the intestine are organized and interact, highlighting a tripartite framework centered on pathogen-associated molecular pattern-pattern recognition receptor (PAMP-PRR) circuits, the short-chain fatty acid (SCFA)-regulatory T-cell axis, and tryptophan-indole-aryl hydrocarbon receptor (AHR) signaling. We then compare how these shared axes are differentially perturbed across asthma, COPD, ARDS, and lung cancer, using these disorders as representative but non-sequential dis",
@@ -789,6 +785,37 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41814716/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41527456",
+      "title": "Risk factors of venous thromboembolism in ICU patients: a systematic review and meta-analysis.",
+      "abstract": "This study aimed to identify risk factors associated with the development of VTE in patients admitted to the intensive care unit (ICU). A systematic literature search was conducted  A total of 2465 relevant studies were identified through the systematic search, of which 30 were included in the meta-analysis. The pooled data showed that the following were significant risk factors for venous thromboembolism (VTE) in ICU patients: central venous catheterization (OR = 2.67, 95% CI: 1.67-4.28;  Invasive mechanical ventilation, central venous catheterization, and elevated D-dimer levels are associated with VTE risk, supported by relatively high-quality evidence. These findings may help identify ICU patients at higher risk of VTE, inform the development of risk assessment models for patient stratification, and ultimately contribute to improved prognosis through optimal screening and management strategies.",
+      "source": "Annals of medicine",
+      "authors": "Yang Xiaoli, Zhou Xiaoli, Qiu Yuehong",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41527456/",
+      "category": "Systematic Review / Meta-Analysis",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42323114",
+      "title": "Candidate genetic and multi-omics determinants potentially contributing to Macklin effect development in acute respiratory distress syndrome: A narrative review.",
+      "abstract": "Acute respiratory distress syndrome (ARDS) is a complex and heterogeneous clinical syndrome characterized by diffuse alveolar damage, severe hypoxemia, and a high risk of respiratory complications. Among these, the Macklin effect has emerged as an early radiological sign associated with the subsequent development of barotrauma. Although several genetic and molecular factors have been implicated in ARDS susceptibility and progression, their potential contribution to the biological processes underlying Macklin effect development remains largely unexplored. This review aims to examine current evidence on genetic susceptibility factors, molecular biomarkers, and multi-omics signatures involved in ARDS pathophysiology, with particular attention to mechanisms that may increase alveolar fragility and predispose to the development of the Macklin effect. A narrative review of the literature was conducted, focusing on studies investigating genetic polymorphisms, inflammatory pathways, transcriptomic profiles, proteomic biomarkers, and metabolomic alterations associated with ARDS severity, tissue injury, and pulmonary complications. Available evidence indicates that genetic variants involved ",
+      "source": "Gene",
+      "authors": "Radice Rosa Paola, Vignola Federica, Montagnuolo Xavier, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov 05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42323114/",
       "category": "Review",
       "highlighted": false
     },
@@ -885,6 +912,21 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42297665",
+      "title": "Impact of high versus low fraction of inspired oxygen for anaesthetic washout and extubation on postoperative pulmonary atelectasis formation and oxygenation: a randomised controlled trial.",
+      "abstract": "Clinicians often administer 100% inspired oxygen (fraction of inspired oxygen [Fio We conducted a single-centre, randomised controlled trial (NCT06538740) in 48 adult participants undergoing elective surgery under general anaesthesia. Participants were randomised to receive either pure oxygen (100%) or lower (70% or 40%) Fio Twenty-four participants (mean age 57 [range: 19-82] yr; 42% female) were randomly allocated to receive pure oxygen and 24 received 40% or 70% Fio Avoiding pure oxygen before extubation preserved end-expiratory lung volume with more dorsal distribution of ventilation. Postextubation oxygenation was optimal with 70% Fio",
+      "source": "British journal of anaesthesia",
+      "authors": "Paschold Béla-Simon, Braeuer Ben L P, Santer Peter, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "date": "2026 Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42297665/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42247841",
       "title": "Pregnancy and hantavirus infection: maternal, fetal, and neonatal outcomes - a systematic review.",
       "abstract": "Hantavirus infection is a rare zoonotic disease caused by rodent-borne RNA viruses and may present as hemorrhagic fever with renal syndrome or hantavirus cardiopulmonary syndrome. Evidence regarding its impact during pregnancy remains limited. This systematic review synthesized available data on maternal manifestations, maternal and fetal outcomes, and vertical transmission. A systematic literature search of PubMed/MEDLINE, Embase, Scopus, Web of Science, and Google Scholar was conducted from database inception through May 2026 in accordance with PRISMA 2020 guidelines. Studies reporting pregnant women with confirmed or suspected hantavirus infection and relevant maternal or fetal outcomes were included. Nineteen studies comprising 24 unique pregnancies were included. Fever (22/24, 91.7%), myalgia (20/24, 83.3%), thrombocytopenia (21/24, 87.5%), respiratory compromise (11/24, 45.8%), and renal dysfunction (10/24, 41.7%) were the most frequently reported maternal manifestations. Intensive care unit admission occurred in 10 cases (41.7%), mechanical ventilation in 7 (29.2%), and maternal mortality in 2 (8.3%). Live birth occurred in 18 pregnancies (75.0%), preterm delivery in 8 (33.3",
@@ -962,38 +1004,6 @@
       "date": "2026 Aug 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42226591/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42183778",
-      "title": "Effect of Intraoperative Regional Anesthesia on Postoperative Outcomes in Pediatric Cardiac Surgery-A Systematic Review of Randomized Controlled Trials.",
-      "abstract": "To conduct a meta-analysis of postoperative outcomes following the use of regional anesthesia in pediatric cardiac surgery. We searched PubMed (MEDLINE), Web of Science, CINAHL, CENTRAL, and Scopus in December 2024 (PROSPERO: CRD420025635423; registered January 2025). Two authors screened search results. We included parallel-grouped randomized controlled trials (RCT) regardless of blinding. Studies comparing adjuvant regional anesthesia (excluding neuraxial anesthesia) with general anesthesia in pediatric patients (0-17 years) having cardiac surgery via midline sternotomy were included. Two authors independently extracted the data and assessed risk of bias. The main outcome measures were pain relief using any documented pain score and duration of mechanical ventilation. Other outcome measures sought were postoperative opioid consumption, time to first rescue analgesia, time in pediatric intensive care unit (PICU), length of hospital stay, complications, and patient satisfaction. We identified 15 RCTs with 1055 participants for the analysis. Pain scores were lower during the first 24 h postoperatively, with Modified Objective Pain Scale (MOPS) mean difference (MD) being 0.76 less (M",
-      "source": "Paediatric anaesthesia",
-      "authors": "Hiisivuori Katariina, Salmi Heli, Kontinen Vesa K, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis",
-        "Review"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42183778/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42172925",
-      "title": "Endothelium Protective Effect of 5% Human Albumin-Based Fluid Therapy in Perforation Peritonitis Patients Undergoing Emergency Laparotomy: A Randomized Controlled Trial.",
-      "abstract": "Preclinical and retrospective data indicated that albumin therapy may be associated with endothelial protection and lower net fluid balance in sepsis. However, endothelial protective effect of albumin has never been evaluated in a clinical trial. We therefore hypothesized that an infective, inflammatory condition like perforation peritonitis, which requires substantial fluid replacement, may benefit from albumin therapy. Adult patients undergoing emergent/urgent abdominal surgery for perforation peritonitis were randomized to either group A or group P receiving 5% human albumin or Plasma-Lyte fluid therapy, respectively. Serum endothelial glycocalyx degradation products (syndecan-1, heparan sulfate) and inflammatory biomarkers (TNF-a, interleukins [IL]-1b, IL-10, and IL-6) were measured at the baseline, 6 h, and 24 h postoperatively. In this study, n = 50 patients were randomized, and complete outcome data for n = 48 patients were available. Median (interquartile range) values of syndecan-1, heparan sulfate, TNF-a, IL-1b, IL-6, and IL- 10 were statistically similar at all time points. Repeated measured two-way ANOVA reported a significant interaction in heparan sulfate (F [2, 88] =",
-      "source": "The Journal of surgical research",
-      "authors": "Mehrotra Harshita, Bhattacharjee Sulagna, Datta Sudip Kumar, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42172925/",
-      "category": "Clinical Trial",
       "highlighted": false
     },
     {
@@ -1173,18 +1183,6 @@
       "date": "2026 May",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41544697/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2850666",
-      "title": "Postoperative Delirium May Predict Long-Term Cognitive Decline",
-      "abstract": "Delirium after surgery may be a strong predictor of long-term cognitive decline in older adults independent of illness or frailty, a recent study suggests.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Jul 14",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2850666",
-      "category": "Research Article",
       "highlighted": false
     }
   ]
