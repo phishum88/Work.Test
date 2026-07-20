@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T07:59:18.354423+00:00",
+  "generated": "2026-07-20T08:40:22.009510+00:00",
   "count": 79,
   "digest": null,
   "oe_query_count": 0,
@@ -17,6 +17,20 @@
       ],
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41864830/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42472697",
+      "title": "Critical care level admissions and transfers of preterm births in England.",
+      "abstract": "Preterm birth, defined as delivery at gestational age less than 37 weeks, is a major contributor to neonatal morbidity, placing a significant burden on healthcare resources. This analysis explores the prevalence and patterns of critical care admissions among preterm neonates in England. Hospital-level data were obtained from the Hospital Episode Statistics Data-NHS England 2022-2023 database. Data were analyzed for newborns in England for April 2022-March 2023, focusing on gestational age categories and the care level of facilities managing these infants. Among all 541,765 singleton births in England during the examined interval, 7.0% (37,815) were preterm. Of these preterm infants, 71.3% (26,965) had a recorded gestational age. Of those with recorded gestational ages, 0.6% (149) were born <28 weeks (extremely preterm), 10.5% (2,844) at 28-32 weeks (very preterm), and 88.9% (23,972) at 33-37 weeks (moderate and late preterm). While 58.4% (87) of extremely preterm neonates were delivered in a hospital with appropriate facilities, 32.2% (48) of extremely preterm neonates, and 4.3% (121) of very preterm neonates were born in hospitals without neonatal intensive care facilities. Persis",
+      "source": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "authors": "Anumba Dilly O C, Harrison Cath M, Di Renzo Gian Carlo",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472697/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -360,20 +374,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42175802",
-      "title": "Implementation of a Bedside Percutaneous Dilatational Tracheostomy Program in a Pulmonary and Critical Care Fellowship: Enhancing Patient Safety with a Checklist.",
-      "abstract": "BackgroundBedside percutaneous dilatational tracheostomy is a commonly performed procedure in the Intensive Care Unit with a steep learning curve. Checklists and standardized protocols have been established as essential tools for mitigating medical error and enhancing patient safety during critical care procedures.Research QuestionTo assess the feasibility and safety profile of a percutaneous tracheostomy protocol, performed by pulmonary and critical care fellows, which integrates a multi-component checklist, tracheal ultrasound and a unique dual-visualization technique for endotracheal tube management.Study Design and MethodsWe conducted a retrospective review of all patients (n = 49) who underwent bedside percutaneous tracheostomy using a standardized protocol between November 1, 2022, and October 31, 2024. Key components of the protocol included rigorous pre-procedure assessment with standard tracheal ultrasound stations, a mandatory checklist, and endotracheal tube retraction under dual video laryngoscopy and bronchoscopy. Outcomes analyzed included major bleeding, site infection, and airway complications.ResultsA total of 49 percutaneous tracheostomy procedures were successful",
-      "source": "Journal of intensive care medicine",
-      "authors": "Fernandes Mateus, Schwartz Jacob, Greenstein Zachary, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42175802/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42466900",
       "title": "Voices from the neonatal unit: Mothers' and healthcare workers' perspectives on respectful and collaborative care for small and sick newborns in rural districts in KwaZulu-Natal, South Africa.",
       "abstract": "Neonatal care increasingly emphasizes improving the experience of care by engaging mothers as active partners alongside health workers providing clinical care for newborns. Guided by the World Health Organization's Standards for improving the quality of care for small and sick newborns, this study focuses on Standard 4, which promotes care that is respectful, responsive, and supportive of families' needs and preferences. We conducted a concurrent triangulation mixed-methods study among health workers and mothers of small and sick newborns admitted to neonatal units in two rural districts of KwaZulu-Natal, South Africa. Effective communication emerged as a foundational factor shaping mothers' experiences of care. Many mothers reported frustration due to inadequate, unfriendly communication and exclusion from clinical decision-making, resulting in limited collaboration and lack of informed consent. Health workers, in turn, described barriers to providing respectful, family-centred care, citing overcrowding, staff shortages, fatigue, and lack of space for mothers to participate. Findings reveal persistent gaps in the implementation of Standard 4 within rural neonatal units. Strengthen",
@@ -386,6 +386,22 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42472695",
+      "title": "Feasibility and acceptability of a novel forehead-mounted wireless heart rate monitoring device in preterm infants: a prospective multicenter observational cohort study.",
+      "abstract": "Wireless monitoring technologies may offer practical advantages over conventional monitoring approaches in neonatal care. We aimed to evaluate the feasibility and acceptability of a wireless heart rate monitoring device in preterm infants across different neonatal clinical settings. Between January 2022 and August 2023, we prospectively evaluated the SurePulse VS wireless heart rate monitoring device (SurePulse Medical Ltd, Nottingham, UK) in 62 preterm infants at birth and during postnatal care in two UK tertiary neonatal intensive care units. Staff completed structured questionnaires assessing the device feasibility and acceptability in this preterm population. Downloaded device data were analyzed as exploratory operational metrics and compared with contemporaneously collected staff assessments of signal availability and heart rate acquisition time. Staff reported device cap fitting as \"Easy\" or \"Very Easy\" in 88% (45/51) of deployments. Heart rate visibility was reported as available for \"All\" or \"Most\" of the monitoring period in 82% (42/51) of cases, and heart rate acquisition within 60 s was reported in 69% (35/51) of cases. Downloaded data were available for 51 infants and p",
+      "source": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "authors": "Ponnusamy Vennila, Holland Nicky, Myhill Jasmine, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Observational Study",
+        "Multicenter Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472695/",
+      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -693,20 +709,6 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41704188/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41663237",
-      "title": "RAMA: implementing Machine Learning to develop mortality risk prediction models for NICU patients with Acute Kidney Injury.",
-      "abstract": "Acute Kidney Injury (AKI) is common in neonates admitted to the Neonatal Intensive Care Unit (NICU). Neonatal AKI is associated with multiple comorbid conditions of greater clinical severity, which also increase the neonate's risk of mortality. Understanding the risk of mortality, in addition to the severity of AKI, may be useful in determining alternative treatment options for neonates with AKI. Two independent datasets containing neonatal patient data from eleven healthcare centers were filtered, cleaned, and combined to produce a dataset fit for training and testing with seven Machine Learning algorithms. After initial modeling with 34 training features, feature elimination was utilized to isolate the most contributing features and create streamlined models. The models were fine-tuned using Bayesian search before being compared to select the most accurate and interpretable architecture. A patient cohort of 245 patients included 189 alive and 56 deceased neonates with incidence of AKI. Of the 245 patients included in this study, 73.5% were male and 26.5% were female, alongside a median age at entry of 12 h and interquartile range of 35 h. Three tree-based models, Random Forest, X",
-      "source": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
-      "authors": "Vyas Arnav, Pandya Aadi, Dawson Maximilian, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41663237/",
       "category": "Research Article",
       "highlighted": false
     },
