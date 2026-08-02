@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T08:07:15.516317+00:00",
-  "count": 64,
+  "generated": "2026-08-02T08:05:12.053287+00:00",
+  "count": 82,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -80,6 +80,35 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42535369",
+      "title": "Integrating gut‑brain axis insights into bundled nutrition care for critically ill patients: From mechanisms to implementation (Review).",
+      "abstract": "Critical illness induces a marked disruption of the gut‑brain axis, which is characterized by systemic inflammation and the rapid collapse of intestinal barrier integrity. These pathological shifts facilitate the translocation of pathogen‑associated molecular patterns, thereby driving neuroinflammation and exacerbating intensive care unit‑acquired syndromes such as delirium and muscular wasting. Although conventional nutritional strategies emphasize caloric and protein goals, emerging evidence has highlighted the necessity of modulating the host‑microbiome interface to preserve neurological and systemic homeostasis. The integration of fermentable fibers, probiotics and specialized lipid mediators into a standardized framework may effectively interrupt the self‑perpetuating cycle of dysbiosis and organ failure. The present review uniquely contributes to the field by integrating an implementation science framework for clinical bundle application and discussing artificial intelligence driven precision nutrition advances, which are topics that have not been comprehensively covered in the majority of previous reviews. Therefore, the present review bridges mechanistic insights with pract",
+      "source": "Molecular medicine reports",
+      "authors": "Zhang Liqi, Yang Shuxia, Wu Huiyan, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535369/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42418991",
+      "title": "Structured feedback from patients as an educational tool for breaking bad news in intensive care: a qualitative study.",
+      "abstract": "Breaking bad news (BBN) is a critical yet challenging clinical skill in intensive care. Educational interventions incorporating patients' perceptions to improve BBN remain scarce in this setting. We aimed to explore intensive care physicians' perceptions of structured patient feedback to improve BBN skills. A quasi-experimental study was conducted with 19 intensive care physicians. Participants received structured patient feedback on their BBN performance after completing a self-reflection activity, were invited to watch an educational video on applying the SPIKES protocol in their practice and planned their next steps for improvement. Semi-structured interviews were conducted after the intervention, and data were analyzed using content analysis. Physicians' perceptions were grouped into four main themes: (1) concepts and roles in BBN, (2) facilitators and barriers, (3) assessment of the intervention, and (4) intervention impacts. Structured feedback fostered reflective practice and helped address communication gaps, including assessing patients' understanding, explaining treatment steps, and adopting an empathetic approach. While positive reinforcement was valued, barriers such as",
+      "source": "Patient education and counseling",
+      "authors": "Sena Costa Dáglia, Aguiar Marilia Avila de Freitas, Martins Patricia, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418991/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42385527",
       "title": "Greening critical care by harnessing the planetary impact of medications: What fellows need to know.",
       "abstract": "Care of critically ill patients involves large amounts of medication, perhaps more than any other aspect of the healthcare system. This has substantial environmental impacts. This manuscript describes how the environmental impacts of medications arise along their lifecycle, how to assess those impacts, and opportunities to reduce medication environmental impact across the critical care and caring continuum. Critical care practitioners and trainees have a long career ahead of them, and should be aware of, reflect, and act to address the planetary impact of medications.",
@@ -149,6 +178,20 @@
       ],
       "date": "2026 Oct",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42269322/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42533877",
+      "title": "Development and Implementation of a Protocol for In-Room Surgical Procedures in Paediatric Intensive Care.",
+      "abstract": "The Paediatric Intensive Care Unit (PICU) of a Swiss university hospital routinely performs surgical interventions directly in patient rooms due to certain patients' inability to be transferred to the operating room. Given the variability in practice, organizational delays and increased stress among healthcare professionals stemming from oral transmission of procedural knowledge, an institutional protocol was developed. This protocol aims to enhance care safety, improve interdisciplinary coordination and systematically anticipate material human, and environmental needs. Developed through structured methodology including semi-structured interviews with key stakeholders, it specifically addresses complex procedures such as Extracorporeal Membrane Oxygenation (ECMO) management, thoracic surgeries and postoperative cardiac revisions within intensive care settings. Its implementation is expected to significantly reduce perioperative complications, optimize ergonomics and logistics and improve overall care quality.",
+      "source": "Nursing in critical care",
+      "authors": "Revel Lucile, Baptista Peixoto Befecadu Filipa",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42533877/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -271,6 +314,49 @@
       "highlighted": false
     },
     {
+      "id": "pmid_41934735",
+      "title": "Reconsidering exercise in critical care: Mechanisms, thresholds, and therapeutic intent.",
+      "abstract": "Rehabilitation of patients with and recovering from Critical Illness has been in the spotlight of Critical Care Research for over 2 decades. Yet little progress has been made in defining interventions that address the physical sequalae of critical illness. There is a lack of knowledge describing which patients will benefit from rehabilitation, when to start, what to do or how to quantify the intervention. The lack of an underlying theoretical framework for why rehabilitation with exercise as part of that rehabilitation, should have an impact on patient outcomes, further hinders delineating interventions. If indeed exercise underpins improvements in Physical Function, what constitutes exercise in a patient with or recovering from critical illness?",
+      "source": "Physiotherapy",
+      "authors": "Black Claire, Ntoumenopoulos George",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41934735/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42538736",
+      "title": "When End-of-Life Becomes the Beginning of New Life: Application of the Society of Critical Care Medicine Clinical Practice Guidelines on Adult End-of-Life Care in the ICU to the Setting of Donation After Circulatory Death.",
+      "abstract": "The recently published Society of Critical Care Medicine Guidelines on Adult End-of-Life Care in the ICU provide a detailed and well-thought-out approach to a vital component of critical care, although they explicitly refrain from discussing how they may apply to organ donation. As representatives of the Donor Care Unit Network for Optimizing Recovery (DONOR), a group of intensivists experienced in managing donation after circulatory death (DCD), we wish to endorse equal delivery of high-quality end-of-life (EOL) care for organ donors. Although some logistical differences must be addressed, the EOL recommendations outlined in the Guidelines are still applicable to patients being evaluated for or undergoing DCD. Recent accounts of unacceptable patient care in the setting of DCD highlight a critical threat to patient welfare and public trust. Our mandate is clear: implement and audit protocols that guarantee dignity and symptom control while demonstrating that DCD remains wholly consistent with a compassionate, honorable, and fulfilling EOL.",
+      "source": "Critical care explorations",
+      "authors": "Oppenheim Ian M, Bakhru Rita N, Maciel Carolina B, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Aug 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538736/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42538031",
+      "title": "Point-of-Care Ultrasonography by Advanced Practice Providers for Patients With Undifferentiated Shock.",
+      "abstract": "In this evidence-based practice project, point-of-care ultrasonography by advanced practice providers was implemented in a central Florida intensive care unit. The project was guided by the following question: Does implementation of point-of-care ultrasonography by critical care advanced practice providers over 3 months decrease time to intravenous fluid, vasopressor, or inotrope administration or modify the treatment plan for patients with undifferentiated shock, as compared with current practice without point-of-care ultrasonography? A strong body of evidence supports using advanced practice provider-performed point-of-care ultrasonography to enhance care for critically ill patients. Baseline data on treatment of patients with undifferentiated shock, including intravenous fluid volume and time to intervention, were collected over 60 days. Advanced practice providers then completed in-person point-of-care ultrasonography training focused on clinical application and integration into decision-making. A second 60-day data collection period tracked evaluation and treatment by advanced practice providers. Time to intervention did not significantly differ between preintervention and pos",
+      "source": "Critical care nurse",
+      "authors": "Fatolitis Nicholas, McGuire Anthony W",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Aug 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538031/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42522393",
       "title": "Consensus document on the management of patients with accidental hypothermia from the Spanish Society of Anesthesiology, Resuscitation and Pain Management (SEDAR), the Spanish Society of Intensive Care Medicine, Critical Care and Coronary Units (SEMICYUC), and the Spanish Society of Emergency Medicine (SEMES).",
       "abstract": "Accidental hypothermia is an underdiagnosed condition with a significant impact on public health. With the aim of providing the basis for a comprehensive care framework, 12 panelists from 3 Spanish scientific societies (SEDAR, SEMES and SEMICYUC) developed this multidisciplinary consensus document. Through a systematic search and the final synthesis of 281 articles including 1,704,632 patients, 37 recommendations were developed through a 2-round Delphi process, distributed across 8 application domains based on the organization of a rescue chain: prehospital prevention, initial evaluation, management and transport, hospital detection, care of the polytraumatized patient, hospital rewarming, cardiac arrest, and resuscitation. Robust consensus among panelists (>75% agreement) and excellent internal consistency (ω = 0.913) were achieved, providing a solid document that may serve as a basis for the implementation of standardized protocols. La hipotermia accidental es una condición infradiagnosticada con un impacto significativo en la salud pública. Con el objetivo de proporcionar las bases para un marco de atención integral, 12 panelistas de 3 sociedades científicas españolas (SEDAR, SE",
@@ -287,93 +373,342 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42522112",
-      "title": "Morphological changes in the arterial pressure waveform following hemodynamic therapies in critical care: A clinical proof-of-concept study in older adults.",
-      "abstract": "Clinical management of hemodynamic instability remains challenging as underlying mechanisms are complex. A recent in-silico study showed that peripheral arterial waveform analysis can differentiate deficits in preload, afterload, and contractility. This study explores the clinical applicability of these findings. In this prospective observational study, continuous peripheral arterial blood pressure recordings were obtained from patients during and after cardiac surgery. Retrospectively, we identified isolated therapeutic events with expected physiological effects on preload (fluid bolus), afterload (norepinephrine), or contractility (dobutamine). Waveform morphology was characterized by 23 features. 132 patients were included; 92 fluid boluses, 91 norepinephrine, and 35 dobutamine administrations. Four waveform features differed significantly between the three types of events: augmented pressure (systolic peak minus anacrotic notch, p = 0.001), diastolic/systolic area ratio (p < 0.001), relative systolic downstroke time (p = 0.002), and relative diastolic time (p = 0.004). Fluid boluses increased the systolic component, norepinephrine increased the diastolic component, and dobutami",
-      "source": "Physiological reports",
-      "authors": "de Raat F M, Mulder M P, Dekker A J R De Bie, et al.",
+      "id": "pmid_42466900",
+      "title": "Voices from the neonatal unit: Mothers' and healthcare workers' perspectives on respectful and collaborative care for small and sick newborns in rural districts in KwaZulu-Natal, South Africa.",
+      "abstract": "Neonatal care increasingly emphasizes improving the experience of care by engaging mothers as active partners alongside health workers providing clinical care for newborns. Guided by the World Health Organization's Standards for improving the quality of care for small and sick newborns, this study focuses on Standard 4, which promotes care that is respectful, responsive, and supportive of families' needs and preferences. We conducted a concurrent triangulation mixed-methods study among health workers and mothers of small and sick newborns admitted to neonatal units in two rural districts of KwaZulu-Natal, South Africa. Effective communication emerged as a foundational factor shaping mothers' experiences of care. Many mothers reported frustration due to inadequate, unfriendly communication and exclusion from clinical decision-making, resulting in limited collaboration and lack of informed consent. Health workers, in turn, described barriers to providing respectful, family-centred care, citing overcrowding, staff shortages, fatigue, and lack of space for mothers to participate. Findings reveal persistent gaps in the implementation of Standard 4 within rural neonatal units. Strengthen",
+      "source": "Global public health",
+      "authors": "Mapumulo Sphindile, Kinney Mary, Haskins Lyn, et al.",
       "pub_types": [
         "Journal Article",
-        "Observational Study"
+        "Review"
       ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42522112/",
+      "date": "2026 Dec 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42517253",
+      "title": "Emerging infection and nosocomial transmission of carbapenem-resistant",
+      "abstract": "Carbapenem-resistant",
+      "source": "Virulence",
+      "authors": "Hu Song, Tan Hua, Ding Rong, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517253/",
       "category": "Research Article",
       "highlighted": false
     },
     {
-      "id": "pmid_42494313",
-      "title": "Nutritional Risk Screening Recommendations for Critically Ill Patients: A Meta-Research Study and Quality Appraisal of Clinical Guidelines.",
-      "abstract": "Clinical practice guidelines (CPGs) are essential tools to support evidence-based nutritional care in critically ill patients; however, the methodological quality and credibility of recommendations for nutritional risk screening remain unclear. This study aimed to evaluate the methodological quality of CPGs addressing nutritional risk screening in critically ill adults and to critically appraise the evidence supporting these recommendations. A systematic search was conducted between January and April 2026 in Embase, PubMed, SciELO, Scopus, LILACS, Google Scholar, and guideline repositories. CPGs, consensus statements, and position papers, including nutritional risk screening recommendations for critically ill adults were eligible. Guideline quality was assessed using the AGREE II and AGREE-REX instruments. Original studies and systematic reviews supporting nutritional risk screening recommendations were critically appraised using ROBINS-E and AMSTAR 2, respectively. Four CPGs were included. AGREE II assessment demonstrated satisfactory methodological quality overall, particularly in Scope and Purpose (84.4%) and Clarity of Presentation (92.0%), whereas Applicability showed the lowe",
-      "source": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
-      "authors": "Reis Audrey Machado Dos, Pinheiro Millena Dorneles, Hauschild Daniela Barbieri, et al.",
+      "id": "pmid_42480006",
+      "title": "Effects of a brief primary care intervention for post-traumatic stress disorder symptoms after critical illness on health-related quality of life - A secondary analysis of the PICTURE randomised controlled trial.",
+      "abstract": "Intensive care unit (ICU) survivors frequently experience symptoms of post-traumatic stress disorder (PTSD) and reduced health-related quality of life (HRQoL), yet evidence for effective post-ICU interventions in primary care remains limited. This secondary analysis of the PICTURE randomised controlled trial provides an in-depth evaluation of HRQoL trajectories and potential treatment mechanisms. The analysis included 319 adult ICU survivors with at least moderate PTSD symptoms, randomised to a brief general practitioner (GP)-delivered narrative exposure intervention or enhanced usual care. Longitudinal mixed-effects models estimated treatment-by-time effects on HRQoL, based on EuroQol Five-Dimension Five-Level (EQ-5D-5L) index and visual analog scale (VAS), with mediation  The mean baseline EQ index was 0.71 ± 0.27 and EQ VAS was 60.7 ± 19.4. Mixed-effects models showed a transient improvement in EQ VAS at 6 months in the intervention group (ß = 5.85; 95% CI 0.84-10.87), followed by a delayed improvement in the EQ index at 12 months (ß = 0.075; 95% CI 0.014-0.136). About one quarter of the 12-month EQ index effect was mediated by PTSD symptom reduction at 6 months. Domain-level an",
+      "source": "The European journal of general practice",
+      "authors": "Kosilek Robert Philipp, Schröder Nora, Sanftenberg Linda, et al.",
       "pub_types": [
         "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Randomized Controlled Trial"
       ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42494313/",
-      "category": "Guideline / Consensus",
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42480006/",
+      "category": "Clinical Trial",
       "highlighted": false
     },
     {
-      "id": "pmid_42433012",
-      "title": "A Data-Driven Medication Regimen Complexity Score for Critically Ill Patients: MRC-ICU 2.0.",
-      "abstract": "The 2019 medication regimen complexity-intensive care unit (MRC-ICU) score is associated with patient outcomes, ICU complications, and critical care pharmacist workload. This score was developed using heuristic component selection and validated in a single-center cohort of 130 ICU patients. We sought to apply data-driven reweighting methodology in a large, multicenter cohort of ICU adults to improve the predictive capabilities of MRC-ICU. This was a retrospective, observational cohort study of adults admitted to an ICU between 2015 and 2023 at two academic health systems. Machine learning-based methods, including Principal Component Analysis and Random Forest, were used to create an updated MRC-ICU score optimized to predict three outcomes: hospital mortality, ICU fluid overload (FO) occurrence, and invasive mechanical ventilation (IMV) use. MRC-ICU 2.1 used average mortality, FO, and IMV use; MRC-ICU 2.2 used average mortality and FO and adjusted for prolonged IMV use. Data from one center were used for training and testing, and data from the other for validation. The predictive abilities of MRC-ICU 2.1 and 2.2 for each outcome were compared to MRC-ICU 1.0 and to severity of illne",
-      "source": "Pharmacotherapy",
-      "authors": "Zhao Bokai, Shen Ye, Henry Kelli, et al.",
+      "id": "pmid_42472695",
+      "title": "Feasibility and acceptability of a novel forehead-mounted wireless heart rate monitoring device in preterm infants: a prospective multicenter observational cohort study.",
+      "abstract": "Wireless monitoring technologies may offer practical advantages over conventional monitoring approaches in neonatal care. We aimed to evaluate the feasibility and acceptability of a wireless heart rate monitoring device in preterm infants across different neonatal clinical settings. Between January 2022 and August 2023, we prospectively evaluated the SurePulse VS wireless heart rate monitoring device (SurePulse Medical Ltd, Nottingham, UK) in 62 preterm infants at birth and during postnatal care in two UK tertiary neonatal intensive care units. Staff completed structured questionnaires assessing the device feasibility and acceptability in this preterm population. Downloaded device data were analyzed as exploratory operational metrics and compared with contemporaneously collected staff assessments of signal availability and heart rate acquisition time. Staff reported device cap fitting as \"Easy\" or \"Very Easy\" in 88% (45/51) of deployments. Heart rate visibility was reported as available for \"All\" or \"Most\" of the monitoring period in 82% (42/51) of cases, and heart rate acquisition within 60 s was reported in 69% (35/51) of cases. Downloaded data were available for 51 infants and p",
+      "source": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "authors": "Ponnusamy Vennila, Holland Nicky, Myhill Jasmine, et al.",
       "pub_types": [
         "Journal Article",
         "Observational Study",
         "Multicenter Study"
       ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42433012/",
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472695/",
       "category": "Research Article",
       "highlighted": false
     },
     {
-      "id": "pmid_42415569",
-      "title": "Turnover Intentions Among Intensive Care Healthcare Workers: Key Factors Influencing Decisions to Stay or Leave.",
-      "abstract": "Turnover among healthcare workers (HCWs) is highly prevalent in intensive care units (ICUs). Due to demanding workloads, stressful conditions, and increasing pressure to work more efficiently, this problem is likely to persist. Consequently, implementing proactive strategies to support HCWs retention is needed. This study aimed to examine associations between work environment factors and ICU HCWs' intentions to quit. Based on data from a prospective, open-cohort, multicenter study of hospital frontline workers conducted during the four main waves of the COVID‑19 pandemic in Norway, we analyzed self-reported data from HCWs who completed the final survey, which included two outcomes relevant to turnover: (1) frequent thoughts of quitting and (2) intention to look for a new job. A work-environment -factor tool assessing occupational risk and characteristics in emergencies (FORCE-index). Hierarchical linear regression was used to examine associations between work environment factors and the two turnover outcomes. Among 977 frontline HCWs (median age 45 years, 75% women, median 16 years of work experience), several work environment factors showed protective association with turnover int",
-      "source": "Acta anaesthesiologica Scandinavica",
-      "authors": "Maamoen Anniken, Bondjers Kristina, Langerud Anne K, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42415569/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42411417",
-      "title": "Critical Care Dietitians' Practices in the Nutritional Management of Critically Ill Patients Receiving Vasopressors and Artificial Nutrition Support.",
-      "abstract": "Nutritional management of critically ill patients receiving vasopressors is challenging. This survey aimed to describe UK critical care dietitians' practices and confidence regarding the route, timing and dose of artificial nutrition support in critically ill patients receiving vasopressors, and explore relationships of these with intensive care unit (ICU) and dietitian professional characteristics. A cross-sectional, anonymous survey was distributed electronically to UK registered dietitians working in ICU via the British Dietetic Association Critical Care Specialist Group and British Society of Parenteral and Enteral Nutrition mailing lists. The 32-item survey included questions regarding ICU and professional characteristics, dietetic practices (artificial nutrition route, timing, and dose), evidence sufficiency and confidence. Data were compared between ICU and professional characteristics and dietetic practice using Fisher's exact or Kruskal-Wallis tests, as appropriate, and with self-reported confidence using Spearman's rank correlation or Kruskal-Wallis. Of 89 responses, 72 met the eligibility criteria. All respondents completing dietetic practice questions (71/71, 100%) used",
-      "source": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
-      "authors": "Karpasiti Terpsichori, Jin Qinglin, Whelan Kevin, et al.",
+      "id": "pmid_42410341",
+      "title": "ICU-acquired acute kidney injury in critically ill adults: a retrospective cohort study of risk factors and KDIGO stage dynamics in a Brazilian ICU.",
+      "abstract": "Acute kidney injury (AKI) is a frequent complication in critically ill patients, and early recognition of risk factors may support preventive care. We conducted a retrospective cohort study in a single-center Brazilian ICU from 2015 to 2022 to identify factors associated with ICU-acquired AKI and to describe KDIGO trajectories. Adults with ICU stay ≥48 hours were included; patients with chronic kidney disease, AKI on admission, or no serum creatinine measurement were excluded. Analyses included a multivariable Fine-Gray model with ICU death as a competing event, a Bayesian network for conditional dependencies, and descriptive KDIGO dynamics. Among 2935 patients, 794 (27.1%) developed AKI. The final model retained age (sHR 1.05 per 10 years; 95%CI 1.01-1.10), chronic liver disease (1.95; 95%CI 1.11-3.43), immunosuppression (1.93; 95%CI 1.29-2.87), hypertension (1.26; 95%CI 1.06-1.50), underweight BMI (1.33; 95%CI 1.05-1.69), mechanical ventilation on admission (1.50; 95%CI 1.19-1.90), admission arterial lactate (1.06 per 1 mmol/L; 95%CI 1.03-1.10), and leukocyte count (1.02 per 10,000 cells/µL; 95%CI 1.00-1.03). Among AKI cases, the proportion classified as KDIGO stage 3 increased a",
+      "source": "Renal failure",
+      "authors": "Teles Rodrigo M, Menezes Rodrigo C, Ferreira Isabella B B, et al.",
       "pub_types": [
         "Journal Article"
       ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42411417/",
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42410341/",
       "category": "Research Article",
       "highlighted": false
     },
     {
-      "id": "pmid_42399677",
-      "title": "Impact of Higher Versus Lower Blood Pressure Targets on Pulmonary Vascular Hemodynamics During Intensive Care After Out-of-Hospital Cardiac Arrest.",
-      "abstract": "Hemodynamic management after out-of-hospital cardiac arrest (OHCA) is critical, yet the impact of vasopressor-driven mean arterial pressure (MAP) targets on pulmonary circulation and right ventricular (RV) function remains unclear. In this substudy of the randomized, double-blinded BOX trial, comatose OHCA survivors were allocated to low (63 mmHg) or high (77 mmHg) MAP targets. Pulmonary artery catheters (PAC) were used for serial hemodynamic assessment for 48 h after Intensive Care Unit admission. The primary endpoint was calculated pulmonary vascular resistance (PVR), secondary endpoints included pulmonary capillary wedge pressure (PCWP), pulmonary artery pulsatility index (PAPi), and RV cardiac power output (RV-CPO)-a measurement of RV pumping function. Among 730 included patients (median time randomization to PAC insertion 1.3 h), mPAP was consistently higher in the high-MAP group (mean difference 1.11-1.71 mmHg, 95% CI range 0.12-2.59). Calculated PVR was transiently lower in the high-MAP group during the first 24 h (mean difference -0.16 to -0.30, 95% CI range -0.31 to 0.11), before converging between groups. RV-CPO was lower in the low-MAP group throughout the observation pe",
-      "source": "Acta anaesthesiologica Scandinavica",
-      "authors": "Hendin Shira K, Beske Rasmus P, Kjaergaard Jesper, et al.",
+      "id": "pmid_42349900",
+      "title": "Development and validation of an explainable machine learning model for predicting acute kidney injury in critically ill patients with primary peritonitis: a multicenter cohort study.",
+      "abstract": "Primary peritonitis-associated acute kidney injury (PPA-AKI) represents a complex complication that substantially elevates mortality risk. Currently, no effective machine learning (ML) models exist for precise detection. This investigation aims to construct an interpretable ML model for forecasting PPA-AKI risk while determining modifiable risk factors. This investigation used two cohorts: a derivation cohort (",
+      "source": "Renal failure",
+      "authors": "Hu Jianlan, Shu Baolian, Zhang Danxia, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Validation Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42349900/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42317003",
+      "title": "Assessing nutritional risk and its association with mortality in ICU patients using the modified NUTRIC score: evidence from a tertiary care hospital.",
+      "abstract": "The objective of this study was to assess nutritional risk in ICU patients using the modified Nutritional Risk in Critically ill (mNUTRIC) score and to evaluate its association with in-hospital mortality. A cross-sectional study was conducted in a tertiary care hospital, including 584 ICU admitted patients. The mNUTRIC score was calculated, and the association between mNUTRIC-defined nutritional risk and mortality was evaluated using logistic regressions. Of the total 584 patients, the mean 57.6 ± 15.3 years and 67.5% ( The mNUTRIC score is a useful nutritional risk screening tool and demonstrates a strong prognostic association with mortality in critically ill ICU patients, supporting its applicability in a tertiary care hospital context in Pakistan.",
+      "source": "Annals of medicine",
+      "authors": "Ahmad Burhan, Akhtar Iqra, Taimur Muhammad, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42317003/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42312375",
+      "title": "Elevated atherogenic index of plasma is associated with severe acute kidney injury in critically ill patients with cardiovascular disease - a MIMIC-IV analysis with external validation in the eICU-CRD database.",
+      "abstract": "The atherogenic index of plasma (AIP) is a lipid-based marker of cardiovascular risk, yet its prognostic value for severe acute kidney injury (AKI) in critically ill patients with cardiovascular disease (CVD) remains uncertain. This retrospective study analyzed 5,872 patients from the Medical Information Mart for Intensive Care IV (MIMIC-IV) database, with external validation in the eICU Collaborative Research Database (eICU-CRD). The primary outcome was stage 3 AKI, and secondary outcomes included renal replacement therapy (RRT) and length of stay. Stage 3 AKI was observed in 20.7% of patients, with the incidence increasing across AIP quartiles (Q1-Q4: 15.9-26.8%), and 5.3% of patients requiring RRT (Q1-Q4: 2.6-10.9%). High AIP was associated with stage 3 AKI (adjusted OR = 1.35; 95% CI: 1.11-1.64), RRT (OR = 1.95; 95% CI: 1.33-2.87), longer hospital LOS (β = 3.58;",
+      "source": "Renal failure",
+      "authors": "Liu Peng, Shen Qiwei, Liu Yang, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Validation Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42312375/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42309977",
+      "title": "Risk stratification for in-hospital mortality in sepsis-associated acute kidney injury patients receiving continuous renal replacement therapy: an interpretable, externally validated machine learning study.",
+      "abstract": "Patients with sepsis-associated acute kidney injury (SA-AKI) requiring continuous renal replacement therapy (CRRT) have a high risk of in-hospital mortality, and early risk stratification may support timely clinical decision-making and efficient resource allocation. In this retrospective study, we developed and validated a prognostic model for SA-AKI patients receiving CRRT using data from the Medical Information Mart for Intensive Care IV (MIMIC-IV version 3.1 United States, 2008-2022) and the eICU Collaborative Research Database (eICU-CRD United States, 2014-2015), with external validation in an independent cohort from the intensive care unit of the Second Affiliated Hospital of Anhui Medical University (AYEFY-ICU China, 2021-2024). Candidate variables were selected using the least absolute shrinkage and selection operator (LASSO) and Boruta algorithms, and eight machine learning models were constructed and compared. Model interpretability was assessed using SHapley Additive exPlanations (SHAP). A total of 1,217 patients from the MIMIC-IV and eICU-CRD databases and 332 patients from the AYEFY-ICU cohort were included, and ten predictors were ultimately identified. Among the evalu",
+      "source": "Renal failure",
+      "authors": "Zheng Yao, Gao Jian, Hua Tianfeng, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Validation Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42309977/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42307588",
+      "title": "Vital sign-based Early Warning Scores in low- and middle-income countries: a systematic review of clinical effectiveness and implementation challenges.",
+      "abstract": "Early recognition of clinically deteriorating patients may improve patient outcomes. Early warning scores (EWS) are widely used in high-income settings, but their effectiveness in low- and middle-income countries (LMICs) remains uncertain. This systematic review evaluates whether the implementation of EWS improves patient outcomes in LMICs and explores factors that may influence their effectiveness. A systematic search was conducted in Pubmed, EMBASE, and the Cochrane Library from database inception to 12 December 2024. Studies comparing patient outcomes before and after EWS implementation in LMICs were included. Outcomes of interest were mortality, length of hospital stay, serious adverse events (SAEs), and intensive care unit (ICU) admissions. Five studies met the inclusion criteria. Overall, EWS implementation was not associated with a consistent reduction in mortality or SAEs. However, two studies reported a shorter length of hospital stays following implementation, and one study demonstrated a reduction in unplanned ICU admissions. The included studies were heterogeneous in design, setting, and patient populations and therefore overall certainty of evidence was low to moderate",
+      "source": "Global health action",
+      "authors": "Jansen Niels Jig, Veldhuis Lars Ingmar",
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42307588/",
+      "category": "Systematic Review / Meta-Analysis",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42298943",
+      "title": "Intensive Care Unit Admissions Following Enhanced Recovery After Surgery for Laparoscopic Repair of Perforated Peptic Ulcer.",
+      "abstract": "This study aimed to investigate the incidence, causes, and risk factors of intensive care unit (ICU) admission in patients undergoing laparoscopic repair of perforated peptic ulcer (PPU) with enhanced recovery after surgery (ERAS) implementation. A retrospective cohort study included 342 patients undergoing laparoscopic PPU repair with ERAS protocols. Univariable and multivariable logistic regression were used to identify independent risk factors for ICU admission. Of 279 included patients, 76 (27.2%) required ICU admission. The causes of admission were respiratory failure (44.7%), circulatory failure (23.7%), surgical complications (10.5%) and others (21.1%). Multivariable analysis revealed that age ≥ 65 years (odds ratio [OR] = 3.63,  In the context of ERAS protocol implementation, the incidence of ICU admission following laparoscopic repair of PPU was 27.2%, accompanied by a 30-day ICU mortality rate of 6.6%. Among the causes of ICU admission, respiratory failure emerged as the leading factor.",
+      "source": "Journal of investigative surgery : the official journal of the Academy of Surgical Research",
+      "authors": "Tan Kanglian, Xu Shaoqun, Xie Runsheng, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42298943/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42247214",
+      "title": "Outcomes of concomitant",
+      "abstract": "We retrospectively enrolled adult patients admitted to an intensive care unit (ICU) and diagnosed with PJP infection from January 2017 to December 2022. Data were retrieved from the Chang Gung Research Database, including clinical manifestations, comorbidities and mortality. A total of 132 adult patients without HIV infection received mechanical ventilation in the ICU, underwent bronchoalveolar lavage and diagnosed with PJP were enrolled, of whom 26 patients had concomitant CMV infection and 106 did not. The PJP and concomitant CMV infection group had a significantly lower PaO2/FiO2 ratio (73.5 vs. 95.6,  Concomitant CMV infection was about one-fifth in the non-HIV critically ill patients with PJP infection but does not independently increase mortality risk. Clinical management should prioritize early, sustained anti-pneumocystis therapy and lung-protective strategies for ARDS.",
+      "source": "Annals of medicine",
+      "authors": "Hung Wei-Syun, Hsieh Meng-Jer, Leu Shaw-Woei, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42247214/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42226389",
+      "title": "Development of a predictive score for hypothermia risk during continuous kidney replacement therapy in critically ill patients.",
+      "abstract": "",
+      "source": "Renal failure",
+      "authors": "Chummano Panisara, Thongkam Thongkran, Chansatchanali Naphat, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42226389/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42212738",
+      "title": "The Neutrophil Percentage to Albumin Ratio as an Independent Risk Factor for Severe Consciousness Disorders and In-Hospital Mortality Following Pulmonary Surgery.",
+      "abstract": "This study investigated the relationship between the neutrophil percentage to albumin ratio (NPAR) and risks of severe consciousness disorders and in-hospital mortality after pulmonary surgery. Patients undergoing pulmonary surgery and admitted to the intensive care unit were included in this retrospective study. Primary outcomes were severe consciousness disorders and in-hospital mortality. Cox proportional hazards models assessed associations between NPAR and these outcomes. Kaplan-Meier analysis demonstrated survival differences among patients with varying NPAR levels. Restricted cubic spline (RCS) analysis explored potential nonlinear associations between NPAR and outcomes. Subgroup analyses stratified by demographic characteristics, laboratory parameters, disease type, adjuvant therapy, and surgical type were performed to evaluate the consistency of results across different patient populations. Among 717 included patients, severe consciousness disorder incidence was 40% and in-hospital mortality was 29%. NPAR demonstrated significant positive associations with both severe consciousness disorders (OR [95% CI]: 1.018 [1.006-1.031];  NPAR is an independent predictor of severe con",
+      "source": "Journal of investigative surgery : the official journal of the Academy of Surgical Research",
+      "authors": "Mu Yunfei, Bai Haosong, Huang Xin, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42212738/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42204447",
+      "title": "Prediction of acute kidney injury after total aortic arch replacement with postoperative serum lactate: a retrospective cohort study.",
+      "abstract": "Acute kidney injury (AKI) following total aortic arch replacement (TAAR) is linked to high morbidity and mortality, and timely identification remains a clinical challenge. While high serum lactate levels are associated with renal impairment, more evidence is required to establish lactate as a reliable biomarker for AKI. Therefore, this study aimed to evaluate the predictive value of postoperative serum lactate at intensive care unit (ICU) admission for AKI in TAAR patients. A retrospective analysis was conducted on adult TAAR patients admitted to the ICU of Guangdong Provincial People's Hospital between January 2021 and December 2023. AKI was diagnosed according to Kidney Disease Improving Global Outcomes (KDIGO) criteria. The predictive value of lactate was assessed using multivariate logistic regression and area under the curve receiver operating characteristic (AUC-ROC) analysis, followed by the development and internal validation of a predictive model. Among the 356 enrolled patients, 232 (65%) developed AKI. Serum lactate levels were significantly higher in AKI patients [median (IQR): 3.90 (2.75-6.60) vs. 2.10 (1.40-3.60) mmol/L,",
+      "source": "Renal failure",
+      "authors": "Tang Xuanhe, Li Chenxi, Ren Jizhen, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42204447/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42144377",
+      "title": "Factors associated with partial direct breastfeeding at discharge of preterm infants in the Neonatal Intensive Care Unit: a cohort study.",
+      "abstract": "To investigate the associations between clinical practices for facilitating breastfeeding and partial direct breastfeeding (defined as at least three direct breastfeeds) at discharge in preterm infants in Hohhot, China. A prospective cohort study was conducted involving 373 preterm infants admitted to the NICU in Hohhot from June 2023 to December 2024. Univariate and multivariate logistic regression analyses were used to assess the factors associated with partial direct breastfeeding at discharge. The overall prevalence of partial direct breastfeeding at discharge among preterm infants was 56.8% (212/373). Multivariate analysis indicated that lower birth weight (OR = 3.12, 95% CI: 1.55-6.28) and lower maternal breastfeeding confidence (OR = 5.36, 95% CI: 2.39-12.05) were significantly associated with failure of partial direct breastfeeding at discharge. In contrast, normal breast development (OR = 0.19, 95% CI: 0.08-0.45) and a shorter time to achieve full oral feeding (OR = 0.86, 95% CI: 0.80-0.94) were identified as protective factors for partial direct breastfeeding at discharge (all  Preterm infants with lower birth weight and mothers with lower breastfeeding confidence may req",
+      "source": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "authors": "Xing Le, Yan Fei, Zhang Yuling, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42144377/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42143211",
+      "title": "Disparities in hospice enrollment timing and end-of-life care intensity across non-cancer diagnoses: a 10-year hospital-based cohort study.",
+      "abstract": "Non-cancer patients with advanced illnesses often experience delayed hospice referral and high-intensity care near the end of life, yet cross-diagnosis comparisons remain limited. This study examined diagnosis-specific patterns in hospice use and care intensity among non-cancer decedents. We conducted a 10-year retrospective cohort study of adults with hospice-eligible non-cancer diagnoses who died or were discharged in a moribund condition between 2010 and 2019 at a tertiary referral hospital in Taiwan. Primary outcomes were place of death and an aggressive-care score (0-5) based on five EOL indicators in the last 28 days: hospitalisation >14 days, ≥1 intensive care unit (ICU) admission, ≥1 emergency department (ED) visit, cardiopulmonary resuscitation (CPR), and intubation with mechanical ventilation. Multivariable logistic regression identified factors associated with high aggressive-care scores (≥4). Among 5,127 non-cancer decedents, 7% received hospice care, with rates varying across diagnostic groups. Most hospice enrolments (60.2%) occurred within 7 days before death. Hospice recipients had lower median aggressive-care scores (2 vs. 3,  Hospice care among hospitalised non-ca",
+      "source": "Annals of medicine",
+      "authors": "Wang Chun-Li, Lee Lung-Chun, Hsu Chiann-Yi, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42143211/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42083823",
+      "title": "Summary of best evidence on parental involvement in neonatal intensive care units: integrating family-centered and family-integrated care models.",
+      "abstract": "Family-Centered Care (FCC) and Family-Integrated Care (FICare) are widely adopted models in Neonatal Intensive Care Units (NICUs), designed to foster parental involvement and support both neonatal and family outcomes. This review synthesizes and critically appraises the best available evidence on FCC and FICare interventions to inform their implementation, adaptation, and scale-up across diverse health systems and cultural contexts. Guided by the 6S evidence model, a top-down search identified relevant guidelines, best practices, evidence summaries, expert consensus statements, systematic reviews, and meta-analyses published up to 20 May 2025. Two reviewers independently performed study selection, methodological appraisal, and data extraction, with evidence graded using the Joanna Briggs Institute system. A total of 25 publications were included: three clinical guidelines, three best practice documents, four expert consensus statements, and fifteen systematic reviews and meta-analyses. Synthesis revealed seven key domains: core components of FCC/FICare models, implementation strategies, clinical outcomes, safety considerations, cultural adaptability, ethical considerations, and dig",
+      "source": "Global health action",
+      "authors": "He Jiahui, Chen Ningqing, He Youyu, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42083823/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42070973",
+      "title": "The effect of maternal scent-infused blanket on the stress level, crying duration and physiological parameters of premature newborns.",
+      "abstract": "Olfactory cues from the mother may soothe distress in premature infants in the Neonatal Intensive Care Unit (NICU). This study evaluated the effect of a maternal scent-infused blanket on stress, crying duration, and physiological parameters in premature newborns. This double-blind randomized clinical trial included 69 premature infants who were randomly assigned to one of three groups: maternal scent-infused blanket, unscented blanket, or control (no blanket) group. Infants were covered with the assigned blanket for 60 min daily for 3 consecutive days. The maternal scent was obtained by placing a clean blanket in contact with the mother's bare chest overnight prior to each day's exposure, with fragrance-free cleansing products used and a new blanket for each session. Primary outcomes were stress level (Newborn Stress Scale, NSS), crying duration (chronometer), and Secondary outcomes were physiological parameters (heart rate, respiratory rate, oxygen saturation, and body temperature). Measurements were collected at 5 min before intervention, immediately after, and at 15, 30, 45, and 60 min during intervention, plus 5 min after intervention, each day for three consecutive days. Data ",
+      "source": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "authors": "Shafaati Laleh Shahla, Inal Sevil, Mirghafourvand Mojgan",
       "pub_types": [
         "Journal Article",
         "Randomized Controlled Trial"
       ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42399677/",
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42070973/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41937676",
+      "title": "A multimodal predictive model incorporating transcriptomic-guided blood biomarkers and clinical variables for sepsis-associated acute kidney injury.",
+      "abstract": "Sepsis-associated acute kidney injury (SA-AKI) is a major complication in the intensive care unit (ICU), and early risk stratification remains challenging. This study developed a multimodal predictive model integrating clinical variables with transcriptomic-guided blood biomarkers. Differentially expressed genes were identified from the Gene Expression Omnibus (GEO) database, and cluster of differentiation 177 (CD177) and interleukin-18 receptor 1 (IL18R1) were identified as immune-activation biomarkers associated with SA-AKI. In a retrospective cohort of 188 septic patients (89 SA-AKI), gene expression was quantified by quantitative polymerase chain reaction (qPCR) using blood samples collected within 24 h of ICU admission. Clinical predictors including the Sequential Organ Failure Assessment (SOFA) score, mean arterial pressure (MAP), blood urea nitrogen (BUN), C-reactive protein (CRP), and mechanical ventilation were incorporated using least absolute shrinkage and selection operator (LASSO) feature selection and logistic regression. Model performance was evaluated using the area under the receiver operating characteristic curve (AUC), calibration curves, and decision-curve analy",
+      "source": "Renal failure",
+      "authors": "Wu Weiqin, Han Xiang, Yan Zhuan, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41937676/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41916904",
+      "title": "Continuous renal replacement therapy attenuates endothelial injury biomarkers in pediatric sepsis: a prospective cohort study.",
+      "abstract": "Endothelial cell (EC) injury is a critical factor in sepsis-induced organ failure. Continuous renal replacement therapy (CRRT) is used to improve hemodynamically unstable sepsis. We conducted a single-center, prospective, observational cohort study to assess whether CRRT attenuates sepsis-associated with EC injury. Based on whether CRRT was implemented within 24 h after admission, patients were divided into non-CRRT and CRRT groups. Demographic data, clinical features, and laboratory indexes were collected, and blood samples were collected at admission, 24 h and 7 days after PICU admission. The levels of vascular endothelial growth factor [VEGF], serum intercellular adhesion molecule-1 [sICAM-1], serum vascular cell adhesion molecule-1 [sVCAM-1], vimentin [VIM]), tissue plasminogen activator-plasminogen activator inhibitor-1 complex [t-PAIC], and thrombomodulin [TM] were not different between the CRRT and non-CRRT groups at PICU admission. The mixed-effects models revealed a significant decreasing trend in EC injury biomarkers (sICAM-1, sVCAM-1, VEGF, and VIM). Nevertheless, there were no obvious changes in these indicators in the non-CRRT group. In the CRRT group, EC injury indica",
+      "source": "Renal failure",
+      "authors": "Miao Huijie, Wang Chunxia, Cui Yun, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41916904/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41873460",
+      "title": "Hyper-oncotic albumin administration reduces mortality in acute Respiratory Distress Syndrome compared to crystalloid: a systematic review and meta-analysis.",
+      "abstract": "To evaluate the association between albumin administration as volume replacement and mortality in adult ARDS patients, we performed this meta-analysis and trial sequential analysis (TSA). We searched databases including PubMed, Science Direct, Scopus, Web of Science databases and Cochrane Central Register of Controlled Trials up to 12 December 2024. We screened trials that included adult ARDS patients and compared albumin with crystalloid. The 28-day mortality served as the primary endpoint, while the oxygenation change, the length of ICU stay and the length of hospital stay were designated as secondary outcomes. To clarify the differing concentrations of albumin, we formed two distinct subgroups: the hyper-oncotic albumin subgroup (≥20%) and the iso-oncotic albumin subgroup (4%∼5%). Statistical synthesis was performed with Cochrane Review Manager 5.4.1, employing random-effects models. To mitigate random errors, TSA was implemented with α = 0.05 and β = 0.20 parameters. The analysis incorporated 5 publications: 3 randomized controlled trials (RCTs) and 2 non-randomized studies (NRSs). Overall mortality was lower in the albumin group (33.2%, 97/292) than in the crystalloid group (4",
+      "source": "Annals of medicine",
+      "authors": "Zhang Yan-Jie, Luo Zhu, Wang Zhen, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Comparative Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41873460/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41846301",
+      "title": "The effect of dexmedetomidine in mechanically ventilated patients with sepsis and septic shock: a meta-analysis of randomized controlled trials.",
+      "abstract": "Dexmedetomidine (DEX) is a central sympatholytic with sedative properties widely used in critically ill patients. However, its effects in patients with sepsis and septic shock remain controversial. This meta-analysis evaluated the efficacy and safety of DEX compared to other sedatives in mechanically ventilated patients with sepsis and septic shock. A systematic search was conducted across PubMed, Embase, Scopus, and Cochrane Library from inception through May 1, 2025 for randomized controlled trials comparing DEX with other sedatives or placebo in mechanically ventilated patients with sepsis and septic shock. Primary outcomes included overall mortality and Sequential Organ Failure Assessment (SOFA) scores. Secondary outcomes encompassed duration of mechanical ventilation (MV), length of stay in Intensive Care Unit (ICU), incidence of hypotension and bradycardia. Fifteen studies involving 3,882 patients (1,945 in the DEX group, 1,937 in the control group) were included. DEX was demonstrated no significant differences compared to other sedatives or placebo in overall mortality (Risk Ratio [RR] 0.98, 95% Confidence Interval [CI] 0.90 to 1.07,  In mechanically ventilated patients with",
+      "source": "Annals of medicine",
+      "authors": "Chen Lin, Wu Weibing, Chen Yunxiang, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41846301/",
       "category": "Clinical Trial",
       "highlighted": false
     },
@@ -700,6 +1035,36 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42532052",
+      "title": "Evaluating the prognostic value of admission IL-8 and sST2 as biomarkers of early myocardial injury in severe community-acquired pneumonia.",
+      "abstract": "Myocardial injury in severe community-acquired pneumonia (SCAP) is often under-recognized, and interpretation of high-sensitivity cardiac troponin I (hs-cTnI) may be complicated by renal dysfunction and critical illness. We evaluated whether admission interleukin-8 (IL-8) and soluble suppression of tumorigenicity 2 (sST2) could support early risk stratification of guideline-consistent myocardial injury in patients with SCAP. In this prospective cohort of 146 patients with SCAP, guideline-consistent myocardial injury was defined as hs-cTnI elevation above the assay-specific 99th percentile upper reference limit. Admission IL-8, sST2, and their combination were assessed using receiver operating characteristic curve analysis and 10-fold cross-validation. Fixed and estimated glomerular filtration rate (eGFR)-stratified hs-cTnI thresholds were compared in an exploratory analysis. An exploratory subgroup analysis was performed among patients with CURB-65 ≤ 1. The median age was 71 years; 91 patients (62.3%) were male and 55 (37.7%) were female. Myocardial injury occurred in 88 patients (60.3%). The IL-8 + sST2 model showed good discrimination for myocardial injury, with an AUC of 0.825 (",
+      "source": "Annals of medicine",
+      "authors": "Liu Shanshan, Liu Lu, Dong Jian",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42532052/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42494313",
+      "title": "Nutritional Risk Screening Recommendations for Critically Ill Patients: A Meta-Research Study and Quality Appraisal of Clinical Guidelines.",
+      "abstract": "Clinical practice guidelines (CPGs) are essential tools to support evidence-based nutritional care in critically ill patients; however, the methodological quality and credibility of recommendations for nutritional risk screening remain unclear. This study aimed to evaluate the methodological quality of CPGs addressing nutritional risk screening in critically ill adults and to critically appraise the evidence supporting these recommendations. A systematic search was conducted between January and April 2026 in Embase, PubMed, SciELO, Scopus, LILACS, Google Scholar, and guideline repositories. CPGs, consensus statements, and position papers, including nutritional risk screening recommendations for critically ill adults were eligible. Guideline quality was assessed using the AGREE II and AGREE-REX instruments. Original studies and systematic reviews supporting nutritional risk screening recommendations were critically appraised using ROBINS-E and AMSTAR 2, respectively. Four CPGs were included. AGREE II assessment demonstrated satisfactory methodological quality overall, particularly in Scope and Purpose (84.4%) and Clarity of Presentation (92.0%), whereas Applicability showed the lowe",
+      "source": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+      "authors": "Reis Audrey Machado Dos, Pinheiro Millena Dorneles, Hauschild Daniela Barbieri, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "date": "2026 Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494313/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42485467",
       "title": "Individualizing post-ICU nutrition: from guideline intent to bedside practice.",
       "abstract": "Survivorship of critical illness has increased, shifting attention toward recovery and long-term outcomes. Post-ICU nutrition is emerging as a clinically relevant, yet underperforming contributor to functional recovery and quality of life. Persistent nutritional inadequacy reflects insufficiently defined physiological requirements and limited implementable evidence-based guidance during ICU recovery. Energy and protein delivery sharply decline after ICU discharge, despite persistent metabolic demands. Underfeeding can result from the absence of recovery-specific targets, patient-level barriers (e.g. appetite loss, dysphagia, fatigue), and fragmented care transitions, including premature feeding-tube removal and suboptimal monitoring of oral intake. Structured patient and family engagement can help operationalize individualized nutritional strategies and improve feasibility without substantial resource burden, acting as continuity agents. Post-ICU nutritional failure reflects combined physiological and implementation challenges. Clinicians should recognize the post-ICU hospitalization period as a potential 'metabolic danger zone', requiring a shift from acute-phase restrictive feedi",
@@ -860,101 +1225,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42221091/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41860329",
-      "title": "The Frame of Survival for Sepsis: A Practical Systems Framework for Time-Sensitive Critical Illness in Low-Resource Settings.",
-      "abstract": "Sepsis is a time-sensitive cause of preventable death worldwide, with disproportionate mortality in low-resource settings (LRS). Many recommendations in international sepsis guidance presume resources unavailable in many facilities and communities. We sought to develop a practical framework that helps health systems embed feasible sepsis actions within broader emergency and essential critical care systems, while highlighting where evidence is limited and where local learning systems are needed. A targeted scoping review of peer-reviewed and grey literature on sepsis epidemiology, emergency care systems, essential emergency and critical care, implementation strategies, and quality improvement (QI) in LRS; and key guideline and policy documents relevant to sepsis and emergency care. We prioritized publications and guidance relevant to LRS, including observational studies, pragmatic implementation reports, consensus statements, and policies addressing emergency care organization, workforce, supply chains, diagnostics, and QI. Task force members abstracted actionable strategies, implementation barriers/enablers, and feasibility considerations across the care continuum (community, trans",
-      "source": "Critical care medicine",
-      "authors": "Hidalgo Jorge L, Akech Samuel O, Acharya Subhash P, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 May 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41860329/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41860327",
-      "title": "Executive Summary: Society of Critical Care Medicine Guidelines on Caring for Older Adults in the ICU.",
-      "abstract": "",
-      "source": "Critical care medicine",
-      "authors": "Ferrante Lauren E, Chaudhuri Dipayan, Laiya Carayannopoulos Kallirroi, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 May 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41860327/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41860322",
-      "title": "Society of Critical Care Medicine Guidelines on Caring for Older Adults in the ICU.",
-      "abstract": "Older adults (those 65 years old or greater) compose a substantial proportion of the ICU population. As older adults with critical illness possess unique factors and considerations relevant to their care and outcomes, there is a need for evidence-based recommendations to guide critical care clinicians in the care of older ICU patients. The objective of this guideline is to develop evidence-based recommendations addressing the care of older adults during and after critical illness. The American College of Critical Care Medicine Board convened a 22-member interprofessional panel, comprising physicians, advanced practice providers, nurses, a pharmacist, physical therapist, occupational therapist, and a patient representative. The panel included two expert methodologists specialized in developing evidence-based recommendations in alignment with the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methodology. Conflict-of-interest policies were strictly followed during all phases of guideline development including task force selection and voting. The panel members prioritized five Population, Intervention, Comparator, and Outcomes questions. A systematic revie",
-      "source": "Critical care medicine",
-      "authors": "Ferrante Lauren E, Chaudhuri Dipayan, Laiya Carayannopoulos Kallirroi, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Practice Guideline"
-      ],
-      "date": "2026 May 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41860322/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41544697",
-      "title": "Nutrition Support in Critically Ill Adults in Intensive Care Units: An Evidence Analysis Center Scoping Review of Current Systematic Reviews and Guidelines.",
-      "abstract": "Critically ill adults in intensive care unit settings are at high risk of malnutrition, which is linked to poor outcomes. Delivery of optimal nutrition support in this population is challenging due to patient complexity and inconsistent nutrition care recommendations. To provide a comprehensive overview of guidelines and systematic reviews relevant to clinicians managing enteral and parenteral nutrition in critically ill adults and determine whether or not an update to the Academy of Nutrition and Dietetics Nutrition Support Guideline is warranted. The Academy of Nutrition and Dietetics Evidence Analysis Center conducted a scoping review following methodologies adapted from Arksey and O'Malley, Levac and colleagues, and the Joanna Briggs Institute. A comprehensive search was performed on January 13, 2025, in MEDLINE, the Cumulative Index to Nursing and Allied Health Literature, the Cochrane Database of Systematic Reviews, the Guidelines International Network, and the Guideline Central databases. Included sources were English-language guidelines published in 2015 or after, or systematic reviews published after 2020, on nutrition support for adults (aged 18 years or older) in intensi",
-      "source": "Journal of the Academy of Nutrition and Dietetics",
-      "authors": "Rozga Mary, Piemonte Tami, Handu Deepa, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Scoping Review"
-      ],
-      "date": "2026 May",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41544697/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2850559",
-      "title": "Prone Positioning in Viral Bronchiolitis—Back to the Back?",
-      "abstract": "Acute viral bronchiolitis is the most common diagnosis in US children’s hospitals, and respiratory failure is the costliest diagnosis across all pediatric acute care. Despite the prevalence of this condition and its impact on children, families, and health systems, evidence-based treatments for acute bronchiolitis in hospitalized children are few and guidelines largely recommend against most interventions. In this issue of JAMA, Baudin and colleagues for the PROPOSITIS Investigators evaluated a promising but understudied option: prone positioning. In a well-designed randomized clinical trial (RCT) conducted from 2021 to 2023, the authors enrolled 451 infants younger than 6 months with viral bronchiolitis who were receiving high-flow nasal cannula (HFNC) support. The primary end point of the study was escalation of care to noninvasive or invasive positive pressure ventilation (notably, only 3 children in the cohort were intubated). The primary intention-to-treat analysis did not reach statistical significance—with an odds ratio for escalation with prone positioning of 0.66 (95% CI, 0.40-1.07)—which was surprising given that their pilot physiological study suggested that prone positi",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Jul 28",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2850559",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2850558",
-      "title": "Prone Positioning in Infants With Acute Bronchiolitis",
-      "abstract": "This randomized trial assesses the effect of prone positioning in infants with moderate to severe bronchiolitis receiving high-flow nasal cannula (HFNC) support on the need for escalation of care to noninvasive or invasive ventilation within 72 hours.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Jul 28",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2850558",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2850557",
-      "title": "Prone Positioning in Infants With Acute Bronchiolitis Research Summary",
-      "abstract": "This study aimed to determine if prone positioning for infants aged 6 months or younger with moderate to severe acute bronchiolitis receiving high-flow nasal cannula support (HFNC) reduces escalation of care to noninvasive or invasive ventilation.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Jul 28",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2850557",
-      "category": "Research Article",
       "highlighted": false
     }
   ]
