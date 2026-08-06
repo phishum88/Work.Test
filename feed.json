@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T09:21:43.875497+00:00",
-  "count": 82,
+  "generated": "2026-08-06T08:14:42.242167+00:00",
+  "count": 69,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -285,6 +285,36 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42397698",
+      "title": "2026 ESAIC Consensus Document on Mitigation Strategies in Intensive Care Medicine: Consensus document of the European Society of Anaesthesiology and Intensive Care.",
+      "abstract": "Due to the continued use of fossil fuels and other chemical pollutants, atmospheric greenhouse gas concentrations and environmental pollution continue to rise. The health sector is both a driver and a victim of these developments, and intensive care medicine (ICM), with its high energy demands, extensive use of disposable products, and large variety of pharmaceuticals, contributes substantially to the climate crisis and environmental degradation. The European Society of Anaesthesiology and Intensive Care (ESAIC) therefore aimed to develop consensus recommendations to reduce the environmental footprint of ICM across Europe. A total of 37 recommendations were initially drafted by four topic groups (1) energy, (2) waste management, (3) medication, and (4) ethics-each composed of three to five experts. To facilitate implementation in both middle- and high-income European countries, the agreement threshold was set at 80%. The recommendations were validated by 37 experts from 20 countries using a two-step Delphi procedure. In the first round, all recommendations reached at least 75% agreement. After amendments to four recommendations based on expert feedback, all achieved over 80% approv",
+      "source": "European journal of anaesthesiology",
+      "authors": "Koch Susanne, Bilotta Federico, Brazzi Luca, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "date": "2026 Sep 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42397698/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42338341",
+      "title": "European simulation-based education and training in anaesthesiology and intensive care: evidence, value and inevitable evolution.",
+      "abstract": "Anaesthesiologists, intensive care, and perioperative physicians work within multidisciplinary teams in high-risk environments where adverse events may threaten patient safety and are often avoidable. They face converging challenges, including multimorbidity and increasing clinical complexity, workforce shortages and burnout, technological evolution, and rising expectations for safety, equity, and sustainability. In this expert-driven evidence-based consensus review, we aim to demonstrate that simulation-based education and training (SBET) is uniquely positioned to address these challenges. We review how SBET adds value across the professional lifespan, from initial training to high-stakes examinations and continuing professional development. We further examine how SBET enhances team performance, identifies latent system threats, and supports organisational redesign through translational simulation. We examine how SBET can prepare for the future by fostering digital and ecological competencies. We explore key barriers to implementation, as despite SBET's value, its adoption across anaesthesiology, intensive care, and perioperative medicine remains fragmented, with limited interprof",
+      "source": "European journal of anaesthesiology",
+      "authors": "Burlacu Crina L, Brzezinski Sinai Yitzhak, Norte Gustavo, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Sep 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42338341/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42230249",
       "title": "Mapping the digital landscape: A systematic environmental scan and evaluation of online resources about recovery after intensive care.",
       "abstract": "Online resources may engage patients in their healthcare; several exist about recovery after intensive care (ICU). This study aims to identify and appraise online resources about recovery after ICU for survivors, caregivers, or clinicians. An environmental scan of online resources identified through Google™, Bing™ and Yahoo™. Online resources in website, webpage or downloadable format, written in English, were included. Appraisal was guided by the World Health Organization's principles of effective health communication and included common website and patient education metrics; Journal of American Medical Association (JAMA) criteria, Global Quality Score, Content Validity Index, DISCERN instrument, Suitability Assessment Measure, Patient Education Materials Assessment Tool and four readability measures. There were 127 online resources identified; 44% (n = 56) downloadable documents, 40% (n = 50) singular webpages, 9% (n = 12) multiple webpages, and 7% (n = 9) websites dedicated to recovery after ICU. Majority of online resources were for ICU survivors and/or caregivers (n = 123). Overall, credibility was fair (median JAMA criteria 2[1-3]/4), with online resources commonly lacking re",
@@ -328,47 +358,17 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42538736",
-      "title": "When End-of-Life Becomes the Beginning of New Life: Application of the Society of Critical Care Medicine Clinical Practice Guidelines on Adult End-of-Life Care in the ICU to the Setting of Donation After Circulatory Death.",
-      "abstract": "The recently published Society of Critical Care Medicine Guidelines on Adult End-of-Life Care in the ICU provide a detailed and well-thought-out approach to a vital component of critical care, although they explicitly refrain from discussing how they may apply to organ donation. As representatives of the Donor Care Unit Network for Optimizing Recovery (DONOR), a group of intensivists experienced in managing donation after circulatory death (DCD), we wish to endorse equal delivery of high-quality end-of-life (EOL) care for organ donors. Although some logistical differences must be addressed, the EOL recommendations outlined in the Guidelines are still applicable to patients being evaluated for or undergoing DCD. Recent accounts of unacceptable patient care in the setting of DCD highlight a critical threat to patient welfare and public trust. Our mandate is clear: implement and audit protocols that guarantee dignity and symptom control while demonstrating that DCD remains wholly consistent with a compassionate, honorable, and fulfilling EOL.",
-      "source": "Critical care explorations",
-      "authors": "Oppenheim Ian M, Bakhru Rita N, Maciel Carolina B, et al.",
+      "id": "pmid_42555589",
+      "title": "Embedding the hand-hygiene champion role to improve compliance in intensive care.",
+      "abstract": "Studies have shown that hand-hygiene compliance rates remain low, especially in high-risk patient areas such as the intensive care unit (ICU). Strategies that use active surveillance, peer-to-peer coaching and collective action can potentially improve hand-hygiene compliance rates. To implement the hand-hygiene champion (HHC) role to increase hand-hygiene compliance rates in the ICU. The hand-hygiene champion role was implemented as a quality improvement project in the critical care directorate of two tertiary hospital sites in the UK. The project followed the Plan-Do-Study-Act cycle. The project was carried out from February 2025 to February 2026. Hand-hygiene compliance rates were significantly higher in the intervention group with HHCs, compared with the control group. In addition, hand-hygiene compliance rates significantly increased over time, post implementation of HHCs. Introducing HHCs can potentially improve hand-hygiene compliance in ICUs.",
+      "source": "British journal of nursing (Mark Allen Publishing)",
+      "authors": "Batalla Mary Grace Anne, Sali Yumna Mohammad, Cortuna Alvin",
       "pub_types": [
         "Journal Article"
       ],
-      "date": "2026 Aug 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538736/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42538031",
-      "title": "Point-of-Care Ultrasonography by Advanced Practice Providers for Patients With Undifferentiated Shock.",
-      "abstract": "In this evidence-based practice project, point-of-care ultrasonography by advanced practice providers was implemented in a central Florida intensive care unit. The project was guided by the following question: Does implementation of point-of-care ultrasonography by critical care advanced practice providers over 3 months decrease time to intravenous fluid, vasopressor, or inotrope administration or modify the treatment plan for patients with undifferentiated shock, as compared with current practice without point-of-care ultrasonography? A strong body of evidence supports using advanced practice provider-performed point-of-care ultrasonography to enhance care for critically ill patients. Baseline data on treatment of patients with undifferentiated shock, including intravenous fluid volume and time to intervention, were collected over 60 days. Advanced practice providers then completed in-person point-of-care ultrasonography training focused on clinical application and integration into decision-making. A second 60-day data collection period tracked evaluation and treatment by advanced practice providers. Time to intervention did not significantly differ between preintervention and pos",
-      "source": "Critical care nurse",
-      "authors": "Fatolitis Nicholas, McGuire Anthony W",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Aug 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538031/",
+      "date": "2026 Aug 06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555589/",
       "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42522393",
-      "title": "Consensus document on the management of patients with accidental hypothermia from the Spanish Society of Anesthesiology, Resuscitation and Pain Management (SEDAR), the Spanish Society of Intensive Care Medicine, Critical Care and Coronary Units (SEMICYUC), and the Spanish Society of Emergency Medicine (SEMES).",
-      "abstract": "Accidental hypothermia is an underdiagnosed condition with a significant impact on public health. With the aim of providing the basis for a comprehensive care framework, 12 panelists from 3 Spanish scientific societies (SEDAR, SEMES and SEMICYUC) developed this multidisciplinary consensus document. Through a systematic search and the final synthesis of 281 articles including 1,704,632 patients, 37 recommendations were developed through a 2-round Delphi process, distributed across 8 application domains based on the organization of a rescue chain: prehospital prevention, initial evaluation, management and transport, hospital detection, care of the polytraumatized patient, hospital rewarming, cardiac arrest, and resuscitation. Robust consensus among panelists (>75% agreement) and excellent internal consistency (ω = 0.913) were achieved, providing a solid document that may serve as a basis for the implementation of standardized protocols. La hipotermia accidental es una condición infradiagnosticada con un impacto significativo en la salud pública. Con el objetivo de proporcionar las bases para un marco de atención integral, 12 panelistas de 3 sociedades científicas españolas (SEDAR, SE",
-      "source": "Emergencias : revista de la Sociedad Espanola de Medicina de Emergencias",
-      "authors": "Blasco Mariño Robert, Argudo Eduard, Soteras Martínez Iñigo, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Consensus Statement",
-        "Practice Guideline"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42522393/",
-      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
@@ -1029,197 +1029,6 @@
       "date": "2026 Sep",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42486560/",
       "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42532052",
-      "title": "Evaluating the prognostic value of admission IL-8 and sST2 as biomarkers of early myocardial injury in severe community-acquired pneumonia.",
-      "abstract": "Myocardial injury in severe community-acquired pneumonia (SCAP) is often under-recognized, and interpretation of high-sensitivity cardiac troponin I (hs-cTnI) may be complicated by renal dysfunction and critical illness. We evaluated whether admission interleukin-8 (IL-8) and soluble suppression of tumorigenicity 2 (sST2) could support early risk stratification of guideline-consistent myocardial injury in patients with SCAP. In this prospective cohort of 146 patients with SCAP, guideline-consistent myocardial injury was defined as hs-cTnI elevation above the assay-specific 99th percentile upper reference limit. Admission IL-8, sST2, and their combination were assessed using receiver operating characteristic curve analysis and 10-fold cross-validation. Fixed and estimated glomerular filtration rate (eGFR)-stratified hs-cTnI thresholds were compared in an exploratory analysis. An exploratory subgroup analysis was performed among patients with CURB-65 ≤ 1. The median age was 71 years; 91 patients (62.3%) were male and 55 (37.7%) were female. Myocardial injury occurred in 88 patients (60.3%). The IL-8 + sST2 model showed good discrimination for myocardial injury, with an AUC of 0.825 (",
-      "source": "Annals of medicine",
-      "authors": "Liu Shanshan, Liu Lu, Dong Jian",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42532052/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42494313",
-      "title": "Nutritional Risk Screening Recommendations for Critically Ill Patients: A Meta-Research Study and Quality Appraisal of Clinical Guidelines.",
-      "abstract": "Clinical practice guidelines (CPGs) are essential tools to support evidence-based nutritional care in critically ill patients; however, the methodological quality and credibility of recommendations for nutritional risk screening remain unclear. This study aimed to evaluate the methodological quality of CPGs addressing nutritional risk screening in critically ill adults and to critically appraise the evidence supporting these recommendations. A systematic search was conducted between January and April 2026 in Embase, PubMed, SciELO, Scopus, LILACS, Google Scholar, and guideline repositories. CPGs, consensus statements, and position papers, including nutritional risk screening recommendations for critically ill adults were eligible. Guideline quality was assessed using the AGREE II and AGREE-REX instruments. Original studies and systematic reviews supporting nutritional risk screening recommendations were critically appraised using ROBINS-E and AMSTAR 2, respectively. Four CPGs were included. AGREE II assessment demonstrated satisfactory methodological quality overall, particularly in Scope and Purpose (84.4%) and Clarity of Presentation (92.0%), whereas Applicability showed the lowe",
-      "source": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
-      "authors": "Reis Audrey Machado Dos, Pinheiro Millena Dorneles, Hauschild Daniela Barbieri, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42494313/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42485467",
-      "title": "Individualizing post-ICU nutrition: from guideline intent to bedside practice.",
-      "abstract": "Survivorship of critical illness has increased, shifting attention toward recovery and long-term outcomes. Post-ICU nutrition is emerging as a clinically relevant, yet underperforming contributor to functional recovery and quality of life. Persistent nutritional inadequacy reflects insufficiently defined physiological requirements and limited implementable evidence-based guidance during ICU recovery. Energy and protein delivery sharply decline after ICU discharge, despite persistent metabolic demands. Underfeeding can result from the absence of recovery-specific targets, patient-level barriers (e.g. appetite loss, dysphagia, fatigue), and fragmented care transitions, including premature feeding-tube removal and suboptimal monitoring of oral intake. Structured patient and family engagement can help operationalize individualized nutritional strategies and improve feasibility without substantial resource burden, acting as continuity agents. Post-ICU nutritional failure reflects combined physiological and implementation challenges. Clinicians should recognize the post-ICU hospitalization period as a potential 'metabolic danger zone', requiring a shift from acute-phase restrictive feedi",
-      "source": "Current opinion in critical care",
-      "authors": "Leemans Oona, Rosseel Zenzi, Pichard Claude, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Jul 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42485467/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42473736",
-      "title": "Optimizing nutritional care across the continuum from intensive care to recovery: an expert opinion review.",
-      "abstract": "Survivorship after critical illness is frequently complicated by muscle wasting and gastrointestinal (GI) dysfunction, driving prolonged functional impairment. Nutrition is a modifiable determinant across the intensive care unit (ICU)-to-home continuum, yet delivery is commonly limited by feeding intolerance and fragmented transitions of care. This expert opinion review synthesizes evidence identified via a narrative search of MEDLINE/PubMed and key guideline/reference screening, focusing on GI dysfunction as a barrier to enteral nutrition (EN) in the ICU, phase-adapted energy and protein provision, and strategies to restore intake during ward recovery and after discharge, including high-energy, protein-dense oral nutritional supplements (ONS). Nutrition should be delivered as a structured pathway rather than a single ICU intervention. Early EN with proactive, symptom-targeted management of GI dysfunction, coupled with stepwise protein escalation aligned to metabolic phase and organ function, may help reduce avoidable deficits. The early post-ICU period is an anabolic 'window of opportunity' that warrants intake monitoring, deliberate tapering of tube feeds only once oral intake is",
-      "source": "Expert review of gastroenterology & hepatology",
-      "authors": "van Zanten Arthur R H, Kohout Pavel, De Waele Elisabeth, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Jul 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42473736/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42518933",
-      "title": "Eye movement desensitisation and reprocessing for post-traumatic stress in survivors of critical illness (EMERALD): a mixed-methods, randomised, single-blind, parallel group-controlled, feasibility trial.",
-      "abstract": "Eye movement desensitisation and reprocessing (EMDR) is a guideline-recommended treatment for post-traumatic stress disorder (PTSD), but evidence in survivors of critical illness remains limited. We assessed the feasibility, acceptability, and safety of EMDR for critical care survivors with clinically significant post-traumatic stress symptoms, and generated exploratory clinical outcome estimates to inform a future definitive trial. We conducted a mixed-methods, randomised, single-blind, parallel group-controlled, feasibility trial at three UK National Health Service hospitals. Adults (≥18 years) with an intensive care stay >24 h were approached before hospital discharge and followed within an observational cohort. At 2-3 months, participants were screened for post-traumatic stress symptoms (Impact of Event Scale-Revised); those scoring ≥22 were invited and randomly assigned (1:1) to EMDR plus treatment as usual (TAU) or TAU. EMDR comprised up to 16 sessions delivered face-to-face or online by accredited therapists. Primary outcomes were feasibility (recruitment, retention, intervention uptake, fidelity) and safety. Symptoms were assessed using Clinician-administered PTSD Scale for",
-      "source": "EClinicalMedicine",
-      "authors": "Bates Andrew, Cusack Rebecca, Golding Hannah, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Jul",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42518933/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42424121",
-      "title": "Use of Cystatin C in Tandem with Creatinine to Improve GFR Estimation and Clinical Decision Making.",
-      "abstract": "Recognizing its clinical utility, the 2024 Kidney Disease Improving Global Outcomes (KDIGO) guideline recommends using equations that integrate serum creatinine and cystatin C for chronic kidney disease (CKD) diagnosis and staging. Cystatin C-inclusive equations generally outperform creatinine-based equations in bias and accuracy across diverse populations, including children and patients with comorbidities. Moreover, cystatin C-inclusive equations consistently demonstrate greater prognostic value than creatinine-only equations for clinical outcomes such as kidney failure with replacement therapy (KFRT), cardiovascular disease, and mortality, particularly in individuals with large differences between creatinine- and cystatin C-based estimates of glomerular filtration rate (eGFR). Among hospitalized patients and those undergoing significant changes in muscle mass, such as during weight loss or critical illness, cystatin C may improve GFR estimation and facilitate earlier detection of acute kidney injury. In clinical practice, cystatin C informs CKD staging, risk stratification, and medication dosing, particularly in scenarios where creatinine-based equations are less reliable. Altho",
-      "source": "Journal of the American Society of Nephrology : JASN",
-      "authors": "Awdishu Linda, Karger Amy B, Shlipak Michael G, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Jul 09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42424121/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42159356",
-      "title": "Stress Ulcer Prophylaxis in Orthopaedic Surgery.",
-      "abstract": "Although rare, stress-related gastrointestinal complications, such as perforated peptic ulcer (PPU) and upper gastrointestinal bleeding, can result in notable morbidity and mortality following orthopaedic surgery, particularly in elderly or critically ill patients. Despite widespread implementation of stress ulcer prophylaxis (SUP) in critical care, its role in orthopaedic surgical populations remains ill defined. A narrative review of the literature reveals a low incidence of PPU following orthopaedic procedures (0.054% after elective spine surgery); however, associated mortality may reach as high as 25% in cases of PPU. Identified risk factors include NSAID use, advanced age, notable comorbidities, and critical illness. SUP with proton pump inhibitors or histamine-2 receptor antagonists has been shown to reduce upper gastrointestinal bleeding in critically ill patients, leading to guideline-based recommendations for selective prophylaxis in high-risk individuals. Given the potential severity of these complications, orthopaedic surgeons should maintain vigilance and consider SUP in at-risk patients, while avoiding routine prophylaxis in low-risk cases. Tailoring prophylactic strat",
-      "source": "The Journal of the American Academy of Orthopaedic Surgeons",
-      "authors": "Maitra Sukanta, Hii Jeffrey Lucas",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Jul 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42159356/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42371750",
-      "title": "Noninvasive Respiratory Support for Adult Patients with Acute Respiratory Failure. An Official American Thoracic Society Clinical Practice Guideline.",
-      "abstract": "Acute hypoxemic and hypercapnic respiratory failure are among the most common reasons for ICU admission and need for invasive mechanical ventilation. Noninvasive respiratory support (NIRS) strategies-including high-flow nasal cannula (HFNC), noninvasive ventilation (NIV), and continuous positive airway pressure (CPAP)-may prevent intubation, improve outcomes, and reduce ICU utilization. However, there is uncertainty regarding optimal patient and modality selection, resulting in variable implementation. There are no clinical practice guidelines comprehensively addressing the use of the different noninvasive respiratory support strategies across the spectrum of acute respiratory failure. To update and develop new evidence-based clinical practice recommendations informing noninvasive respiratory support use, including HFNC, NIV and CPAP, in adults with acute respiratory failure. A multidisciplinary panel used the GRADE approach to address four PICO questions related to the use of NIRS for hypoxemic and hypercapnic respiratory failure, preoxygenation for intubation, and post-extubation respiratory support. Recommendations were informed by several systematic reviews and network meta-ana",
-      "source": "American journal of respiratory and critical care medicine",
-      "authors": "Goel Neha N, Ferreyro Bruno L, Pitre Tyler, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Jun 29",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42371750/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42441699",
-      "title": "Bleeding Risk Associated with Novel Oral Anticoagulants in Critically Ill Patients: A Scoping Review.",
-      "abstract": "Novel oral anticoagulants (NOACs) are widely used for the prevention and treatment of thromboembolic disease; nevertheless, critically ill patients were mostly excluded from the landmark randomized clinical trials. The purpose of this scoping review is to systematically map and synthesize the available evidence on bleeding risk associated with NOACs use in critically ill patients. Furthermore, we have also focused on ICU-specific risk factors, pathophysiological mechanisms and management strategies. Critical illness is characterized by dynamic pathophysiology, dysfunction of organs, and systemic inflammation that might change the exposure to anticoagulants and the risk of bleeding. A scoping review approach was utilized to synthesize findings of reviews, observational studies, clinical trials, and guideline documents on NOAC-associated bleeding. The focus was on populations related to critically ill units, such as patients with organ dysfunction, sepsis, malignancy, and invasive operations. The evidence summary was not conducted quantitatively. Bleeding is always prone to renal and hepatic dysfunction, old age, malignancy, polypharmacy, and concomitant antiplatelet treatment. The m",
-      "source": "Journal of visualized experiments : JoVE",
-      "authors": "Lin Zhichao, Yu Xiaoping, Ma Ruibin, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Video-Audio Media",
-        "Scoping Review"
-      ],
-      "date": "2026 Jun 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42441699/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42009083",
-      "title": "Best available evidence on artificial airway suctioning in critically ill older adults: An evidence-based synthesis.",
-      "abstract": "This study aims to identify and synthesize the best available evidence on the suctioning process for artificial airways in critically ill elderly patients, including suctioning indications, preparation before suctioning, suctioning methods, subglottic suction, and organizational policies, in order to provide evidence-based resources for clinical application. A comprehensive literature search was conducted across multiple databases and evidence sources, including UpToDate, BMJ Best Practice, Cochrane Library, Joanna Briggs Institute (Australia), Cumulative Index to Nursing and Allied Health Literature, PubMed, National Institute for Health and Care Excellence, Evidence-Based Medicine Database, Ovid Full-Text Medical Journal Database, China National Knowledge Infrastructure, Wanfang Database, China Biomedical Database, the Chinese Guideline Network, the World Health Organization official website, and national geriatric medicine associations and critical care associations. The search encompassed publications from database inception through September 2025. Following methodological quality appraisal, relevant evidence was extracted and synthesized. Thirteen studies met the inclusion cri",
-      "source": "Experimental gerontology",
-      "authors": "Tang Jun, Lyu Jing, Wu Ni-Hui, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Jun 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42009083/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41700563",
-      "title": "Delirium screening tools in the pediatric ICU: a useful tool.",
-      "abstract": "Pediatric delirium has emerged as a common and clinically meaningful complication of critical illness, with growing recognition of its association with adverse short-term and long-term outcomes. This review is timely given increasing guideline recommendations for routine delirium screening in pediatric critical care settings and the expanding use of validated bedside tools by multidisciplinary teams. Recent literature demonstrates that delirium affects a substantial proportion of critically ill children, particularly those in pediatric ICUs (PICUs) and pediatric cardiac ICUs (PCICUs). The development and validation of pediatric-specific delirium screening instruments have enabled reliable, real-time detection without exclusive reliance on psychiatric consultation. Studies highlight the clinical impact of delirium on morbidity, mortality, length of stay, discharge disposition, and post-intensive care sequelae. However, persistent challenges include variable implementation across units, limited data in certain subpopulations, and gaps in evidence linking screening to targeted interventions and improved outcomes. Routine delirium screening represents an important advance in pediatric ",
-      "source": "Current opinion in pediatrics",
-      "authors": "Javadi Saba, Flagg Lauren, Kandil Sarah B",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Jun 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41700563/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42353658",
-      "title": "Clinical Considerations of Amikacin Pharmacotherapy in Adults-A Narrative Review with Focus on Safety and TDM.",
-      "abstract": "",
-      "source": "Antibiotics (Basel, Switzerland)",
-      "authors": "Orzechowski Daniel, Mroczkowska Aleksandra, Bryła Adrian, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 May 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42353658/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42221091",
-      "title": "Prevention and management of nosocomial infections in patients undergoing extracorporeal membrane oxygenation: a summary of best evidence.",
-      "abstract": "This study aimed to systematically search, evaluate, and synthesize the latest evidence on the prevention and management of nosocomial infections in patients supported by extracorporeal membrane oxygenation. The study included clinical practice guidelines, expert consensus statements, systematic reviews, and other relevant publications. The quality of the included literature was rigorously assessed using appropriate tools such as AGREE II and AMSTAR. Data extraction and evidence synthesis were performed independently by two researchers. A comprehensive search was conducted across multiple databases and sources, including PubMed, Embase, the Cochrane Library, Web of Science, China National Knowledge Infrastructure, Wanfang Data, VIP, SinoMed, the National Guideline Clearinghouse, the Scottish Intercollegiate Guidelines Network, the Extracorporeal Life Support Organization website, and UpToDate. The search covered the period from the inception of each database up to October 31, 2025. Fourteen studies met the inclusion criteria, comprising 2 clinical decisions, 4 guidelines, 4 expert consensus documents, 2 systematic reviews, and 2 cohort studies. All 14 studies were included followin",
-      "source": "Frontiers in medicine",
-      "authors": "Xu Dan-Dan, Cai Shu-Han, Chen Na-Na, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42221091/",
-      "category": "Guideline / Consensus",
       "highlighted": false
     }
   ]
