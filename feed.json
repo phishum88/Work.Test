@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T07:09:44.530948+00:00",
+  "generated": "2026-08-13T07:12:29.696884+00:00",
   "count": 81,
   "digest": null,
   "oe_query_count": 0,
@@ -214,6 +214,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42586763",
+      "title": "Ethical and Emotional Dilemmas in the Medical Decision-Making Process Among Family Members of Intensive Care Patients: A Qualitative Study.",
+      "abstract": "Intensive care units (ICUs) constitute a highly challenging environment for patients' relatives due to critical illnesses and uncertain prognoses, creating significant ethical and emotional strain. Family members often face profound ethical dilemmas and a substantial emotional burden when making medical decisions on behalf of the patient. This study aimed to explore the ethical and emotional dilemmas experienced by family members of intensive care patients during the medical decision-making process and the strategies they used to cope with these experiences. This qualitative descriptive study was conducted between January and March 2026 in the adult ICUs of a public hospital located in eastern Türkiye. Data were collected through semi-structured, in-depth interviews with 20 family members selected via purposive sampling. Interviews were discontinued upon reaching data saturation. The study was reported in accordance with the COREQ (Consolidated Criteria for Reporting Qualitative Research) guidelines to ensure transparency and methodological rigour. Four main themes reflecting participants' experiences were identified: 'Ethical Dilemma and Responsibility', 'Intense Emotional Reactio",
+      "source": "Nursing in critical care",
+      "authors": "Bahcecioglu Turan Gülcan, Demir Mizgin, Gür Fatma",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42586763/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42563433",
       "title": "Harnessing Artificial Intelligence to Strengthen Acute and Critical Care Nursing Practice: A Systematic Review.",
       "abstract": "Artificial intelligence (AI) is reshaping clinical decision support systems (CDSSs). In acute and critical care, nurses provide continuous surveillance, recognise deterioration, coordinate escalation and translate protocols into bedside action. AI-CDSS may be particularly relevant when they support rather than replace clinical judgement. To examine whether nurse-used AI-CDSS improve patient-important outcomes in acute and critical care contexts and summarise effects on care processes and nurse-reported outcomes. Following PRISMA 2020 and a preregistered protocol, we searched eight databases and major trial registries for English-language studies from 1 January 2010 to 1 January 2026. Searches were conducted on 1 January 2026. We included randomised, quasi-experimental and adjusted cohort studies in which registered nurses or nursing teams were primary users of AI-CDSS generating patient-specific predictions or recommendations. Mortality was pooled using a random effects model; other outcomes were synthesised narratively. Seven studies involving about 75 000 patients were included. Most evidence came from acute wards, intensive care units, sepsis, deterioration and delirium-preventi",
@@ -350,32 +364,18 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42397698",
-      "title": "2026 ESAIC Consensus Document on Mitigation Strategies in Intensive Care Medicine: Consensus document of the European Society of Anaesthesiology and Intensive Care.",
-      "abstract": "Due to the continued use of fossil fuels and other chemical pollutants, atmospheric greenhouse gas concentrations and environmental pollution continue to rise. The health sector is both a driver and a victim of these developments, and intensive care medicine (ICM), with its high energy demands, extensive use of disposable products, and large variety of pharmaceuticals, contributes substantially to the climate crisis and environmental degradation. The European Society of Anaesthesiology and Intensive Care (ESAIC) therefore aimed to develop consensus recommendations to reduce the environmental footprint of ICM across Europe. A total of 37 recommendations were initially drafted by four topic groups (1) energy, (2) waste management, (3) medication, and (4) ethics-each composed of three to five experts. To facilitate implementation in both middle- and high-income European countries, the agreement threshold was set at 80%. The recommendations were validated by 37 experts from 20 countries using a two-step Delphi procedure. In the first round, all recommendations reached at least 75% agreement. After amendments to four recommendations based on expert feedback, all achieved over 80% approv",
-      "source": "European journal of anaesthesiology",
-      "authors": "Koch Susanne, Bilotta Federico, Brazzi Luca, et al.",
+      "id": "pmid_42409648",
+      "title": "Development and Validation of an Integrated Artificial Intelligence-Powered Clinical Decision Support Application for Cardiac Critical Care: Combining Coagulation Management, Blood Gas Analysis, Mechanical Ventilation, Hemodynamic Assessment, and Extracorporeal Membrane Oxygenation.",
+      "abstract": "This study describes the development and preliminary validation of an integrated clinical decision support application (Cardiac Critical Care Advisor Pro, CCA Pro v6.0) that combines viscoelastic coagulation analysis, arterial blood gas interpretation, mechanical ventilation management, intraoperative hemodynamic assessment, and extracorporeal membrane oxygenation (ECMO) management with artificial intelligence (AI)-powered image recognition in a single platform. This study used software development and descriptive validation to simulate clinical scenarios in a cardiac surgical intensive care unit at a university teaching hospital. The application was evaluated using 50 simulated clinical scenarios derived from real cardiac surgical cases, with expert review by 3 senior cardiac anesthesiologists. Development of a web-based application incorporated 6 clinical modules with 108 input parameters, over 100 automated calculations, evidence-based treatment algorithms with weight-adjusted dosing, and 7 AI-powered camera zones for automated clinical screen data extraction. The application demonstrated agreement with expert consensus in coagulation management (ROTEM/TEG pathway selection and ",
+      "source": "Journal of cardiothoracic and vascular anesthesia",
+      "authors": "El-Sonbaty Ahmed Ibrahim",
       "pub_types": [
         "Journal Article",
-        "Consensus Statement"
-      ],
-      "date": "2026 Sep 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42397698/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42338341",
-      "title": "European simulation-based education and training in anaesthesiology and intensive care: evidence, value and inevitable evolution.",
-      "abstract": "Anaesthesiologists, intensive care, and perioperative physicians work within multidisciplinary teams in high-risk environments where adverse events may threaten patient safety and are often avoidable. They face converging challenges, including multimorbidity and increasing clinical complexity, workforce shortages and burnout, technological evolution, and rising expectations for safety, equity, and sustainability. In this expert-driven evidence-based consensus review, we aim to demonstrate that simulation-based education and training (SBET) is uniquely positioned to address these challenges. We review how SBET adds value across the professional lifespan, from initial training to high-stakes examinations and continuing professional development. We further examine how SBET enhances team performance, identifies latent system threats, and supports organisational redesign through translational simulation. We examine how SBET can prepare for the future by fostering digital and ecological competencies. We explore key barriers to implementation, as despite SBET's value, its adoption across anaesthesiology, intensive care, and perioperative medicine remains fragmented, with limited interprof",
-      "source": "European journal of anaesthesiology",
-      "authors": "Burlacu Crina L, Brzezinski Sinai Yitzhak, Norte Gustavo, et al.",
-      "pub_types": [
-        "Journal Article",
+        "Validation Study",
         "Review"
       ],
-      "date": "2026 Sep 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42338341/",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42409648/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
@@ -719,6 +719,21 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42447972",
+      "title": "Short-chain fatty acid metabolism in acute lung injury and intervention strategies from traditional Chinese medicine.",
+      "abstract": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are severe conditions associated with high mortality rates and limited treatment options. Short-chain fatty acids (SCFAs) serve as central immunomodulatory metabolites mediate the crosstalk between the gut and lung. Traditional Chinese medicine (TCM), with its holistic approach, shows promise in restoring gut-lung balance and alleviating respiratory inflammation by modulating gut microbiota and SCFA metabolism. To elucidate the protective role and mechanism of SCFAs in ALI and ARDS via the gut-lung axis. Meanwhile, to evaluate the therapeutic potential of TCM in treating ALI by modulating the gut microbiota and enhancing SCFA production. A comprehensive literature search was conducted across PubMed, Ovid-Embase, Web of Science, and CNKI databases (2010-2025). Keywords included \"short-chain fatty acid\", \"gut microbes\", \"acute lung injury\", \"traditional Chinese medicine\", and related terms. The search focused on preclinical and mechanistic studies investigating SCFA signaling, gut microbiota remodeling, and the therapeutic effects of herbal compounds or their active constituents in ALI/ARDS models. This review ide",
+      "source": "Journal of ethnopharmacology",
+      "authors": "Zhao Bing, Li Rongrong, Chen Dandan, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Jan 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42447972/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42324603",
       "title": "Cross-kingdom microbiome interactions along the gut-lung axis: immune-microecological coordination, shared mechanisms, and disease-context dependence in respiratory disorders.",
       "abstract": "Cross-kingdom dysbiosis of the gut microbiome along the gut-lung axis has emerged as a key driver of chronic and acute respiratory diseases. Beyond bacteria, the intestinal mycobiome and virome, including bacteriophages, shape mucosal immunity and metabolism through partially overlapping but non-redundant pathways. In this Review, we synthesize rapidly expanding evidence that fungi, bacteria, and phages in the gut form an integrated network that may influence susceptibility, inflammatory tone, and therapeutic responsiveness across asthma, chronic obstructive pulmonary disease (COPD), acute respiratory distress syndrome (ARDS), and lung cancer via the gut-lung axis. We first summarize how cross-kingdom communities in the intestine are organized and interact, highlighting a tripartite framework centered on pathogen-associated molecular pattern-pattern recognition receptor (PAMP-PRR) circuits, the short-chain fatty acid (SCFA)-regulatory T-cell axis, and tryptophan-indole-aryl hydrocarbon receptor (AHR) signaling. We then compare how these shared axes are differentially perturbed across asthma, COPD, ARDS, and lung cancer, using these disorders as representative but non-sequential dis",
@@ -747,21 +762,6 @@
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42185742/",
       "category": "Systematic Review / Meta-Analysis",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41968852",
-      "title": "High-dose vs. low-dose preoperative dexamethasone for systemic inflammation and recovery after esophagectomy: a randomized controlled trial protocol.",
-      "abstract": "Esophagectomy provokes an intense systemic inflammatory response that is significantly associated with postoperative morbidities. Whether a single preoperative high-dose dexamethasone can attenuate this response and improve recovery remains unknown. This single-center, randomized, double-blind, parallel-group trial will enroll 82 adults undergoing elective transthoracic esophagectomy at the First Affiliated Hospital of Soochow University, Suzhou, China. Patients will be randomly assigned (1:1) to receive intravenous dexamethasone 15 mg (high-dose) or 5 mg (low-dose) during anesthesia induction. Both groups will receive standardized general anesthesia and perioperative care. The primary outcome is the peak plasma C-reactive protein (CRP) level within 72 h after surgery. Secondary outcomes include CRP values at 24, 48 and 72 h; 72-h recovery quality, assessed using the 15-item quality of recovery scale; cumulative 72-h opioid consumption; in-hospital major complications (anastomotic leakage, mechanical ventilation > 48 h, pulmonary infection, renal failure, reoperation, death); 7-d hyperglycemic events (> 10 mmol/L); and length of postoperative hospital stay. By comparing two clinica",
-      "source": "Annals of medicine",
-      "authors": "Zhu Na-Na, Chong Ying-Zi, Chen Ke, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41968852/",
-      "category": "Clinical Trial",
       "highlighted": false
     },
     {
