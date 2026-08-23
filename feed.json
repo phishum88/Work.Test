@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T06:26:58.574976+00:00",
+  "generated": "2026-08-23T06:23:06.244488+00:00",
   "count": 85,
   "digest": null,
   "oe_query_count": 0,
@@ -90,6 +90,20 @@
       ],
       "date": "2026 Nov 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42447641/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42349531",
+      "title": "The Society of Critical Care Cardiology-Rationale, blueprint, and lessons learned in the creation of a new multidisciplinary professional organization.",
+      "abstract": "Since the cardiac intensive care unit was first introduced into the medical landscape, patient complexity, comorbidity, and illness severity have increased substantially over time. This evolution has required and informed the cultivation of new tools and an expanding skill set for those who deliver care in these units, and has paved the way for the emergence and growth of a distinct discipline-Critical Care Cardiology. With the genesis of this field and the need to care for comorbid and critically ill patients, numerous questions have been posed, including those related to optimal staffing models, appropriate training pathways, and the development of best practice principles to guide patient management. To address these and other challenges, to foster necessary collaborations, and to galvanize a maturing field, the Society of Critical Care Cardiology (SoCCC) was born. SoCCC was created to provide an independent, yet complementary home for stakeholders within this rapidly growing discipline. Its mission is to address the unique needs and concerns of Critical Care Cardiology through an inclusive approach that prioritizes the development of early career faculty, actively engaging them",
+      "source": "American heart journal",
+      "authors": "Senman Balimkiz, Miller P Elliott, Gage Ann, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42349531/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -226,6 +240,23 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42418966",
+      "title": "Management of critically ill cancer patients. Expert consensus statement of the \"Intensive Care for Hematology and Oncology Patients\" (iCHOP) Working Group of the German Society of Hematology and Oncology (DGHO), Austrian Society of Hematology and Oncology (OeGHO), German Society for Medical Intensive Care Medicine and Emergency Medicine (DGIIN), and Austrian Society of Medical and General Intensive Care and Emergency Medicine (ÖGIAIN).",
+      "abstract": "Cancer remains a leading global cause of death, with critically ill cancer patients constituting a substantial proportion of ICU admissions. Historically restrictive ICU admission policies have shifted due to advances in oncology and critical care, leading to declining mortality. However, managing critically ill cancer patients remains complex, requiring collaboration between hematologists/oncologists and intensivists. Emerging evidence on risk assessment, organ support, and tailored critical care underscores the need for updated guidance. This consensus statement provides evidence-based, multidisciplinary recommendations to standardize best practices while allowing for individualized care, aiming to improve survival and quality of life in this high-risk population.",
+      "source": "European journal of cancer (Oxford, England : 1990)",
+      "authors": "Tzalavras Asterios, Busch Elena, Böll Boris, et al.",
+      "pub_types": [
+        "Consensus Statement",
+        "Journal Article",
+        "Practice Guideline",
+        "Review"
+      ],
+      "date": "2026 Sep 09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418966/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42608129",
       "title": "Evaluating Nurse Practitioner Impact in Critical Care Transport: A Cross-Sectional Survey of Transport Personnel.",
       "abstract": "Nurse practitioners (NPs) are increasingly integrated into critical care transport (CCT) teams, yet limited empirical data describe their functional impact. Previous reports identified potential benefits-advanced diagnostic reasoning, procedural capability, and operational leadership-but these observations were largely anecdotal. Therefore, this report aimed to present the findings of a survey of CCT team members' experiences working with NPs. A cross-sectional survey was distributed from December 2023 to March 2024 to CCT programs employing NPs and to the broader medical transport community. The survey assessed demographic characteristics, perceived influence across clinical and operational domains, and required NP proficiencies. Likert-scale responses were summarized descriptively. Open-ended responses were reviewed to identify recurrent themes. Seventy-two complete responses were analyzed. Respondents averaged 13.3 years of transport experience and 8.6 years in their current role. Across roles, personnel reported that NPs enhance clinical decision making by contributing advanced pathophysiologic assessment (89%), expanding differential diagnosis generation, and improving managem",
@@ -340,37 +371,6 @@
       "date": "2026 Sep",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42533877/",
       "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42520766",
-      "title": "Efficacy of Sensory Stimulation in Intensive Care Unit Patients: A Systematic Review and Meta-analysis.",
-      "abstract": "This study aimed to evaluate the effects of sensory stimulation (SS) on the level of consciousness, the incidence and duration of ICU delirium, the awakening time, and the length of mechanical ventilation in ICU patients. Randomized controlled trials (RCTs) were identified through a comprehensive search across 7 digital databases. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the Cochrane Risk-of-Bias Tool for Randomized Trials. In case of disagreement, a third author decided whether to include or exclude the article. Meta-analyses were conducted using RevMan V.5.3.5 software. A total of 22 RCTs involving 1,522 patients were included. Compared with routine care, SS improved the level of consciousness (MD: 2.09; 95% CI: 1.50 to 2.68; P < .001) and reduce the incidence (OR: 0.33; 95% CI: 0.18 to 0.62; P < .001) and duration of delirium (MD: -2.63; 95% CI: -3.32 to -2.03; P < .001) in ICU patients, shorten the Awakening time (MD: -7.39; 95% CI: -8.76 to -6.01; P < .001). SS may improve the level of consciousness, reduce the incidence of delirium, and shorten the Awakening time in ICU patients. For improvement in the level of co",
-      "source": "Dimensions of critical care nursing : DCCN",
-      "authors": "Han Chunyan, Sun Xiujie, Zhu Yanan, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
-      ],
-      "date": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42520766/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42498339",
-      "title": "Smart Systems, Saved Lives: Using AI to Identify Deteriorating Sepsis Patients in Adult Critical Care.",
-      "abstract": "Sepsis remains one of the leading causes of mortality in adult critical care, representing a dysregulated host response to infection. Despite advances in therapeutics and supportive care, it continues to account for over 31 million deaths annually. Its unpredictable trajectory and variable physiologic presentations make early recognition and timely intervention crucial to improving outcomes. Early warning systems were initially developed to standardize the recognition of physiologic instability and guide early recognition. The Modified Early Warning Score, National Early Warning Score 2, and Quick Sequential Organ Failure Assessment remain the most frequently used bedside tools for adult deterioration and sepsis.",
-      "source": "Critical care nursing clinics of North America",
-      "authors": "Smith Amanda R, Manning Jennifer",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42498339/",
-      "category": "Review",
       "highlighted": false
     },
     {
@@ -1018,6 +1018,38 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42520766",
+      "title": "Efficacy of Sensory Stimulation in Intensive Care Unit Patients: A Systematic Review and Meta-analysis.",
+      "abstract": "This study aimed to evaluate the effects of sensory stimulation (SS) on the level of consciousness, the incidence and duration of ICU delirium, the awakening time, and the length of mechanical ventilation in ICU patients. Randomized controlled trials (RCTs) were identified through a comprehensive search across 7 digital databases. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the Cochrane Risk-of-Bias Tool for Randomized Trials. In case of disagreement, a third author decided whether to include or exclude the article. Meta-analyses were conducted using RevMan V.5.3.5 software. A total of 22 RCTs involving 1,522 patients were included. Compared with routine care, SS improved the level of consciousness (MD: 2.09; 95% CI: 1.50 to 2.68; P < .001) and reduce the incidence (OR: 0.33; 95% CI: 0.18 to 0.62; P < .001) and duration of delirium (MD: -2.63; 95% CI: -3.32 to -2.03; P < .001) in ICU patients, shorten the Awakening time (MD: -7.39; 95% CI: -8.76 to -6.01; P < .001). SS may improve the level of consciousness, reduce the incidence of delirium, and shorten the Awakening time in ICU patients. For improvement in the level of co",
+      "source": "Dimensions of critical care nursing : DCCN",
+      "authors": "Han Chunyan, Sun Xiujie, Zhu Yanan, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520766/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42501530",
+      "title": "Fatal septic shock due to PVL-positive Staphylococcus aureus necrotizing pneumonia: autopsy findings and systematic review of the literature.",
+      "abstract": "Panton-Valentine leukocidin (PVL)-producing Staphylococcus aureus is associated with highly aggressive necrotizing pneumonia characterized by rapid clinical deterioration and high mortality. However, the clinicopathological features of fatal cases, particularly in the forensic setting, remain incompletely defined. We report a fatal case of PVL-positive S. aureus necrotizing pneumonia diagnosed through forensic autopsy and molecular analysis. In addition, a systematic review was conducted according to PRISMA 2020 guidelines. PubMed/MEDLINE and Scopus were searched from database inception to 12 March 2026 to identify published fatal cases of PVL-positive S. aureus pneumonia. A previously healthy 58-year-old man presented with acute respiratory symptoms and rapidly developed severe respiratory failure and septic shock, resulting in death within 24 h of hospital admission. Blood cultures and bronchoalveolar lavage yielded methicillin-susceptible S. aureus. Autopsy revealed bilateral necrotizing hemorrhagic bronchopneumonia, and molecular analysis confirmed PVL positivity. The literature review identified 31 fatal cases. Most cases were characterized by rapid clinical deterioration, fre",
+      "source": "Legal medicine (Tokyo, Japan)",
+      "authors": "Camatti Jessika, Santunione Anna Laura, Cecchi Rossana, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Case Reports"
+      ],
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42501530/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42498336",
       "title": "Fluid and Electrolyte Management in Critically Ill Patients with Infections.",
       "abstract": "Fluid and electrolyte management is a crucial component of care in critically ill patients with severe infections. Patients with sepsis, septic shock, or multiorgan dysfunction syndrome struggle to maintain fluid balance due to increased capillary permeability, inflammation, vasodilation, and organ dysfunction. Inadequate fluid balance can increase complications, morbidity, and mortality. Fluid management is complex because sepsis disrupts vascular permeability, tissue perfusion, and cellular function. Infectious disease care is further challenged by antimicrobial resistance, drug stewardship, and infection control. Skilled nursing, advanced monitoring, and continuous education are essential to optimize outcomes and ensure high-quality management in this vulnerable population.",
@@ -1044,21 +1076,6 @@
       ],
       "date": "2026 Sep",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42498332/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42486569",
-      "title": "The Left Ventricular Assist Device Patient in the Intensive Care Unit: A Clinically Focused Guide for Intensivists.",
-      "abstract": "Left ventricular assist devices (LVADs) are increasingly used for advanced heart failure patients. Meanwhile, ongoing improvements in durability have enhanced long-term device performance. Intensivists play a pivotal role in managing LVAD patients who present with common intensive care unit (ICU) conditions. Dynamic interactions between LVAD function and underlying pathophysiology produce heterogeneous clinical presentations and require tailored management. Knowledge gaps among intensivists may exist regarding how to effectively integrate LVAD considerations into ICU patient management. This narrative review outlines fundamental LVAD principles, highlights best practices for monitoring and management, and discusses common ICU pathophysiologic states among LVAD patients.",
-      "source": "Clinics in chest medicine",
-      "authors": "Starling Charlotte, Moreno Jonathan D, May Adam",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42486569/",
       "category": "Review",
       "highlighted": false
     },
@@ -1248,21 +1265,6 @@
       "date": "2026 Jun 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41700563/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42353658",
-      "title": "Clinical Considerations of Amikacin Pharmacotherapy in Adults-A Narrative Review with Focus on Safety and TDM.",
-      "abstract": "",
-      "source": "Antibiotics (Basel, Switzerland)",
-      "authors": "Orzechowski Daniel, Mroczkowska Aleksandra, Bryła Adrian, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 May 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42353658/",
-      "category": "Review",
       "highlighted": false
     }
   ]
