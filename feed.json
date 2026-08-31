@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T10:54:07.235222+00:00",
-  "count": 83,
+  "generated": "2026-08-31T12:08:18.338072+00:00",
+  "count": 82,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -1222,21 +1222,6 @@
       ],
       "date": "2026 Jun 15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42009083/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41700563",
-      "title": "Delirium screening tools in the pediatric ICU: a useful tool.",
-      "abstract": "Pediatric delirium has emerged as a common and clinically meaningful complication of critical illness, with growing recognition of its association with adverse short-term and long-term outcomes. This review is timely given increasing guideline recommendations for routine delirium screening in pediatric critical care settings and the expanding use of validated bedside tools by multidisciplinary teams. Recent literature demonstrates that delirium affects a substantial proportion of critically ill children, particularly those in pediatric ICUs (PICUs) and pediatric cardiac ICUs (PCICUs). The development and validation of pediatric-specific delirium screening instruments have enabled reliable, real-time detection without exclusive reliance on psychiatric consultation. Studies highlight the clinical impact of delirium on morbidity, mortality, length of stay, discharge disposition, and post-intensive care sequelae. However, persistent challenges include variable implementation across units, limited data in certain subpopulations, and gaps in evidence linking screening to targeted interventions and improved outcomes. Routine delirium screening represents an important advance in pediatric ",
-      "source": "Current opinion in pediatrics",
-      "authors": "Javadi Saba, Flagg Lauren, Kandil Sarah B",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Jun 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41700563/",
       "category": "Guideline / Consensus",
       "highlighted": false
     }
