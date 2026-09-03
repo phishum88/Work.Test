@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T12:08:18.338072+00:00",
-  "count": 82,
+  "generated": "2026-09-03T10:22:21.022796+00:00",
+  "count": 84,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -108,6 +108,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42556000",
+      "title": "Aneurysmal subarachnoid hemorrhage care in a middle-income public healthcare system: A real-world neurocritical care cohort.",
+      "abstract": "Although aneurysm treatment capacity has expanded worldwide, outcomes after aneurysmal subarachnoid hemorrhage (aSAH) remain strongly influenced by neurocritical care (NCC) delivery, referral pathways, and access to specialized treatment. Contemporary data describing real-world aSAH care in resource-limited healthcare systems remain scarce. We aimed to characterize treatment patterns, NCC delivery, complications, and outcomes in a large Brazilian public referral center. This retrospective cohort study included consecutive adults with confirmed aSAH admitted between June 2018 and March 2022 to a high-volume Brazilian tertiary referral center. Only patients admitted within five days of symptom onset were included. Demographic, clinical, radiological, treatment, complication, and outcome data were extracted from institutional records. Primary outcomes were in-hospital mortality and 3-month functional outcome assessed by the modified Rankin Scale (mRS). Seventy-four patients were included. Disease severity was high, with 45% presenting WFNS grades 4-5, 73% modified Fisher grade 4 hemorrhage, and 64% hydrocephalus. Endovascular treatment was performed in 73% of cases, and median time fr",
+      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "authors": "Machado Marazzi Thire Baggio, Rimoli Brunna Pileggi, de Oliveira Ricardo Santos, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556000/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42447641",
       "title": "The pediatric transfer gap: How adult-ICU-trained machine-learning models degrade on pediatric intensive care patients.",
       "abstract": "Most clinical machine-learning models are trained on adult data, which raises safety concerns when they are used in children. We quantify this Pediatric Transfer Gap on routinely recorded vital signs and evaluate whether limited target-cohort data can close it. We performed two complementary experiments. Experiment A is a fully observed within-pediatric design in which both source and target are directly measured data from the Pediatric Intensive Care database (PIC): after item-code audit and physiological filtering, 10,194 patients yielded heart-rate, body-temperature, respiratory-rate, and oxygen-saturation summaries, with older children (≥2 years, n=3062) as source and younger children (<2 years, n=7132) as target. Experiment B is a directly observed adult-ICU design in which 63,203 adults from the MIMIC-IV ICU module supplied directly observed first-24-hour vital signs and actual in-hospital mortality, transferred to the window-matched pediatric cohort. Three classifier families (Random Forest, gradient boosting, logistic regression) were trained with stratified 70/30 splits, applied to the target without adaptation, and subjected to target-domain retraining on 50% of target da",
@@ -132,6 +146,49 @@
       ],
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42349531/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42686293",
+      "title": "Immune-Mediated Inflammatory Diseases and the Critically Ill.",
+      "abstract": "Critical illness and intensive care unit admission are common occurrences in the immune-mediated inflammatory disease (IMID) patient cohort. This article specifically focuses on inflammatory rheumatic musculoskeletal disease within IMIDs. Understanding the aetiology, risk factors, co-morbidities, and management of these conditions in critical care are the key points discussed here. We have compiled the most common anti-rheumatic therapeutics in this article for management in these situations.",
+      "source": "Critical care clinics",
+      "authors": "Thomas Jason, McInnes Iain, McGeoch Lucy",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686293/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42671153",
+      "title": "A Triptych of Care: An Anthropological Interpretation of Morning Bed-Baths in Greek Intensive Care.",
+      "abstract": "This paper presents a focused analysis arising from a broader ethnographic study of nursing praxis, power relations, and clinical decision-making in a Greek ICU. The aim of this paper is to explore the morning bed-bath as a culturally embedded ICU nursing practice and to interpret how bodily care, professional identity, organisational routines and relational attentiveness intersect within this everyday activity. Informed by critical medical anthropology and phenomenology, the study draws on participant observation, ethnographic fieldnotes, and interviews with intensive care staff. The interpretation draws primarily on Foucault's concept of discipline, complemented by Bourdieu's notion of habitus and embodied practice, and Douglas's work on purity and symbolic order. Three interrelated themes emerged, forming a 'triptych of care': a) proximity and synchronicity to the patients' needs and clinical condition, which revealed skilled bodily attentiveness, clinical judgement and nursing agency, alongside negotiations of professional knowledge, and authority; b) the creation of a zone of safety and privacy, where bodily exposure, dignity, relational care, and professional interaction were",
+      "source": "Nursing philosophy : an international journal for healthcare professionals",
+      "authors": "Parissopoulos Stelios, Timmins Fiona, Mantzorou Marianna, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671153/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42671008",
+      "title": "Silent Pain or Silent Records? Pain Visibility, Documentation Ethics, and Nursing Management in Neurocritical Care.",
+      "abstract": "Pain assessment in critical care is organised primarily around patient self-report and numerical scoring, an arrangement that protects the patient's first-person authority. In neurocritical care, however, critically ill patients with stroke may be unable to communicate because of aphasia, impaired consciousness, sedation, mechanical ventilation, or delirium. Under these conditions, the absence of a numerical score may reflect limitations in the systems through which pain is made visible rather than the absence of pain. This paper offers an empirically informed philosophical analysis of what a missing numerical pain score means in neurocritical care and asks how nursing can preserve clinically and ethically meaningful distinctions when a number cannot be responsibly produced. As an empirical point of departure, an extracted adult ischaemic-stroke ICU-stay dataset from MIMIC-IV (6054 ICU stays, 5065 patients) was used, focusing on the first pain score, defined as the earliest documented numerical pain score within the first 24 h after ICU admission among patients with stroke. The empirical material is treated not as epidemiological evidence but as an occasion for conceptual analysis.",
+      "source": "Nursing philosophy : an international journal for healthcare professionals",
+      "authors": "Li Zhuanlian, You Jiaqi, Zhang Liuhua, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671008/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -167,6 +224,21 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42546269",
+      "title": "Nonoperating room anesthesia in the ICU: current practice and considerations.",
+      "abstract": "ICU procedures are increasingly complex, often requiring deeper sedation or general anesthesia, and are increasingly performed at the bedside to avoid transport risk. This trend has expanded the role of anesthesiologists in ICU nonoperating room anesthesia (NORA). This review summarizes practical anesthetic considerations for these procedures, focusing on optimization, monitoring, and systems issues. ICU patients frequently have shock, hypoxemia, right ventricular failure, metabolic acidosis, organ dysfunction, and neurologic injury that change anesthetic pharmacokinetics and hemodynamic responses. Bedside tracheostomy, percutaneous endoscopic gastrostomy, extracorporeal membrane oxygenation cannulation, bronchoscopy, thoracic interventions, and selected neurosurgical and interventional radiology procedures are feasible in the ICU but carry higher rates of cardiorespiratory events than operating room cases, largely because of illness severity and environmental constraints. Short-acting sedatives, noninvasive respiratory support, point-of-care ultrasound, and structured checklists, simulation, and dedicated ICU NORA pathways can reduce complications. Emerging artificial intelligence",
+      "source": "Current opinion in anaesthesiology",
+      "authors": "Aggarwal Avneep, Abdelmalak Basem B",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42546269/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42535369",
       "title": "Integrating gut‑brain axis insights into bundled nutrition care for critically ill patients: From mechanisms to implementation (Review).",
       "abstract": "Critical illness induces a marked disruption of the gut‑brain axis, which is characterized by systemic inflammation and the rapid collapse of intestinal barrier integrity. These pathological shifts facilitate the translocation of pathogen‑associated molecular patterns, thereby driving neuroinflammation and exacerbating intensive care unit‑acquired syndromes such as delirium and muscular wasting. Although conventional nutritional strategies emphasize caloric and protein goals, emerging evidence has highlighted the necessity of modulating the host‑microbiome interface to preserve neurological and systemic homeostasis. The integration of fermentable fibers, probiotics and specialized lipid mediators into a standardized framework may effectively interrupt the self‑perpetuating cycle of dysbiosis and organ failure. The present review uniquely contributes to the field by integrating an implementation science framework for clinical bundle application and discussing artificial intelligence driven precision nutrition advances, which are topics that have not been comprehensively covered in the majority of previous reviews. Therefore, the present review bridges mechanistic insights with pract",
@@ -178,6 +250,36 @@
       ],
       "date": "2026 Oct",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42535369/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42479820",
+      "title": "Neurocritical care in low- and middle-income countries.",
+      "abstract": "The growing incidence of acute neurological disorders, has underscored the increasing global need for dedicated neurocritical care (NCC) services. The organization and delivery of NCC services in low- and middle-income countries (LMICs) continue to evolve from a fragmented care system toward a comprehensive care model. This article reviews the available literature on the delivery of NCC services in LMICs and examines key domains, including infrastructure requirements, education and training frameworks, and research capacity, to support organizational models of care. Earlier publications from LMICs highlight the state of NCC services and the persistent rural versus urban disparities in access to specialized care. Authors have also discussed the organization of existing NCC units and have proposed minimum standards for establishing NCC units. In an effort toward standardized care for NCC patients, researchers have focused on strategies to increase education, training, and research capacity. They discuss pragmatic strategies and future directions aimed at strengthening and expanding NCC services across LMICs. There is an urgent need to strengthen NCC facilities across LMICs to mitigat",
+      "source": "Current opinion in anaesthesiology",
+      "authors": "Prabhakar Hemanshu, Kapoor Indu, Mahajan Charu",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479820/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42438063",
+      "title": "External ventricular drain safety campaign and opportunities for global neuroanesthesiology quality and safety.",
+      "abstract": "This review describes the conceptualization and implementation of the External Ventricular Drain (EVD) Safety Campaign, a global patient safety initiative by the Society for Neuroscience in Anesthesiology and Critical Care. It summarizes recent literature on EVD insertion and maintenance, highlights opportunities to advance quality and safety in neuroanesthesiology, and outlines priorities and a framework for future work. The Society for Neuroscience in Anesthesiology and Critical Care launched a global initiative to improve EVD management. EVD insertion and maintenance remain key areas of ongoing research and quality improvement, particularly in reducing complications. The EVD Safety Campaign provides a structured framework to improve care delivery and patient outcomes worldwide. Continued focus on standardization, education, and complication reduction, especially infection prevention, will be essential to advancing the field.",
+      "source": "Current opinion in anaesthesiology",
+      "authors": "Lele Abhijit V, Sawant Preeti, Blacker Samuel Neal",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42438063/",
       "category": "Review",
       "highlighted": false
     },
@@ -267,108 +369,6 @@
       "date": "2026 Oct",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42308610/",
       "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42302510",
-      "title": "ICU diagnoses associated with increased early emergency department downgrades by a novel emergency critical care program.",
-      "abstract": "The Emergency Critical Care Program (ECCP) utilizes an ECC attending with dual board certification in Emergency Medicine and Critical Care Medicine providing longitudinal care for MICU patients in the ED after initial resuscitation by the ED team during ECCP hours (2 pm to midnight, weekdays). It is unclear which admission diagnoses of critically ill ED patients are most responsive to the ECCP regarding timely ED downgrades to mitigate ICU overcrowding. This single-center retrospective cohort study included adult ED patients with initial admission orders to the MICU or ECC service between 2015 and 2019. Our primary outcome was the proportion of patients who received a transfer order to a non-ICU service within six hours of their critical care admission order while still in the ED (\"Early ED Downgrades\"), stratified by admission diagnosis category and adjusted by illness severity. A difference-in-differences analysis compared the change in proportion of \"Early ED Downgrades\" between the preintervention period (2015-2017) and the intervention period (2017-2019) relative to non-ECCP hours. Our cohort included 1882 patients (mean age 63 years, 53.2% male). The ECCP was associated with ",
-      "source": "The American journal of emergency medicine",
-      "authors": "Gupta Pranjal B, Levin Nicholas M, Gordon Alexandra June, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Oct",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42302510/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42269322",
-      "title": "Facilitators and barriers to the implementation of critical care ultrasound (CCUS): an international survey.",
-      "abstract": "Critical care ultrasound (CCUS) is an essential tool for managing critically ill patients at bedside, improving diagnostic accuracy and reducing procedural risks. However, its global adoption remains inconsistent due to variability in training, certification, and organizational support. This study explores current CCUS use, training practices, and associated facilitators and barriers, aiming to identify opportunities for improving its implementation. A worldwide online survey was conducted between June 2023 and June 2024. The survey was endorsed and distributed by several (inter)national critical care societies. Participation was fully anonymous and open to all healthcare professionals affiliated with a critical care department. The survey consisted of four sections: demographic data, CCUS practice, CCUS training, and possible facilitators and barriers to CCUS. Facilitators and barriers were assessed using an evidence-based framework: the Measurement Instrument for Determinants of Innovation (MIDI). A total of 277 participants (73.3% intensivists, 60.3% European) across 62 countries completed the survey. Most participants (93.5%) used CCUS, predominantly for lung, vascular and basi",
-      "source": "Journal of critical care",
-      "authors": "Mousa Amne, Plantinga Coen, Vignon Philippe, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Oct",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42269322/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42418966",
-      "title": "Management of critically ill cancer patients. Expert consensus statement of the \"Intensive Care for Hematology and Oncology Patients\" (iCHOP) Working Group of the German Society of Hematology and Oncology (DGHO), Austrian Society of Hematology and Oncology (OeGHO), German Society for Medical Intensive Care Medicine and Emergency Medicine (DGIIN), and Austrian Society of Medical and General Intensive Care and Emergency Medicine (ÖGIAIN).",
-      "abstract": "Cancer remains a leading global cause of death, with critically ill cancer patients constituting a substantial proportion of ICU admissions. Historically restrictive ICU admission policies have shifted due to advances in oncology and critical care, leading to declining mortality. However, managing critically ill cancer patients remains complex, requiring collaboration between hematologists/oncologists and intensivists. Emerging evidence on risk assessment, organ support, and tailored critical care underscores the need for updated guidance. This consensus statement provides evidence-based, multidisciplinary recommendations to standardize best practices while allowing for individualized care, aiming to improve survival and quality of life in this high-risk population.",
-      "source": "European journal of cancer (Oxford, England : 1990)",
-      "authors": "Tzalavras Asterios, Busch Elena, Böll Boris, et al.",
-      "pub_types": [
-        "Consensus Statement",
-        "Journal Article"
-      ],
-      "date": "2026 Sep 09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42418966/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42661405",
-      "title": "Caregiver Perceptions of the Transition From Paediatric Intensive to Acute Care.",
-      "abstract": "Transfer from the intensive care unit to an acute care unit is reportedly a stressful time for adult patients and their families. However, little has been done to understand these transition experiences and needs in paediatric patients and their parents/caregivers. To describe parent/caregiver perceptions of their child's transition from the paediatric general or cardiac intensive care unit to an acute care unit. Using a descriptive electronic survey-based design, parents/caregivers reported their perceptions of the quality of their child's transition from a paediatric intensive care unit to an acute care unit in a United States hospital, as well as their perceptions about the care received in each location. Responses were analysed using sign tests, Spearman's rank correlations and other non-parametric tests. A total of 87 parents/caregivers participated. Participants reported significantly more positive perceptions of the quality of intensive care their child received compared to acute care experiences across all response domains (z = -0.3921, p < 0.001); this effect held significance even for those with prior paediatric intensive care admissions (z = -2.1971, p = 0.028). Those wh",
-      "source": "Nursing in critical care",
-      "authors": "Regan Maia D, Keller Briana P, Boulos Emily, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661405/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42640622",
-      "title": "Hallucination Rate of Peer-Reviewed Citations Generated by Large Language Models in Neurocritical Care.",
-      "abstract": "Large language models (LLMs) are increasingly used for scientific literature retrieval, yet their citation accuracy in specialized clinical domains remains poorly characterized. In neurocritical care (NCC), fabricated or inaccurate citations may be difficult to detect without deliberate verification. To evaluate hallucination and fabrication rates of peer-reviewed citations generated by three LLMs across core NCC topics, under constrained zero-shot, memory-only conditions. In this cross-sectional, blinded technology performance evaluation, Generative Pretrained Transformer (GPT)-5.3, DeepSeek-V3, and Grok-4 were queried on March 10, 2026, under identical zero-shot, retrieval-disabled web-interface conditions. Ten NCC topics were submitted to each model, and each model generated 10 references per topic, yielding 300 references. Two NCC experts, blinded to model identity, independently verified each reference against PubMed, DOI, Google Scholar, and CrossRef and scored accuracy using a Hallucination Scale (0-3). The primary outcome was any hallucination, defined as any citation inaccuracy. The secondary outcome was fabrication, defined as a nonexisting complete bibliographic entity. ",
-      "source": "Critical care explorations",
-      "authors": "Seifi Ali, Seyfi Ali",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Sep 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42640622/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42635589",
-      "title": "Validity, reliability and responsiveness of the Chelsea Critical Care Physical Assessment tool (CPAx) for patients in neurocritical care.",
-      "abstract": "Examine inter-tester reliability, construct validity, and responsiveness of the Chelsea Critical Care Physical Assessment tool (CPAx) in neurocritical care patients. Two physiotherapists conducted the baseline CPAx assessment, and one the follow-up assessment. Reliability was examined with Intraclass Correlation Coefficient (ICC) model 2.1 for the total score and Quadratic Weighted Kappa for each item. Measurement error was assessed with Standard Error of Measurement (SEM) and Minimal Detectable Change (MDC). Construct validity and responsiveness were examined using predefined hypotheses regarding the expected Spearman rank correlation coefficients between CPAx and similar instruments. In total, 74 patients were included. Excellent reliability was found with an ICC of 0.99 (0.985;0.994). SEM was 1.08 points, and MDC was 2.99 points. The quadratic weighted kappa of each item ranged between 0.81- 0.97, and the agreement between 97.68% - 99.51%. For construct validity, 67% of our predefined hypotheses were confirmed, and 78% of those for responsiveness. CPAx is a reliable and responsive tool for neurocritical care patients. Construct validity was below the recommended threshold for hi",
-      "source": "Disability and rehabilitation",
-      "authors": "Barsballe Jane Tiede, Astrup Katrine, Brunner Iris, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Validation Study"
-      ],
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42635589/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42616084",
-      "title": "[Focus on Albumin: new perspectives for the clinical application in intensive care medicine : From the quantitative routine to qualitative individualized theranostics].",
-      "abstract": "Human albumin plays a double role in intensive care medicine. It is therapeutically administered as a colloid and diagnostically employed as a laboratory parameter for risk and monitoring classification. For both fields of application, a quantitative logic has so far been dominant. Large randomized studies consistently show that human albumin is overall safer than crystalloids but does not provide a general benefit in most intensive care medical scenarios. Subgroup-specific risks must be considered: in cases of traumatic brain injuries the administration of hypotonic 4% albumin solution was associated with an increased mortality; new analyses indicate that the hypotonicity of the solution in particular and not the albumin molecule per se was the decisive risk factor. A target value-based albumin strategy also does not lead to any advantage with respect to mortality in cases of sepsis. Accordingly, current guidelines and international consensus recommendations position albumin as a targeted supplement after administration of crystalloids and not as first-line treatment.Parallel to the established evidence, the interest in a qualitative albumin perspective is growing. In cases of sep",
-      "source": "Die Anaesthesiologie",
-      "authors": "Klinkmann Gerd, Boss Kristina, Brabandt Sophie, et al.",
-      "pub_types": [
-        "English Abstract",
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42616084/",
-      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
@@ -676,7 +676,8 @@
       "source": "Annals of medicine",
       "authors": "Hung Wei-Syun, Hsieh Meng-Jer, Leu Shaw-Woei, et al.",
       "pub_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42247214/",
@@ -862,7 +863,8 @@
       "pub_types": [
         "Journal Article",
         "Meta-Analysis",
-        "Systematic Review"
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't"
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41846301/",
@@ -946,6 +948,53 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42485824",
+      "title": "Effect of ketofol versus Fentanyl-Midazolam sedation on neurological recovery in traumatic brain Injury: A randomised study.",
+      "abstract": "Neurological recovery after traumatic brain injury (TBI) is multifactorial, and sedation is a cornerstone of neurocritical care because of its neuroprotective role. Although ketofol is widely used for anaesthesia, its effectiveness as a sedative regimen in the intensive care unit (ICU) has not been well studied. This preliminary exploratory double-blind, randomised study compared ketofol (KP) with fentanyl-midazolam (FM) sedation in adults with moderate-to-severe TBI. Sedation was administered for 72 h and titrated to a Richmond Agitation-Sedation Scale (RASS) score ≤  - 3. The primary outcome was the Extended Glasgow Outcome Scale (GOSE) at 30 days. Secondary outcomes included GOSE at 90 days, incidence of propofol infusion syndrome (PRIS), duration of mechanical ventilation, haemodynamic stability, and ICU and hospital length of stay. Of 120 enrolled patients, 111 were included in the final analysis (57 FM, 54 KP). Baseline characteristics, including injury severity and Marshall CT scores, were comparable. At 30 days, good neurological recovery (GOSE 7-8) was more frequent in the KP group than the FM group (26% vs. 10.5%, p = 0.03). At 90 days, recovery remained higher with KP (4",
+      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "authors": "Manyam Umadevi, Sokhal Navdeep, Sokhal Suman, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485824/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42686294",
+      "title": "Early Management of Sepsis.",
+      "abstract": "Prompt recognition and appropriate early management of sepsis reduces mortality. There are 2 major goals of early sepsis management, which should be pursued urgently and in parallel-(1) infection control and (2) hemodynamic resuscitation. Treating infection involves timely antimicrobial therapy, and for some infections, source control. Hemodynamic resuscitation should start with a rapid bolus of balanced crystalloid followed by personalized approaches that tailor fluid and vasopressor therapy to evolving patient physiology. In patients who do not improve with initial antibiotic therapy and resuscitation, it is essential to reassess adequacy of infection control and resuscitation.",
+      "source": "Critical care clinics",
+      "authors": "Munroe Elizabeth S, Peltan Ithan D, Prescott Hallie C",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686294/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42674465",
+      "title": "Empirical Meropenem Versus Piperacillin/Tazobactam for Critically Ill Adults With Sepsis: Feasibility of a Randomised Trial.",
+      "abstract": "Meropenem and piperacillin/tazobactam are commonly used empirical antibiotics in critically ill adults with sepsis, but whether one is superior to the other is uncertain. The Empirical Meropenem versus Piperacillin/Tazobactam for Adult Patients with Sepsis (EMPRESS) trial is an ongoing investigator-initiated, randomised, open-label, adaptive clinical trial with an integrated feasibility phase comparing empirical treatment with meropenem versus piperacillin/tazobactam in critically ill adults with sepsis. The integrated feasibility phase enrolled 200 participants across 10 intensive care units (ICUs) in Denmark between 28 June and 12 December 2025. Five pre-specified feasibility criteria were evaluated; if all feasibility criteria were met, the trial would proceed unaltered, whereas failure to meet one or more criteria would require intervention and re-evaluation. We randomised 200 of 284 screened patients (70.4%). The median age was 70 years (interquartile range (IQR): 60-77), 65.5% were males. At randomisation, 80.0% received vasopressors or inotropes, and 43.5% were on invasive mechanical ventilation. Four of five pre-specified feasibility criteria were met: time to completion of",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Meier Nick Frørup, Møller Morten Hylander, Kjær Maj-Brit Nørregaard, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study",
+        "Multicenter Study"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674465/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42648744",
       "title": "Airway Management Practices in Burn Patients: A Protocol for a Scoping Review.",
       "abstract": "Loss of airway represents a serious clinical concern in the management of burn patients and frequently prompts early intubation. However, intubation itself carries inherent risks and is not invariably required for optimal care. Concern over the potentially severe consequences of airway compromise may lead clinicians to intubate more often than clinically warranted, thereby exposing patients to complications associated with airway management and mechanical ventilation. The lack of unified guidelines contributes to variation in practice, raising important questions about how burn victims are handled across different clinical settings. We aim to (1) provide a comprehensive overview of studies on airway management in burn patients, (2) describe available clinical decision tools or formal guidelines that support clinicians in deciding when burn-injured patients should undergo endotracheal intubation, and (3) identify and synthesize reported outcomes with particular attention to adverse events associated with intubation in burn patients. We will conduct a scoping review in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews",
@@ -1021,37 +1070,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42285015",
-      "title": "Implementation and evaluation of the multidisciplinary \"ABCDEF of sleep\" protocol in Brazilian intensive care units: A quasi-experimental study. Results of a two-phase.",
-      "abstract": "Sleep disruption is common in intensive care units (ICUs) and is associated with adverse outcomes. We evaluated whether a multidisciplinary sleep protocol improves subjective sleep quality in critically ill patients. This multicenter quasi-experimental before-after study (2022-2024) was conducted in two Brazilian ICUs. Adult patients with an ICU stay of ≥2 nights were included. Sleep was assessed using the Richards-Campbell Sleep Questionnaire (RCSQ) and the Sleep in the ICU Questionnaire (SICUQ). Following baseline assessment, structured training and a multifaceted \"ABCDEF of Sleep\" protocol were implemented. The primary outcome was the global RCSQ score; secondary outcomes included SICUQ domains and clinical outcomes. A total of 112 patients were included (control = 61; intervention = 51). The primary outcome (aggregated 3-night RCSQ score) did not differ between groups (p = 0.31). In per-night analyses, RCSQ scores were higher on the second night in the intervention group (p = 0.008), with no differences on nights 1 or 3. The intervention improved perceived sleep quality and reduced environmental disturbances (p ≤ 0.001), without effects on mortality, mechanical ventilation, or ",
-      "source": "Journal of critical care",
-      "authors": "Drehmer Laura, Neto Felippe Leopoldo Dexheimer, Ferrazza Anielle, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Multicenter Study",
-        "Review"
-      ],
-      "date": "2026 Oct",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42285015/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42269323",
-      "title": "Clinical characteristics and factors associated with mortality in critically ill COVID-19 patients at high altitude.",
-      "abstract": "To investigate factors associated with mortality in critically ill COVID-19 patients at 3640 m above sea level (m.a.s.l.), focusing on the interaction between altitude-induced secondary erythrocytosis and virus-induced hyperviscosity. We conducted a retrospective cohort study of 59 adult patients with severe ARDS admitted to the ICU in La Paz, Bolivia. Severe ARDS was defined using altitude-adapted criteria. Non-survivors exhibited significantly higher median hematocrit (53.4% vs 49.7%; p = 0.0001) and D-dimer (29,729 vs 16,521 ng/mL; p = 0.0001) compared to survivors. An \"APACHE II paradox\" was observed, as survivors had significantly higher admission scores than non-survivors (24 vs 17; p = 0.01). While initial ventilatory mechanics were comparable (14.3 vs 14.1 cm H₂O; p = 0.81), non-survivors experienced exclusive complications, including pneumothorax (24.2%) and pulmonary embolism (18.2%). Hyperviscosity, exacerbated by altitude-induced erythrocytosis, is a primary factor associated with mortality in this environment. Traditional severity scores may not adequately stratify risk in high-altitude contexts, highlighting the need for altitude-specific protocols focusing on rheolog",
-      "source": "Journal of critical care",
-      "authors": "Lequipe Mamani Cecilio, Salazar Mario Daniel Terán, Poma Plata Gonzalo Luis, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Oct",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42269323/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42532052",
       "title": "Evaluating the prognostic value of admission IL-8 and sST2 as biomarkers of early myocardial injury in severe community-acquired pneumonia.",
       "abstract": "Myocardial injury in severe community-acquired pneumonia (SCAP) is often under-recognized, and interpretation of high-sensitivity cardiac troponin I (hs-cTnI) may be complicated by renal dysfunction and critical illness. We evaluated whether admission interleukin-8 (IL-8) and soluble suppression of tumorigenicity 2 (sST2) could support early risk stratification of guideline-consistent myocardial injury in patients with SCAP. In this prospective cohort of 146 patients with SCAP, guideline-consistent myocardial injury was defined as hs-cTnI elevation above the assay-specific 99th percentile upper reference limit. Admission IL-8, sST2, and their combination were assessed using receiver operating characteristic curve analysis and 10-fold cross-validation. Fixed and estimated glomerular filtration rate (eGFR)-stratified hs-cTnI thresholds were compared in an exploratory analysis. An exploratory subgroup analysis was performed among patients with CURB-65 ≤ 1. The median age was 71 years; 91 patients (62.3%) were male and 55 (37.7%) were female. Myocardial injury occurred in 88 patients (60.3%). The IL-8 + sST2 model showed good discrimination for myocardial injury, with an AUC of 0.825 (",
@@ -1062,6 +1080,21 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42532052/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42424121",
+      "title": "Use of Cystatin C in Tandem with Creatinine to Improve GFR Estimation and Clinical Decision Making.",
+      "abstract": "Recognizing its clinical utility, the 2024 Kidney Disease Improving Global Outcomes (KDIGO) guideline recommends using equations that integrate serum creatinine and cystatin C for CKD diagnosis and staging. Cystatin C-inclusive equations generally outperform creatinine-based equations in bias and accuracy across diverse populations, including children and patients with comorbidities. Moreover, cystatin C-inclusive equations consistently demonstrate greater prognostic value than creatinine-only equations for clinical outcomes such as kidney failure with replacement therapy, cardiovascular disease, and mortality, particularly in individuals with large differences between creatinine-based and cystatin C-based eGFR. Among hospitalized patients and those undergoing significant changes in muscle mass, such as during weight loss or critical illness, cystatin C may improve GFR estimation and facilitate earlier detection of AKI. In clinical practice, cystatin C informs CKD staging, risk stratification, and medication dosing, particularly in scenarios where creatinine-based equations are less reliable. Although the integration of cystatin C into risk equations has shown mixed results, its in",
+      "source": "Journal of the American Society of Nephrology : JASN",
+      "authors": "Awdishu Linda, Karger Amy B, Shlipak Michael G, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Sep 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42424121/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
@@ -1167,20 +1200,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42424121",
-      "title": "Use of Cystatin C in Tandem with Creatinine to Improve GFR Estimation and Clinical Decision Making.",
-      "abstract": "Recognizing its clinical utility, the 2024 Kidney Disease Improving Global Outcomes (KDIGO) guideline recommends using equations that integrate serum creatinine and cystatin C for CKD diagnosis and staging. Cystatin C-inclusive equations generally outperform creatinine-based equations in bias and accuracy across diverse populations, including children and patients with comorbidities. Moreover, cystatin C-inclusive equations consistently demonstrate greater prognostic value than creatinine-only equations for clinical outcomes such as kidney failure with replacement therapy, cardiovascular disease, and mortality, particularly in individuals with large differences between creatinine-based and cystatin C-based eGFR. Among hospitalized patients and those undergoing significant changes in muscle mass, such as during weight loss or critical illness, cystatin C may improve GFR estimation and facilitate earlier detection of AKI. In clinical practice, cystatin C informs CKD staging, risk stratification, and medication dosing, particularly in scenarios where creatinine-based equations are less reliable. Although the integration of cystatin C into risk equations has shown mixed results, its in",
-      "source": "Journal of the American Society of Nephrology : JASN",
-      "authors": "Awdishu Linda, Karger Amy B, Shlipak Michael G, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Jul 09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42424121/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42159356",
       "title": "Stress Ulcer Prophylaxis in Orthopaedic Surgery.",
       "abstract": "Although rare, stress-related gastrointestinal complications, such as perforated peptic ulcer (PPU) and upper gastrointestinal bleeding, can result in notable morbidity and mortality following orthopaedic surgery, particularly in elderly or critically ill patients. Despite widespread implementation of stress ulcer prophylaxis (SUP) in critical care, its role in orthopaedic surgical populations remains ill defined. A narrative review of the literature reveals a low incidence of PPU following orthopaedic procedures (0.054% after elective spine surgery); however, associated mortality may reach as high as 25% in cases of PPU. Identified risk factors include NSAID use, advanced age, notable comorbidities, and critical illness. SUP with proton pump inhibitors or histamine-2 receptor antagonists has been shown to reduce upper gastrointestinal bleeding in critically ill patients, leading to guideline-based recommendations for selective prophylaxis in high-risk individuals. Given the potential severity of these complications, orthopaedic surgeons should maintain vigilance and consider SUP in at-risk patients, while avoiding routine prophylaxis in low-risk cases. Tailoring prophylactic strat",
@@ -1223,6 +1242,18 @@
       "date": "2026 Jun 15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42009083/",
       "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2850805",
+      "title": "Complexity of Diagnosing Volume Overload",
+      "abstract": "To the Editor Dr Drum and colleagues provided a comprehensive review of methods for identifying intravascular volume overload. This work is vital given the growing recognition that venous congestion is not only a marker of fluid status but also predicts severe end-organ injury. We agree with the authors that a combination of physical examination, chest radiography, basic POCUS, and BNP can accurately assess volume overload in most cases. However, in borderline cases, this assessment can be further enhanced by incorporating the venous excess ultrasound (VExUS) framework.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Sep 01",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2850805",
+      "category": "Review",
       "highlighted": false
     }
   ]
