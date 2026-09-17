@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T11:13:55.209497+00:00",
-  "count": 59,
+  "generated": "2026-09-17T10:38:39.057211+00:00",
+  "count": 85,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -197,6 +197,21 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42520421",
+      "title": "Comparison of burn surface area estimated by ambulance crews or referring hospitals and an Advanced Critical Care and Emergency Center.",
+      "abstract": "Burn surface area is an essential factor in determining the need for specialized burn center treatments. Herein, the accuracy of burn surface areas estimated by ambulance crews and referral hospitals was evaluated, providing insight into the effectiveness of patient selection for specialized care. The study was conducted from April 1, 2018 to March 31, 2024. The participants were patients with burns admitted to the Advanced Critical Care and Emergency Center of Yokohama City University Medical Center, Kanagawa Prefecture, Japan. The study population was divided into two groups: direct transport group (patients transported from the scene to our center by ambulance crews) and inter-hospital transfer group (patients transferred from other hospitals). Pre- and post-transfer burn surface area estimates were evaluated in qualitative and quantitative frameworks. During the study period, 176 inpatients were evaluated with respect to the burn surface area at our center, including 134 (76.1%) and 42 (23.9%) in the direct transport and inter-hospital transfer groups, respectively. A comparison of the burn surface area estimates by ambulance crews or referring hospital physicians and those at ",
+      "source": "Burns : journal of the International Society for Burn Injuries",
+      "authors": "Kuroyanagi Misato, Fujiwara Bunrei, Abe Takeru, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520421/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42447641",
       "title": "The pediatric transfer gap: How adult-ICU-trained machine-learning models degrade on pediatric intensive care patients.",
       "abstract": "Most clinical machine-learning models are trained on adult data, which raises safety concerns when they are used in children. We quantify this Pediatric Transfer Gap on routinely recorded vital signs and evaluate whether limited target-cohort data can close it. We performed two complementary experiments. Experiment A is a fully observed within-pediatric design in which both source and target are directly measured data from the Pediatric Intensive Care database (PIC): after item-code audit and physiological filtering, 10,194 patients yielded heart-rate, body-temperature, respiratory-rate, and oxygen-saturation summaries, with older children (≥2 years, n=3062) as source and younger children (<2 years, n=7132) as target. Experiment B is a directly observed adult-ICU design in which 63,203 adults from the MIMIC-IV ICU module supplied directly observed first-24-hour vital signs and actual in-hospital mortality, transferred to the window-matched pediatric cohort. Three classifier families (Random Forest, gradient boosting, logistic regression) were trained with stratified 70/30 splits, applied to the target without adaptation, and subjected to target-domain retraining on 50% of target da",
@@ -208,6 +223,21 @@
       "date": "2026 Nov 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42447641/",
       "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42407278",
+      "title": "Toxic epidermal necrolysis: Management in the ICU.",
+      "abstract": "Epidermal necrolysis (EN) includes Stevens-Johnson syndrome (SJS, detached/detachable skin surface <10% body surface), toxic epidermal necrolysis (EN, detached/detachable skin surface ≥30%), and SJS-EN overlap (detached/detachable skin surface 10-29%). These are rare but severe cutaneous adverse reactions, usually triggered by drugs. Drugs account for 85-90% of cases, with onset typically 4-28 days after exposure. The acute phase is life-threatening, with respiratory and septic complications being the main determinants of prognosis. Mortality averages 15-20%. Supportive care is the cornerstone of management. Any suspected drug should be stopped as soon as possible. No immunomodulatory treatment has been shown to be effective in halting detachment, or reducing mortality. Multidisciplinary management should take place in specialized centers led by dermatology teams. This review article aims at reviewing the current knowledge on the management of EN in the intensive care unit during the acute phase, in expert centers -eventually burn centers- including supporting care and pharmacological interventions.",
+      "source": "Burns : journal of the International Society for Burn Injuries",
+      "authors": "Windsor Camille, Gaillet Antoine, Ingen-Housz-Oro Saskia, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407278/",
+      "category": "Review",
       "highlighted": false
     },
     {
@@ -329,48 +359,17 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42625358",
-      "title": "Severity scoring systems in intensive care: new models, or continuous recalibration?",
-      "abstract": "To review how ICU illness severity scoring systems perform across settings and over time, and when recalibration is sufficient versus when new models are needed. Illness severity scoring systems may consist of a numerical 'score' and/or an equation that translates that score or its components into the risk of an outcome such as mortality. The need for periodic updating of a scoring system depends on its primary purpose and on how its performance (discrimination, calibration and validity) varies over time and in different settings. Calibration is most vulnerable to temporal drift, case-mix change and health-system differences, making periodic recalibration essential for benchmarking. Descriptive scores are more stable and often retain good discrimination. They usually need redevelopment only when the relative importance of contributing variables changes or they no longer reflect contemporary practice. Examples including APACHE, ANZROD, SOFA-2, ICNARC, GOSSIS and machine-learning models show recalibration works when predictors remain relevant, whereas rebuilding is preferable when practice, data or modelling methods change substantially. Regular recalibration with periodic rebuilding",
-      "source": "Current opinion in critical care",
-      "authors": "Barlow C Jake, Pilcher David V",
+      "id": "pmid_42629246",
+      "title": "Adding carbon to the equation: environmental outcomes in critical care research.",
+      "abstract": "Intensivists will increasingly find themselves playing two roles in the era of climate change: treating the impacts of an increase in ambient temperatures on human physiology and minimising their contributions to the carbon emissions that are causing the planet to warm at an alarming rate. New data published in the British Journal of Anaesthesia quantify the carbon savings resulting from the choice of a lower oxygen saturation target rather than liberal oxygen use. We explore how environmental data can be integrated into clinical decision-making, and highlight the importance of system-level work to reduce the carbon footprint of clinical care.",
+      "source": "British journal of anaesthesia",
+      "authors": "Ng-Kamstra Joshua S",
       "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Oct 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42625358/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42578558",
-      "title": "Temporal Crisis of Clinical Evidence.",
-      "abstract": "This commentary examines the widening gap between evidence generation and the pace of innovation in medicine. New algorithms emerge before their predecessors have been validated, most never reaching the evidence required to justify their use. The gap is sharpest in critical care, where sepsis and acute respiratory distress syndrome exemplify a field that has multiplied predictive models without seeing them enter routine practice. Evidence takes years to build; by the time it arrives, clinical reality has changed: populations, co-interventions, and standards of care no longer match those in which evidence was produced. Our evidence hierarchies were designed for a world that held still long enough to be captured. Algorithmic velocity outpaces validation; models are trained on cohorts that have drifted by deployment. As personalization pushes stratification toward the single patient, conventional proof becomes untenable. The challenge is epistemologic: how we conceive, produce, and sustain proof in medicine.",
-      "source": "Anesthesiology",
-      "authors": "Braïk Rayan, Blanchard Florian, Constantin Jean-Michel",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Oct 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42578558/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42570287",
-      "title": "Methodological Approaches for Ultrasound Assessment of Peripheral and Abdominal Muscle Thickness in Intensive Care: A Scoping Review and Proposed Reporting Framework.",
-      "abstract": "To map and synthesize methodological approaches used for ultrasound (US) assessment of peripheral (upper- and lower-limb) and abdominal muscle thickness in critically ill patients, and to propose a preliminary Standard Operating Procedure (SOP) as a structured reporting framework. A review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews checklist, using systematic searches on PubMed, BIREME (including MEDLINE, LILACS and IBECS) and Embase. Two reviewers independently screened, selected, and extracted data from studies published between 2015 and 2025. Extracted data included muscle groups assessed, thickness measurement criteria, patient and probe positioning, operational US parameters, and reliability information. The proposed SOP was developed based on recurring methodological patterns identified in the literature and subsequently refined through external expert review and pilot feasibility testing in ICU settings. Of 2.293 identified records, 29 studies (1.736 patients) were included. B-mode imaging and linear transducers were the most frequently reported US parameters, and the supine position with the h",
-      "source": "Physiotherapy research international : the journal for researchers and clinicians in physical therapy",
-      "authors": "Porfirio Pedro Vinicius, Leite Wagner Souza, Costa Layane Santana Pereira, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Scoping Review"
+        "Editorial"
       ],
       "date": "2026 Oct",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42570287/",
-      "category": "Systematic Review / Meta-Analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42629246/",
+      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -401,6 +400,20 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42749504",
+      "title": "Characterizing discordant discharge in late preterm and term twin pairs: a retrospective cohort study.",
+      "abstract": "Twin pairs are at risk for discordant hospital discharge, which may lead to postnatal co-twin separation. This study evaluated the prevalence of discordant discharge in late preterm and term twin pairs and identified clinical characteristics associated with this outcome. We conducted a retrospective cohort study of live, nonanomalous, inborn twin pairs ≥ 34 weeks at two urban delivery hospitals in the United States from 2016 to 2024. The primary outcome was discordant discharge between co-twins (inter-twin discharge date ≥ 1 day). Secondary outcomes included discordant neonatal intensive care unit admission and common neonatal morbidities. Clinical characteristics were compared between twin pairs with discordant versus concordant discharge. Cochran-Armitage test was used to assess for a linear trend in the primary outcome across gestational age. Multivariable logistic regression was used to identify factors associated with discordant discharge. Among 359 twin pairs included, 84 (23.4%) had discordant discharge and 275 (76.6%) had concordant discharge. Twin pairs with discordant discharge had lower median gestational age (GA) and birthweight and were more likely to have mild (≥ 18 t",
+      "source": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "authors": "Khan Sara, Diala Prisca C, Duldulao Jared M, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42749504/",
+      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -686,18 +699,352 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42480006",
-      "title": "Effects of a brief primary care intervention for post-traumatic stress disorder symptoms after critical illness on health-related quality of life - A secondary analysis of the PICTURE randomised controlled trial.",
-      "abstract": "Intensive care unit (ICU) survivors frequently experience symptoms of post-traumatic stress disorder (PTSD) and reduced health-related quality of life (HRQoL), yet evidence for effective post-ICU interventions in primary care remains limited. This secondary analysis of the PICTURE randomised controlled trial provides an in-depth evaluation of HRQoL trajectories and potential treatment mechanisms. The analysis included 319 adult ICU survivors with at least moderate PTSD symptoms, randomised to a brief general practitioner (GP)-delivered narrative exposure intervention or enhanced usual care. Longitudinal mixed-effects models estimated treatment-by-time effects on HRQoL, based on EuroQol Five-Dimension Five-Level (EQ-5D-5L) index and visual analog scale (VAS), with mediation  The mean baseline EQ index was 0.71 ± 0.27 and EQ VAS was 60.7 ± 19.4. Mixed-effects models showed a transient improvement in EQ VAS at 6 months in the intervention group (ß = 5.85; 95% CI 0.84-10.87), followed by a delayed improvement in the EQ index at 12 months (ß = 0.075; 95% CI 0.014-0.136). About one quarter of the 12-month EQ index effect was mediated by PTSD symptom reduction at 6 months. Domain-level an",
-      "source": "The European journal of general practice",
-      "authors": "Kosilek Robert Philipp, Schröder Nora, Sanftenberg Linda, et al.",
+      "id": "pmid_42447972",
+      "title": "Short-chain fatty acid metabolism in acute lung injury and intervention strategies from traditional Chinese medicine.",
+      "abstract": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are severe conditions associated with high mortality rates and limited treatment options. Short-chain fatty acids (SCFAs) serve as central immunomodulatory metabolites mediate the crosstalk between the gut and lung. Traditional Chinese medicine (TCM), with its holistic approach, shows promise in restoring gut-lung balance and alleviating respiratory inflammation by modulating gut microbiota and SCFA metabolism. To elucidate the protective role and mechanism of SCFAs in ALI and ARDS via the gut-lung axis. Meanwhile, to evaluate the therapeutic potential of TCM in treating ALI by modulating the gut microbiota and enhancing SCFA production. A comprehensive literature search was conducted across PubMed, Ovid-Embase, Web of Science, and CNKI databases (2010-2025). Keywords included \"short-chain fatty acid\", \"gut microbes\", \"acute lung injury\", \"traditional Chinese medicine\", and related terms. The search focused on preclinical and mechanistic studies investigating SCFA signaling, gut microbiota remodeling, and the therapeutic effects of herbal compounds or their active constituents in ALI/ARDS models. This review ide",
+      "source": "Journal of ethnopharmacology",
+      "authors": "Zhao Bing, Li Rongrong, Chen Dandan, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Jan 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42447972/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42635401",
+      "title": "Fecal filtrate transplantation as salvage therapy for fulminant",
+      "abstract": "Fulminant  We conducted a single-center, prospective, protocol-defined pilot case series study including consecutive adults with hematologic malignancies, chemotherapy-induced grade-4 aplasia and fulminant CDI, refractory to ≥5 d of high-dose oral vancomycin plus intravenous metronidazole and tigecycline. FFT was prepared from a single unrelated donor using sequential centrifugation and filtration, and administered via nasogastric tube in two doses. The primary outcome was sustained clinical cure, secondary outcomes included survival and adverse events, assessed at +14 and +30 d post-FFT. 16S rRNA gene sequencing was used to assess microbiome compositions, while viral metagenomics and  Three patients with adverse-risk acute myeloid leukemia and fulminant CDI caused by genetically distinct  FFT was feasible, with rapid sustained CDI resolution in hematologic patients with chemotherapy-induced aplasia. ClinicalTrials.gov identifier NCT07172191. Prospective single-center pilot study of fecal filtrate transplantation (FFT) for fulminant-refractory",
+      "source": "Gut microbes",
+      "authors": "Korózs Dorina, Szabó Bálint Gergely, Apjok Gábor, et al.",
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "date": "2026 Dec 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42635401/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42324603",
+      "title": "Cross-kingdom microbiome interactions along the gut-lung axis: immune-microecological coordination, shared mechanisms, and disease-context dependence in respiratory disorders.",
+      "abstract": "Cross-kingdom dysbiosis of the gut microbiome along the gut-lung axis has emerged as a key driver of chronic and acute respiratory diseases. Beyond bacteria, the intestinal mycobiome and virome, including bacteriophages, shape mucosal immunity and metabolism through partially overlapping but non-redundant pathways. In this Review, we synthesize rapidly expanding evidence that fungi, bacteria, and phages in the gut form an integrated network that may influence susceptibility, inflammatory tone, and therapeutic responsiveness across asthma, chronic obstructive pulmonary disease (COPD), acute respiratory distress syndrome (ARDS), and lung cancer via the gut-lung axis. We first summarize how cross-kingdom communities in the intestine are organized and interact, highlighting a tripartite framework centered on pathogen-associated molecular pattern-pattern recognition receptor (PAMP-PRR) circuits, the short-chain fatty acid (SCFA)-regulatory T-cell axis, and tryptophan-indole-aryl hydrocarbon receptor (AHR) signaling. We then compare how these shared axes are differentially perturbed across asthma, COPD, ARDS, and lung cancer, using these disorders as representative but non-sequential dis",
+      "source": "Gut microbes",
+      "authors": "Yu Jiang, Meng Jianbiao, Shi Zhongliang, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324603/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42655964",
+      "title": "Effect of protective ventilation throughout the intubation period on perioperative oxygenation in patients undergoing MIDCABG: a randomised controlled trial.",
+      "abstract": "Minimally invasive direct coronary artery bypass grafting (MIDCABG) requires prolonged one-lung ventilation (OLV), increasing postoperative pulmonary complications (PPCs) risk. We investigated whether protective lung ventilation (PLV) throughout intubation benefits MIDCABG patients. In this single-center randomized study, MIDCABG patients received PLV (low tidal volume of 6-8 mL·kg Sixty patients (n = 30 per group) were enrolled. Compared with CMV, PLV improved PaO In patients undergoing MIDCABG, PLV applied throughout intubation improved perioperative oxygenation and shortened the duration of postoperative mechanical ventilation and hospital stay, but did not reduce PPCs. ChiCTR1900022005.",
+      "source": "Annals of medicine",
+      "authors": "Qian Min, Cong Zhukai, Yang Ning, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42655964/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42580157",
+      "title": "Interventions with a significant mortality difference in acute respiratory distress syndrome: A systematic review and comparison with Guidelines.",
+      "abstract": "Acute respiratory distress syndrome (ARDS) has a high mortality rate. European Society of Intensive Care Medicine (ESICM) and American Thoracic Society (ATS) Guidelines are the worldwide reference for clinicians in management of ARDS. Mortality represents one of the most important outcomes in intensive care practice and randomized controlled trials (RCTs) the highest level of evidence. We compared Guidelines recommendations with RCT results to highlight differences and find potential new therapeutic opportunities. We performed a systematic review of all RCTs reporting a statistically significant mortality difference in ARDS and a subsequent comparison with ESICM and ATS Guidelines recommendations. We identified 33 RCTs and 23 interventions with mortality difference in ARDS patients. Seven interventions relate to invasive ventilation strategies, two to noninvasive ventilation strategies, one to extracorporeal membrane oxygenation (ECMO), 12 to drugs and one to nutritional support. In 25/33 (76%) RCTs the intervention was associated with mortality reduction and in 8/33 with mortality increase (24%). Multicenter studies were 24/33 (73%) while blinding was adopted in 19/33 (58%) studie",
+      "source": "Journal of critical care",
+      "authors": "Sartini Chiara, Stati Roberta, Belletti Alessandro, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Comparative Study",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580157/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42537430",
+      "title": "Safety and outcomes of dapagliflozin initiation in critically ill patients with acute kidney injury: A post-hoc analysis of the defender trial.",
+      "abstract": "SGLT2 inhibitor use in acute kidney injury (AKI) is controversial due to concerns about hemodynamic instability. We evaluated dapagliflozin initiation in critically ill patients with AKI enrolled in the DEFENDER trial. Among 212 patients with AKI at enrollment (100 dapagliflozin, 112 control), we compared 28-day mortality, kidney replacement therapy (KRT), and composite death/KRT. Adjusted risk differences were estimated controlling for age, sepsis, baseline vasopressor use, and creatinine. Physiological trajectories (creatinine, urine output, fluid balance, acid-base parameters) over days 1-5 were analyzed using mixed models. Likelihood ratios quantified compatibility with clinically meaningful harm or benefit. Event rates were similar: 28-day mortality 38% vs 40%, KRT 12% vs 18%, composite 41% vs 42% (dapagliflozin vs control). Adjusted risk differences were - 1.9% (95% CI -14.5 to 10.7) for death, -7.4% (-16.2 to 1.5) for KRT, and - 0.9% (-13.6 to 11.8) for the composite. Physiological trajectories showed no divergence suggestive of hemodynamic or metabolic instability. Likelihood ratios provided limited separation: at 5% absolute effect threshold, LR against harm was 1.47 and a",
+      "source": "Journal of critical care",
+      "authors": "Zampieri Fernando G, Bagshaw Sean M, Batista Marcelo Costa, et al.",
       "pub_types": [
         "Journal Article",
         "Randomized Controlled Trial"
       ],
       "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42480006/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42537430/",
       "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42424994",
+      "title": "Ventilator-associated pneumonia prevention: Past, present, perspective.",
+      "abstract": "The prevention of ventilator-associated pneumonia (VAP) is a key part of managing critically ill patients who require invasive mechanical ventilation. Despite a reduction in exposure to mechanical ventilation, the incidence of VAP remains high, significantly impacting outcomes. In this brief review, at the light of recent meta-analyses, we examine the evolution of VAP prevention over the past few decades and attempt to predict future developments.",
+      "source": "Journal of critical care",
+      "authors": "Leone Marc, Marecal Ludivine, Bouglé Adrien, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42424994/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42185742",
+      "title": "Prognostic factors in malaria patients with acute kidney injury: a systematic review and meta analysis.",
+      "abstract": "This systematic review and meta-analysis aims to evaluate the predictors of mortality in malaria patients with AKI. Studies were searched in PubMed, Scopus, Ebsco, and ScienceDirect. We included observational studies that showed the association between clinical or laboratory abnormalities and mortality, reported in odds ratio. The quality of each study was assessed using the Newcastle-Ottawa Scale. Meta-analysis was performed using R. Sixteen studies with 1,104 patients were analyzed. Factors significantly associated with mortality were respiratory distress syndrome (OR: 18.50,",
+      "source": "Renal failure",
+      "authors": "Tear Alveron Andreas, Fauziah Nisa, Riswari Silvita Fitri, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42185742/",
+      "category": "Systematic Review / Meta-Analysis",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41955447",
+      "title": "Comparison of VCV and PCV-VG modes on diaphragmatic function in diabetic patients undergoing laparoscopic colorectal surgery: a prospective randomized controlled study.",
+      "abstract": "Diabetic patients are prone to induce diaphragmatic weakness, which can lead to postoperative pulmonary complications (PPCs). The optimal mechanical ventilation mode may potentially improve postoperative diaphragmatic function. This study evaluates the effects of two ventilation modes under driving pressure-guided ventilation strategy on diaphragmatic function, as assessed by diaphragm thickening fraction (DTF) and diaphragm excursion (DE), in diabetic patients following laparoscopic colorectal surgery. Eighty patients diagnosed with Type II diabetes scheduled for elective laparoscopic colorectal surgery, were randomly allocated to either the pressure-controlled volume-guaranteed ventilation (PCV-VG) group (Group P) or the volume-controlled ventilation (VCV) group (Group V) during surgery. The primary outcome was diaphragmatic function assessed during both tidal breathing and maximal inspiratory effort after surgery. Secondary outcomes included intraoperative mechanical power, PPCs, and other complications. A total of eighty patients were included in the final analysis. The averaged area under the curve (AUC) for mechanical power during ventilation was significantly lower in Group ",
+      "source": "Annals of medicine",
+      "authors": "Wang Yanan, Chen Linyao, Xu Zixuan, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41955447/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41873460",
+      "title": "Hyper-oncotic albumin administration reduces mortality in acute Respiratory Distress Syndrome compared to crystalloid: a systematic review and meta-analysis.",
+      "abstract": "To evaluate the association between albumin administration as volume replacement and mortality in adult ARDS patients, we performed this meta-analysis and trial sequential analysis (TSA). We searched databases including PubMed, Science Direct, Scopus, Web of Science databases and Cochrane Central Register of Controlled Trials up to 12 December 2024. We screened trials that included adult ARDS patients and compared albumin with crystalloid. The 28-day mortality served as the primary endpoint, while the oxygenation change, the length of ICU stay and the length of hospital stay were designated as secondary outcomes. To clarify the differing concentrations of albumin, we formed two distinct subgroups: the hyper-oncotic albumin subgroup (≥20%) and the iso-oncotic albumin subgroup (4%∼5%). Statistical synthesis was performed with Cochrane Review Manager 5.4.1, employing random-effects models. To mitigate random errors, TSA was implemented with α = 0.05 and β = 0.20 parameters. The analysis incorporated 5 publications: 3 randomized controlled trials (RCTs) and 2 non-randomized studies (NRSs). Overall mortality was lower in the albumin group (33.2%, 97/292) than in the crystalloid group (4",
+      "source": "Annals of medicine",
+      "authors": "Zhang Yan-Jie, Luo Zhu, Wang Zhen, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41873460/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41846301",
+      "title": "The effect of dexmedetomidine in mechanically ventilated patients with sepsis and septic shock: a meta-analysis of randomized controlled trials.",
+      "abstract": "Dexmedetomidine (DEX) is a central sympatholytic with sedative properties widely used in critically ill patients. However, its effects in patients with sepsis and septic shock remain controversial. This meta-analysis evaluated the efficacy and safety of DEX compared to other sedatives in mechanically ventilated patients with sepsis and septic shock. A systematic search was conducted across PubMed, Embase, Scopus, and Cochrane Library from inception through May 1, 2025 for randomized controlled trials comparing DEX with other sedatives or placebo in mechanically ventilated patients with sepsis and septic shock. Primary outcomes included overall mortality and Sequential Organ Failure Assessment (SOFA) scores. Secondary outcomes encompassed duration of mechanical ventilation (MV), length of stay in Intensive Care Unit (ICU), incidence of hypotension and bradycardia. Fifteen studies involving 3,882 patients (1,945 in the DEX group, 1,937 in the control group) were included. DEX was demonstrated no significant differences compared to other sedatives or placebo in overall mortality (Risk Ratio [RR] 0.98, 95% Confidence Interval [CI] 0.90 to 1.07,  In mechanically ventilated patients with",
+      "source": "Annals of medicine",
+      "authors": "Chen Lin, Wu Weibing, Chen Yunxiang, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41846301/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41814716",
+      "title": "Exploring the mechanism of polymorphonuclear neutrophils against sepsis based on immune model.",
+      "abstract": "Sepsis is a life-threatening organ dysfunction caused by a dysregulated host response to infection and remains a major global health challenge. Polymorphonuclear neutrophils (PMNs), as major effectors of innate immunity, are essential for antimicrobial defense but can also contribute to immune dysregulation, tissue injury, and organ failure during sepsis. We conducted a narrative review of the literature by searching PubMed and Web of Science from database inception to November 2025. Search terms included sepsis, septic shock, neutrophils, polymorphonuclear neutrophils, PMNs, immunology, immune models, diagnosis, biomarkers, and treatment. Peer-reviewed English-language studies and reviews focusing on neutrophil biology, immune mechanisms, diagnostic applications, and therapeutic strategies in sepsis were included. Current evidence shows that PMNs play a dual role in sepsis. On the one hand, they mediate pathogen clearance through chemotaxis, phagocytosis, reactive oxygen species production, degranulation, and neutrophil extracellular trap formation. On the other hand, excessive or dysregulated PMN activation amplifies inflammation, disrupts endothelial and microvascular integrity,",
+      "source": "Annals of medicine",
+      "authors": "Liu Chibo, Cai Yanqun, Mou Sihua",
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41814716/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41575001",
+      "title": "Heliox ventilation promotes pulmonary circulation and cardiac function in elderly hypertensive patients: a randomized controlled trial.",
+      "abstract": "Previous studies have indicated that helium-oxygen mixture (heliox) ventilation could improve blood pressure and microcirculation in elderly hypertensive patients. To explore the advantages of heliox ventilation over conventional nitrogen-oxygen ventilation, a randomized controlled study was conducted from October 2020 to January 2023 in the Intensive Care Unit of Fujian Medical University Union Hospital and included 40 elderly hypertensive patients requiring invasive mechanical ventilation. These patients were randomly assigned to two groups: the heliox ventilation group ( n = 20), which received a closed heliox ventilation protocol for 3 hours, and the nitrogen-oxygen ventilation group ( n = 20), which received conventional nitrogen-oxygen ventilation. Compared with the nitrogen-oxygen group, the heliox group demonstrated significantly lower central venous pressure and higher central venous oxygen saturation, indicating increased cardiac output and elevated plasma nitric oxide. Moreover, in the heliox group, the change in plasma caveolin-1 was essentially identical to that in nitric oxide. However, there was no significant difference in endothelin-1 levels between the two groups.",
+      "source": "Medical gas research",
+      "authors": "Zhou Lili, Chen Lihui, Lin Jing, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "date": "2026 Dec 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41575001/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_41527456",
+      "title": "Risk factors of venous thromboembolism in ICU patients: a systematic review and meta-analysis.",
+      "abstract": "This study aimed to identify risk factors associated with the development of VTE in patients admitted to the intensive care unit (ICU). A systematic literature search was conducted  A total of 2465 relevant studies were identified through the systematic search, of which 30 were included in the meta-analysis. The pooled data showed that the following were significant risk factors for venous thromboembolism (VTE) in ICU patients: central venous catheterization (OR = 2.67, 95% CI: 1.67-4.28;  Invasive mechanical ventilation, central venous catheterization, and elevated D-dimer levels are associated with VTE risk, supported by relatively high-quality evidence. These findings may help identify ICU patients at higher risk of VTE, inform the development of risk assessment models for patient stratification, and ultimately contribute to improved prognosis through optimal screening and management strategies.",
+      "source": "Annals of medicine",
+      "authors": "Yang Xiaoli, Zhou Xiaoli, Qiu Yuehong",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41527456/",
+      "category": "Systematic Review / Meta-Analysis",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42462625",
+      "title": "Targeting MD2 in diseases: from structure and function to inhibitor development.",
+      "abstract": "Myeloid differentiation protein 2 (MD2) is an indispensable co-receptor for Toll-like receptor 4 (TLR4) and also serves as a key recognition protein for lipopolysaccharide (LPS). Binding of LPS to TLR4-MD2 complex triggers downstream signaling cascades that regulate the production of pro-inflammatory cytokines, thereby contributing to the pathogenesis of inflammation-related diseases such as acute lung injury, sepsis, and cardiac fibrosis. Targeting MD2 has emerged as an important therapeutic strategy for human diseases. Currently, significant progress has been made in the development of MD2 inhibitors, among which ACT001, TAK-242, and eritoran have entered clinical studies for the treatment of diffuse midline glioma, alcoholic hepatitis and septic shock, etc. In this review, we provide a systematic summary of reported MD2 inhibitors, focusing on their structural characteristics, biological functions, binding modes with MD2, and the role of MD2 in related diseases, with the goal of providing reference for the development of novel anti-inflammatory drugs.",
+      "source": "European journal of medicinal chemistry",
+      "authors": "Cheng Feng, Yang Feifei, Xiao Sa, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462625/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42323114",
+      "title": "Candidate genetic and multi-omics determinants potentially contributing to Macklin effect development in acute respiratory distress syndrome: A narrative review.",
+      "abstract": "Acute respiratory distress syndrome (ARDS) is a complex and heterogeneous clinical syndrome characterized by diffuse alveolar damage, severe hypoxemia, and a high risk of respiratory complications. Among these, the Macklin effect has emerged as an early radiological sign associated with the subsequent development of barotrauma. Although several genetic and molecular factors have been implicated in ARDS susceptibility and progression, their potential contribution to the biological processes underlying Macklin effect development remains largely unexplored. This review aims to examine current evidence on genetic susceptibility factors, molecular biomarkers, and multi-omics signatures involved in ARDS pathophysiology, with particular attention to mechanisms that may increase alveolar fragility and predispose to the development of the Macklin effect. A narrative review of the literature was conducted, focusing on studies investigating genetic polymorphisms, inflammatory pathways, transcriptomic profiles, proteomic biomarkers, and metabolomic alterations associated with ARDS severity, tissue injury, and pulmonary complications. Available evidence indicates that genetic variants involved ",
+      "source": "Gene",
+      "authors": "Radice Rosa Paola, Vignola Federica, Montagnuolo Xavier, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov 05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42323114/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42485824",
+      "title": "Effect of ketofol versus Fentanyl-Midazolam sedation on neurological recovery in traumatic brain Injury: A randomised study.",
+      "abstract": "Neurological recovery after traumatic brain injury (TBI) is multifactorial, and sedation is a cornerstone of neurocritical care because of its neuroprotective role. Although ketofol is widely used for anaesthesia, its effectiveness as a sedative regimen in the intensive care unit (ICU) has not been well studied. This preliminary exploratory double-blind, randomised study compared ketofol (KP) with fentanyl-midazolam (FM) sedation in adults with moderate-to-severe TBI. Sedation was administered for 72 h and titrated to a Richmond Agitation-Sedation Scale (RASS) score ≤  - 3. The primary outcome was the Extended Glasgow Outcome Scale (GOSE) at 30 days. Secondary outcomes included GOSE at 90 days, incidence of propofol infusion syndrome (PRIS), duration of mechanical ventilation, haemodynamic stability, and ICU and hospital length of stay. Of 120 enrolled patients, 111 were included in the final analysis (57 FM, 54 KP). Baseline characteristics, including injury severity and Marshall CT scores, were comparable. At 30 days, good neurological recovery (GOSE 7-8) was more frequent in the KP group than the FM group (26% vs. 10.5%, p = 0.03). At 90 days, recovery remained higher with KP (4",
+      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "authors": "Manyam Umadevi, Sokhal Navdeep, Sokhal Suman, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485824/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42728228",
+      "title": "High-Flow Nasal Oxygen Versus Conventional Oxygen Therapy and Non-Invasive Ventilation for Acute Respiratory Failure in the Emergency Department: A Systematic Review and Meta-Analysis.",
+      "abstract": "This systematic review and meta-analysis compares the use of high-flow nasal oxygen (HFNO) with conventional oxygen therapy (COT) and non-invasive ventilation (NIV) in the management of acute respiratory failure (ARF) in the emergency department (ED). A comprehensive search of relevant sources was undertaken. Randomised controlled trials (RCTs) assessing adult patients (≥ 18 years) treated in the ED for ARF and comparing HFNO to COT/NIV were included. The primary outcome was the need for endotracheal intubation and mechanical ventilation (IMV). Secondary outcomes included physiological and biochemical parameters, ICU admission, hospital length of stay, dyspnoea scores and mortality. A total of 17 RCTs (1955 patients) were included. There was a significant reduction in IMV favouring the HFNO group compared to COT and NIV (RR 0.64, 95% CI 0.47-0.88). HFNO showed significant improvements in RR, SpO",
+      "source": "Emergency medicine Australasia : EMA",
+      "authors": "Phillips Rupert, Klejnotowska Adrianna, Claxton Harry, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728228/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42719392",
+      "title": "Lung-Cardiovascular Interactions and Derangements in ARDS.",
+      "abstract": "The acute respiratory distress syndrome (ARDS) is fundamentally characterized by alveolar injury, leading to lung edema, severe hypoxemia, and poorly compliant lungs. Alveolar and cardiovascular pathology are deeply intertwined in the syndrome, which can be marked by clinical cardiac, pulmonary, and systemic vascular abnormalities. Pulmonary vascular dysfunction is common even in the era of lung-protective ventilation, is associated with right ventricular (RV) dysfunction, and worse mortality. Frustratingly, these cardiovascular abnormalities pose management challenges for which we have limited targeted therapies that improve clinical outcomes. Recent inroads disentangling patient heterogeneity in ARDS may offer a direct avenue connecting biological mechanisms to effective treatments. Throughout this review, we will examine the clinical involvement of the cardiovascular system in ARDS, grounded on pathological and biological studies, and review available evidence for potential targeted therapies.",
+      "source": "Comprehensive physiology",
+      "authors": "Sanchez Pablo A, O'Brien Connor, Legrand Matthieu, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42719392/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42686294",
+      "title": "Early Management of Sepsis.",
+      "abstract": "Prompt recognition and appropriate early management of sepsis reduces mortality. There are 2 major goals of early sepsis management, which should be pursued urgently and in parallel-(1) infection control and (2) hemodynamic resuscitation. Treating infection involves timely antimicrobial therapy, and for some infections, source control. Hemodynamic resuscitation should start with a rapid bolus of balanced crystalloid followed by personalized approaches that tailor fluid and vasopressor therapy to evolving patient physiology. In patients who do not improve with initial antibiotic therapy and resuscitation, it is essential to reassess adequacy of infection control and resuscitation.",
+      "source": "Critical care clinics",
+      "authors": "Munroe Elizabeth S, Peltan Ithan D, Prescott Hallie C",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686294/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42674465",
+      "title": "Empirical Meropenem Versus Piperacillin/Tazobactam for Critically Ill Adults With Sepsis: Feasibility of a Randomised Trial.",
+      "abstract": "Meropenem and piperacillin/tazobactam are commonly used empirical antibiotics in critically ill adults with sepsis, but whether one is superior to the other is uncertain. The Empirical Meropenem versus Piperacillin/Tazobactam for Adult Patients with Sepsis (EMPRESS) trial is an ongoing investigator-initiated, randomised, open-label, adaptive clinical trial with an integrated feasibility phase comparing empirical treatment with meropenem versus piperacillin/tazobactam in critically ill adults with sepsis. The integrated feasibility phase enrolled 200 participants across 10 intensive care units (ICUs) in Denmark between 28 June and 12 December 2025. Five pre-specified feasibility criteria were evaluated; if all feasibility criteria were met, the trial would proceed unaltered, whereas failure to meet one or more criteria would require intervention and re-evaluation. We randomised 200 of 284 screened patients (70.4%). The median age was 70 years (interquartile range (IQR): 60-77), 65.5% were males. At randomisation, 80.0% received vasopressors or inotropes, and 43.5% were on invasive mechanical ventilation. Four of five pre-specified feasibility criteria were met: time to completion of",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Meier Nick Frørup, Møller Morten Hylander, Kjær Maj-Brit Nørregaard, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study",
+        "Multicenter Study"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674465/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42648651",
+      "title": "Prognostic value of the lactate-to-albumin ratio in adult sepsis: An updated systematic review of prognostic evidence.",
+      "abstract": "The lactate-to-albumin ratio (LAR) has emerged as a potential prognostic biomarker in sepsis. This systematic review evaluated the prognostic value of LAR for mortality in adults with sepsis or septic shock. PubMed/MEDLINE, Embase, Web of Science, Scopus, and the Cochrane Library were searched from inception through March 2026. Studies evaluating mortality-related prognostic performance of LAR in adults with sepsis or septic shock were included. Risk of bias was assessed using the Quality In Prognosis Studies (QUIPS) tool. Adjusted odds ratios (ORs) and hazard ratios (HRs) were evaluated separately because of methodological heterogeneity. Discrimination was assessed using study-specific area under the curve (AUC), sensitivity, specificity, and LAR thresholds. Fourteen primary studies were included. Higher LAR was consistently associated with increased mortality across emergency department and intensive care populations. AUC values generally ranged from approximately 0.65 to 0.87, although one smaller cohort reported an AUC of 0.976. Several multivariable analyses demonstrated associations between higher LAR and mortality after adjustment for clinical covariates. Adjusted ORs and HR",
+      "source": "Respiratory medicine",
+      "authors": "Kurt Zeynep Eker, Yumrutepe Sevgi",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42648651/",
+      "category": "Systematic Review / Meta-Analysis",
       "highlighted": false
     },
     {
@@ -743,6 +1090,21 @@
       "date": "2026 Sep 09",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42714474/",
       "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42739079",
+      "title": "Improving the Outcome of Brain-Injured Patients by Non-Continuous Feeding to Prevent Dysbiosis.",
+      "abstract": "",
+      "source": "Nutrients",
+      "authors": "Corriero Alberto, Soloperto Rossana, Giglio Mariateresa, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Sep 04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42739079/",
+      "category": "Review",
       "highlighted": false
     },
     {
@@ -875,6 +1237,42 @@
       "date": "2026 Jun 23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42441699/",
       "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2851721",
+      "title": "Predicting Risk of Cognitive Impairment With Alzheimer Disease Blood Biomarkers",
+      "abstract": "Alzheimer disease is the most common cause of dementia in older individuals. Cerebrospinal fluid biomarkers and amyloid positron emission tomography (PET) can accurately detect Alzheimer disease brain pathology, but the perceived risks, costs, and limited availability have contributed to low rates of biomarker testing in the clinic. With recent approvals of disease-modifying, amyloid-targeting therapies, incorporation of biomarkers into clinical practice has become more important for medical decision-making. Fortunately, blood-based biomarkers of Alzheimer disease pathology have advanced rapidly in recent years and are now increasingly used in research, clinical trials, and clinical practice. Blood-based biomarkers are highly scalable and promise to improve accurate diagnosis of Alzheimer disease, with the potential for much greater reach than cerebrospinal fluid or PET tests. Among the blood-based biomarkers, plasma phosphorylated tau 217 (p-tau217) has demonstrated the highest accuracy in detecting amyloid pathology and also reflects tau pathology to some degree.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Sep 15",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2851721",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2850403",
+      "title": "Integrated Telehealth Rehabilitation and Quality of Life in Mechanically Ventilated Adults",
+      "abstract": "This randomized clinical trial assesses the effect of an integrated multicomponent telehealth-based rehabilitation intervention, compared with usual care, on health-related quality of life at 90 days after hospital discharge among adults with acute hypoxemic respiratory failure requiring invasive mechanical ventilation.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Sep 15",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2850403",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2850392",
+      "title": "High-Dose Intravenous Vitamin C in Severe Burn Injury",
+      "abstract": "This international randomized clinical trial evaluates the efficacy of high-dose intravenous vitamin C in reducing 28-day mortality and persistent organ dysfunction (dependence on mechanical ventilation, kidney replacement therapy, or vasopressor/inotrope support at day 28) in patients with severe burn injury.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Sep 15",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2850392",
+      "category": "Clinical Trial",
       "highlighted": false
     }
   ]
