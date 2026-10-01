@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T12:20:57.312872+00:00",
+  "generated": "2026-10-01T12:02:49.929825+00:00",
   "count": 82,
   "digest": null,
   "oe_query_count": 0,
@@ -182,6 +182,50 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42810770",
+      "title": "Electronic Patient-Reported Health-Related Quality of Life Trajectories in ICU Survivors: A Multicentre Pilot Study-Within-a-Trial Protocol.",
+      "abstract": "Patient-important outcomes beyond mortality, particularly health-related quality of life (HRQoL), are frequently used in intensive care unit (ICU) trials. However, HRQoL assessment remains challenging due to methodological complexities, including poorly defined recovery trajectories, lack of consensus on measurement instruments, complexity of statistical analysis, and missing data. Electronic patient-reported outcomes (ePROs) may improve data collection and efficiency, though their feasibility in ICU survivors is uncertain. This protocol outlines a longitudinal, multicentre pilot study-within-a-trial aimed at evaluating the feasibility of ePRO-based HRQoL follow-up and exploring a trajectory-based approach to HRQoL characterisation after critical illness. We plan to enrol 100 participants already undergoing 180-day HRQoL follow-up in the Intensive Care Platform Trial (INCEPT) to complete monthly EQ-5D-5L surveys delivered by text messages from 6 to 12 months after randomisation. Feasibility outcomes include enrolment and response rate, time to completion, reminder-dependency, attrition pattern, agreement between modes of collection, and accessibility. Agreement between telephone- a",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Battistelli Elisa Zoe, Kaas-Hansen Benjamin Skov, Granholm Anders, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810770/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42806280",
+      "title": "The Application of Nurse-Led Bedside Critical Care Ultrasound in Paediatric and Neonatal Nursing Practice: A Scoping Review.",
+      "abstract": "Point-of-care ultrasound (POCUS) is increasingly used in paediatric and neonatal critical care, but evidence on nurse-led bedside POCUS remains limited and fragmented. This scoping review aimed to map the evidence on nurse-led bedside POCUS in paediatric and neonatal critical care nursing practice, examine implementation factors and identify evidence gaps relevant to nursing research, education and clinical practice. Following JBI methodology and PRISMA-ScR guidance, we searched PubMed, Embase, CINAHL, Web of Science, Cochrane Library and CNKI from inception to October 2025. Eligibility followed the PCC framework. Two reviewers independently screened records and extracted data using a standardized form. Study characteristics were synthesized descriptively, and implementation factors were deductively analysed using the COM-B framework. Thirty-four studies were included, mainly from the United States and China. Nurse-led POCUS applications included vascular access, respiratory assessment, catheter localization, cardiac or hemodynamic evaluation, bladder assessment and education or competency development. Outcomes included clinical (procedural success and diagnostic accuracy), process",
+      "source": "Nursing in critical care",
+      "authors": "Wu Nana, Chen Xia, Fu Jie, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Scoping Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806280/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42805941",
+      "title": "The Transition to Critical Care: A Qualitative Study of New Nurses' and Mentors' Experiences and Challenges in the Intensive Care Unit.",
+      "abstract": "During the orientation process in the intensive care unit (ICU), the experiences and challenges of new nurses and their mentor nurses often differ, leading to potential incompatibilities. This descriptive qualitative research aimed to determine the opinions and experiences of newly recruited nurses and their mentor nurses on the adaptation to the ICU. Semi-structured interviews were conducted with 21 nurses (10 mentors and 11 mentees) who worked in an ICU. Data were collected between March and May 2025. Four focus group interviews were conducted with mentors and mentees. Data were analysed using content analysis. Consolidated Criteria for Reporting Qualitative (COREQ) was used for reporting. In the mentor group, three themes emerged: (1) mentor challenges in mentee conflicts, (2) helpful or harmful: a mentor's dilemma and (3) double duty: the rising workload of nurse mentors; in the mentees group, two themes emerged: (1) mentee challenges in mentor conflictsand (2) a good system with operational gaps. The study reveals the complex challenges faced by both new nurses and their mentors in the ICU. Although mentorship supports professional growth and patient safety, issues such as poo",
+      "source": "Nursing in critical care",
+      "authors": "Kebapcı Ayda, Yalçın Begum, Eşim Deniz, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805941/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42786714",
       "title": "Cross-Sectional Survey of Critical Care Provision in Ministry of Health Hospitals in Zambia.",
       "abstract": "Critical care is an essential component of universal health care; however, its provision in low- and middle-income countries remains poorly understood. Although Zambia has expanded critical care services over the last 15 years, national evidence regarding workforce capacity, infrastructure and service provision remains limited. To evaluate critical care workforce, service provision and patient case mix across Ministry of Health hospitals in Zambia. A cross-sectional survey was administered across 14 public hospitals with critical care units across Zambia, representing all 10 provinces. Data were collected via an e-survey questionnaire instrument. Descriptive statistical analysis was conducted using SPSS. Ethics approval was obtained prior to the study. All hospitals responded (n = 14/14, 100% response rate), accounting for a capacity of 131 critical care beds. Only 28.6% of hospitals had 24-h intensivist coverage, whereas all had registered critical care nurses. Equipment availability varied, with universal access to ventilators and monitors but limited access to syringe pumps and inconsistent availability of functional CT scanners. Over a 7-day period, 121 admissions were recorded",
@@ -222,6 +266,21 @@
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42778513/",
       "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42681978",
+      "title": "Nutrition support in gastroenterology: opinion on current literature.",
+      "abstract": "Historically, enteral nutrition has been the preferred therapy due to its physiologic benefits, with parenteral nutrition selected if enteral nutrition was contraindicated or insufficient; however, recent advances in nutrition support have prompted reevaluation of this process. This review summarizes the current evidence regarding enteral nutrition and parenteral nutrition in gastrointestinal oncology, inflammatory bowel disease (IBD), critical care, and gastrointestinal surgery. In gastric cancer, parenteral nutrition may improve the nutritional status and clinical outcomes of treatment-related gastrointestinal dysfunction. In IBD, exclusive enteral nutrition may be effective for inducing remission and promoting mucosal healing, whereas parenteral nutrition is preferred in intestinal failure and severe complications. Studies have shown the value of early parenteral nutrition when enteral nutrition is contraindicated or insufficient, specifically for improving nutrient delivery and reducing complications in critically ill and surgical patients. Additional areas of interest include caloric and protein dosing, indirect calorimetry, and the effect of nutrition support on the gut micro",
+      "source": "Current opinion in gastroenterology",
+      "authors": "Deringer Rianna, Silva Camila Schmeil, Klein Daniel",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42681978/",
+      "category": "Review",
       "highlighted": false
     },
     {
@@ -311,66 +370,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42799324",
-      "title": "Impact of a Specialized Care Pathway for ICU Patients With Disorders of Consciousness: Observational Insights From an Expert Center.",
-      "abstract": "Management of lasting disorders of consciousness (DoC) is complex and sometimes requires referral of patients to an expert team. We aimed to evaluate the impact of such specialized expert assessment through the description of a single-center experience. Monocentric study including all patients with DoC referred to a tertiary neuroICU for multimodal clinical, electrophysiological, and MRI assessment allowing diagnostic and therapeutic proposals and multidisciplinary prognostic prediction. The primary endpoint was the patients' actual outcome, assessed by 3-month functional disability and 1-year mortality, according to the predicted prognosis. Between July 2017 to June 2024, 124 patients (median age 61 [49-70] years, 67% of men) were referred from 43 departments of 37 primary hospitals. Most frequent etiologies were post-anoxic encephalopathy (62%) and secondary systemic brain injuries (15%). At a median of 23 [15-33] days after DoC onset, predicted prognosis was good in 20 (16%) patients, intermediate in 41 (33%), and poor in 63 (51%). Three-month GOS-E was 3 [1-3], 2 [1-3], and 1 [1] (p < 0.001) and 1-year mortality was 30%, 41%, and 82% (p < 0.001), respectively. Withdrawal of lif",
-      "source": "European journal of neurology",
-      "authors": "Caiazzo Clément, Pruvost-Robieux Estelle, Hmeydia Ghazi, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "date": "2026 Oct",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799324/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42788297",
-      "title": "[Point of care ultrasound: terminology, professional roles and protocols].",
-      "abstract": "Point-of-care ultrasound (POCUS) is an imaging modality performed and interpreted by the treating physician at the bedside, with immediate integration of findings into clinical decision-making. Its rapid expansion in emergency medicine, critical care, and resource-limited settings has significantly improved diagnostic and therapeutic timeliness. However, this growth has highlighted the need to clearly define its scope of practice, standardize protocols, and distinguish POCUS from comprehensive consultative echocardiography. This review outlines the historical evolution of POCUS, from early trauma applications to structured protocols for shock, dyspnea, and cardiac arrest, and its current role in cardiopulmonary and hemodynamic monitoring of critically ill patients. Recent international guidelines are summarized, emphasizing POCUS as a distinct and complementary clinical tool rather than a replacement for formal imaging. Finally, future perspectives involving artificial intelligence and robotic ultrasound technologies are discussed, addressing their potential benefits and associated educational, organizational, and ethical challenges.",
-      "source": "Giornale italiano di cardiologia (2006)",
-      "authors": "Giubilato Simona, Musella Francesca, Sorini Dini Carlotta, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review",
-        "English Abstract"
-      ],
-      "date": "2026 Oct",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42788297/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42779073",
-      "title": "Critical care consultations in ED expedite specialized care.",
-      "abstract": "ACCORDING TO THIS STUDY.",
-      "source": "The American journal of nursing",
-      "authors": "Rosenberg Karen",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Oct 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42779073/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42700460",
-      "title": "Advanced hemodynamic monitoring of the patient with acute heart failure and cardiogenic shock.",
-      "abstract": "To provide a practical, physiology-driven framework for advanced hemodynamic monitoring in patients with acute heart failure (AHF) and cardiogenic shock, highlighting and supporting clinicians in integrating monitoring tools into an individualized bedside approach. Cardiogenic shock is increasingly recognized as a heterogeneous syndrome involving not only impaired cardiac output, but also systemic inflammation, vasoplegia, tissue hypoperfusion and multiorgan dysfunction. Recent studies have emphasized phenotype-based approaches for both diagnosis and treatment, integrating clinical evaluation, echocardiography, invasive hemodynamics and tissue perfusion markers. Machine learning derived phenotypes have further identified cardiorenal and cardiometabolic profiles associated with distinct prognostic implications. Critical care echocardiography has a central role for rapid diagnosis and serial reassessment, while transpulmonary thermodilution and pulmonary artery catheterization provide complementary information to echocardiography in refractory or complex cases. Hemodynamic monitoring in AHF and cardiogenic shock should rely on individualized, multimodal and dynamic integration of cli",
-      "source": "Current opinion in critical care",
-      "authors": "Messina Antonio, Jozwiak Mathieu, Monnet Xavier",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Oct 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700460/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42364890",
       "title": "Presepsin outperforms conventional biomarkers for Sepsis diagnosis and 30-day mortality prediction: A multicenter prospective study in a north African ICU cohort.",
       "abstract": "Sepsis remains a leading cause of intensive care unit (ICU) mortality, necessitating the identification of accurate biomarkers for diagnosis and prognosis. Presepsin (sCD14-ST), generated through monocyte/macrophage phagocytosis of bacterial components, offers infection-specific signals. This study compared the diagnostic and prognostic performance of with of procalcitonin (PCT), C-reactive protein (CRP), interleukin-6 (IL-6), and interleukin-8 (IL-8) within the same patient cohort. This prospective multicenter cohort study enrolled 184 participants across two Algerian tertiary ICUs: 60 healthy controls, 30 patients with pulmonary infection, 46 with sepsis, and 48 with septic shock (Sepsis-3 criteria). All biomarkers were measured using a single blood sample collected within six hours of admission. Diagnostic accuracy was assessed using ROC curve analysis and DeLong's test, and independent predictors of 30-day mortality were identified using binary logistic regression. All biomarkers differed significantly between the groups (p < 0.001). Presepsin achieved the highest diagnostic accuracy for septic shock versus healthy controls (AUC = 0.880) and was the best discriminator between s",
@@ -398,6 +397,20 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42806854",
+      "title": "Diagnostic value of metagenomic next-generation sequencing for bacterial and fungal detection and its role in antimicrobial therapy adjustment in critically ill patients with non-resolving pneumonia.",
+      "abstract": "Early targeted antibiotic therapy is critical for improving outcomes in ICU patients with pneumonia unresponsive to initial treatment. Metagenomic next-generation sequencing (mNGS) is a unique diagnostic tool; however, its effectiveness for high-risk populations remains unclear. This retrospective study included 642 ICU patients with pneumonia unresponsive to initial treatment, categorized into single- or repeat-test groups based on mNGS testing frequency. We analyzed the results of mNGS and conventional microbiological tests (CMTs), compared microbial detection characteristics between patients with different immune statuses, assessed the impact of repeat testing on microbial detection and treatment adjustments and evaluated its association with patient prognosis using multivariable logistic regression and propensity score matching. Among 642 patients, patient-level agreement between mNGS and CMTs was low (κ = 0.180,  mNGS is a valuable microbial detection tool for ICU patients with pneumonia unresponsive to initial treatment and can support early antimicrobial adjustment. Repeat testing can provide information on dynamic changes in the microbial spectrum during disease but was not",
+      "source": "Annals of medicine",
+      "authors": "Min Jinwen, Niu Zhili, Yin Jing, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806854/",
+      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -960,6 +973,22 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42816027",
+      "title": "Functional Reconstruction of the Hand After Gangrene Affecting All Extremities.",
+      "abstract": "Digital gangrene following septic shock is a debilitating condition that leads to multiple shortened digits and marked functional loss. In symmetric peripheral gangrene (SPG), both hands and feet are affected, eliminating standard reconstructive options such as toe transfers. We present a patient with SPG secondary to septic shock, exacerbated by prolonged vasopressor use, resulting in gangrene of all 4 extremities. A staged reconstructive approach was performed for both hands, utilizing on-top plasties, ray amputation, and local flap rearrangement to restore basic hand function. The initial management, reconstructive reasoning, and challenges encountered are described.",
+      "source": "Hand clinics",
+      "authors": "Lim Zhixue, Hoh Dilys, Sebastin Sandeep J",
+      "pub_types": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42816027/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42786711",
       "title": "Nurse-Administered and Nurse-Feasible Post-Extubation Dysphagia Screening in Adult Intensive Care Units: A Scoping Review of Test Performance, Implementation and Patient Outcomes.",
       "abstract": "Post-extubation dysphagia (PED) is common after invasive mechanical ventilation. Nurses can provide timely bedside risk screening, but instrument validity, performance in nurses' hands and implementation effectiveness are distinct questions. To map direct nurse-administered evidence, transferability of nurse-feasible tools, nursing implementation context, and reported patient outcomes in adult intensive care units (ICUs). Literature searches were conducted in six databases, with the search updated in August 2026. Evidence was stratified according to the actual screening administrator and reference-standard assessment. Criterion-level MMAT and QUADAS-2 assessments were applied without summary scores. The source-verified map comprised 34 reports representing 31 study families. Instrumental-reference evidence with nurse or nursing-assistant administration included two complete-verification cohorts: modified Volume-Viscosity Swallow Test versus FEES in 44 extubated patients (sensitivity 89.5%, specificity 72%) and GUSS-IVA versus FEES in 51 of 56 enrolled patients (81.0%, 88.9%). A third nurse screen had optional FEES in 38 of 123 patients (86%, 21%). Other nurse-administered studies u",
@@ -967,8 +996,7 @@
       "authors": "Elkasaby Wesam Hamdy, Shalaby Youssef Mohamed, Shaban Mostafa",
       "pub_types": [
         "Journal Article",
-        "Scoping Review",
-        "Review"
+        "Scoping Review"
       ],
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786711/",
@@ -989,6 +1017,21 @@
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42735469/",
       "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42681987",
+      "title": "Micronutrients in adult critically ill patients: lessons learned and the path toward precision.",
+      "abstract": "Despite strong biological plausibility, empiric high-dose micronutrient supplementation has failed to improve outcomes in critically ill patients. This review synthesizes evidence from the past 18 months and outlines the necessary transition toward biomarker-guided precision nutrition. Recent evidence has further challenged routine high-dose micronutrient therapy. High-dose intravenous vitamin C failed to improve outcomes and was associated with potential harm in patients with sepsis, COVID-19, severe burns, and post-cardiac arrest syndrome. In contrast, a 2025 meta-analysis reported reduced short-term mortality and shorter ICU stay with vitamin D supplementation in patients on mechanical ventilation. Thiamine may shorten the duration of shock without affecting mortality. Observational studies suggest that carnitine deficiency is common during critical illness, and both deficiency and excess may be associated with adverse outcomes in critically ill patients. Selenium supplementation continues to show no clinical benefits in multiple sepsis phenotypes and high-risk surgical populations. Novel evidence also links trace element dysregulation to critical illness-acquired weakness, impl",
+      "source": "Current opinion in clinical nutrition and metabolic care",
+      "authors": "Stoppe Christian, Gundogan Kursat, Marelli Stefano",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42681987/",
+      "category": "Systematic Review / Meta-Analysis",
       "highlighted": false
     },
     {
@@ -1019,38 +1062,6 @@
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42485824/",
       "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42361705",
-      "title": "First-line vasopressor therapy in neonates with fluid-refractory septic shock: A systematic review and meta-analysis of randomized controlled trials.",
-      "abstract": "Neonates with fluid-refractory septic shock require prompt vasopressor support, including dopamine, epinephrine, and norepinephrine; however, the optimal first-line treatment remains unclear. This meta-analysis assessed the first-line vasopressors for shock reversal and clinical outcomes. A comprehensive search of the PubMed, Scopus, Ovid, and CINAHL databases was performed from inception to April 2026. We included randomized controlled trials evaluating first-line vasopressor therapy in neonates (<28 days old) with fluid-refractory septic shock, comparing epinephrine and norepinephrine with dopamine. The primary outcomes were early shock reversal and all-cause mortality, with secondary outcomes including the need for additional vasoactive agents and changes in hemodynamic responses. Analyses were performed using Review Manager (RevMan) version 5.4 software. Four RCTs were included. Compared with dopamine, epinephrine or norepinephrine showed no significant difference in shock reversal within 1h (RR = 1.07; 95% CI = 0.84-1.36; P = 0.57; I No substantial changes were observed in the vasoactive therapies used in neonates with fluid-refractory septic shock. Nonetheless, owing to the l",
-      "source": "The American journal of emergency medicine",
-      "authors": "Yahya Rand, Hassoun Jana, Hamodat Omar, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis",
-        "Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42361705/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42735803",
-      "title": "Mechanisms related to increased susceptibility of the elderly lung to ventilator-induced lung injury: A scoping review.",
-      "abstract": "Rapid population aging has markedly increased the exposure of elder humans to invasive mechanical ventilation (MV). Mounting evidence suggests that aging fundamentally alters pulmonary structure and stress responses, predisposing the aged lung to ventilator-induced lung injury (VILI). However, the biological basis of this heightened vulnerability remains insufficiently synthesized. The review was conducted in accordance with the PRISMA 2020 guidelines. To this end, PubMed, Web of Science, and Scopus databases were consulted. From the 901 identified records, 22 studies met inclusion criteria after screening and full-text evaluation, encompassing in vitro experiments, animal models, and clinical investigations addressing age-ventilation interactions. Experimental studies consistently demonstrate an exaggerated inflammatory phenotype in aged lungs, characterized by increased IL-6 and TNF-α, intensified neutrophilic infiltration, and marked disruption of the alveolar-capillary barrier even under lung-protective strategies. Mechanistically, aging is associated with dysregulated renin-angiotensin signaling, endoplasmic reticulum stress activation, altered sphingolipid homeostasis, and up",
-      "source": "Experimental gerontology",
-      "authors": "Rezende João Pedro Oliveira, de Souza Ana Beatriz Farias, Zin Walter Araujo, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Scoping Review"
-      ],
-      "date": "2026 Oct 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735803/",
-      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
@@ -1213,21 +1224,6 @@
       ],
       "date": "2026 Jul",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42518933/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42159356",
-      "title": "Stress Ulcer Prophylaxis in Orthopaedic Surgery.",
-      "abstract": "Although rare, stress-related gastrointestinal complications, such as perforated peptic ulcer (PPU) and upper gastrointestinal bleeding, can result in notable morbidity and mortality following orthopaedic surgery, particularly in elderly or critically ill patients. Despite widespread implementation of stress ulcer prophylaxis (SUP) in critical care, its role in orthopaedic surgical populations remains ill defined. A narrative review of the literature reveals a low incidence of PPU following orthopaedic procedures (0.054% after elective spine surgery); however, associated mortality may reach as high as 25% in cases of PPU. Identified risk factors include NSAID use, advanced age, notable comorbidities, and critical illness. SUP with proton pump inhibitors or histamine-2 receptor antagonists has been shown to reduce upper gastrointestinal bleeding in critically ill patients, leading to guideline-based recommendations for selective prophylaxis in high-risk individuals. Given the potential severity of these complications, orthopaedic surgeons should maintain vigilance and consider SUP in at-risk patients, while avoiding routine prophylaxis in low-risk cases. Tailoring prophylactic strat",
-      "source": "The Journal of the American Academy of Orthopaedic Surgeons",
-      "authors": "Maitra Sukanta, Hii Jeffrey Lucas",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Jul 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42159356/",
       "category": "Guideline / Consensus",
       "highlighted": false
     }
