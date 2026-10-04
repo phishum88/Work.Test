@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T12:02:49.929825+00:00",
+  "generated": "2026-10-04T11:30:29.193275+00:00",
   "count": 82,
   "digest": null,
   "oe_query_count": 0,
@@ -182,6 +182,66 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42823015",
+      "title": "Managing the Critically Ill Postpartum Patient in the Emergency Department.",
+      "abstract": "This review article prepares emergency physicians to recognize and manage critical illness in postpartum patients, a population at heightened risk of preventable morbidity and mortality in North America amid persistent racial/geographic disparities and shrinking obstetric access. It highlights key physiologic changes after delivery that complicate patient management. The article focuses on 3 immediate postpartum emergencies (postpartum hemorrhage, postpartum preeclampsia, and amniotic fluid embolism) and 3 subacute (pulmonary embolism, peripartum cardiomyopathy, and spontaneous coronary artery dissection). It concludes with system-level strategies to improve safety and outcomes.",
+      "source": "Emergency medicine clinics of North America",
+      "authors": "Tasillo Abriana, Healy Megan",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823015/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42823013",
+      "title": "When No ICU Bed is Available: Critical Care Services in the Emergency Department.",
+      "abstract": "This review article, focused on the care of the critically ill adult when no intensive care unit (ICU) bed is available, describes current models addressing critical care services in the emergency department (ED), reviews available evidence on the impact of different approaches, and explores best practices in implementation of ED-ICU models. Based on these findings, the article explores potential benefits of leveraging the ED-ICU concept in the regional organization of critical care services.",
+      "source": "Emergency medicine clinics of North America",
+      "authors": "Gupta Pranjal B, Wilson Jennifer G",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823013/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42823008",
+      "title": "Emergency Burn Resuscitation: Where Evidence Meets Practice.",
+      "abstract": "The initial management of a critically ill burn patient sets the trajectory for their entire hospital course. Understanding standards of care is essential, but moving beyond rote formulas for airway management, fluids, and analgesia is critical to ensuring appropriate care and preventing iatrogenic harm. This article provides an evidence-based guide for emergency physicians on when and how to pivot from standard care to nuanced, life-saving interventions that address the dynamic pathophysiology of severe burns.",
+      "source": "Emergency medicine clinics of North America",
+      "authors": "Parnell Samuel, Shanks Carolyn, Smith Melissa",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823008/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42823007",
+      "title": "Safely Transferring the Critically Ill Patient out of Your Emergency Department.",
+      "abstract": "Regionalized systems of care increasingly rely on critical care transport (CCT) to move high-acuity patients to centers with specialized resources. This article outlines the complex clinical, operational, and ethical considerations that shape interfacility transport, emphasizing the need for deliberate risk-benefit assessment, patient optimization, and clear communication among sending clinicians, transport teams, and receiving facilities. Variability in CCT team training, capabilities, and staffing models requires clinicians to understand regional resources. By applying systems-based thinking and the \"right patient, right time, right team, right place\" framework, clinicians can ensure safe, equitable, high-quality transport within regionalized care networks.",
+      "source": "Emergency medicine clinics of North America",
+      "authors": "Lauria Michael J, Bernardoni Brittney, Roginski Matthew A",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823007/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42810770",
       "title": "Electronic Patient-Reported Health-Related Quality of Life Trajectories in ICU Survivors: A Multicentre Pilot Study-Within-a-Trial Protocol.",
       "abstract": "Patient-important outcomes beyond mortality, particularly health-related quality of life (HRQoL), are frequently used in intensive care unit (ICU) trials. However, HRQoL assessment remains challenging due to methodological complexities, including poorly defined recovery trajectories, lack of consensus on measurement instruments, complexity of statistical analysis, and missing data. Electronic patient-reported outcomes (ePROs) may improve data collection and efficiency, though their feasibility in ICU survivors is uncertain. This protocol outlines a longitudinal, multicentre pilot study-within-a-trial aimed at evaluating the feasibility of ePRO-based HRQoL follow-up and exploring a trajectory-based approach to HRQoL characterisation after critical illness. We plan to enrol 100 participants already undergoing 180-day HRQoL follow-up in the Intensive Care Platform Trial (INCEPT) to complete monthly EQ-5D-5L surveys delivered by text messages from 6 to 12 months after randomisation. Feasibility outcomes include enrolment and response rate, time to completion, reminder-dependency, attrition pattern, agreement between modes of collection, and accessibility. Agreement between telephone- a",
@@ -312,64 +372,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42520421",
-      "title": "Comparison of burn surface area estimated by ambulance crews or referring hospitals and an Advanced Critical Care and Emergency Center.",
-      "abstract": "Burn surface area is an essential factor in determining the need for specialized burn center treatments. Herein, the accuracy of burn surface areas estimated by ambulance crews and referral hospitals was evaluated, providing insight into the effectiveness of patient selection for specialized care. The study was conducted from April 1, 2018 to March 31, 2024. The participants were patients with burns admitted to the Advanced Critical Care and Emergency Center of Yokohama City University Medical Center, Kanagawa Prefecture, Japan. The study population was divided into two groups: direct transport group (patients transported from the scene to our center by ambulance crews) and inter-hospital transfer group (patients transferred from other hospitals). Pre- and post-transfer burn surface area estimates were evaluated in qualitative and quantitative frameworks. During the study period, 176 inpatients were evaluated with respect to the burn surface area at our center, including 134 (76.1%) and 42 (23.9%) in the direct transport and inter-hospital transfer groups, respectively. A comparison of the burn surface area estimates by ambulance crews or referring hospital physicians and those at ",
-      "source": "Burns : journal of the International Society for Burn Injuries",
-      "authors": "Kuroyanagi Misato, Fujiwara Bunrei, Abe Takeru, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42520421/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42447641",
-      "title": "The pediatric transfer gap: How adult-ICU-trained machine-learning models degrade on pediatric intensive care patients.",
-      "abstract": "Most clinical machine-learning models are trained on adult data, which raises safety concerns when they are used in children. We quantify this Pediatric Transfer Gap on routinely recorded vital signs and evaluate whether limited target-cohort data can close it. We performed two complementary experiments. Experiment A is a fully observed within-pediatric design in which both source and target are directly measured data from the Pediatric Intensive Care database (PIC): after item-code audit and physiological filtering, 10,194 patients yielded heart-rate, body-temperature, respiratory-rate, and oxygen-saturation summaries, with older children (≥2 years, n=3062) as source and younger children (<2 years, n=7132) as target. Experiment B is a directly observed adult-ICU design in which 63,203 adults from the MIMIC-IV ICU module supplied directly observed first-24-hour vital signs and actual in-hospital mortality, transferred to the window-matched pediatric cohort. Three classifier families (Random Forest, gradient boosting, logistic regression) were trained with stratified 70/30 splits, applied to the target without adaptation, and subjected to target-domain retraining on 50% of target da",
-      "source": "International journal of medical informatics",
-      "authors": "Yeo Ji-Young, So Eun Sun, Youm Sungkwan",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42447641/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42407278",
-      "title": "Toxic epidermal necrolysis: Management in the ICU.",
-      "abstract": "Epidermal necrolysis (EN) includes Stevens-Johnson syndrome (SJS, detached/detachable skin surface <10% body surface), toxic epidermal necrolysis (EN, detached/detachable skin surface ≥30%), and SJS-EN overlap (detached/detachable skin surface 10-29%). These are rare but severe cutaneous adverse reactions, usually triggered by drugs. Drugs account for 85-90% of cases, with onset typically 4-28 days after exposure. The acute phase is life-threatening, with respiratory and septic complications being the main determinants of prognosis. Mortality averages 15-20%. Supportive care is the cornerstone of management. Any suspected drug should be stopped as soon as possible. No immunomodulatory treatment has been shown to be effective in halting detachment, or reducing mortality. Multidisciplinary management should take place in specialized centers led by dermatology teams. This review article aims at reviewing the current knowledge on the management of EN in the intensive care unit during the acute phase, in expert centers -eventually burn centers- including supporting care and pharmacological interventions.",
-      "source": "Burns : journal of the International Society for Burn Injuries",
-      "authors": "Windsor Camille, Gaillet Antoine, Ingen-Housz-Oro Saskia, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42407278/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42349531",
-      "title": "The Society of Critical Care Cardiology-Rationale, blueprint, and lessons learned in the creation of a new multidisciplinary professional organization.",
-      "abstract": "Since the cardiac intensive care unit was first introduced into the medical landscape, patient complexity, comorbidity, and illness severity have increased substantially over time. This evolution has required and informed the cultivation of new tools and an expanding skill set for those who deliver care in these units, and has paved the way for the emergence and growth of a distinct discipline-Critical Care Cardiology. With the genesis of this field and the need to care for comorbid and critically ill patients, numerous questions have been posed, including those related to optimal staffing models, appropriate training pathways, and the development of best practice principles to guide patient management. To address these and other challenges, to foster necessary collaborations, and to galvanize a maturing field, the Society of Critical Care Cardiology (SoCCC) was born. SoCCC was created to provide an independent, yet complementary home for stakeholders within this rapidly growing discipline. Its mission is to address the unique needs and concerns of Critical Care Cardiology through an inclusive approach that prioritizes the development of early career faculty, actively engaging them",
-      "source": "American heart journal",
-      "authors": "Senman Balimkiz, Miller P Elliott, Gage Ann, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42349531/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42364890",
       "title": "Presepsin outperforms conventional biomarkers for Sepsis diagnosis and 30-day mortality prediction: A multicenter prospective study in a north African ICU cohort.",
       "abstract": "Sepsis remains a leading cause of intensive care unit (ICU) mortality, necessitating the identification of accurate biomarkers for diagnosis and prognosis. Presepsin (sCD14-ST), generated through monocyte/macrophage phagocytosis of bacterial components, offers infection-specific signals. This study compared the diagnostic and prognostic performance of with of procalcitonin (PCT), C-reactive protein (CRP), interleukin-6 (IL-6), and interleukin-8 (IL-8) within the same patient cohort. This prospective multicenter cohort study enrolled 184 participants across two Algerian tertiary ICUs: 60 healthy controls, 30 patients with pulmonary infection, 46 with sepsis, and 48 with septic shock (Sepsis-3 criteria). All biomarkers were measured using a single blood sample collected within six hours of admission. Diagnostic accuracy was assessed using ROC curve analysis and DeLong's test, and independent predictors of 30-day mortality were identified using binary logistic regression. All biomarkers differed significantly between the groups (p < 0.001). Presepsin achieved the highest diagnostic accuracy for septic shock versus healthy controls (AUC = 0.880) and was the best discriminator between s",
@@ -425,6 +427,22 @@
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42749504/",
       "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42673881",
+      "title": "Architecture and evolution of sleep during adult intensive care unit stay: A scoping review.",
+      "abstract": "Sleep is essential for maintaining health, yet patients hospitalized in intensive care units (ICUs) face an environment highly unconducive to quality sleep due to multiple disruptive factors. Understanding sleep architecture in the ICU is essential for comprehensive patient care. This scoping review aims to synthesize current knowledge on sleep architecture in adult ICU settings while identifying knowledge gaps and proposing areas for future research. A systematic search was conducted across PubMed/MEDLINE and Cochrane Library databases from 1987 to 2024 using specific keywords to identify publications on sleep in adult ICU patients that included electroencephalographic (EEG) data. The search was supplemented by reviewing bibliographies of included articles and conducting a complementary Google Scholar search. Data extraction followed PRISMA-ScR guidelines. Of 961 studies identified from databases and 709 from other sources, 150 publications were included comprising 69 reviews, 55 observational studies, and 24 randomized trials. The majority were single-center studies (87.6%) with small sample sizes (58% with n < 25). Measurement methodologies were highly heterogeneous regarding re",
+      "source": "Sleep medicine",
+      "authors": "Tinland Anne-Christine, Ollier Edouard, Garcin Arnauld, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Scoping Review",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673881/",
+      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
@@ -687,20 +705,6 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42517253/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42492185",
-      "title": "Social inequalities in ICU admission for COPD exacerbations: Insights from a matched case-control study.",
-      "abstract": "Exacerbations of Chronic Obstructive Pulmonary Disease (COPD) often result in hospitalizations and Intensive Care Unit (ICU) admissions. Although clinical predictors of ICU admission are well described, the role of social deprivation is less explored. We evaluated its impact on ICU admission risk among COPD patients admitted to the emergency department for exacerbations. We conducted a retrospective, monocentric, matched case-control study at Caen University Hospital (France) between January 2018 and December 2022. COPD exacerbations were identified through ICD-10 coding. Cases were patients hospitalized in ICU; controls were hospitalized in conventional wards. Patients were matched by sex and age (±5 years). The primary exposure was social deprivation measured using a novel ecological index: the French version of the European Deprivation Index (EDI). Each patient's EDI score was categorized into quintiles based on their residential area (1 = least deprived to 5 = most deprived). Multivariable conditional logistic regression was performed, adjusting for confounders. Among 850 patients (321 cases, 529 controls), 57% belonged to the most deprived categories (EDI 4-5). Higher social d",
-      "source": "Journal of critical care",
-      "authors": "Hamelin Agathe, Cuchet Pierre, du Cheyron Damien, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42492185/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -973,6 +977,51 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42823010",
+      "title": "Strategies to Manage Refractory Hypoxemia in the Intubated Patient.",
+      "abstract": "Persistent hypoxemia after intubation is associated with high mortality and demands a systematic approach focused on the underlying pathophysiology. This article emphasizes developing a focused differential diagnosis that includes both mechanical and patient factors to guide management. The authors review key therapeutic strategies, including careful use of positive end expiratory pressure, positioning techniques, medications such as inhaled pulmonary vasodilators, sedation, and neuromuscular blockade, and, when conventional therapies fail, consideration of extracorporeal membrane oxygenation.",
+      "source": "Emergency medicine clinics of North America",
+      "authors": "Davis Margaret L, Klemisch Robert",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823010/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42823004",
+      "title": "Post-intubation Sedation and Analgesia in the Emergency Department: The Basics and Beyond.",
+      "abstract": "Provision of postintubation sedation and analgesia is critical in emergency management of mechanically ventilated patients. Pain and sedation should be monitored using a validated scoring system, and medications titrated to a target sedation level, which should usually be light. Usually, fentanyl is the first-line analgesic and propofol is the first-line sedative. Dexmedetomidine and ketamine may be helpful in select populations, but further research is needed to define their role in the emergency department. Benzodiazepines should generally be avoided. Physicians should plan for postintubation sedation and analgesia in advance and consider using succinylcholine for intubation to avoid awareness with paralysis.",
+      "source": "Emergency medicine clinics of North America",
+      "authors": "Baumgartner Kevin, Fuller Brian M",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823004/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42821852",
+      "title": "Noninvasive Positive Pressure Ventilation in the Adult Acute Care Setting.",
+      "abstract": "Noninvasive positive pressure ventilation (NIPPV) is a method of mechanical ventilation that provides respiratory support for patients with varying acute or chronic respiratory conditions and can be an effective intervention that may result in the avoidance of endotracheal intubation. NIPPV relies on the combination of a patient's ability to spontaneously breathe and the assistance of a ventilator to produce an inspiratory positive airway pressure, resulting in increased tidal volumes as well as improved ventilation and gas exchange. This manuscript aims to provide a comprehensive review of nursing care for adult patients in acute care settings requiring NIPPV, including indications, equipment, patient care, weaning protocols, complications, contraindications, and special considerations. While the manuscript is nursing-focused, the information is applicable to multiple disciplines that treat populations receiving or are candidates for NIPPV therapy. NIPPV can be effectively implemented as an alternative to intubation for many patients who require respiratory support. Successful NIPPV considers each patient's individual needs and depends on attentive monitoring, timely intervention,",
+      "source": "Dimensions of critical care nursing : DCCN",
+      "authors": "Taylor Rachel, York Nancy, Kane Christy, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821852/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42816027",
       "title": "Functional Reconstruction of the Hand After Gangrene Affecting All Extremities.",
       "abstract": "Digital gangrene following septic shock is a debilitating condition that leads to multiple shortened digits and marked functional loss. In symmetric peripheral gangrene (SPG), both hands and feet are affected, eliminating standard reconstructive options such as toe transfers. We present a patient with SPG secondary to septic shock, exacerbated by prolonged vasopressor use, resulting in gangrene of all 4 extremities. A staged reconstructive approach was performed for both hands, utilizing on-top plasties, ray amputation, and local flap rearrangement to restore basic hand function. The initial management, reconstructive reasoning, and challenges encountered are described.",
@@ -1017,51 +1066,6 @@
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42735469/",
       "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42681987",
-      "title": "Micronutrients in adult critically ill patients: lessons learned and the path toward precision.",
-      "abstract": "Despite strong biological plausibility, empiric high-dose micronutrient supplementation has failed to improve outcomes in critically ill patients. This review synthesizes evidence from the past 18 months and outlines the necessary transition toward biomarker-guided precision nutrition. Recent evidence has further challenged routine high-dose micronutrient therapy. High-dose intravenous vitamin C failed to improve outcomes and was associated with potential harm in patients with sepsis, COVID-19, severe burns, and post-cardiac arrest syndrome. In contrast, a 2025 meta-analysis reported reduced short-term mortality and shorter ICU stay with vitamin D supplementation in patients on mechanical ventilation. Thiamine may shorten the duration of shock without affecting mortality. Observational studies suggest that carnitine deficiency is common during critical illness, and both deficiency and excess may be associated with adverse outcomes in critically ill patients. Selenium supplementation continues to show no clinical benefits in multiple sepsis phenotypes and high-risk surgical populations. Novel evidence also links trace element dysregulation to critical illness-acquired weakness, impl",
-      "source": "Current opinion in clinical nutrition and metabolic care",
-      "authors": "Stoppe Christian, Gundogan Kursat, Marelli Stefano",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42681987/",
-      "category": "Systematic Review / Meta-Analysis",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42624020",
-      "title": "Traditional Chinese medicine for neutrophil-mediated acute lung injury: from single-mechanism targeting to multi-mechanism synergistic regulation.",
-      "abstract": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are life-threatening acute respiratory disorders triggered by infection, sepsis, trauma, and environmental stressors, characterized by alveolar-capillary barrier destruction, pulmonary edema, and intractable hypoxemia, with a high clinical mortality rate of 30-40%. Although clinical supportive strategies have been continuously optimized, specific and effective pharmacological interventions for ALI/ARDS remain lacking, resulting in an urgent unmet clinical demand. Neutrophil dysfunction is recognized as the core pathological driver of ALI progression, which initiates a continuous pathological cascade including abnormal recruitment and migration, excessive activation, toxic inflammatory mediator release, and apoptotic imbalance. Traditional Chinese medicine (TCM) exhibits unique advantages in the prevention and treatment of ALI/ARDS with multi-target and multi-pathway regulatory characteristics, whereas a systematic and standardized mechanistic intervention framework is still absent. Herein, we systematically summarize the neutrophil-centered pathological mechanisms underlying ALI/ARDS and establish a dual-layer T",
-      "source": "International immunopharmacology",
-      "authors": "Wu Xiaohui, Yang Yu, Zhang Yingqi, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42624020/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42485824",
-      "title": "Effect of ketofol versus Fentanyl-Midazolam sedation on neurological recovery in traumatic brain Injury: A randomised study.",
-      "abstract": "Neurological recovery after traumatic brain injury (TBI) is multifactorial, and sedation is a cornerstone of neurocritical care because of its neuroprotective role. Although ketofol is widely used for anaesthesia, its effectiveness as a sedative regimen in the intensive care unit (ICU) has not been well studied. This preliminary exploratory double-blind, randomised study compared ketofol (KP) with fentanyl-midazolam (FM) sedation in adults with moderate-to-severe TBI. Sedation was administered for 72 h and titrated to a Richmond Agitation-Sedation Scale (RASS) score ≤  - 3. The primary outcome was the Extended Glasgow Outcome Scale (GOSE) at 30 days. Secondary outcomes included GOSE at 90 days, incidence of propofol infusion syndrome (PRIS), duration of mechanical ventilation, haemodynamic stability, and ICU and hospital length of stay. Of 120 enrolled patients, 111 were included in the final analysis (57 FM, 54 KP). Baseline characteristics, including injury severity and Marshall CT scores, were comparable. At 30 days, good neurological recovery (GOSE 7-8) was more frequent in the KP group than the FM group (26% vs. 10.5%, p = 0.03). At 90 days, recovery remained higher with KP (4",
-      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
-      "authors": "Manyam Umadevi, Sokhal Navdeep, Sokhal Suman, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42485824/",
-      "category": "Research Article",
       "highlighted": false
     },
     {
