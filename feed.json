@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T11:30:29.193275+00:00",
-  "count": 82,
+  "generated": "2026-10-05T13:00:38.607035+00:00",
+  "count": 83,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -1110,6 +1110,21 @@
       ],
       "date": "2026 Oct 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42485467/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42831012",
+      "title": "ICU-Associated Exposure Keratopathy and Preventable Corneal Blindness: A Clinical Review.",
+      "abstract": "Exposure keratopathy is an ocular surface injury caused by prolonged corneal exposure, most often from incomplete eyelid closure. Critical illness can intensify exposure through reduced blinking, chemosis, impaired corneal reflexes, sedation, mechanical ventilation, and tear film instability. This narrative clinical review synthesizes contemporary evidence on epidemiology, mechanisms, risk factors, bedside assessment, prevention, protocol implementation, and care in resource-constrained intensive care units (ICUs). PubMed/MEDLINE was searched for English language literature from January 2000 through 15 September 2026, supplemented by reference list and guideline searches. Systematic reviews, randomized trials, cohort studies, quality improvement reports, and relevant guidance were prioritized. Pooled evidence indicates that exposure keratopathy is common among critically ill patients, and recent trials support scheduled lubrication, eyelid closure support, and moisture chamber approaches, particularly when the cornea remains exposed. Fluorescein assessment and clear ophthalmology referral criteria improve detection of epithelial injury and complications that threaten vision. The re",
+      "source": "Clinical ophthalmology (Auckland, N.Z.)",
+      "authors": "Omar Abdullahi Abdirahman",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831012/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
