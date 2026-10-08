@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T13:00:38.607035+00:00",
-  "count": 83,
+  "generated": "2026-10-08T12:27:40.516238+00:00",
+  "count": 82,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -47,6 +47,36 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41864830/",
       "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42831296",
+      "title": "Eye Movement Desensitisation and Reprocessing (EMDR) for ICU-related psychological distress among adult intensive care survivors: a scoping review.",
+      "abstract": "This review mapped evidence on EMDR in adult ICU survivors.EMDR was associated with reduced trauma-related distress symptoms.Evidence was limited by small and heterogeneous study designs.Further controlled studies are needed to establish effectiveness.",
+      "source": "European journal of psychotraumatology",
+      "authors": "Satkunam Shamini, Dimitriou Irene, Shaikh Madiha",
+      "pub_types": [
+        "Journal Article",
+        "Scoping Review",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831296/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42784988",
+      "title": "ProMem-agent: Procedural memory-augmented large language model agents for clinical trajectory reasoning.",
+      "abstract": "Clinical large language model (LLM) agents can interpret current clinical context but have limited mechanisms for converting longitudinal experience into compact, reusable units. We developed ProMem-Agent, a procedural-memory framework that represents recurrent early intensive-care trajectories as provenance-linked observational patterns for retrospective mortality-risk estimation. Adult ICU stays with at least 24 hours of observable data were represented as six consecutive four-hour state-action-response intervals. Memory candidates were extracted exclusively from the MIMIC-IV ICU training cohort, linked to source events, consolidated by semantic clustering, and organized in a similarity graph. For each new patient, hybrid semantic and graph retrieval selected three memory cards. Comparators included conventional and longitudinal EHR models, direct and Chain-of-Thought LLM prompting, patient-level Case-RAG, token-matched Case-RAG, semantic-only Procedure-RAG, and first-24-hour SOFA as a clinically established severity reference. Evaluation included patient-level bootstrap testing, calibration analysis, external validation, retrieval and clustering sensitivity analyses, perturbatio",
+      "source": "International journal of medical informatics",
+      "authors": "He Qianying, Liu Xuan, Liu Jingquan, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42784988/",
+      "category": "Review",
       "highlighted": false
     },
     {
@@ -182,6 +212,50 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42845173",
+      "title": "Comparison of the Validity and Reliability of Five Pressure Injury Risk Scales in Intensive Care.",
+      "abstract": "The lack of consensus on the best pressure injury (PI) risk assessment tools demonstrates the need for further comparative research to identify the most effective options for intensive care unit (ICU) populations. This study compared the predictive validity and reliability of five PI risk assessment tools in adult ICU patients. A prospective cohort study was conducted with patients aged ≥ 18 years, admitted to the ICUs for at least 24 h and without pre-existing PI. Five tools (Braden Scale, CALCULATE, Cubbin & Jackson, EVARUCI and Sunderland) were used daily to assess PI risk until either a PI developed or the participant was discharged, died or completed 21 days in the ICUs. The main outcome measures included area under the receiver operating characteristic (ROC) curve, sensitivity, specificity, relative risk and reliability. Of the 150 participants, 40 (26.7%) developed PIs. None of the five tools demonstrated good predictive accuracy. AUC values ranged from 0.605 to 0.692 across the five tools, with none exceeding the predefined threshold of 0.70. Participants classified as high risk by Sunderland, Cubbin & Jackson and EVARUCI had a 3.0, 2.5 and 2.1 times higher risk, respective",
+      "source": "Nursing in critical care",
+      "authors": "Velozo Bruna Cristina, Budri Aglecia Moda Vitoriano, Bernardo Larissa Cassiano, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study",
+        "Validation Study"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42845173/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42844890",
+      "title": "Evaluating Meaningful Patient and Public Involvement in Intensive Care Research-A PEIRS-22 Survey.",
+      "abstract": "Patient and public involvement (PPI) is increasingly recommended in health research to enhance relevance, quality and implementation of findings. In intensive care research, involving patients, family members and healthcare professionals may help ensure that research addresses outcomes that are meaningful to those affected by critical illness. This study aimed to assess the level of meaningful PPI engagement during the development of a core outcome set (COS) for general intensive care unit (ICU) patients in Denmark. A cross-sectional survey using the Danish version of the Patient Engagement in Research Scale (PEIRS-22) was conducted between December 2024 and January 2025. We invited all members (patients, family, healthcare professionals and researchers) of five research panels, established in 2021 to support COS development across Danish university hospitals (N = 46). PEIRS-22 total scores range from 1 to 100, with higher scores indicating greater meaningful engagement (scores ≥ 70.1 were considered meaningful). Descriptive statistics, item-level analyses and non-parametric comparisons between participant roles were performed. Thirty-seven of 46 participants responded (80.4%): 27.",
+      "source": "Nursing in critical care",
+      "authors": "Collet Marie O, Bruun Camilla R L, Granholm Anders, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844890/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42844827",
+      "title": "Olanzapine for the Prevention and Treatment of ICU Delirium: Protocol for a Systematic Review With Meta-Analysis.",
+      "abstract": "Intensive care unit (ICU) delirium is a multifactorial acute brain dysfunction associated with prolonged hospitalization, increased morbidity and mortality, and higher healthcare costs. Despite these substantial negative impacts of delirium, the optimal prevention and treatment strategies are unclear. Olanzapine, an atypical antipsychotic drug, is commonly used for delirium management. We will perform an updated systematic review and meta-analysis to assess the benefits and harms of olanzapine for the prevention and treatment of ICU delirium. This protocol is developed in accordance with the recommendations of The Cochrane Collaboration and is reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analysis Protocols (PRISMA-P) guidelines. We will include all randomized clinical trials (RCTs) evaluating prophylactic or therapeutic olanzapine versus any comparator, including pharmacological, non-pharmacological, placebo, or routine care/no specific delirium-directed intervention (treated as a single comparator) in ICU patients. Observational studies will be included solely to address potential harms. We will systematically search the following databases: ",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Liebetrau Benedikte, Madsen Andreas Ruhvald, Möller Sören, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844827/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42823015",
       "title": "Managing the Critically Ill Postpartum Patient in the Emergency Department.",
       "abstract": "This review article prepares emergency physicians to recognize and manage critical illness in postpartum patients, a population at heightened risk of preventable morbidity and mortality in North America amid persistent racial/geographic disparities and shrinking obstetric access. It highlights key physiologic changes after delivery that complicate patient management. The article focuses on 3 immediate postpartum emergencies (postpartum hemorrhage, postpartum preeclampsia, and amniotic fluid embolism) and 3 subacute (pulmonary embolism, peripartum cardiomyopathy, and spontaneous coronary artery dissection). It concludes with system-level strategies to improve safety and outcomes.",
@@ -300,78 +374,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42786673",
-      "title": "Key Characteristics and Mechanisms in Ventilator Weaning of Adult Intensive Care Patients-A Qualitative Study With Healthcare Professionals.",
-      "abstract": "Weaning from mechanical ventilation appears to be a complex intervention as defined by the Medical Research Council Framework. However, there is a lack of theoretical insights into ventilator weaning, and the underlying causal mechanisms have not yet been uncovered sufficiently. To understand its complexity in theory and develop it in practice, a program theory is currently being developed in a multi-method study. To identify key characteristics and mechanisms in ventilator weaning of adult intensive care patients. In this sub-study, we conducted semi-structured group discussions and workshops with 29 healthcare professionals in intensive care over 3 days in 2025 in Germany, using a qualitative design. The data were collected using audio recordings, field notes and photographs. After transcription, a deductive-inductive thematic analysis was performed. The analysis revealed four principal themes: (1) complexity of ventilator weaning, (2) outcomes, (3) interventions and (4) links and relationships. The first theme combines factors such as definition and delimitation, dynamics, structure and individualization, which together describe the inherent complexity. The second theme covers d",
-      "source": "Nursing in critical care",
-      "authors": "Sterr Fritz, Bauernfeind Lydia, Kepplinger Anja, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42786673/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42778513",
-      "title": "WIse CHoices in the ICU (WICH-ICU): Protocol and Statistical Analysis Plan for a Stepped-Wedge Cluster Randomized Trial of Choosing Wisely Interventions in Swedish Intensive Care Units.",
-      "abstract": "Healthcare overuse, including unnecessary diagnostic testing and procedures, contributes to patient harm, increased healthcare costs, and resource waste. The Choosing Wisely initiative aims to reduce low-value care through evidence-based recommendations. However, limited evidence exists regarding the safety and effectiveness of implementing Choosing Wisely recommendations in intensive care settings. The WICH-ICU is a registry-based stepped-wedge cluster randomized controlled trial designed to evaluate the implementation of specific Choosing Wisely interventions in Swedish intensive care units (ICUs). The study will include adult patients treated in participating Swedish ICUs. The intervention consists of three parts of the Choosing Wisely recommendations: (1) reduced frequency of arterial blood gas sampling, (2) reduced routine laboratory testing, and (3) reduced routine chest radiography. The primary outcome is 30-day mortality. Secondary outcomes include ICU length of stay, duration of mechanical ventilation (invasive and noninvasive), continuous renal replacement therapy duration, and ICU readmission within 72 h. Intervention data, testing intensity (arterial blood gas samples, ",
-      "source": "Acta anaesthesiologica Scandinavica",
-      "authors": "Larsson Emma, Valadkhani Arman, Eriksson Jesper, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Clinical Trial Protocol"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42778513/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42681978",
-      "title": "Nutrition support in gastroenterology: opinion on current literature.",
-      "abstract": "Historically, enteral nutrition has been the preferred therapy due to its physiologic benefits, with parenteral nutrition selected if enteral nutrition was contraindicated or insufficient; however, recent advances in nutrition support have prompted reevaluation of this process. This review summarizes the current evidence regarding enteral nutrition and parenteral nutrition in gastrointestinal oncology, inflammatory bowel disease (IBD), critical care, and gastrointestinal surgery. In gastric cancer, parenteral nutrition may improve the nutritional status and clinical outcomes of treatment-related gastrointestinal dysfunction. In IBD, exclusive enteral nutrition may be effective for inducing remission and promoting mucosal healing, whereas parenteral nutrition is preferred in intestinal failure and severe complications. Studies have shown the value of early parenteral nutrition when enteral nutrition is contraindicated or insufficient, specifically for improving nutrient delivery and reducing complications in critically ill and surgical patients. Additional areas of interest include caloric and protein dosing, indirect calorimetry, and the effect of nutrition support on the gut micro",
-      "source": "Current opinion in gastroenterology",
-      "authors": "Deringer Rianna, Silva Camila Schmeil, Klein Daniel",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42681978/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42673898",
-      "title": "A perspective on foundation models in intensive care medicine.",
-      "abstract": "Foundation models (FMs) pretrained with self-supervised objectives on heterogeneous ICU data have capabilities which supersede siloed, single-task predictive analytic paradigms. Here we present a framework for applying FMs in intensive care and a roadmap for safe, effective deployment. We argue that FMs applied in the time-critical, data-dense environment of intensive care could support rapid learning cycles and real-time, patient-level specific decisions. We highlight enabling resources, including large public databases, and outline potentially high-impact applications: continuous risk prediction and triage support; workflow-aware monitoring that reduces cognitive load; and personalized, data-informed interventions. We also describe potential generative uses, from noninvasive surrogates of invasively measured signals and short-horizon physiologic forecasting to synthetic data for rare conditions. To ensure trust and clinical utility, we advocate grounded explainability, prospective and post-deployment evaluation, and alignment with emerging regulatory pathways. Finally, we propose a staged path from passive surveillance to co-pilot decision support, bounded closed-loop control, an",
-      "source": "Artificial intelligence in medicine",
-      "authors": "Harris Carl, Schmidgall Samuel, Rapuri Sampath, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42673898/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42556000",
-      "title": "Aneurysmal subarachnoid hemorrhage care in a middle-income public healthcare system: A real-world neurocritical care cohort.",
-      "abstract": "Although aneurysm treatment capacity has expanded worldwide, outcomes after aneurysmal subarachnoid hemorrhage (aSAH) remain strongly influenced by neurocritical care (NCC) delivery, referral pathways, and access to specialized treatment. Contemporary data describing real-world aSAH care in resource-limited healthcare systems remain scarce. We aimed to characterize treatment patterns, NCC delivery, complications, and outcomes in a large Brazilian public referral center. This retrospective cohort study included consecutive adults with confirmed aSAH admitted between June 2018 and March 2022 to a high-volume Brazilian tertiary referral center. Only patients admitted within five days of symptom onset were included. Demographic, clinical, radiological, treatment, complication, and outcome data were extracted from institutional records. Primary outcomes were in-hospital mortality and 3-month functional outcome assessed by the modified Rankin Scale (mRS). Seventy-four patients were included. Disease severity was high, with 45% presenting WFNS grades 4-5, 73% modified Fisher grade 4 hemorrhage, and 64% hydrocephalus. Endovascular treatment was performed in 73% of cases, and median time fr",
-      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
-      "authors": "Machado Marazzi Thire Baggio, Rimoli Brunna Pileggi, de Oliveira Ricardo Santos, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42556000/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42364890",
       "title": "Presepsin outperforms conventional biomarkers for Sepsis diagnosis and 30-day mortality prediction: A multicenter prospective study in a north African ICU cohort.",
       "abstract": "Sepsis remains a leading cause of intensive care unit (ICU) mortality, necessitating the identification of accurate biomarkers for diagnosis and prognosis. Presepsin (sCD14-ST), generated through monocyte/macrophage phagocytosis of bacterial components, offers infection-specific signals. This study compared the diagnostic and prognostic performance of with of procalcitonin (PCT), C-reactive protein (CRP), interleukin-6 (IL-6), and interleukin-8 (IL-8) within the same patient cohort. This prospective multicenter cohort study enrolled 184 participants across two Algerian tertiary ICUs: 60 healthy controls, 30 patients with pulmonary infection, 46 with sepsis, and 48 with septic shock (Sepsis-3 criteria). All biomarkers were measured using a single blood sample collected within six hours of admission. Diagnostic accuracy was assessed using ROC curve analysis and DeLong's test, and independent predictors of 30-day mortality were identified using binary logistic regression. All biomarkers differed significantly between the groups (p < 0.001). Presepsin achieved the highest diagnostic accuracy for septic shock versus healthy controls (AUC = 0.880) and was the best discriminator between s",
@@ -402,6 +404,22 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42810147",
+      "title": "Interpretable machine learning for early in-hospital mortality prediction in intensive care unit patients with acute upper gastrointestinal bleeding: Development and multicenter external validation.",
+      "abstract": "Early mortality risk stratification remains challenging in intensive care unit (ICU) patients with acute upper gastrointestinal bleeding (AUGIB). We developed a parsimonious, interpretable ensemble model and evaluated its performance across independent ICU cohorts. MIMIC-IV was used for model development and internal validation (n=3,728), and eICU-CRD (n=7,529) and a Hainan cohort (n=200) were used for external validation. Adults with ICU stays of at least 24 hours were included. Subsequent all-cause in-hospital mortality was predicted from routinely available data collected during the first 24 hours after ICU admission. Within MIMIC-IV, predictors were prioritized according to multi-algorithm ranking and clinical feasibility, and a 17-feature subset was selected using a performance-parsimony criterion supported by knee-point analysis. Nine machine-learning algorithms were evaluated, and four complementary learners were combined using equal-weight soft voting based on cross-validated performance and prediction complementarity. Model evaluation included AUROC, PR-AUC, Brier score, calibration, and decision-curve analysis. Ensemble-level SHAP and pathway analyses supported model inte",
+      "source": "International journal of medical informatics",
+      "authors": "Shi Jianshan, Li Yanfen, Li Wenxuan, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Validation Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810147/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42806854",
       "title": "Diagnostic value of metagenomic next-generation sequencing for bacterial and fungal detection and its role in antimicrobial therapy adjustment in critically ill patients with non-resolving pneumonia.",
       "abstract": "Early targeted antibiotic therapy is critical for improving outcomes in ICU patients with pneumonia unresponsive to initial treatment. Metagenomic next-generation sequencing (mNGS) is a unique diagnostic tool; however, its effectiveness for high-risk populations remains unclear. This retrospective study included 642 ICU patients with pneumonia unresponsive to initial treatment, categorized into single- or repeat-test groups based on mNGS testing frequency. We analyzed the results of mNGS and conventional microbiological tests (CMTs), compared microbial detection characteristics between patients with different immune statuses, assessed the impact of repeat testing on microbial detection and treatment adjustments and evaluated its association with patient prognosis using multivariable logistic regression and propensity score matching. Among 642 patients, patient-level agreement between mNGS and CMTs was low (κ = 0.180,  mNGS is a valuable microbial detection tool for ICU patients with pneumonia unresponsive to initial treatment and can support early antimicrobial adjustment. Repeat testing can provide information on dynamic changes in the microbial spectrum during disease but was not",
@@ -427,6 +445,21 @@
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42749504/",
       "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42697157",
+      "title": "Artificial intelligence-supported total parenteral nutrition management in neonatal intensive care units: A systematic review of clinical efficacy, safety, and system integration.",
+      "abstract": "This systematic review aims to synthesise the present evidence base concerning artificial intelligence (AI)-supported total parenteral nutrition (TPN) management in neonatal intensive care units (NICUs) with respect to clinical efficacy, patient safety, and system integration. This systematic review follows the PRISMA 2020 guideline. We searched PubMed/MEDLINE, Scopus, and Web of Science between January and March 2026, and used the PICO framework to include quantitative studies that employed AI, machine learning (ML), computerised physician order entry (CPOE), or clinical decision support systems (CDSS) in neonatal TPN management. We appraised methodological quality using the Cochrane RoB 2 tool for randomised controlled trials, the Newcastle-Ottawa Scale for observational studies, and the GRADE framework for the overall strength of the evidence. Sixteen records met the broad topical and technological inclusion criteria. Of these, thirteen quantitative primary studies (published 2008-2026, n = 30-9,330) form the evidence base for data synthesis and GRADE appraisal; three additional records provided historical and architectural context only. CPOE and rule-based CDSS significantly im",
+      "source": "International journal of medical informatics",
+      "authors": "Çiçek Mustafa Alpkan, Tutak Ercan, Dursun Mesut, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697157/",
+      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
@@ -650,65 +683,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42526360",
-      "title": "Anabolic androgen therapy in critically ill adults: A systematic review and meta-analysis.",
-      "abstract": "Critical illness is characterized by a catabolic, proinflammatory state. Anabolic agents, such as testosterone, have therefore been proposed as therapeutic targets. Our objectives were to assess the effects of testosterone in critically ill populations on patient-important outcomes and identify design limitations to inform future studies. We searched for randomized control trials (RCTs) through Medline, Embase, and EBM Reviews databases from inception through February 24, 2026, including English language articles enrolling adults (≥18 years) admitted to ICU where anabolic androgen therapies (AAT) were compared with placebo or standard of care. Studies had to report at least one of: mortality, ICU and hospital lengths of stay, or duration of mechanical ventilation. We extracted data independently using a standardized data extraction tool, and feedback was received from all co-authors to ensure agreement. For each outcome, we performed meta-analyses using a random-effects model with inverse variance weighting in RevMan. We used the GRADE approach to assess certainty in pooled estimates of effect. Of 1325 screened articles, we found 4 that fit our inclusion criteria. Together, we judg",
-      "source": "Journal of critical care",
-      "authors": "Blaskovits Farriss, Meggison Hilary, Haddara Wael, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42526360/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42526139",
-      "title": "Exit blocks in Australian intensive care units: a national survey of ICU staff's perspectives on facilitators and barriers to timely discharge.",
-      "abstract": "Intensive care bed block has been a persistent problem worldwide. Current Australian evidence is mostly from single or small-scale multisite studies, and there is a lack of evidence on a bigger scale. To explore multidisciplinary ICU staff's perspectives on the facilitators and barriers to timely ICU patient discharge in Australia. A national cross-sectional online survey was distributed via professional organisations to ICU staff across Australia. The survey comprised 45 quantitative and eight qualitative items informed by systematic reviews and studies. A total of 114 ICU staff completed the survey. Three-quarters (n = 77, 75%) reported the discharge process as 'extremely' or 'somewhat difficult', with the majority (n = 91, 80%) reporting ward bed unavailability as the primary cause of discharge delay. Respondents expressed that emergency departments and operating theatres were prioritised over ICUs during hospital bed allocation. Ward bed allocation was mostly communicated verbally (n = 44, 39%) or by phone (n = 71, 62%), with only 39% (n = 44) using digital methods. Facilitators included post-ICU ward follow-up assessment and management, ICU discharge liaison nurse coordination",
-      "source": "Intensive & critical care nursing",
-      "authors": "Keegan Anne-Maree, Adams Anne Mette Nørby, Lin Frances Fengzhi",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42526139/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42520351",
-      "title": "Measuring economic efficiency in adult intensive care units: A systematic review of methods, metrics, and evidence.",
-      "abstract": "Intensive care units (ICUs) consume substantial hospital resources, yet \"efficiency\" is inconsistently defined and measured. This study systematically reviewed how economic efficiency has been conceptualised and quantified in adult ICUs and appraised the quality of evidence. Following PRISMA 2020 and a PROSPERO-registered protocol (CRD420251107866), we searched MEDLINE, Embase, CINAHL, Cochrane Library and Web of Science (2000-August 2025), plus global grey sources. Eligible studies explicitly defined efficiency and reported an efficiency metric/model linking ICU inputs (e.g., staff, beds/capacity, time, consumables, or costs) to outputs/outcomes (e.g., throughput/discharges, length of stay/resource use, risk-adjusted mortality). Dual independent screening and extraction were performed. Study quality was appraised using MMAT, and findings were synthesised narratively (SWiM), given heterogeneity. 39 studies (2001-2025) from 17 countries were included, all from high-income or upper-middle-income settings. Four methodological families were identified: (1) frontier modelling (predominantly DEA; occasional SFA/RFDH), (2) benchmarking indicators (risk-adjusted mortality and LOS/resource-",
-      "source": "Journal of critical care",
-      "authors": "Collins Mark P, Segun-Beloved Lois, Reed Rebecca E, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42520351/",
-      "category": "Systematic Review / Meta-Analysis",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42517253",
-      "title": "Emerging infection and nosocomial transmission of carbapenem-resistant",
-      "abstract": "Carbapenem-resistant",
-      "source": "Virulence",
-      "authors": "Hu Song, Tan Hua, Ding Rong, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42517253/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42447972",
       "title": "Short-chain fatty acid metabolism in acute lung injury and intervention strategies from traditional Chinese medicine.",
       "abstract": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are severe conditions associated with high mortality rates and limited treatment options. Short-chain fatty acids (SCFAs) serve as central immunomodulatory metabolites mediate the crosstalk between the gut and lung. Traditional Chinese medicine (TCM), with its holistic approach, shows promise in restoring gut-lung balance and alleviating respiratory inflammation by modulating gut microbiota and SCFA metabolism. To elucidate the protective role and mechanism of SCFAs in ALI and ARDS via the gut-lung axis. Meanwhile, to evaluate the therapeutic potential of TCM in treating ALI by modulating the gut microbiota and enhancing SCFA production. A comprehensive literature search was conducted across PubMed, Ovid-Embase, Web of Science, and CNKI databases (2010-2025). Keywords included \"short-chain fatty acid\", \"gut microbes\", \"acute lung injury\", \"traditional Chinese medicine\", and related terms. The search focused on preclinical and mechanistic studies investigating SCFA signaling, gut microbiota remodeling, and the therapeutic effects of herbal compounds or their active constituents in ALI/ARDS models. This review ide",
@@ -750,6 +724,21 @@
       ],
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324603/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42840777",
+      "title": "Triptolide-loaded MSC membrane nanoparticles with enhanced pulmonary accumulation for the treatment of acute lung injury: from network pharmacology to experimental validation.",
+      "abstract": "Acute lung injury (ALI) and its severe form acute respiratory distress syndrome (ARDS) are critical conditions with few effective therapies. Triptolide (TPL), a bioactive compound from Tripterygium wilfordii, exhibits potent anti-inflammatory effects but its clinical use is restricted by poor solubility, rapid clearance, and hepatotoxicity. Using network pharmacology and molecular docking as hypothesis-generating approaches, we prioritized NLRP3 inflammasome activation as a key candidate pathway mediating the therapeutic effects of TPL against ALI. Based on this, we developed mesenchymal stem cell membrane-coated TPL-loaded biomimetic nanoparticles (CM@TPL-NPs) comprising a PLGA core loaded with TPL and coated with mesenchymal stem cell membranes. This coating improved biocompatibility, reduced hepatic sequestration, and enabled preferential lung accumulation, while retaining inherent anti-inflammatory activity. CM@TPL-NPs showed favorable physicochemical properties, sustained release, and improved biocompatibility. Mechanistically, they suppressed NLRP3 inflammasome activation in LPS-stimulated macrophages, while preserving endothelial barrier integrity. In a murine ALI model, bot",
+      "source": "International journal of pharmaceutics: X",
+      "authors": "Liu Jiahao, Zhao Yue, Zhuang Yixin, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840777/",
       "category": "Review",
       "highlighted": false
     },
@@ -812,6 +801,22 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42537430/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42526360",
+      "title": "Anabolic androgen therapy in critically ill adults: A systematic review and meta-analysis.",
+      "abstract": "Critical illness is characterized by a catabolic, proinflammatory state. Anabolic agents, such as testosterone, have therefore been proposed as therapeutic targets. Our objectives were to assess the effects of testosterone in critically ill populations on patient-important outcomes and identify design limitations to inform future studies. We searched for randomized control trials (RCTs) through Medline, Embase, and EBM Reviews databases from inception through February 24, 2026, including English language articles enrolling adults (≥18 years) admitted to ICU where anabolic androgen therapies (AAT) were compared with placebo or standard of care. Studies had to report at least one of: mortality, ICU and hospital lengths of stay, or duration of mechanical ventilation. We extracted data independently using a standardized data extraction tool, and feedback was received from all co-authors to ensure agreement. For each outcome, we performed meta-analyses using a random-effects model with inverse variance weighting in RevMan. We used the GRADE approach to assess certainty in pooled estimates of effect. Of 1325 screened articles, we found 4 that fit our inclusion criteria. Together, we judg",
+      "source": "Journal of critical care",
+      "authors": "Blaskovits Farriss, Meggison Hilary, Haddara Wael, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526360/",
       "category": "Clinical Trial",
       "highlighted": false
     },
@@ -1053,22 +1058,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42735469",
-      "title": "Traditional, complementary, and integrative medicine therapies for mild/moderate acute COVID-19: a systematic review and network meta-analysis.",
-      "abstract": "Although the use of Traditional, Complementary, and Integrative Medicine (TCIM) interventions to treat coronavirus disease 2019 (COVID-19) is common, the effectiveness of these interventions is unclear. To compare different TCIM interventions for the treatment of mild/moderate acute COVID-19. EMBASE (Elsevier), Medline (OVID), VHL TCIM database, Cochrane Central, ClinicalTrials.gov, ICTRP, as of April 29th, 2025, as well as eight Chinese and four Korean databases. Randomized controlled trials comparing a TCIM intervention with another, the standard of care (SoC), placebo, or conventional medicine in participants with suspected, probable, or confirmed mild/moderate acute COVID-19. Reviewers worked in pairs and independently extracted data and assessed the risk of bias and rated the certainty of the evidence for each outcome. One hundred fifty-five trials evaluating 142 TCIM therapies were eligible for review, of which 69 (45%) trials enrolling 18,627 patients met criteria for analysis, contributing at least 80 participants or 20 events to one intervention. All the following estimates come from direct evidence, as networks were sparse. Compared with SoC or placebo, high to moderate c",
-      "source": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-      "authors": "Li Anqi, Ren Jun, Guyatt Gordon H, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Network Meta-Analysis"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735469/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42532052",
       "title": "Evaluating the prognostic value of admission IL-8 and sST2 as biomarkers of early myocardial injury in severe community-acquired pneumonia.",
       "abstract": "Myocardial injury in severe community-acquired pneumonia (SCAP) is often under-recognized, and interpretation of high-sensitivity cardiac troponin I (hs-cTnI) may be complicated by renal dysfunction and critical illness. We evaluated whether admission interleukin-8 (IL-8) and soluble suppression of tumorigenicity 2 (sST2) could support early risk stratification of guideline-consistent myocardial injury in patients with SCAP. In this prospective cohort of 146 patients with SCAP, guideline-consistent myocardial injury was defined as hs-cTnI elevation above the assay-specific 99th percentile upper reference limit. Admission IL-8, sST2, and their combination were assessed using receiver operating characteristic curve analysis and 10-fold cross-validation. Fixed and estimated glomerular filtration rate (eGFR)-stratified hs-cTnI thresholds were compared in an exploratory analysis. An exploratory subgroup analysis was performed among patients with CURB-65 ≤ 1. The median age was 71 years; 91 patients (62.3%) were male and 55 (37.7%) were female. Myocardial injury occurred in 88 patients (60.3%). The IL-8 + sST2 model showed good discrimination for myocardial injury, with an AUC of 0.825 (",
@@ -1080,6 +1069,20 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42532052/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42613789",
+      "title": "Fiber and fluid administration and the risk of constipation in critically ill adults on mechanical ventilation: A prospective cohort study.",
+      "abstract": "Constipation is a common complication in critically ill patients and has been associated with adverse clinical outcomes. However, the role of enteral nutrition composition, particularly fiber and fluid administration, remains unclear. The aim of this study was to evaluate the association between dietary fiber and fluid administration and constipation in invasive mechanical ventilated critically ill adults. We conducted a prospective cohort study including 74 critically ill adults requiring invasive mechanical ventilation and enteral nutrition. Patients were followed for up to 144 h from initiation of mechanical ventilation. Fiber and total fluid administration were evaluated as time-varying exposures. Constipation was defined as absence of defecation within 144 h. Discrete-time survival analysis was used to assess associations. Constipation occurred in 54% of patients. Time to first defecation ranged from 48 to 504 h. Most patients (97.3%) received early enteral nutrition, although fiber and fluid delivery were frequently below guideline-recommended targets. No significant association was observed between fiber intake or fluid administration and constipation after adjustment, with ",
+      "source": "JPEN. Journal of parenteral and enteral nutrition",
+      "authors": "Lamoyi-Domínguez Paola Renata, Rodríguez-Moguel Nadia Carolina, Pedroza-Terán Lourdes Guadalupe, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42613789/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
@@ -1185,20 +1188,6 @@
       ],
       "date": "2026 Sep 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42371750/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42613789",
-      "title": "Fiber and fluid administration and the risk of constipation in critically ill adults on mechanical ventilation: A prospective cohort study.",
-      "abstract": "Constipation is a common complication in critically ill patients and has been associated with adverse clinical outcomes. However, the role of enteral nutrition composition, particularly fiber and fluid administration, remains unclear. The aim of this study was to evaluate the association between dietary fiber and fluid administration and constipation in invasive mechanical ventilated critically ill adults. We conducted a prospective cohort study including 74 critically ill adults requiring invasive mechanical ventilation and enteral nutrition. Patients were followed for up to 144 h from initiation of mechanical ventilation. Fiber and total fluid administration were evaluated as time-varying exposures. Constipation was defined as absence of defecation within 144 h. Discrete-time survival analysis was used to assess associations. Constipation occurred in 54% of patients. Time to first defecation ranged from 48 to 504 h. Most patients (97.3%) received early enteral nutrition, although fiber and fluid delivery were frequently below guideline-recommended targets. No significant association was observed between fiber intake or fluid administration and constipation after adjustment, with ",
-      "source": "JPEN. Journal of parenteral and enteral nutrition",
-      "authors": "Lamoyi-Domínguez Paola Renata, Rodríguez-Moguel Nadia Carolina, Pedroza-Terán Lourdes Guadalupe, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613789/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
