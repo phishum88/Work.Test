@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T12:27:40.516238+00:00",
+  "generated": "2026-10-11T11:48:06.717429+00:00",
   "count": 82,
   "digest": null,
   "oe_query_count": 0,
@@ -50,6 +50,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42858113",
+      "title": "Maternal critical care infrastructure and organisational preparedness in Türkiye: a national analysis of the MaCriCare cross-sectional survey.",
+      "abstract": "MaCriCare (Maternal Critical Care) study, created as a European initiative, evaluated the availability of maternal critical care services. Since unique strengths and challenges of Turkish data within the MaCriCare study have not yet been evaluated separately, we aimed to assess maternal critical care preparedness and organisation in Turkish obstetric units participating in the MaCriCare cohort. This secondary analysis included validated unit responses collected from September 2021 to January 2022. Survey domians including access to an intensive care unit (ICU), modified early-obstetric warning-score (MEOWS) use, availability of critical-care resources, care locations for pre-eclampsia, postpartum haemorrhage (PPH) and sepsis, and maternal/staff support by focusing service accessibility and annual delivery rate were used. The comparator comprised 993 non-Türkiye units, and 140 Turkish units from 1,133-unit MaCriCare cohort. Responses from 140/403 eligible units (34.7%) represented 305,250 annual deliveries where 501-1,500 and 1,501-3,000 annual deliveries comprised 32.1% and 30.0%, respectively. Rate of same-hospital ICU access was 78.6% and 82.4% and use of any MEOWS system was 27.",
+      "source": "Annals of medicine",
+      "authors": "Günaydın Dudu Berrin, Erel Selin, Özdemir Miray Gözde, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858113/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42831296",
       "title": "Eye Movement Desensitisation and Reprocessing (EMDR) for ICU-related psychological distress among adult intensive care survivors: a scoping review.",
       "abstract": "This review mapped evidence on EMDR in adult ICU survivors.EMDR was associated with reduced trauma-related distress symptoms.Evidence was limited by small and heterogeneous study designs.Further controlled studies are needed to establish effectiveness.",
@@ -57,8 +71,7 @@
       "authors": "Satkunam Shamini, Dimitriou Irene, Shaikh Madiha",
       "pub_types": [
         "Journal Article",
-        "Scoping Review",
-        "Review"
+        "Scoping Review"
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42831296/",
@@ -92,6 +105,20 @@
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42773079/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42624055",
+      "title": "Parental visitation patterns during neonatal intensive care and neurodevelopment at 18 months' corrected age in very low birth weight infants.",
+      "abstract": "Very low birth weight (VLBW) infants are at risk for adverse neurodevelopment. Although parental involvement during neonatal intensive care unit (NICU) hospitalization might influence development, parental visitation patterns have rarely been quantified. This retrospective cohort study included infants born at <30 weeks' gestation (birth weight < 1500 g). Data on parental visitation patterns, specifically frequency (days/week) and visitation time (hours/week), were collected from electronic entry/exit card records throughout hospitalization and calculated as weekly indices using median values across the entire period. Neurodevelopment was assessed by the developmental quotient (DQ) of the Kyoto Scale of Psychological Development at 18 months' corrected age. Fifty-seven infants were included (median gestational age, 27.1 weeks; median birth weight, 934 g). The median weekly visitation frequencies for fathers and mothers were 3 (interquartile range [IQR], 2-4) and 6 (IQR, 4-7) days/week, respectively. The median weekly visitation times were 6.0 (IQR, 2.9-8.7) and 12.9 (IQR, 10.1-20.0) hours/week, respectively. The presence of siblings was associated with shorter parental visitation t",
+      "source": "Early human development",
+      "authors": "Saito Tomoko, Shimokaze Tomoyuki, Inagaki Yoshinori, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624055/",
+      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -208,6 +235,20 @@
       ],
       "date": "2026 Nov 15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42667903/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42851029",
+      "title": "PARTNER: Nurse Participation and Professional Experience During Family Conferences in Intensive Care: A Qualitative Study.",
+      "abstract": "Effective communication during family conferences (FC) in the intensive care unit (ICU) is essential for supporting families and fostering trust. Although nurses are continuously present at the bedside, their active participation in FC remains limited, structurally constrained and underexplored from the perspective of healthcare professionals. This study aimed to explore the factors shaping ICU nurses' participation in family conferences. This French single-centre qualitative interpretive study used semi-structured interviews with nurses and physicians. Transcripts were analysed using a thematic approach combining inductive and deductive coding, managed with NVivo software and reviewed by a multidisciplinary team. Nineteen HCP participated (14 nurses and 5 physicians). Three axes shaped HCP experience of FC: organizational conditions (setting, time and exclusion from ethical deliberation), interpersonal dynamics with families (comprehension, trust and relational skills) and interprofessional dynamics (nurses' specific role, barriers, facilitators and benefits of their involvement). Nurses did not express dissatisfaction but identified structural constraints limiting their participa",
+      "source": "Nursing in critical care",
+      "authors": "Caillet Anaëlle, Poiroux Laurent, Marchal Mathilde, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42851029/",
       "category": "Review",
       "highlighted": false
     },
@@ -331,45 +372,16 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42806280",
-      "title": "The Application of Nurse-Led Bedside Critical Care Ultrasound in Paediatric and Neonatal Nursing Practice: A Scoping Review.",
-      "abstract": "Point-of-care ultrasound (POCUS) is increasingly used in paediatric and neonatal critical care, but evidence on nurse-led bedside POCUS remains limited and fragmented. This scoping review aimed to map the evidence on nurse-led bedside POCUS in paediatric and neonatal critical care nursing practice, examine implementation factors and identify evidence gaps relevant to nursing research, education and clinical practice. Following JBI methodology and PRISMA-ScR guidance, we searched PubMed, Embase, CINAHL, Web of Science, Cochrane Library and CNKI from inception to October 2025. Eligibility followed the PCC framework. Two reviewers independently screened records and extracted data using a standardized form. Study characteristics were synthesized descriptively, and implementation factors were deductively analysed using the COM-B framework. Thirty-four studies were included, mainly from the United States and China. Nurse-led POCUS applications included vascular access, respiratory assessment, catheter localization, cardiac or hemodynamic evaluation, bladder assessment and education or competency development. Outcomes included clinical (procedural success and diagnostic accuracy), process",
-      "source": "Nursing in critical care",
-      "authors": "Wu Nana, Chen Xia, Fu Jie, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Scoping Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42806280/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42805941",
-      "title": "The Transition to Critical Care: A Qualitative Study of New Nurses' and Mentors' Experiences and Challenges in the Intensive Care Unit.",
-      "abstract": "During the orientation process in the intensive care unit (ICU), the experiences and challenges of new nurses and their mentor nurses often differ, leading to potential incompatibilities. This descriptive qualitative research aimed to determine the opinions and experiences of newly recruited nurses and their mentor nurses on the adaptation to the ICU. Semi-structured interviews were conducted with 21 nurses (10 mentors and 11 mentees) who worked in an ICU. Data were collected between March and May 2025. Four focus group interviews were conducted with mentors and mentees. Data were analysed using content analysis. Consolidated Criteria for Reporting Qualitative (COREQ) was used for reporting. In the mentor group, three themes emerged: (1) mentor challenges in mentee conflicts, (2) helpful or harmful: a mentor's dilemma and (3) double duty: the rising workload of nurse mentors; in the mentees group, two themes emerged: (1) mentee challenges in mentor conflictsand (2) a good system with operational gaps. The study reveals the complex challenges faced by both new nurses and their mentors in the ICU. Although mentorship supports professional growth and patient safety, issues such as poo",
-      "source": "Nursing in critical care",
-      "authors": "Kebapcı Ayda, Yalçın Begum, Eşim Deniz, et al.",
+      "id": "pmid_42777284",
+      "title": "Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.",
+      "abstract": "Therapeutic drug monitoring of antibiotics in critically ill patients with sepsis remains challenging due to highly variable pharmacokinetics, increasing the risk of under- or overdosing. This paper presents a novel single-use tetrapolar electrochemical impedance spectroscopy (EIS) biosensor for the rapid detection of meropenem in human serum. The sensor is based on a gold microband electrode functionalised with a self-assembled monolayer, protein G and anti-meropenem antibodies to enable selective antigen capture and impedance-based quantification. The biosensor demonstrated sensitive detection of meropenem over a range of 1-100 μg/mL in phosphate-buffered saline and within clinically relevant concentrations (8-16 μg/mL) in spiked human serum, with the lowest measured concentration of 1 μg/mL. Binding specificity was validated using tandem mass spectrometry and immunocapture liquid chromatography-mass spectrometry. The total assay time was under 15 min. This platform represents a promising approach for rapid, bedside-compatible monitoring of meropenem. While the impedance results demonstrate the potential of the biosensor for therapeutic drug monitoring, further validation is requ",
+      "source": "Biosensors & bioelectronics",
+      "authors": "Bayford Richard H, Nathaniel Neha Nitika, Shah Ajit J, et al.",
       "pub_types": [
         "Journal Article"
       ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42805941/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42786714",
-      "title": "Cross-Sectional Survey of Critical Care Provision in Ministry of Health Hospitals in Zambia.",
-      "abstract": "Critical care is an essential component of universal health care; however, its provision in low- and middle-income countries remains poorly understood. Although Zambia has expanded critical care services over the last 15 years, national evidence regarding workforce capacity, infrastructure and service provision remains limited. To evaluate critical care workforce, service provision and patient case mix across Ministry of Health hospitals in Zambia. A cross-sectional survey was administered across 14 public hospitals with critical care units across Zambia, representing all 10 provinces. Data were collected via an e-survey questionnaire instrument. Descriptive statistical analysis was conducted using SPSS. Ethics approval was obtained prior to the study. All hospitals responded (n = 14/14, 100% response rate), accounting for a capacity of 131 critical care beds. Only 28.6% of hospitals had 24-h intensivist coverage, whereas all had registered critical care nurses. Equipment availability varied, with universal access to ventilators and monitors but limited access to syringe pumps and inconsistent availability of functional CT scanners. Over a 7-day period, 121 admissions were recorded",
-      "source": "Nursing in critical care",
-      "authors": "Kahalu Richard, Notter Joy, Carter Chris",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42786714/",
+      "date": "2027 Jan 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42777284/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -404,6 +416,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42851065",
+      "title": "Performance of the Phoenix Sepsis Score for in-hospital mortality in critically ill pediatric oncology patients with suspected infection.",
+      "abstract": "Pediatric oncology patients with infection face a high risk of death. Although the Phoenix Sepsis Score (PSS) has recently been introduced as an organ dysfunction score for pediatric sepsis, its performance in pediatric oncology populations remains insufficiently characterized. This retrospective study enrolled pediatric oncology patients admitted to the pediatric intensive care unit (PICU) with suspected infection. The performance of the PSS was evaluated and compared with other pediatric critical care scores for discrimination of in-hospital mortality. The study cohort comprised 224 patients, accounting for 254 PICU admissions. The overall hospital mortality rate was 17.7%. All scoring systems except the Pediatric Risk of Mortality III (PRISM III) score demonstrated good discrimination. Phoenix-8 showed the highest area under the curve (AUC) (0.855, 95% CI: 0.791-0.919), followed by PSS (0.837) and Pediatric Sequential Organ Failure Assessment (pSOFA) score (0.836). Phoenix-8 had significantly higher AUCs than PHO-Phoenix and PRISM III; differences among the other scoring systems were not statistically significant. Sensitivity analyses were broadly consistent with the primary ana",
+      "source": "Annals of medicine",
+      "authors": "Xing Dianwei, Xiao Zijing, Liu Baiming, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42851065/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42810147",
       "title": "Interpretable machine learning for early in-hospital mortality prediction in intensive care unit patients with acute upper gastrointestinal bleeding: Development and multicenter external validation.",
       "abstract": "Early mortality risk stratification remains challenging in intensive care unit (ICU) patients with acute upper gastrointestinal bleeding (AUGIB). We developed a parsimonious, interpretable ensemble model and evaluated its performance across independent ICU cohorts. MIMIC-IV was used for model development and internal validation (n=3,728), and eICU-CRD (n=7,529) and a Hainan cohort (n=200) were used for external validation. Adults with ICU stays of at least 24 hours were included. Subsequent all-cause in-hospital mortality was predicted from routinely available data collected during the first 24 hours after ICU admission. Within MIMIC-IV, predictors were prioritized according to multi-algorithm ranking and clinical feasibility, and a 17-feature subset was selected using a performance-parsimony criterion supported by knee-point analysis. Nine machine-learning algorithms were evaluated, and four complementary learners were combined using equal-weight soft voting based on cross-validated performance and prediction complementarity. Model evaluation included AUROC, PR-AUC, Brier score, calibration, and decision-curve analysis. Ensemble-level SHAP and pathway analyses supported model inte",
@@ -430,6 +456,20 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42806854/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42800264",
+      "title": "Ethical and legal challenges of cross-border health data sharing in Europe: A normative policy analysis of ICUData4EU.",
+      "abstract": "Cross-border medical data sharing has become an important global practice. While it improves the efficiency of healthcare systems, it also raises significant concerns regarding patient privacy and data protection. How can healthcare data be used responsibly to advance medical technology while ensuring that electronic medical records are shared appropriately and privacy is safeguarded? This paper adopts a normative policy analysis approach. It evaluates the programme's structure and governance model, examines its legal implications in light of the GDPR and EHDS, and analyses the potential benefits and risks of cross-border data sharing. The analysis shows that ICUData4EU provides a federated platform that enables intensive care unit (ICU) data to be analysed within local hospital environments while allowing researchers across the EU to access aggregated analytical results remotely. This model supports medical research while seeking to mitigate risks associated with cross-border data transfers. However, the programme may still face legal and ethical challenges, particularly regarding GDPR as well as EHDS compliance and patient privacy protection. The paper recommends linking HDAB aut",
+      "source": "Health policy (Amsterdam, Netherlands)",
+      "authors": "Liu Jinshuo, Eijkholt Marleen, Ma Yonghui",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800264/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -470,8 +510,7 @@
       "authors": "Tinland Anne-Christine, Ollier Edouard, Garcin Arnauld, et al.",
       "pub_types": [
         "Journal Article",
-        "Scoping Review",
-        "Review"
+        "Scoping Review"
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42673881/",
@@ -624,62 +663,6 @@
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42594423/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42570537",
-      "title": "Implementation of sustainability interventions in ICUs in the Netherlands: A survey of the green ICU.",
-      "abstract": "The healthcare sector's environmental impact is mostly caused by hospital care, with Intensive Care Units (ICUs) being a significant source of pollution. The Dutch Green ICU network shares sustainability interventions and best practices on its online platform, supporting ICUs in making their ICUs more sustainable. However, it remains uncertain which measures are actually implemented by ICUs in the Netherlands. Our objective is to investigate which sustainability interventions of The Green ICU network have been implemented in Dutch ICUs. A questionnaire (in Dutch) was sent to 72 ICUs in the Netherlands in May 2024 and contained 24 questions encompassing all sustainability interventions identified by The Green ICU. The interventions were divided into seven thematic areas. The ICU size was also measured, as the number of beds. The data analysis included frequency counts of the interventions and qualitative analyse of the given open answers. In total, 46 ICUs (64%) have opened the questionnaire, of whom 28 ICUs (response rate 39%) rated all sustainability interventions. This article provides detailed information on the implementation frequency of 85 sustainability interventions. One of",
-      "source": "Journal of critical care",
-      "authors": "Zeeman Joep, van Raaij Erik M, Hunfeld Nicole",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42570537/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42551300",
-      "title": "Development and effects of a pediatric intensive care unit fire disaster evacuation simulation program using the metaverse: A quasi-experimental study.",
-      "abstract": "Critically ill children in pediatric intensive care units (PICUs) are highly vulnerable during fires. Metaverse-based education platforms such as Roblox offer immersive, accessible training in clinical disaster preparedness for nursing students. To develop a PICU disaster evacuation simulation program using Roblox and evaluate its effectiveness vs. lecture-only education in improving nursing students' disaster evacuation competency, learning presence, learning flow, and learning satisfaction. A nonrandomized, quasi-experimental, pretest-posttest design was used to develop, implement, and verify a metaverse-based disaster evacuation enhancement program at nursing schools in South Korea. Nursing schools in South Korea; the program was delivered in an online, metaverse-based learning environment. Forty-seven fourth-year nursing students who had completed pediatric nursing theory and practice were assigned to two groups: the experimental and control groups. We developed the metaverse-based FLAME-SIM (Fire Learning and Metaverse-Based Evacuation Simulation) program to enhance disaster evacuation competency by creating a pediatric field using the metaverse platforms Gather Town and Roblo",
-      "source": "Nurse education today",
-      "authors": "An So Hee, Cha Sang A, Lee Yeon Woo, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42551300/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42551068",
-      "title": "Understanding the lived NICU experience through narrative diaries: a qualitative study of parents' and healthcare professionals' perspectives.",
-      "abstract": "To describe and categorize the thematic content emerging from narrative diaries in Neonatal Intensive Care Unit (NICU) written by parents and healthcare providers. A qualitative study of NICU diary writings, provided for a feasibility study, was conducted at a tertiary-care hospital in Central Italy. Parents of neonates admitted to a 22-bed NICU, who underwent intubation and sedation for at least 48 h, were enrolled. Parents, relatives, visitors, and healthcare professionals were invited to write about their experiences, emotions, reflections, along with drawings, or photographs in the NICU narrative diary during the hospitalization. Narrative data were analyzed using thematic analysis following Braun and Clarke's approach. Twenty-one NICU narrative diaries were collected between January 2024 and January 2025. Each diary contained a median of 22 entries (IQR = 12-28), and the majority of which were written by mothers (91%). Thematic analysis of diaries revealed 15 subthemes, which were then categorized into three overarching themes: 1) the NICU journey, reporting the newborn's clinical course and development, the first-time experience, the NICU environment, and parents' involvement",
-      "source": "Intensive & critical care nursing",
-      "authors": "Sorrentino Gabriele, Thekkan Kiara Ros, Genna Catia, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42551068/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42551067",
-      "title": "Humanizing care in the ICU: Implementation insights from the Footprints Project.",
-      "abstract": "The Footprints Project is a humanizing initiative that elicits and displays personal information from patients and families about a patient's life before illness. Key details recorded on a form are then written on a whiteboard in the patient's room to support person-centered care. The whiteboard keeps personal identity, preferences, and daily plans visible. The objective of this study was to explore how the Footprints Project evolved over time and to identify contextual determinants and practical strategies that may support its ongoing sustainability from the perspectives of patients, families, and clinicians. This qualitative descriptive study was co-designed with patients and families in a 23-bed university-affiliated medical-surgical Intensive Care Unit (ICU). Implementation followed a preparatory audit, staff surveys, multi-directional communication, and volunteer integration. We enrolled survivors of critical illness, family members of ICU patients, and clinicians to participate in focus groups and individual interviews. Transcripts were analyzed using conventional qualitative content analysis and interpreted with attention to constructs within the Clinical Sustainability Fram",
-      "source": "Intensive & critical care nursing",
-      "authors": "Younger Jorden, Clarke France, Swinton Marilyn, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42551067/",
-      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -1055,6 +1038,20 @@
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786711/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42859779",
+      "title": "Clinical practice guideline for renal replacement therapy in critically ill patients with acute kidney injury (2026 edition).",
+      "abstract": "Acute kidney injury (AKI) is a common and severe complication in critically ill patients, associated with high morbidity and mortality. Renal replacement therapy (RRT) is a vital life-support modality for critically ill patients with AKI. However, there remains a lack of unified clinical standards for core issues including the timing of RRT initiation, treatment modality, anticoagulation strategy, and weaning from RRT. In response, the Chinese Society of Critical Care Medicine organized a multidisciplinary expert panel to develop the \"Clinical practice guideline for RRT in critically ill patients with AKI (2026 edition)\" in accordance with the GRADE approach for grading evidence quality. This guideline was developed through systematic literature retrieval, meta-analysis, and evidence-based medical evidence synthesis, followed by multiple rounds of manuscript review and revision via online and offline meetings of the working group, and final approval by the Standing Committee of the Society. A total of 34 recommendations were finalized, covering key clinical topics including timing of RRT initiation, establishment and maintenance of vascular access, selection of treatment modalities",
+      "source": "Journal of intensive medicine",
+      "authors": "Kang Yan, Guan Xiangdong, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42859779/",
+      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
