@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-15T10:33:03.421416+00:00",
-  "count": 83,
+  "generated": "2026-10-18T10:05:12.724145+00:00",
+  "count": 84,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -239,6 +239,52 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42885891",
+      "title": "Intensive Care Unit Patients' Perspectives and Experiences in Using Virtual Reality Technology: A Qualitative Meta-Synthesis.",
+      "abstract": "As Intensive Care Unit (ICU) survival improves, attention has shifted towards patients' psychological well-being and recovery. Although Virtual Reality (VR) is increasingly used in critical care, patients' experiences of VR interventions have not been comprehensively synthesised. To synthesise qualitative and mixed-methods evidence regarding ICU patients' perceptions, experiences and implementation-related considerations associated with VR interventions. A qualitative systematic review and thematic synthesis following Thomas and Harden's three-stage approach was conducted. Eight databases were searched from inception to September 2025. Studies employing qualitative methods or components of mixed methods exploring ICU patients' firsthand VR experiences were included. Methodological quality was appraised using the JBI checklist. Eight studies involving 247 participants were included. Four analytical themes were synthesised: (A) VR as a restorative escape, (B) VR as a route from passive endurance to active participation, (C) Patient readiness and personal preference shape VR engagement, and (D) VR as a co-produced intervention requiring contextual and relational adaptation. ICU patien",
+      "source": "Nursing in critical care",
+      "authors": "Liao Guiling, Liu Zhiqun, Zhang Tao, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885891/",
+      "category": "Systematic Review / Meta-Analysis",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42885876",
+      "title": "Nurse-Led Interventions to Mitigate High-Alert Medication Errors in Critical Care: A Systematic Review of Effectiveness and Implementation Strategies.",
+      "abstract": "Intensive care units (ICUs) are high-risk environments where nurses administer the majority of high-alert medications, making them the final checkpoint in the medication-use process. However, evidence on nurse-led interventions specifically targeting high-alert medication errors has not been systematically synthesized across all ICU populations. This systematic review evaluated the effectiveness of nurse-led interventions in reducing high-alert medication errors in neonatal, paediatric and adult intensive care units and examined implementation strategies that enhance patient safety. We followed PRISMA 2020 guidelines. A comprehensive search was conducted in PubMed, Web of Science and Scopus for studies published between January 2000 and June 2026. Inclusion criteria required nurse-led interventions, measurement of high-alert medication error rates and critical care settings. The risk of bias was assessed. A narrative synthesis was performed due to heterogeneity in study designs and outcome measures. Six studies met the inclusion criteria. Interventions included simulation-based training, staff education, smart pump integration, clinical decision support systems and standardization ",
+      "source": "Nursing in critical care",
+      "authors": "Norouzdamghani Mobina, Kasaeian Ghazal, Asgharipoor Yeganeh, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885876/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42875972",
+      "title": "Female Representation and Quality Indicators in Anesthesiology and Critical Care Podcasts.",
+      "abstract": "Podcasts have emerged as prominent tools for asynchronous medical education, widely adopted across training levels and specialties. Diverse representation strengthens medical discourse, making an evaluation of speaker demographics essential for understanding equity and quality in digital knowledge dissemination. This study systematically evaluates female representation and quality assurance indicators in anesthesiology and critical care podcasts, including longitudinal publication trends. We systematically searched Apple Podcasts and Spotify using specialty-specific terms and manually reviewed the top twenty journals in the field for affiliated podcasts. Included were active, English-language, physician-hosted podcasts. Eighty-five podcasts (53.0% US-based) comprising 10,190 episodes were analyzed. Of 12,522 hosts, 31.5% (n = 3945) were female; of 10,822 guests, 35.9% (n = 3882) were female. Notably, among US-based podcasts, female guest representation exceeded the 26.5% female workforce proportion among US anesthesiologists. Episodes with exclusively male hosts had 2.13 times the odds of featuring only male guests (95% CI 1.88-2.41). A positive trend of increasing female participa",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Steinsdóttir Perla, Asif Sana, Kristinsdóttir Rakel N, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875972/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42864864",
       "title": "The Process to Caregiver Expertise: A Constructivist Grounded Theory Study of Parents of Infants With Critical Congenital Heart Disease.",
       "abstract": "Caregivers of hospitalized infants with critical congenital heart disease (CCHD) experience stress, emotions and contextual challenges with staff and unit culture during their infant's stay in critical care units, especially if the stay is lengthy. These compounding adverse conditions impact a caregiver's ability to learn to care for their infant. The purpose of this constructivist grounded theory study was to construct an explanatory theory, based on the analysis of the caregivers' perspectives, uncovering the process caregivers of hospitalized infants go through to become experts in their infant's care in the critical care setting. Fifteen mothers and one father participated in semistructured and intensive interviews. Data collection, data analysis and theory formation transpired through an iterative process of constant comparison within and among data cases, theoretical sampling, memos, member-checking and participant feedback. The result was a co-constructed overarching framework, the Process Model to Caregiver Expertise, progressing through four sequential phases-disorienting, orienting, adapting and knowing-showing how caregiver confidence develops over time and through activ",
@@ -325,51 +371,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42823015",
-      "title": "Managing the Critically Ill Postpartum Patient in the Emergency Department.",
-      "abstract": "This review article prepares emergency physicians to recognize and manage critical illness in postpartum patients, a population at heightened risk of preventable morbidity and mortality in North America amid persistent racial/geographic disparities and shrinking obstetric access. It highlights key physiologic changes after delivery that complicate patient management. The article focuses on 3 immediate postpartum emergencies (postpartum hemorrhage, postpartum preeclampsia, and amniotic fluid embolism) and 3 subacute (pulmonary embolism, peripartum cardiomyopathy, and spontaneous coronary artery dissection). It concludes with system-level strategies to improve safety and outcomes.",
-      "source": "Emergency medicine clinics of North America",
-      "authors": "Tasillo Abriana, Healy Megan",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42823015/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42823013",
-      "title": "When No ICU Bed is Available: Critical Care Services in the Emergency Department.",
-      "abstract": "This review article, focused on the care of the critically ill adult when no intensive care unit (ICU) bed is available, describes current models addressing critical care services in the emergency department (ED), reviews available evidence on the impact of different approaches, and explores best practices in implementation of ED-ICU models. Based on these findings, the article explores potential benefits of leveraging the ED-ICU concept in the regional organization of critical care services.",
-      "source": "Emergency medicine clinics of North America",
-      "authors": "Gupta Pranjal B, Wilson Jennifer G",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42823013/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42823008",
-      "title": "Emergency Burn Resuscitation: Where Evidence Meets Practice.",
-      "abstract": "The initial management of a critically ill burn patient sets the trajectory for their entire hospital course. Understanding standards of care is essential, but moving beyond rote formulas for airway management, fluids, and analgesia is critical to ensuring appropriate care and preventing iatrogenic harm. This article provides an evidence-based guide for emergency physicians on when and how to pivot from standard care to nuanced, life-saving interventions that address the dynamic pathophysiology of severe burns.",
-      "source": "Emergency medicine clinics of North America",
-      "authors": "Parnell Samuel, Shanks Carolyn, Smith Melissa",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42823008/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42777284",
       "title": "Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.",
       "abstract": "Therapeutic drug monitoring of antibiotics in critically ill patients with sepsis remains challenging due to highly variable pharmacokinetics, increasing the risk of under- or overdosing. This paper presents a novel single-use tetrapolar electrochemical impedance spectroscopy (EIS) biosensor for the rapid detection of meropenem in human serum. The sensor is based on a gold microband electrode functionalised with a self-assembled monolayer, protein G and anti-meropenem antibodies to enable selective antigen capture and impedance-based quantification. The biosensor demonstrated sensitive detection of meropenem over a range of 1-100 μg/mL in phosphate-buffered saline and within clinically relevant concentrations (8-16 μg/mL) in spiked human serum, with the lowest measured concentration of 1 μg/mL. Binding specificity was validated using tandem mass spectrometry and immunocapture liquid chromatography-mass spectrometry. The total assay time was under 15 min. This platform represents a promising approach for rapid, bedside-compatible monitoring of meropenem. While the impedance results demonstrate the potential of the biosensor for therapeutic drug monitoring, further validation is requ",
@@ -411,6 +412,22 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42876263",
+      "title": "External validation and comparative performance of four risk scores for acute kidney injury in critically ill adults.",
+      "abstract": "Several parsimonious scores predict acute kidney injury (AKI), but their comparative performance in critically ill adults is uncertain. We hypothesized that the ICU-derived UCSD-Mayo score would show higher discrimination than three scores developed in broader acute-care populations. This single-center retrospective validation study included 1,723 emergency ICU patients admitted from 2014 to 2021. We compared the UCSD-Mayo, AKI-RiSc, Bell, and APS scores for in-hospital AKI, AKI within 7 days, and stages 2 and 3 AKI. Analyses included AUROC with paired DeLong comparisons, cross-validated local recalibration, calibration plots, IDI, categorical NRI at the event rate, decision-curve analysis, and prespecified sensitivity analyses. In-hospital AKI occurred in 406 patients (23.6%), 281 (16.3%) developed AKI within 7 days, and 169 (9.8%) developed stages 2 and 3 AKI. UCSD-Mayo had the highest observed AUROC for in-hospital AKI (0.713, 95%CI 0.685-0.740), 7-day AKI (0.690, 0.658-0.723), and stages 2 and 3 AKI (0.706, 0.665-0.746). Its 7-day AUROC did not differ significantly from AKI-RiSc (difference 0.029, 95%CI -0.006 to 0.064;  In this single-center Chinese emergency ICU cohort, UCSD-",
+      "source": "Renal failure",
+      "authors": "Liu Fangyan, Jia Linpei, Wang Jing, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Validation Study",
+        "Comparative Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876263/",
+      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -648,22 +665,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42594423",
-      "title": "Efficacy and safety of pantoprazole for stress-ulcer prophylaxis in critically ill patients: A systematic review and Meta-analysis of randomized controlled trials.",
-      "abstract": "Stress-related mucosal damage (SRMD) is common in critically ill patients, and pharmacologic prophylaxis remains essential. This study evaluated the efficacy and safety of pantoprazole for stress-ulcer prophylaxis in ICU patients. A systematic review and meta-analysis of randomized controlled trials (RCTs) was conducted per PRISMA-2020 guidelines. PubMed, Scopus, and CENTRAL were searched for studies comparing pantoprazole with placebo in adult and pediatric ICU patients. The primary outcome was clinically important gastrointestinal (GI) bleeding; secondary outcomes included mortality, ventilator-associated pneumonia (VAP), and Clostridioides difficile infection. Seven RCTs (n ≈ 9127; pantoprazole = 4575; placebo = 4552) were included. Pantoprazole significantly reduced clinically important GI bleeding (RR = 0.53; 95% CI 0.29-0.94; p = 0.03) without affecting overall mortality (RR ≈ 0.99 [95% CI 0.92-1.05]; p = 0.68). Infection rates were similar between groups (VAP: RR = 0.99; p = 0.78; C. difficile: RR = 1.11; p = 0.73). Sensitivity analyses confirmed robustness. Pantoprazole effectively reduces clinically important GI bleeding without increasing infection or overall mortality.",
-      "source": "Journal of critical care",
-      "authors": "Falodia Rahul, Ramzan Rabia, Khan Tahir Mehmood, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42594423/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42447972",
       "title": "Short-chain fatty acid metabolism in acute lung injury and intervention strategies from traditional Chinese medicine.",
       "abstract": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are severe conditions associated with high mortality rates and limited treatment options. Short-chain fatty acids (SCFAs) serve as central immunomodulatory metabolites mediate the crosstalk between the gut and lung. Traditional Chinese medicine (TCM), with its holistic approach, shows promise in restoring gut-lung balance and alleviating respiratory inflammation by modulating gut microbiota and SCFA metabolism. To elucidate the protective role and mechanism of SCFAs in ALI and ARDS via the gut-lung axis. Meanwhile, to evaluate the therapeutic potential of TCM in treating ALI by modulating the gut microbiota and enhancing SCFA production. A comprehensive literature search was conducted across PubMed, Ovid-Embase, Web of Science, and CNKI databases (2010-2025). Keywords included \"short-chain fatty acid\", \"gut microbes\", \"acute lung injury\", \"traditional Chinese medicine\", and related terms. The search focused on preclinical and mechanistic studies investigating SCFA signaling, gut microbiota remodeling, and the therapeutic effects of herbal compounds or their active constituents in ALI/ARDS models. This review ide",
@@ -735,6 +736,22 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42773805/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42710328",
+      "title": "Comparison of subanaesthetic ketamine and lidocaine as adjuvants to propofol-based total intravenous anesthesia on propofol requirement during emergency decompressive craniectomy for traumatic brain injury: a prospective, double-blind, three-arm randomized controlled trial.",
+      "abstract": "Prevention of secondary brain injury remains a key objective during emergency decompressive craniectomy for traumatic brain injury (TBI). Propofol-based total intravenous anesthesia (TIVA) is widely used in TBI because of its favorable cerebral physiological effects but may cause dose-dependent hypotension and compromise cerebral perfusion. Ketamine and lidocaine have been proposed as adjuncts that may reduce anesthetic requirements while preserving intracranial homeostasis. This study compared the effects of ketamine and lidocaine versus placebo on propofol consumption and perioperative intracranial pressure (ICP), cerebral perfusion pressure (CPP), and brain relaxation during TIVA in patients undergoing emergency decompressive craniectomy for TBI. In this prospective, double-blind, three-arm randomized controlled trial, 150 adults undergoing emergency decompressive craniectomy for traumatic acute subdural hematoma were randomized to receive adjunctive ketamine (0.5 mg/kg/h), lidocaine (2 mg/kg/h), or placebo during propofol-based TIVA. Propofol was administered using target-controlled infusion (TCI) to maintain mean arterial pressure within 20% of baseline. The primary outcome wa",
+      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "authors": "Ramadurai Rajasekar, Swaminathan Srinivasan, Bidkar Prasanna Udupi, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710328/",
       "category": "Clinical Trial",
       "highlighted": false
     },
@@ -954,6 +971,7 @@
       "source": "Vaccine",
       "authors": "Aikawa Nadia E, Medeiros Julia B, Pasoto Sandra G, et al.",
       "pub_types": [
+        "Clinical Trial, Phase IV",
         "Journal Article",
         "Randomized Controlled Trial"
       ],
@@ -1023,22 +1041,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42816027",
-      "title": "Functional Reconstruction of the Hand After Gangrene Affecting All Extremities.",
-      "abstract": "Digital gangrene following septic shock is a debilitating condition that leads to multiple shortened digits and marked functional loss. In symmetric peripheral gangrene (SPG), both hands and feet are affected, eliminating standard reconstructive options such as toe transfers. We present a patient with SPG secondary to septic shock, exacerbated by prolonged vasopressor use, resulting in gangrene of all 4 extremities. A staged reconstructive approach was performed for both hands, utilizing on-top plasties, ray amputation, and local flap rearrangement to restore basic hand function. The initial management, reconstructive reasoning, and challenges encountered are described.",
-      "source": "Hand clinics",
-      "authors": "Lim Zhixue, Hoh Dilys, Sebastin Sandeep J",
-      "pub_types": [
-        "Journal Article",
-        "Case Reports",
-        "Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42816027/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42859779",
       "title": "Clinical practice guideline for renal replacement therapy in critically ill patients with acute kidney injury (2026 edition).",
       "abstract": "Acute kidney injury (AKI) is a common and severe complication in critically ill patients, associated with high morbidity and mortality. Renal replacement therapy (RRT) is a vital life-support modality for critically ill patients with AKI. However, there remains a lack of unified clinical standards for core issues including the timing of RRT initiation, treatment modality, anticoagulation strategy, and weaning from RRT. In response, the Chinese Society of Critical Care Medicine organized a multidisciplinary expert panel to develop the \"Clinical practice guideline for RRT in critically ill patients with AKI (2026 edition)\" in accordance with the GRADE approach for grading evidence quality. This guideline was developed through systematic literature retrieval, meta-analysis, and evidence-based medical evidence synthesis, followed by multiple rounds of manuscript review and revision via online and offline meetings of the working group, and final approval by the Standing Committee of the Society. A total of 34 recommendations were finalized, covering key clinical topics including timing of RRT initiation, establishment and maintenance of vascular access, selection of treatment modalities",
@@ -1064,6 +1066,35 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42532052/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42885870",
+      "title": "The Role of Family Needs in Emotional Distress Among Next of Kin of Critically Ill Patients: A Cross-Sectional Study.",
+      "abstract": "Next of kin of critically ill patients frequently experience distress. Although family needs have been associated with psychological outcomes, their potential role as a pathway linking clinical and relational factors to emotional distress remains poorly understood. To examine whether family needs mediate the relationships between ventilatory support, relationship to the patient and emotional distress among the next of kin of critically ill patients. A cross-sectional study was conducted in an adult Intensive Care Unit in Portugal between September 2024 and February 2025. Emotional distress was assessed using the Depression, Anxiety and Stress Scales-21 and family needs using the Family Needs Inventory in the Intensive Care Unit. Mediation analysis was performed using maximum likelihood estimation with bias-corrected bootstrap confidence intervals (5000 resamples). The study followed the A Guideline for Reporting Mediation Analyses (AGReMA) Statement. Data from 130 critically ill patient-next of kin dyads were analysed. Next of kin of patients receiving invasive mechanical ventilation and those with closer relational proximity (spouses and sons/daughters) reported significantly high",
+      "source": "Nursing in critical care",
+      "authors": "Regalado Bernardete Costa, Alvarelhão José Joaquim Marques, Simões João Filipe Fernandes Lindo",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885870/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42880916",
+      "title": "[Correlation between acute kidney injury diagnosed by serum creatinine and urine output criteria and short-term prognosis in critically ill patients following non-cardiac surgery].",
+      "abstract": "To analyze the correlation between acute kidney injury (AKI) diagnosed by elevated serum creatinine (Scr) versus only meeting the urine output (UO) reduction criteria and short-term adverse outcomes in critically ill patients following non-cardiac surgery, and to evaluate the association between even mild elevations in Scr and clinical outcomes furthermore. This study was a secondary analysis of data from a prospective cohort study. A total of 1020 non-cardiac surgery adults admitted to the intensive care unit (ICU) of Peking University First Hospital from May 20, 2019 to March 7, 2022 were included. According to Kidney Disease: Improving Global Outcomes (KDIGO) guideline, AKI patients were classified into two groups: the AKI-Scr group (those meeting the Scr elevation criteria) and the AKI-UO group (those fulfilling only the UO reduction criteria). The primary outcome was in-hospital mortality in patients with AKI, and the secondary outcomes were major renal adverse events, post-operative renal replacement therapy (RRT), postoperative complications, postoperative mechanical ventilation time, ICU stay, postoperative hospital stay, total hospital stay, and total medical costs. Multiv",
+      "source": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "authors": "Xie Fangfei, Xie Min, Zhou Weijie, et al.",
+      "pub_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "date": "2026 Oct 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880916/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
@@ -1229,18 +1260,6 @@
       "date": "2026 Jul 22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473736/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854260",
-      "title": "Characteristics of Patients Choosing Intravenous Moderate Sedation for IUD Placement",
-      "abstract": "This study examined the prevalence of intravenous moderate sedation (IVS) for intrauterine device (IUD) placement when universally offered, as well as the demographic, reproductive, and social factors associated with its use.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Oct 13",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854260",
-      "category": "Research Article",
       "highlighted": false
     }
   ]
