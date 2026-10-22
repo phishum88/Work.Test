@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T11:33:13.422370+00:00",
+  "generated": "2026-10-22T10:50:21.853920+00:00",
   "count": 84,
   "digest": null,
   "oe_query_count": 0,
@@ -46,6 +46,20 @@
       ],
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41864830/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42899333",
+      "title": "Enhancing Palliative Care Integration in the Cardiac Surgical Intensive Care Unit: A Multidisciplinary Quality Improvement Project.",
+      "abstract": "ObjectiveThe rate of unmet palliative care (PC) needs is high in critical care areas, especially in the surgical patient population, where PC involvement is notoriously late in the patient's clinical progression. This quality improvement project aimed to evaluate the ability of education, workflow delineation, and an evidence-based assessment tool to improve the integration of PC in a cardiac surgical intensive care unit (TICU).MethodsThis 12-week project utilized a pre-post intervention design to improve PC integration in a 16-bed TICU that serves cardiac, vascular and thoracic surgical, critical care patients. The intervention included education, workflow delineation, and an evidence-based frailty assessment (FA) implementation. PC consultation rate, advance care planning (ACP) note completion rate, and FA completion rate were measured to assess the feasibility and impact of this intervention on PC integration.ResultsA total of 313 patients were enrolled in this project. There was a 53.5% increase in palliative care consultation (",
+      "source": "The American journal of hospice & palliative care",
+      "authors": "Schiano Crystal Hope Bennett",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42899333/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -225,6 +239,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_41099329",
+      "title": "A Communication Skills Training Curriculum Customized for Pulmonary and Critical Care Medicine Fellows.",
+      "abstract": "IntroductionCommunication regarding serious illness is an integral part of Pulmonary and Critical Care Medicine (PCCM) fellows' day-to-day practice, however routine communication skills training is not consistently built in PCCM fellowship curricula nationwide.",
+      "source": "The American journal of hospice & palliative care",
+      "authors": "Xu Luyi, Bharani Anup, Dua Sakshi, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41099329/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42667903",
       "title": "Clinical evaluation of a vision-language model for optimizing triage and clinical workflows in critical care.",
       "abstract": "Clinical deterioration in hospitalized patients is often preceded by subtle, dynamic physiological changes that are difficult to detect using intermittently charted electronic health record (EHR) data. Our objective was to evaluate the reliability, interpretability, and clinical relevance of a Vision‑Language Model (VLM)-based triage framework that analyzes physiological trend images, by comparing VLM-generated outputs with attending physician assessments as the expert clinical comparator. We conducted a single-center expert agreement pilot study including 100 adult patients with two hours of dynamic monitoring data across four vital signs (SpO2, RR, HR, BP). A structured prompt was developed using the Gemini 2.5 Flash model. Two independent reviewers assessed VLM outputs for clinical interpretation, artifact detection, and triage classification. We evaluated reviewer agreement using percent agreement and weighted Cohen's κ. A secondary risk-oriented analysis measured classification concordance and over-triaged cases as lower-risk classifications, while cases underestimating patient acuity were designated as higher-risk misclassifications. The VLM demonstrated moderate to substanti",
@@ -246,8 +274,8 @@
       "authors": "Liao Guiling, Liu Zhiqun, Zhang Tao, et al.",
       "pub_types": [
         "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Meta-Analysis",
+        "Systematic Review"
       ],
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42885891/",
@@ -262,8 +290,7 @@
       "authors": "Norouzdamghani Mobina, Kasaeian Ghazal, Asgharipoor Yeganeh, et al.",
       "pub_types": [
         "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Systematic Review"
       ],
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42885876/",
@@ -339,34 +366,6 @@
       ],
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42845173/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42844890",
-      "title": "Evaluating Meaningful Patient and Public Involvement in Intensive Care Research-A PEIRS-22 Survey.",
-      "abstract": "Patient and public involvement (PPI) is increasingly recommended in health research to enhance relevance, quality and implementation of findings. In intensive care research, involving patients, family members and healthcare professionals may help ensure that research addresses outcomes that are meaningful to those affected by critical illness. This study aimed to assess the level of meaningful PPI engagement during the development of a core outcome set (COS) for general intensive care unit (ICU) patients in Denmark. A cross-sectional survey using the Danish version of the Patient Engagement in Research Scale (PEIRS-22) was conducted between December 2024 and January 2025. We invited all members (patients, family, healthcare professionals and researchers) of five research panels, established in 2021 to support COS development across Danish university hospitals (N = 46). PEIRS-22 total scores range from 1 to 100, with higher scores indicating greater meaningful engagement (scores ≥ 70.1 were considered meaningful). Descriptive statistics, item-level analyses and non-parametric comparisons between participant roles were performed. Thirty-seven of 46 participants responded (80.4%): 27.",
-      "source": "Nursing in critical care",
-      "authors": "Collet Marie O, Bruun Camilla R L, Granholm Anders, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42844890/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42844827",
-      "title": "Olanzapine for the Prevention and Treatment of ICU Delirium: Protocol for a Systematic Review With Meta-Analysis.",
-      "abstract": "Intensive care unit (ICU) delirium is a multifactorial acute brain dysfunction associated with prolonged hospitalization, increased morbidity and mortality, and higher healthcare costs. Despite these substantial negative impacts of delirium, the optimal prevention and treatment strategies are unclear. Olanzapine, an atypical antipsychotic drug, is commonly used for delirium management. We will perform an updated systematic review and meta-analysis to assess the benefits and harms of olanzapine for the prevention and treatment of ICU delirium. This protocol is developed in accordance with the recommendations of The Cochrane Collaboration and is reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analysis Protocols (PRISMA-P) guidelines. We will include all randomized clinical trials (RCTs) evaluating prophylactic or therapeutic olanzapine versus any comparator, including pharmacological, non-pharmacological, placebo, or routine care/no specific delirium-directed intervention (treated as a single comparator) in ICU patients. Observational studies will be included solely to address potential harms. We will systematically search the following databases: ",
-      "source": "Acta anaesthesiologica Scandinavica",
-      "authors": "Liebetrau Benedikte, Madsen Andreas Ruhvald, Möller Sören, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42844827/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
@@ -651,20 +650,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42605756",
-      "title": "Pneumococcal vaccination status in critically ill patients: A cross-sectional study.",
-      "abstract": "Critically ill adults are often older and have multiple chronic conditions, but data on prior pneumococcal vaccination in this population are limited. We aimed to assess pneumococcal vaccination coverage among eligible patients and identify factors associated with pneumococcal vaccination among ICU patients. We performed a cross-sectional study in an ICU at a tertiary care hospital in Japan. We included patients admitted to the ICU from May 15, 2023, to January 4, 2024. Eligibility for pneumococcal vaccination was defined with reference to the Japanese routine vaccination program during the study period. Vaccination status for pneumococcal, influenza, and coronavirus disease 2019 (COVID-19) vaccines was assessed using a structured questionnaire administered to patients or family members during ICU admission. Multivariable logistic regression analysis was performed among eligible patients with known pneumococcal vaccination status. Among 982 patients, 757 (77.1%) met pneumococcal vaccination eligibility criteria. After excluding 32 non-responders, vaccination status was assessed for 725 eligible patients. Of these, 124 (17.1%) reported pneumococcal vaccination, 371 (51.2%) reported ",
-      "source": "Human vaccines & immunotherapeutics",
-      "authors": "Watanabe Tatsuya, Nakano Hidehiko, Motoki Maiko, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42605756/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42447972",
       "title": "Short-chain fatty acid metabolism in acute lung injury and intervention strategies from traditional Chinese medicine.",
       "abstract": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are severe conditions associated with high mortality rates and limited treatment options. Short-chain fatty acids (SCFAs) serve as central immunomodulatory metabolites mediate the crosstalk between the gut and lung. Traditional Chinese medicine (TCM), with its holistic approach, shows promise in restoring gut-lung balance and alleviating respiratory inflammation by modulating gut microbiota and SCFA metabolism. To elucidate the protective role and mechanism of SCFAs in ALI and ARDS via the gut-lung axis. Meanwhile, to evaluate the therapeutic potential of TCM in treating ALI by modulating the gut microbiota and enhancing SCFA production. A comprehensive literature search was conducted across PubMed, Ovid-Embase, Web of Science, and CNKI databases (2010-2025). Keywords included \"short-chain fatty acid\", \"gut microbes\", \"acute lung injury\", \"traditional Chinese medicine\", and related terms. The search focused on preclinical and mechanistic studies investigating SCFA signaling, gut microbiota remodeling, and the therapeutic effects of herbal compounds or their active constituents in ALI/ARDS models. This review ide",
@@ -707,6 +692,21 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324603/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42898052",
+      "title": "Prone positioning in acute respiratory distress syndrome: A critical review of clinical evidence and practical challenges.",
+      "abstract": "Early randomised controlled trials (RCTs) of prone positioning (PP) in acute respiratory distress syndrome (ARDS) failed to demonstrate a survival benefit despite consistent improvements in oxygenation. Subsequent meta-analyses suggested a survival advantage in patients with severe hypoxaemia, culminating in the landmark Proning Severe ARDS Patients (PROSEVA) trial, which reported a 28-day mortality rate of 16.0% in patients with a PaO₂/FiO₂ ratio <150 mmHg. However, the optimal criteria for repeating and discontinuing PP sessions remain uncertain. A structured search of PubMed, Embase.com, and the Cochrane Central Register of Controlled Trials (CENTRAL) was conducted to identify RCTs evaluating PP in adults with ARDS with mortality as a prespecified principal outcome. Relevant clinical studies, meta-analyses, and review articles were also evaluated to provide context for the narrative review. Six RCTs were included in the main comparative analysis. Previous RCTs conducted before the PROSEVA trial used diverse protocols and treatment settings and did not demonstrate a survival benefit. Therefore, comparative assessments of these trials may provide valuable insights for optimising c",
+      "source": "Pulmonology",
+      "authors": "Park Kwang Joo",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898052/",
+      "category": "Clinical Trial",
       "highlighted": false
     },
     {
@@ -950,6 +950,21 @@
       "highlighted": false
     },
     {
+      "id": "pmid_41144983",
+      "title": "The Impact of Early Palliative Care Consultation on Length of Stay for Critically Ill Adults in the Intensive Care Unit.",
+      "abstract": "Palliative Care Consultation (PCC) is an established intervention that prioritizes goals of care conversations and assists patients with complex medical decision-making. Evidence suggests that PCC can reduce the amount of non-goal concordant care patients receive such as fewer invasive procedures, less mechanical ventilation, and quicker transition to hospice and referral to appropriate resources, if that aligns with patient wishes. This results in decreased resource utilization, reduced anxiety for patients and their family members, and decreased moral distress for the health care team. Studies generally agree that benefits of PCC are greater the quicker the time to intervention, but results are mixed regarding hospital and intensive care unit (ICU) length of stay (LOS). LOS is a surrogate marker for goal-concordant care, and shorter LOS has been associated with decreased health care costs. This systematic literature review seeks to clarify the effects of early PCC versus standard PCC on length of stay. From an extensive search of CINAHL, EMBASE, Scopus, and PubMed, 17 articles met criteria to be reviewed. These articles include 2 randomized controlled trials (RCTs), 6 prospective",
+      "source": "The American journal of hospice & palliative care",
+      "authors": "Caplan Sophie, Pawlow Patricia C",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41144983/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42462625",
       "title": "Targeting MD2 in diseases: from structure and function to inhibitor development.",
       "abstract": "Myeloid differentiation protein 2 (MD2) is an indispensable co-receptor for Toll-like receptor 4 (TLR4) and also serves as a key recognition protein for lipopolysaccharide (LPS). Binding of LPS to TLR4-MD2 complex triggers downstream signaling cascades that regulate the production of pro-inflammatory cytokines, thereby contributing to the pathogenesis of inflammation-related diseases such as acute lung injury, sepsis, and cardiac fibrosis. Targeting MD2 has emerged as an important therapeutic strategy for human diseases. Currently, significant progress has been made in the development of MD2 inhibitors, among which ACT001, TAK-242, and eritoran have entered clinical studies for the treatment of diffuse midline glioma, alcoholic hepatitis and septic shock, etc. In this review, we provide a systematic summary of reported MD2 inhibitors, focusing on their structural characteristics, biological functions, binding modes with MD2, and the role of MD2 in related diseases, with the goal of providing reference for the development of novel anti-inflammatory drugs.",
@@ -1007,36 +1022,6 @@
       ],
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823010/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42823004",
-      "title": "Post-intubation Sedation and Analgesia in the Emergency Department: The Basics and Beyond.",
-      "abstract": "Provision of postintubation sedation and analgesia is critical in emergency management of mechanically ventilated patients. Pain and sedation should be monitored using a validated scoring system, and medications titrated to a target sedation level, which should usually be light. Usually, fentanyl is the first-line analgesic and propofol is the first-line sedative. Dexmedetomidine and ketamine may be helpful in select populations, but further research is needed to define their role in the emergency department. Benzodiazepines should generally be avoided. Physicians should plan for postintubation sedation and analgesia in advance and consider using succinylcholine for intubation to avoid awareness with paralysis.",
-      "source": "Emergency medicine clinics of North America",
-      "authors": "Baumgartner Kevin, Fuller Brian M",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42823004/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42821852",
-      "title": "Noninvasive Positive Pressure Ventilation in the Adult Acute Care Setting.",
-      "abstract": "Noninvasive positive pressure ventilation (NIPPV) is a method of mechanical ventilation that provides respiratory support for patients with varying acute or chronic respiratory conditions and can be an effective intervention that may result in the avoidance of endotracheal intubation. NIPPV relies on the combination of a patient's ability to spontaneously breathe and the assistance of a ventilator to produce an inspiratory positive airway pressure, resulting in increased tidal volumes as well as improved ventilation and gas exchange. This manuscript aims to provide a comprehensive review of nursing care for adult patients in acute care settings requiring NIPPV, including indications, equipment, patient care, weaning protocols, complications, contraindications, and special considerations. While the manuscript is nursing-focused, the information is applicable to multiple disciplines that treat populations receiving or are candidates for NIPPV therapy. NIPPV can be effectively implemented as an alternative to intubation for many patients who require respiratory support. Successful NIPPV considers each patient's individual needs and depends on attentive monitoring, timely intervention,",
-      "source": "Dimensions of critical care nursing : DCCN",
-      "authors": "Taylor Rachel, York Nancy, Kane Christy, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42821852/",
       "category": "Review",
       "highlighted": false
     },
@@ -1248,18 +1233,27 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42473736",
-      "title": "Optimizing nutritional care across the continuum from intensive care to recovery: an expert opinion review.",
-      "abstract": "Survivorship after critical illness is frequently complicated by muscle wasting and gastrointestinal (GI) dysfunction, driving prolonged functional impairment. Nutrition is a modifiable determinant across the intensive care unit (ICU)-to-home continuum, yet delivery is commonly limited by feeding intolerance and fragmented transitions of care. This expert opinion review synthesizes evidence identified via a narrative search of MEDLINE/PubMed and key guideline/reference screening, focusing on GI dysfunction as a barrier to enteral nutrition (EN) in the ICU, phase-adapted energy and protein provision, and strategies to restore intake during ward recovery and after discharge, including high-energy, protein-dense oral nutritional supplements (ONS). Nutrition should be delivered as a structured pathway rather than a single ICU intervention. Early EN with proactive, symptom-targeted management of GI dysfunction, coupled with stepwise protein escalation aligned to metabolic phase and organ function, may help reduce avoidable deficits. The early post-ICU period is an anabolic 'window of opportunity' that warrants intake monitoring, deliberate tapering of tube feeds only once oral intake is",
-      "source": "Expert review of gastroenterology & hepatology",
-      "authors": "van Zanten Arthur R H, Kohout Pavel, De Waele Elisabeth, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Jul 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42473736/",
-      "category": "Guideline / Consensus",
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2853878",
+      "title": "Initial Oxygen for Moderate- to Late-Preterm Infants",
+      "abstract": "Each year, approximately 3.6 million infants are born in the US, approximately 10% of whom are preterm (less than 37 weeks’ gestation). For all newborns, successful transition from fetal to extrauterine life requires replacement of placental gas exchange with effective pulmonary respiration, a process that may falter in the absence of adequate lung aeration, surfactant function, and respiratory drive. Contemporary multicenter registry data indicate that up to 16% of all neonates and approximately half of infants born moderate to late preterm (32 to 36 weeks 6 days’ gestation) receive delivery room respiratory support to facilitate this transition, often including administration of supplemental oxygen. Concerns regarding the short- and long-term adverse effects associated with hypoxia and hyperoxia have motivated a long-standing focus on identifying the optimal initial fraction of inspired oxygen (Fio2) for use during immediate postnatal resuscitation.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Oct 20",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2853878",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2853871",
+      "title": "Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants Research Summary",
+      "abstract": "This study aimed to determine whether starting resuscitation with a fraction of inspired oxygen (Fio2) of 0.30 vs 0.21 for moderate- to late-preterm infants reduces ongoing respiratory support when leaving the delivery room.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Oct 20",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2853871",
+      "category": "Research Article",
       "highlighted": false
     }
   ]
