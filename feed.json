@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T10:50:21.853920+00:00",
-  "count": 84,
+  "generated": "2026-10-25T10:23:26.425518+00:00",
+  "count": 83,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -47,6 +47,21 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41864830/",
       "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42919501",
+      "title": "Bridging the Policy-practice Gap: Reducing the Burden of Necrotizing Enterocolitis Through Advocacy.",
+      "abstract": "The policy landscape influences both the delivery of health care and patient outcomes. Governmental funding priorities, legislation and regulation impact aspects of neonatal intensive care, which subsequently affect rates of NEC. We review state policies, including Medicaid coverage of pasteurized human donor milk and pending federal legislation such as the reintroduction of the 2019 Access to Donor Milk Act, which aim to reduce disparities in access. We also review federal appropriations, regulations and other measures, which may directly or indirectly, influence NEC rates. Together, these measures demonstrate how neonatologists can foster a policy environment that mitigates NEC through advocacy.",
+      "source": "Clinics in perinatology",
+      "authors": "Shah Shetal, Lou Lily",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919501/",
+      "category": "Review",
       "highlighted": false
     },
     {
@@ -190,6 +205,20 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472697/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42448527",
+      "title": "Nursing leadership in emergency and critical care settings: An explanatory mixed-method study.",
+      "abstract": "Most of the available evidence regarding nursing leadership in emergency and critical care settings does not show how it is experienced in low-income healthcare systems. This study aimed to analyze the association between self-reported leadership behavior among emergency and critical care nurses and selected organizational outcomes. An explanatory mixed-method design was conducted in a tertiary public hospital in Honduras. The quantitative phase included emergency and critical care nurses surveyed by using a validated questionnaire. Binary logistic regression was performed to identify factors associated with transformational leadership. The qualitative phase involved 17 nurses who participated in in-depth semi-structured interviews and analyzed using thematic analysis. Humanized care was a positive predictor (p = 0.042), while self-perceived clinical experience (p = 0.001) and teamwork incentive (p = 0.013) were negatively associated to transformational leadership. Qualitative findings revealed two main themes: (1) leadership conceptualized as guidance, adaptability, and transformational influence in high-pressure environments; and (2) structural barriers including workload, staffi",
+      "source": "Australasian emergency care",
+      "authors": "Antunez Martinez Oscar Fidel, Varela Zuniga Nelson Orlando",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42448527/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -340,36 +369,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42851029",
-      "title": "PARTNER: Nurse Participation and Professional Experience During Family Conferences in Intensive Care: A Qualitative Study.",
-      "abstract": "Effective communication during family conferences (FC) in the intensive care unit (ICU) is essential for supporting families and fostering trust. Although nurses are continuously present at the bedside, their active participation in FC remains limited, structurally constrained and underexplored from the perspective of healthcare professionals. This study aimed to explore the factors shaping ICU nurses' participation in family conferences. This French single-centre qualitative interpretive study used semi-structured interviews with nurses and physicians. Transcripts were analysed using a thematic approach combining inductive and deductive coding, managed with NVivo software and reviewed by a multidisciplinary team. Nineteen HCP participated (14 nurses and 5 physicians). Three axes shaped HCP experience of FC: organizational conditions (setting, time and exclusion from ethical deliberation), interpersonal dynamics with families (comprehension, trust and relational skills) and interprofessional dynamics (nurses' specific role, barriers, facilitators and benefits of their involvement). Nurses did not express dissatisfaction but identified structural constraints limiting their participa",
-      "source": "Nursing in critical care",
-      "authors": "Caillet Anaëlle, Poiroux Laurent, Marchal Mathilde, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42851029/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42845173",
-      "title": "Comparison of the Validity and Reliability of Five Pressure Injury Risk Scales in Intensive Care.",
-      "abstract": "The lack of consensus on the best pressure injury (PI) risk assessment tools demonstrates the need for further comparative research to identify the most effective options for intensive care unit (ICU) populations. This study compared the predictive validity and reliability of five PI risk assessment tools in adult ICU patients. A prospective cohort study was conducted with patients aged ≥ 18 years, admitted to the ICUs for at least 24 h and without pre-existing PI. Five tools (Braden Scale, CALCULATE, Cubbin & Jackson, EVARUCI and Sunderland) were used daily to assess PI risk until either a PI developed or the participant was discharged, died or completed 21 days in the ICUs. The main outcome measures included area under the receiver operating characteristic (ROC) curve, sensitivity, specificity, relative risk and reliability. Of the 150 participants, 40 (26.7%) developed PIs. None of the five tools demonstrated good predictive accuracy. AUC values ranged from 0.605 to 0.692 across the five tools, with none exceeding the predefined threshold of 0.70. Participants classified as high risk by Sunderland, Cubbin & Jackson and EVARUCI had a 3.0, 2.5 and 2.1 times higher risk, respective",
-      "source": "Nursing in critical care",
-      "authors": "Velozo Bruna Cristina, Budri Aglecia Moda Vitoriano, Bernardo Larissa Cassiano, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Comparative Study",
-        "Validation Study"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42845173/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42777284",
       "title": "Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.",
       "abstract": "Therapeutic drug monitoring of antibiotics in critically ill patients with sepsis remains challenging due to highly variable pharmacokinetics, increasing the risk of under- or overdosing. This paper presents a novel single-use tetrapolar electrochemical impedance spectroscopy (EIS) biosensor for the rapid detection of meropenem in human serum. The sensor is based on a gold microband electrode functionalised with a self-assembled monolayer, protein G and anti-meropenem antibodies to enable selective antigen capture and impedance-based quantification. The biosensor demonstrated sensitive detection of meropenem over a range of 1-100 μg/mL in phosphate-buffered saline and within clinically relevant concentrations (8-16 μg/mL) in spiked human serum, with the lowest measured concentration of 1 μg/mL. Binding specificity was validated using tandem mass spectrometry and immunocapture liquid chromatography-mass spectrometry. The total assay time was under 15 min. This platform represents a promising approach for rapid, bedside-compatible monitoring of meropenem. While the impedance results demonstrate the potential of the biosensor for therapeutic drug monitoring, further validation is requ",
@@ -410,6 +409,66 @@
       ],
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42919502",
+      "title": "Postdischarge Collaborative Care for Survivors of Necrotizing Enterocolitis.",
+      "abstract": "This article conceptualizes necrotizing enterocolitis (NEC) as a chronic condition with lifelong gastrointestinal, neurodevelopmental, and psychosocial sequelae. Current fragmented health care systems inadequately serve NEC survivors and their families after Neonatal Intensive Care Unit (NICU) discharge. Drawing on conceptual frameworks in life course development, chronic disease management, and care coordination for children with medical complexity, we propose an adaptive, tiered framework for post-discharge collaborative care. Three tiers, Standard Enhanced Follow-up, Moderate Complexity Coordination, and Intensive Multidisciplinary Co-Management, align care intensity with patient complexity and include criteria for escalation and de-escalation. This approach emphasizes structured NICU-to-primary care transitions, subspecialty integration, and family-centered coordination.",
+      "source": "Clinics in perinatology",
+      "authors": "Berken Jonathan A, Modi Biren P, Litt Jonathan S",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919502/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42919494",
+      "title": "Eliminating Disparities and Optimizing Equity in Necrotizing Enterocolitis.",
+      "abstract": "Necrotizing enterocolitis is a devastating complication of prematurity with high mortality and lifelong morbidities. The burden of disease is inequitably distributed, with higher incidence and mortality in racialized, socioeconomically disadvantaged, and geographically marginalized populations. These disparities reflect structural inequities in maternal health, preterm birth risk, quality of care, and access to protective interventions such as mother's own milk and donor human milk. Reducing necrotizing enterocolitis disparities requires multilevel solutions spanning health policy, equitable perinatal regionalization, investment in underresourced hospitals, and evidence-based neonatal care. Improving access to mother's own milk and pasteurized donor human milk are potentially the highest yield interventions.",
+      "source": "Clinics in perinatology",
+      "authors": "LaFontaine Rachel N, Hair Amy B, Patel Aloka L, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919494/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42919491",
+      "title": "Communicating About Necrotizing Enterocolitis in the Neonatal Intensive Care Unit.",
+      "abstract": "Necrotizing enterocolitis (NEC) is a serious, sometimes fatal complication of prematurity and a challenging diagnosis to discuss with parents. In this article, we will discuss communication topics and strategies before, during and after a diagnosis of NEC, including the protective role of mother's own milk, the inability to fully eliminate the risk of NEC, the possibility of fulminant NEC, and long-term sequelae. We argue for clear and transparent communication to partner with and empower families, especially at the time of NEC diagnosis and at key transitions of care throughout the neonatal intensive care unit stay and beyond.",
+      "source": "Clinics in perinatology",
+      "authors": "Ignatz-Hoover Allison, Kirsten Denise, Russell David, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919491/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42919490",
+      "title": "Elevating Patient-Family Voices in Necrotizing Enterocolitis.",
+      "abstract": "A diagnosis of necrotizing enterocolitis (NEC) often affects families for a lifetime. Given the profound burden of NEC, families are uniquely positioned to harness the power of their experience to advocate for and contribute to research. Clinicians and scientists can also collaborate with families affected by NEC to improve care as well as prevention and treatment strategies. Elevating the voices of patient-families affected by NEC can help advance the field by helping identify meaningful gaps in science, conveying the urgency of improving outcomes, and providing knowledge only known by families carrying the lifelong devastation of NEC.",
+      "source": "Clinics in perinatology",
+      "authors": "Canvasser Jennifer, Pryor Erin",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919490/",
       "category": "Review",
       "highlighted": false
     },
@@ -586,66 +645,6 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42648021/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42623729",
-      "title": "Missed continuity of nursing and therapy care at the point of intensive care unit step-down: A scoping review.",
-      "abstract": "To map evidence on missed continuity of nursing and therapy care during ICU step-down, including how continuity is conceptualised, what care is lost, contributing factors, consequences, and strategies to support continuity. We conducted a scoping review in accordance with Joanna Briggs Institute methodology and reported using PRISMA-ScR. MEDLINE, Embase, CINAHL, Scopus, Web of Science and grey literature sources were searched from 1998 to October 2025. Eligible studies reported adult ICU-to-ward transitions involving nursing and/or therapy care continuity or missed care. Two authors independently screened and charted data. Findings were analysed through descriptive mapping and thematic synthesis. Of 3021 records identified, 27 studies met the inclusion criteria. The evidence was mainly qualitative and nursing-focused, with limited inclusion of therapy professionals. Continuity was most often conceptualised as informational, with evidence of incomplete handover, poor documentation, and loss of clinically relevant detail. Management continuity failures included missed monitoring, delayed review, medication discontinuity, and poor follow-through of care plans. Relational continuity in",
-      "source": "Intensive & critical care nursing",
-      "authors": "Johnson Gideon U, Virtudazo Misha Denise, Opiah Godfrey, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Scoping Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42623729/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42617232",
-      "title": "Negative inspiratory force predicts extubation failure after planned extubation in a medical ICU: a prospective cohort study.",
-      "abstract": "Although negative inspiratory force (NIF) has been studied in relation to weaning failure, evidence addressing extubation failure after a successful spontaneous breathing trial (SBT) remains limited. In standardized, protocol-based weaning programs, ventilator-measured NIF may offer information for extubation decisions, but prospective data are scarce. We performed a prospective observational cohort study in medical ICUs using a respiratory care practitioner-driven, standardized weaning program. Adult patients receiving invasive mechanical ventilation for ≥2 calendar days were enrolled between November 2017 and February 2022. Planned extubation episodes after a successful SBT were analyzed. NIF was measured at the bedside by respiratory care practitioners using the ventilator's built-in function and categorized a priori. The primary outcome was extubation failure, defined as reintubation within 48 h after extubation. Among 622 planned extubation episodes, extubation failure occurred in 97 (15.6%). Extubation failure rates decreased stepwise across increasing NIF categories (35.7% for NIF <15 cmH₂O vs. 11.2% for NIF ≥25 cmH₂O; P for trend <0.001). In the fully adjusted model, compar",
-      "source": "Intensive & critical care nursing",
-      "authors": "Choe Junsu, Nam Jimyoung, Lee Hee Og, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617232/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42617229",
-      "title": "Development and validation of a novel nursing activities for extracorporeal membrane oxygenation scale in the Netherlands: A nationwide multicentre study.",
-      "abstract": "To develop and validate a scale to measure nursing activities in patients receiving extracorporeal membrane oxygenation (ECMO) and to examine its underlying factor structure. A multicentre cross-sectional study was conducted among Dutch intensive care unit (ICU) nurses involved in ECMO care. A questionnaire was developed based on the existing and validated Nursing Activities in the Care of Extracorporeal Membrane Oxygenation-Supported Patients Scale, and supplemented with ECMO-specific activities identified through a scoping review and expert input. Exploratory factor analysis was performed to examine the factor structure. Sampling adequacy was assessed using the Kaiser-Meyer-Olkin measure and Bartlett's test of sphericity. Factor retention was based on Eigenvalues >1, scree plot inspection, parallel analysis, and theoretical interpretability. Internal consistency was assessed using Cronbach's α. Out of 866 invited ICU nurses, 486 responded (56.1%); 70.0% were female, with a median age of 38 years [IQR 33-51]. After item reduction and exploratory factor analysis, 31 items were retained. Based on scree plot inspection and parallel analysis, a five-factor structure was identified, ex",
-      "source": "Intensive & critical care nursing",
-      "authors": "van Esch Atreyu, Blokzijl Fredrike, Gommers Diederik, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617229/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42608955",
-      "title": "Prognostic value of combined platelet and fibrinogen levels on mortality in pediatric patients with sepsis.",
-      "abstract": "Sepsis causes high mortality in pediatric intensive care units (PICUs), often involving coagulation dysfunction. While platelets and fibrinogen are crucial, their combined prognostic value in pediatric sepsis remains unclear. We investigated their additive utility on in-PICU mortality. This retrospective cohort study included 282 pediatric sepsis patients admitted to the Zhujiang Hospital PICU (June 2022-December 2024). Multivariable Cox regression evaluated biomarkers continuously and categorically based on admission levels: platelets (cutoff: 150×10 Decreased platelet and fibrinogen levels independently increased mortality risk (HR: 1.89, 95% CI: 1.16-3.06; and HR: 1.55, 95% CI: 1.08-2.24 per standard deviation). Categorically, low platelets (<150×10 Low platelet and fibrinogen levels at PICU admission independently predict mortality in pediatric sepsis. Their concurrent assessment provides additive prognostic value for early risk stratification, especially in children ≥2 years. Prospective multicenter validation is warranted. In paediatric patients with sepsis, both low platelet count and low fibrinogen levels at admission are independent risk factors for increased in-PICU morta",
-      "source": "Annals of medicine",
-      "authors": "Zhao Wei, Chen Lijian, Liu Yang, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42608955/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -1011,18 +1010,18 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42823010",
-      "title": "Strategies to Manage Refractory Hypoxemia in the Intubated Patient.",
-      "abstract": "Persistent hypoxemia after intubation is associated with high mortality and demands a systematic approach focused on the underlying pathophysiology. This article emphasizes developing a focused differential diagnosis that includes both mechanical and patient factors to guide management. The authors review key therapeutic strategies, including careful use of positive end expiratory pressure, positioning techniques, medications such as inhaled pulmonary vasodilators, sedation, and neuromuscular blockade, and, when conventional therapies fail, consideration of extracorporeal membrane oxygenation.",
-      "source": "Emergency medicine clinics of North America",
-      "authors": "Davis Margaret L, Klemisch Robert",
+      "id": "pmid_42922243",
+      "title": "Effectiveness of Quality Improvement Strategies in Preventing Healthcare-Associated Infections Among Neurosurgical Patients Admitted to Intensive Care Units: A Systematic Review.",
+      "abstract": "Healthcare-associated infections (HAIs) remain a major and largely preventable cause of morbidity, excess mortality, prolonged hospitalization, and escalating healthcare costs in intensive care units (ICUs) worldwide. Neurosurgical patients are particularly vulnerable because of frequent exposure to invasive devices such as external ventricular drains (EVDs), central venous catheters, urinary catheters, and mechanical ventilation, combined with impaired neurological status and prolonged ICU stays. Although quality improvement (QI) strategies have been widely implemented across critical care settings, evidence specific to neurosurgical and neurocritical care populations remains fragmented. To systematically evaluate the effectiveness of QI interventions in reducing HAI incidence among neurosurgical and neurological ICU patients and to assess their impact on secondary outcomes including ICU length of stay, device utilization, and bundle compliance. A comprehensive search was conducted across PubMed/MEDLINE, Scopus, Embase, the Cochrane Library, and Web of Science from January 2010 to May 2026, following PRISMA 2020 guidelines. Eligible studies for the primary evidence synthesis inclu",
+      "source": "La Clinica terapeutica",
+      "authors": "Ageel Mohammed Abdulgadir, Omar Abdulmabod, Mohamed Abdalla Mohamed Goda, et al.",
       "pub_types": [
         "Journal Article",
-        "Review"
+        "Systematic Review"
       ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42823010/",
-      "category": "Review",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42922243/",
+      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
@@ -1065,6 +1064,21 @@
       ],
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42885870/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42906879",
+      "title": "Clinical nutrition for critically ill patients: a practical appraisal of guideline gaps and perspectives for future research.",
+      "abstract": "Malnutrition and accelerated muscle wasting are frequent during critical illness and make nutritional support a central component of ICU care. Nutritional support is therefore central to ICU care, but its optimal timing, route, dose, and composition remain debated. Recent randomized trials have challenged the traditional objective of early full feeding and shifted practice toward progressive, phase-adapted, and tolerance-based nutrition. This narrative review compares current international guidelines for nutritional support in critically ill adults. Guidelines broadly agree that nutrition should be initiated early after clinical stabilization, acute-phase overfeeding should be avoided, energy and protein delivery should be increased progressively, and refeeding syndrome should be anticipated. However, important differences remain regarding acute-phase energy targets, protein dosing, enteral versus parenteral nutrition, supplemental parenteral nutrition, indirect calorimetry, and enriched enteral formulas. These discrepancies reflect differences in methodology, healthcare context, and interpretation of evidence largely derived from mechanically ventilated patients during the first I",
+      "source": "Clinical nutrition ESPEN",
+      "authors": "Pardo Emmanuel, Gobé Thibaut, Thibault Ronan",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906879/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
@@ -1230,30 +1244,6 @@
       "date": "2026 Aug",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494313/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2853878",
-      "title": "Initial Oxygen for Moderate- to Late-Preterm Infants",
-      "abstract": "Each year, approximately 3.6 million infants are born in the US, approximately 10% of whom are preterm (less than 37 weeks’ gestation). For all newborns, successful transition from fetal to extrauterine life requires replacement of placental gas exchange with effective pulmonary respiration, a process that may falter in the absence of adequate lung aeration, surfactant function, and respiratory drive. Contemporary multicenter registry data indicate that up to 16% of all neonates and approximately half of infants born moderate to late preterm (32 to 36 weeks 6 days’ gestation) receive delivery room respiratory support to facilitate this transition, often including administration of supplemental oxygen. Concerns regarding the short- and long-term adverse effects associated with hypoxia and hyperoxia have motivated a long-standing focus on identifying the optimal initial fraction of inspired oxygen (Fio2) for use during immediate postnatal resuscitation.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Oct 20",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2853878",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2853871",
-      "title": "Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants Research Summary",
-      "abstract": "This study aimed to determine whether starting resuscitation with a fraction of inspired oxygen (Fio2) of 0.30 vs 0.21 for moderate- to late-preterm infants reduces ongoing respiratory support when leaving the delivery room.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Oct 20",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2853871",
-      "category": "Research Article",
       "highlighted": false
     }
   ]
