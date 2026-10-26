@@ -1,11 +1,26 @@
 {
-  "generated": "2026-10-25T10:23:26.425518+00:00",
-  "count": 83,
+  "generated": "2026-10-26T11:51:35.603588+00:00",
+  "count": 82,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
   "claude_error": null,
   "articles": [
+    {
+      "id": "pmid_42927910",
+      "title": "Swedish Consensus Recommendation for Follow-Up After ICU Stay.",
+      "abstract": "A substantial proportion of intensive care unit (ICU) survivors experience long-term physical, psychological and cognitive impairments after critical illness. However, methods for identifying patients in need of post-ICU support vary widely. As a result, many patients are left without access to established rehabilitation pathways. This consensus recommendation provides a framework for the organisation and content of follow-up for adult ICU survivors in Sweden, informed by available evidence, stakeholder perspectives and expert consensus. The National System for Knowledge-Driven Healthcare Management (NPO) in Sweden commissioned the development of a practice recommendation for the follow-up of critically ill adults. Multidisciplinary experts in ICU survivorship formed a task force group. A systematic literature search in four databases was conducted in 2024 to identify pre-existing systematic reviews on the topic. The literature was reviewed, assessed for quality and recommendations were developed based on the literature evidence. The draft was discussed among multiprofessional groups involved in follow-up, in workshops with critical care nurses (n = 30) and professionals responsibl",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Åkerman Eva, Schandl Anna, Ringdal Mona, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927910/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
     {
       "id": "pmid_42378988",
       "title": "Analysis of work system components in interprofessional communication to determine shock etiology.",
@@ -355,20 +370,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42861658",
-      "title": "Application of Combined Gastric Tube Tip Manometry and Auscultation for Nasogastric Tube Positioning in Neurocritical Care Patients With Artificial Airways: A Prospective Diagnostic Pilot Study.",
-      "abstract": "Nasogastric tube placement is central to enteral nutrition support in neurocritical care patients. However, tube malposition, particularly accidental placement into the airway, can lead to fatal complications. To assess the accuracy of a combined gastric tube tip manometry and auscultation approach for confirming nasogastric tube placement in neurocritical care patients with artificial airways. This prospective study enrolled patients who underwent nasogastric tube insertion in the neurocritical care unit of a tertiary hospital in China between January 2025 and May 2025. Using chest X-ray as the reference standard, we compared the sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), positive likelihood ratio (PLR) and negative likelihood ratio (NLR) for gastric tube tip manometry alone, auscultation alone and their combination. In total, 120 patients participated. X-ray confirmed correct nasogastric tube positioning in 119 patients and malposition in 1 patient. For gastric tube tip manometry alone, the sensitivity was 97.48%, with a specificity of 0%, a positive predictive value (PPV) of 99.15% and a negative predictive value (NPV) of 0%. Ausc",
-      "source": "Nursing in critical care",
-      "authors": "Xu Mengmin, Chen Yunxia, Sheng Zhiyuan, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42861658/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42777284",
       "title": "Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.",
       "abstract": "Therapeutic drug monitoring of antibiotics in critically ill patients with sepsis remains challenging due to highly variable pharmacokinetics, increasing the risk of under- or overdosing. This paper presents a novel single-use tetrapolar electrochemical impedance spectroscopy (EIS) biosensor for the rapid detection of meropenem in human serum. The sensor is based on a gold microband electrode functionalised with a self-assembled monolayer, protein G and anti-meropenem antibodies to enable selective antigen capture and impedance-based quantification. The biosensor demonstrated sensitive detection of meropenem over a range of 1-100 μg/mL in phosphate-buffered saline and within clinically relevant concentrations (8-16 μg/mL) in spiked human serum, with the lowest measured concentration of 1 μg/mL. Binding specificity was validated using tandem mass spectrometry and immunocapture liquid chromatography-mass spectrometry. The total assay time was under 15 min. This platform represents a promising approach for rapid, bedside-compatible monitoring of meropenem. While the impedance results demonstrate the potential of the biosensor for therapeutic drug monitoring, further validation is requ",
@@ -631,20 +632,6 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42657682/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42648021",
-      "title": "Nurse work environment, missed nursing care, moral distress, and burnout among ICU nurses.",
-      "abstract": "To test whether missed nursing care and moral distress mediate the association between the nurse work environment and burnout among adult ICU nurses. This study used data from 4258 direct care nurses in adult ICUs from the 2024 Penn Nurses4All Study. Structural equation modeling with serial multiple mediation examined direct and indirect associations between the work environment and burnout through missed nursing care and moral distress, adjusting for nurse characteristics. Nurses averaged 14.1 years of experience (SD = 11.4); most were female (2429; 79.6%), worked full time (3456; 81.3%), and held a bachelor's degree or higher (2572; 79.2%). A more favorable work environment was significantly associated with lower burnout (total effect: standardized coefficient B = -0.67, p < 0.001). All indirect pathways were significant, including through missed nursing care (B = -0.11, p < 0.001), moral distress (B = -0.05, p < 0.001), and the sequential pathway via both mediators (B = -0.03, p < 0.001). The total indirect effect was significant (B = -0.19, p < 0.001), and the direct effect remained significant (B = -0.48, p < 0.001), indicating partial mediation. The association between the nu",
-      "source": "Intensive & critical care nursing",
-      "authors": "Connell Kathryn A, Bocchese Steven, Lake Eileen T, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648021/",
       "category": "Research Article",
       "highlighted": false
     },
