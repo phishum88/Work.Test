@@ -1,11 +1,25 @@
 {
-  "generated": "2026-10-26T11:51:35.603588+00:00",
-  "count": 82,
+  "generated": "2026-10-29T11:57:29.131604+00:00",
+  "count": 83,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
   "claude_error": null,
   "articles": [
+    {
+      "id": "pmid_42944582",
+      "title": "Discussing Future Treatment and Care in the ICU: Perspectives From Patients.",
+      "abstract": "Treatment in the intensive care unit (ICU) is usually predicated on curative treatment, but continuing all available treatment options may not always be beneficial for the patient or in line with their wishes. However, patients admitted to the ICU are often assessed as incapable of making decisions regarding their care; hence conversations about wishes for treatment are postponed. This study aimed to investigate the experiences of patients who participated in a conversation concerning treatment and care following ICU discharge based on the Danish version of the Recommended Summary Plan for Emergency Care and Treatment (ReSPECT) form. Semi-structured telephone interviews were conducted with patients who had a conversation about future treatment and care with an intensivist using the ReSPECT form during an ICU admission between November 2024 and July 2025. Relatives who participated in the conversation and were present during the interviews were asked to elaborate on their experiences of the conversation's timing and how they felt about participating in the conversation. Data was analysed using content analysis. Nineteen patients were included in the study, of whom 15 patients (83%) ",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Smith Mette A, Zwisler Ann Dorthe, Nissen Anne, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944582/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
     {
       "id": "pmid_42927910",
       "title": "Swedish Consensus Recommendation for Follow-Up After ICU Stay.",
@@ -62,6 +76,96 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41864830/",
       "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933957",
+      "title": "Irritant Contact Dermatitis Related to Fecal and Urinary Incontinence in the Critical Care Population.",
+      "abstract": "Irritant contact dermatitis due to fecal, urinary, or dual incontinence is a common but often under recognized complication in critically ill patients that contributes to pain, skin breakdown, infection, and pressure injury risk. Despite advances in understanding its prevention and management, practice remains variable. This article contrasts traditional and evidence-based approaches, reviewing terminology, risk factors, pathophysiology, diagnosis, and interventions. A practical critical care application of the Manage→Clean→Protect→Restore care bundle, adapted from the 2026 Wounds International Best Practice Update, is presented to support standardized, proactive incontinence skin care, and improve patient outcomes.",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Hutton Jennifer L",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933957/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933955",
+      "title": "Temperature Measurement in the Acute Care Setting.",
+      "abstract": "Critically ill patients often suffer from alterations in body temperature either from disease, injury, exposure, or therapeutic interventions. Therefore, nurses must use evidence to guide decisions in choosing the most appropriate thermometer, route, and technique that accurately and consistently reflects core body temperature. This article will review the evidence for measuring body temperature for critically ill patients. Practical recommendations for measuring body temperature will follow.",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Timmerman Rosemary",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933955/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933954",
+      "title": "Revisiting Rest: Evidence-Based Shifts in Adult Intensive Care Unit Early Mobility.",
+      "abstract": "Improvements in intensive care unit (ICU) survival have highlighted the long-term burdens faced by survivors, including physical, cognitive, and psychological impairments. Immobility is a key contributor to these outcomes. Over the past 2 decades, ICU practices have shifted from deep sedation and bedrest toward early mobility and patient engagement. ICU early mobility (EM) is an evidence-based intervention that is safe and feasible. However, implementation remains inconsistent. This article explores the historical context of ICU bedrest, reviews current evidence supporting ICU EM, and offers strategies for its adoption.",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Dunn Heather, Lavrenz Danielle, Yousef Shaimaa, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933954/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933952",
+      "title": "Intensive Care Unit Liberation: Transforming Critical Care Through the ABCDEF Bundle.",
+      "abstract": "This article highlights the shift from traditional intensive care unit practices, including deep sedation, immobility, and restricted visitation, to evidence-based, patient-centered care. These outdated methods, once considered protective, are now known to increase delirium, muscle weakness, cognitive decline, and health care costs. Implementing the ABCDEF bundle (eg, pain management, awakening and breathing trials, sedation choice, delirium management, early mobility, and family engagement) is a proven evidence-based framework that improves patient outcomes. Critical care nurses play a central role in driving bundle adherence. Successful implementation requires interdisciplinary teamwork, leadership support, education, and integration into practice standards.",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Gregory Stephanie, Ratliff Erika",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933952/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933950",
+      "title": "Aligning Peripheral Intravenous Catheter Practices with the Vessel Health and Preservation Framework.",
+      "abstract": "The Vessel Health and Preservation framework was established with the aim of increasing the implementation of evidence-based vascular access practices and ultimately improving patient outcomes. This model was designed to place attention on reducing infection risks and drive more effective assessments of site selections, appropriate device selection, and increased application of strategies that reduce vascular harm, complications, and patient discomfort. Many conventional nonevidence informed practices with peripheral intravenous catheters continue to persist in critical care. Understanding best evidence to guide vascular access will positively impact patient safety and outcomes.",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Wenger Barbara, Seyller Nicole, Varty Maureen",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933950/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933947",
+      "title": "Deimplementation of Tradition-Based Enteral Feeding Practices to Improve Clinical Outcomes.",
+      "abstract": "Enteral feeding is common in acute and critical care but there are many elements to this practice that are steeped in confusion and lack evidence. This article will focus on verification of feeding tube (FT) placement methods and timing, medication administration by FTs, unnecessary holding or stopping of enteral formula, gastric residual volumes, and volume-based feeding. Supporting evidence for these practices will be reviewed and recommendations made for evidence-based alternatives and possible deimplementation.",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Bourgault Annette M, Powers Jan",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933947/",
+      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
@@ -253,120 +357,18 @@
       "highlighted": false
     },
     {
-      "id": "pmid_41656072",
-      "title": "Incidence and outcome of major perinatal comorbidities of all hospitalized neonates requiring intensive and critical care: a livebirth population-based survey.",
-      "abstract": "Prevalence, outcome and causal implication of neonatal survival-associated major morbidities remain the central focus of quality improvement of maternal-fetal and neonatal medicine. We aimed to estimate baseline information of neonatal intensive and critical care by analyzing surviving data of all hospitalized neonates from livebirth population. We prospectively collected a datafile consisting of 10,840 (13.72%) cases as all hospitalized neonates from 79,012 livebirths in Handan in 2020, a sub-provincial region with 9.41 million population and intermediate-to-high level of socioeconomic development in north China. The diagnoses of diseases requiring intensive and/or critical care, and causes of deaths, were categorized, and perinatal and disease-specific risks of death were estimated by multivariable logistic regression models. Livebirth-based incidence of major perinatal comorbidities were 19.7‰ for congenital pneumonia/early onset sepsis, 12.1‰ intraventricular hemorrhage, 8.7‰ birth asphyxia, 8.7‰ respiratory distress syndrome (RDS), 7.7‰ sepsis and 6.8‰ congenital anomalies (CA). Case-fatality rate (cause-specific mortality rate referring to livebirths) of major diseases were 4",
-      "source": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
-      "authors": "Zhang Xiaoxue, Zhai Shufen, Zhao Zhimin, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41656072/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41607080",
-      "title": "Prevalence and incidence of post-intensive care syndrome among intensive care unit survivors: a systematic review and meta-analysis.",
-      "abstract": "Post-intensive care syndrome (PICS) is a post-discharge complication from the intensive care unit (ICU) that manifests as a range of physical, cognitive, and psychological impairments for patients. Given the growing number of ICU survivors and the vital role of this syndrome in identifying individuals at risk of deterioration after ICU discharge, we conducted a systematic review and meta-analysis to assess the prevalence and incidence of PICS. Between January 1, 2010, and October 5, 2024, a thorough search was conducted across the Web of Science, PubMed, Scopus, Embase, Cochrane Library, and CINAHL databases. Cross-sectional and cohort studies were included. The prevalence and incidence of PICS, as determined by any assessment method, were the primary study outcomes. PICS was defined according to the criteria used in each primary study. A meta-analysis was performed using a random-effects model. Meta-regression analysis was employed to investigate the impact of distinct follow-up durations on the reported prevalence and incidence. The JBI critical appraisal tool for prevalence studies was used to assess the risk of bias in the included studies. This systematic review and meta-analy",
-      "source": "Annals of medicine",
-      "authors": "Zare-Kaseb Akbar, Sanaie Neda, Sarmadi Sogand",
+      "id": "pmid_41778305",
+      "title": "Oral Agents for the Treatment of Refractory Hypotension in the Acute Care Setting - A Narrative Review.",
+      "abstract": "Refractory hypotension is a common occurrence in the acute care setting and is associated with a variety of conditions and underlying disease states. Persistent hypotension is associated with negative outcomes including organ failure and mortality. While initial management of hypotension often involves parenteral agents such as vasopressors, long term use is not desirable or feasible in many cases. The use of oral agents for refractory hypotension in the acute care setting gives providers options in these clinical scenarios, specifically vasopressor weaning, intradialytic hypotension, and orthostatic hypotension. Common agents used for refractory hypotension include droxidopa, fludrocortisone, midodrine, pseudoephedrine, and pyridostigmine. The use of midodrine has been extensively studied in the setting of vasopressor weaning with no clear benefit to its use, however smaller studies and case reports indicate pseudoephedrine may be useful. In the setting of intradialytic hypotension, there are data to support the use of midodrine, however there are questions about the long-term safety of its use. Midodrine and fludrocortisone alone or in combination with each other has shown benefi",
+      "source": "Journal of pharmacy practice",
+      "authors": "Gibson Gabrielle A, Lista Annette D, Pouliot Jonathon D",
       "pub_types": [
         "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
+        "Review"
       ],
       "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41607080/",
-      "category": "Systematic Review / Meta-Analysis",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41099329",
-      "title": "A Communication Skills Training Curriculum Customized for Pulmonary and Critical Care Medicine Fellows.",
-      "abstract": "IntroductionCommunication regarding serious illness is an integral part of Pulmonary and Critical Care Medicine (PCCM) fellows' day-to-day practice, however routine communication skills training is not consistently built in PCCM fellowship curricula nationwide.",
-      "source": "The American journal of hospice & palliative care",
-      "authors": "Xu Luyi, Bharani Anup, Dua Sakshi, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41099329/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42667903",
-      "title": "Clinical evaluation of a vision-language model for optimizing triage and clinical workflows in critical care.",
-      "abstract": "Clinical deterioration in hospitalized patients is often preceded by subtle, dynamic physiological changes that are difficult to detect using intermittently charted electronic health record (EHR) data. Our objective was to evaluate the reliability, interpretability, and clinical relevance of a Vision‑Language Model (VLM)-based triage framework that analyzes physiological trend images, by comparing VLM-generated outputs with attending physician assessments as the expert clinical comparator. We conducted a single-center expert agreement pilot study including 100 adult patients with two hours of dynamic monitoring data across four vital signs (SpO2, RR, HR, BP). A structured prompt was developed using the Gemini 2.5 Flash model. Two independent reviewers assessed VLM outputs for clinical interpretation, artifact detection, and triage classification. We evaluated reviewer agreement using percent agreement and weighted Cohen's κ. A secondary risk-oriented analysis measured classification concordance and over-triaged cases as lower-risk classifications, while cases underestimating patient acuity were designated as higher-risk misclassifications. The VLM demonstrated moderate to substanti",
-      "source": "International journal of medical informatics",
-      "authors": "Strechen Inna, Krishnan Preethi, Kilickaya Oguz, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667903/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41778305/",
       "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42885891",
-      "title": "Intensive Care Unit Patients' Perspectives and Experiences in Using Virtual Reality Technology: A Qualitative Meta-Synthesis.",
-      "abstract": "As Intensive Care Unit (ICU) survival improves, attention has shifted towards patients' psychological well-being and recovery. Although Virtual Reality (VR) is increasingly used in critical care, patients' experiences of VR interventions have not been comprehensively synthesised. To synthesise qualitative and mixed-methods evidence regarding ICU patients' perceptions, experiences and implementation-related considerations associated with VR interventions. A qualitative systematic review and thematic synthesis following Thomas and Harden's three-stage approach was conducted. Eight databases were searched from inception to September 2025. Studies employing qualitative methods or components of mixed methods exploring ICU patients' firsthand VR experiences were included. Methodological quality was appraised using the JBI checklist. Eight studies involving 247 participants were included. Four analytical themes were synthesised: (A) VR as a restorative escape, (B) VR as a route from passive endurance to active participation, (C) Patient readiness and personal preference shape VR engagement, and (D) VR as a co-produced intervention requiring contextual and relational adaptation. ICU patien",
-      "source": "Nursing in critical care",
-      "authors": "Liao Guiling, Liu Zhiqun, Zhang Tao, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Meta-Analysis",
-        "Systematic Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42885891/",
-      "category": "Systematic Review / Meta-Analysis",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42885876",
-      "title": "Nurse-Led Interventions to Mitigate High-Alert Medication Errors in Critical Care: A Systematic Review of Effectiveness and Implementation Strategies.",
-      "abstract": "Intensive care units (ICUs) are high-risk environments where nurses administer the majority of high-alert medications, making them the final checkpoint in the medication-use process. However, evidence on nurse-led interventions specifically targeting high-alert medication errors has not been systematically synthesized across all ICU populations. This systematic review evaluated the effectiveness of nurse-led interventions in reducing high-alert medication errors in neonatal, paediatric and adult intensive care units and examined implementation strategies that enhance patient safety. We followed PRISMA 2020 guidelines. A comprehensive search was conducted in PubMed, Web of Science and Scopus for studies published between January 2000 and June 2026. Inclusion criteria required nurse-led interventions, measurement of high-alert medication error rates and critical care settings. The risk of bias was assessed. A narrative synthesis was performed due to heterogeneity in study designs and outcome measures. Six studies met the inclusion criteria. Interventions included simulation-based training, staff education, smart pump integration, clinical decision support systems and standardization ",
-      "source": "Nursing in critical care",
-      "authors": "Norouzdamghani Mobina, Kasaeian Ghazal, Asgharipoor Yeganeh, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42885876/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42875972",
-      "title": "Female Representation and Quality Indicators in Anesthesiology and Critical Care Podcasts.",
-      "abstract": "Podcasts have emerged as prominent tools for asynchronous medical education, widely adopted across training levels and specialties. Diverse representation strengthens medical discourse, making an evaluation of speaker demographics essential for understanding equity and quality in digital knowledge dissemination. This study systematically evaluates female representation and quality assurance indicators in anesthesiology and critical care podcasts, including longitudinal publication trends. We systematically searched Apple Podcasts and Spotify using specialty-specific terms and manually reviewed the top twenty journals in the field for affiliated podcasts. Included were active, English-language, physician-hosted podcasts. Eighty-five podcasts (53.0% US-based) comprising 10,190 episodes were analyzed. Of 12,522 hosts, 31.5% (n = 3945) were female; of 10,822 guests, 35.9% (n = 3882) were female. Notably, among US-based podcasts, female guest representation exceeded the 26.5% female workforce proportion among US anesthesiologists. Episodes with exclusively male hosts had 2.13 times the odds of featuring only male guests (95% CI 1.88-2.41). A positive trend of increasing female participa",
-      "source": "Acta anaesthesiologica Scandinavica",
-      "authors": "Steinsdóttir Perla, Asif Sana, Kristinsdóttir Rakel N, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42875972/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42864864",
-      "title": "The Process to Caregiver Expertise: A Constructivist Grounded Theory Study of Parents of Infants With Critical Congenital Heart Disease.",
-      "abstract": "Caregivers of hospitalized infants with critical congenital heart disease (CCHD) experience stress, emotions and contextual challenges with staff and unit culture during their infant's stay in critical care units, especially if the stay is lengthy. These compounding adverse conditions impact a caregiver's ability to learn to care for their infant. The purpose of this constructivist grounded theory study was to construct an explanatory theory, based on the analysis of the caregivers' perspectives, uncovering the process caregivers of hospitalized infants go through to become experts in their infant's care in the critical care setting. Fifteen mothers and one father participated in semistructured and intensive interviews. Data collection, data analysis and theory formation transpired through an iterative process of constant comparison within and among data cases, theoretical sampling, memos, member-checking and participant feedback. The result was a co-constructed overarching framework, the Process Model to Caregiver Expertise, progressing through four sequential phases-disorienting, orienting, adapting and knowing-showing how caregiver confidence develops over time and through activ",
-      "source": "Child: care, health and development",
-      "authors": "Casey Stefanie, Pickens Noralyn, Poskey Gail",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864864/",
-      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -411,6 +413,36 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933953",
+      "title": "Intensive Care Unit Delirium in Critically Ill Adults: Evidence-Based Approaches to Prevention and Management.",
+      "abstract": "Intensive care unit (ICU) delirium affects up to 80% of critically ill adults and is associated with increased mortality, prolonged hospitalization, and long-term cognitive decline. Despite strong evidence supporting strategies for delirium management, adherence to best practices is inconsistent, and traditional practices often override their implementation. This clinical review highlights opportunities for deimplementation of outdated practices and adoption of evidence-based strategies to detect, prevent, and manage ICU delirium. Emphasis is placed on validated screening tools, light sedation practices, sleep promotion, and multicomponent care bundles. Empowering nurses with knowledge, autonomy, and interdisciplinary collaboration is essential to improving delirium-related outcomes.",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Ahrens Emily, Pandharipande Pratik P, Cordoza Makayla L",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933953/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933948",
+      "title": "Reevaluating Chlorhexidine Gluconate Oral Care in Mechanically Ventilated Patients: Evidence for De-implementation.",
+      "abstract": "Chlorhexidine gluconate (CHG) oral care was incorporated into ventilator bundles as a preventive strategy for ventilator-associated pneumonia. Recent evidence challenged the efficacy and safety of this long-standing practice. Systematic reviews and randomized controlled trials show minimal benefits (non-significant reduction in intensive care unit length of stay and ventilator days) and potential for harm (trend toward increased mortality). International and national consensus statements have withdrawn recommendations to use CHG for oral care. This article synthesizes the evidence supporting de-implementation of CHG oral care and outlines practical steps for adopting safer, evidence-aligned oral care protocols focused on toothbrushing for mechanically ventilated adults.",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Simmons Jennifer Carroll, Bourgault Annette M",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933948/",
+      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
@@ -562,80 +594,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42697157",
-      "title": "Artificial intelligence-supported total parenteral nutrition management in neonatal intensive care units: A systematic review of clinical efficacy, safety, and system integration.",
-      "abstract": "This systematic review aims to synthesise the present evidence base concerning artificial intelligence (AI)-supported total parenteral nutrition (TPN) management in neonatal intensive care units (NICUs) with respect to clinical efficacy, patient safety, and system integration. This systematic review follows the PRISMA 2020 guideline. We searched PubMed/MEDLINE, Scopus, and Web of Science between January and March 2026, and used the PICO framework to include quantitative studies that employed AI, machine learning (ML), computerised physician order entry (CPOE), or clinical decision support systems (CDSS) in neonatal TPN management. We appraised methodological quality using the Cochrane RoB 2 tool for randomised controlled trials, the Newcastle-Ottawa Scale for observational studies, and the GRADE framework for the overall strength of the evidence. Sixteen records met the broad topical and technological inclusion criteria. Of these, thirteen quantitative primary studies (published 2008-2026, n = 30-9,330) form the evidence base for data synthesis and GRADE appraisal; three additional records provided historical and architectural context only. CPOE and rule-based CDSS significantly im",
-      "source": "International journal of medical informatics",
-      "authors": "Çiçek Mustafa Alpkan, Tutak Ercan, Dursun Mesut, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697157/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42673881",
-      "title": "Architecture and evolution of sleep during adult intensive care unit stay: A scoping review.",
-      "abstract": "Sleep is essential for maintaining health, yet patients hospitalized in intensive care units (ICUs) face an environment highly unconducive to quality sleep due to multiple disruptive factors. Understanding sleep architecture in the ICU is essential for comprehensive patient care. This scoping review aims to synthesize current knowledge on sleep architecture in adult ICU settings while identifying knowledge gaps and proposing areas for future research. A systematic search was conducted across PubMed/MEDLINE and Cochrane Library databases from 1987 to 2024 using specific keywords to identify publications on sleep in adult ICU patients that included electroencephalographic (EEG) data. The search was supplemented by reviewing bibliographies of included articles and conducting a complementary Google Scholar search. Data extraction followed PRISMA-ScR guidelines. Of 961 studies identified from databases and 709 from other sources, 150 publications were included comprising 69 reviews, 55 observational studies, and 24 randomized trials. The majority were single-center studies (87.6%) with small sample sizes (58% with n < 25). Measurement methodologies were highly heterogeneous regarding re",
-      "source": "Sleep medicine",
-      "authors": "Tinland Anne-Christine, Ollier Edouard, Garcin Arnauld, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Scoping Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42673881/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42664829",
-      "title": "Long-term outcomes and prognostic factors of patients undergoing tracheostomy for prolonged mechanical ventilation: A retrospective study.",
-      "abstract": "To investigate the long-term outcomes and prognostic factors of critically ill patients undergoing tracheostomy for prolonged mechanical ventilation within the specific sociocultural and healthcare context of the Middle East. A retrospective observational study of patients who underwent tracheostomy between January 1, 2017, and December 31, 2020. Medical ICU of Hamad General Hospital, a tertiary academic healthcare institution in Doha, Qatar. Adult critically ill patients requiring tracheostomy for prolonged mechanical ventilation. Tracheostomies were performed via percutaneous or open surgical techniques. Primary outcomes included neurological status (Cerebral Performance Category) and functional disability (Modified Rankin Scale) at hospital discharge. Secondary outcomes included survival rates at ICU discharge, hospital discharge, and one-year post-discharge, as well as lengths of stay. Multivariable logistic regression was utilized to identify independent prognostic factors for mortality. The study included 395 patients with a mean age of 55 ± 17.4 years. The percutaneous technique was more prevalent (61.3%) and accompanied by a higher proportion of good neurological outcomes; ",
-      "source": "Intensive & critical care nursing",
-      "authors": "Hssain Ali Ait, Pandian Vinciya, Vahedian-Azimi Amir, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42664829/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42659773",
-      "title": "Interprofessional collaboration between nurses and physicians in intensive care and nurse's role in task allocation: A scoping review.",
-      "abstract": "Interprofessional collaboration is essential in intensive care units, where care is complex and highly demanding. However, overlapping tasks and responsibilities may create unclear professional boundaries between nurses and physicians and nursing roles. This review aimed to map international research on interprofessional collaboration between physicians and nursing professionals in ICUs, with a focus on task and responsibility sharing and the description of nursing roles within collaborative practice. This scoping review followed PRISMA-ScR guidelines. A comprehensive search was conducted in PubMed, CINAHL, and the Cochrane Library in February 2026. Additionally, reference lists of included studies were screened. Publications addressing interprofessional collaboration between nurses and physicians in intensive care settings were eligible for inclusion. 34 publications were included, most of which used qualitative study designs. Interprofessional collaboration was shaped by cultural, structural and action-related factors, as well as nursing roles. Key cultural influences included trust, respect, familiarity, and hierarchy. Structural factors comprised rounds, formal interprofessiona",
-      "source": "Intensive & critical care nursing",
-      "authors": "Hornung Josephine, Stanze Henrikje, Rynas Clara, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Scoping Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42659773/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42657682",
-      "title": "Association between influenza vaccination and severe outcomes in adults aged ≥ 65 years hospitalized with laboratory-confirmed influenza: a retrospective cohort study, I-MOVE hospital network, Europe, 2015/16-2024/25.",
-      "abstract": "Older adults face an increased risk of influenza-related intensive care unit (ICU) admission and in-hospital death (IHD). Although vaccination reduces hospitalization, its effect on these outcomes remains uncertain. We estimated the association between influenza vaccination and both outcomes among adults aged ≥65 years hospitalized with laboratory-confirmed influenza. We conducted a retrospective cohort study using European I-MOVE hospital network data (2015/16-2024/25); vaccination was defined as vaccine receipt ≥14 days before symptom onset. We estimated pooled-season adjusted risk ratios (aRR) using Poisson regression adjusting for potential confounders. We calculated relative risk reduction (RRR) as (1-aRR)×100, overall and by age group (65-79, ≥80 years). After exclusions, 4,257 patients (five study sites, six seasons) were included. ICU admission occurred in 3% of vaccinated and 5% of unvaccinated patients; IHD occurred in 5% of both groups. RRR was 11% (95% CI: -21-34) against ICU admission (65-79 years: -4%; ≥80 years: 44%). RRR against IHD was 26% (95% CI: 3-43); 17% and 29% in each respective age group. Vaccination showed little or no association with ICU admission, but w",
-      "source": "Expert review of vaccines",
-      "authors": "Marques Diogo F P, Rose Angela M C, Monge Susana, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42657682/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42447972",
       "title": "Short-chain fatty acid metabolism in acute lung injury and intervention strategies from traditional Chinese medicine.",
       "abstract": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are severe conditions associated with high mortality rates and limited treatment options. Short-chain fatty acids (SCFAs) serve as central immunomodulatory metabolites mediate the crosstalk between the gut and lung. Traditional Chinese medicine (TCM), with its holistic approach, shows promise in restoring gut-lung balance and alleviating respiratory inflammation by modulating gut microbiota and SCFA metabolism. To elucidate the protective role and mechanism of SCFAs in ALI and ARDS via the gut-lung axis. Meanwhile, to evaluate the therapeutic potential of TCM in treating ALI by modulating the gut microbiota and enhancing SCFA production. A comprehensive literature search was conducted across PubMed, Ovid-Embase, Web of Science, and CNKI databases (2010-2025). Keywords included \"short-chain fatty acid\", \"gut microbes\", \"acute lung injury\", \"traditional Chinese medicine\", and related terms. The search focused on preclinical and mechanistic studies investigating SCFA signaling, gut microbiota remodeling, and the therapeutic effects of herbal compounds or their active constituents in ALI/ARDS models. This review ide",
@@ -677,6 +635,21 @@
       ],
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324603/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933951",
+      "title": "Peripheral Vasopressor Administration: An Evidence-Based Risk-Benefit Analysis.",
+      "abstract": "Peripheral vasopressor administration has been heavily researched over the past decade as a way to quickly treat hemodynamically unstable patients. However, current evidence is diverse and limited by quality concerns, including a reliance on retrospective studies, inconsistent criteria, and bias risk. While central venous access devices (CVADs) remain the preferred route for vasopressor administration, use of the peripheral route is necessary when a CVAD is not yet present or contraindicated. Vascular access selection should be tailored to individual patient's needs. Current evidence indicates that using a protocolized approach for peripheral vasopressors appears safe and effective for low-acuity patients requiring short-term therapy (eg, less than 24 hours).",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Nickel Barbara",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933951/",
       "category": "Review",
       "highlighted": false
     },
@@ -982,36 +955,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42323114",
-      "title": "Candidate genetic and multi-omics determinants potentially contributing to Macklin effect development in acute respiratory distress syndrome: A narrative review.",
-      "abstract": "Acute respiratory distress syndrome (ARDS) is a complex and heterogeneous clinical syndrome characterized by diffuse alveolar damage, severe hypoxemia, and a high risk of respiratory complications. Among these, the Macklin effect has emerged as an early radiological sign associated with the subsequent development of barotrauma. Although several genetic and molecular factors have been implicated in ARDS susceptibility and progression, their potential contribution to the biological processes underlying Macklin effect development remains largely unexplored. This review aims to examine current evidence on genetic susceptibility factors, molecular biomarkers, and multi-omics signatures involved in ARDS pathophysiology, with particular attention to mechanisms that may increase alveolar fragility and predispose to the development of the Macklin effect. A narrative review of the literature was conducted, focusing on studies investigating genetic polymorphisms, inflammatory pathways, transcriptomic profiles, proteomic biomarkers, and metabolomic alterations associated with ARDS severity, tissue injury, and pulmonary complications. Available evidence indicates that genetic variants involved ",
-      "source": "Gene",
-      "authors": "Radice Rosa Paola, Vignola Federica, Montagnuolo Xavier, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov 05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42323114/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42922243",
-      "title": "Effectiveness of Quality Improvement Strategies in Preventing Healthcare-Associated Infections Among Neurosurgical Patients Admitted to Intensive Care Units: A Systematic Review.",
-      "abstract": "Healthcare-associated infections (HAIs) remain a major and largely preventable cause of morbidity, excess mortality, prolonged hospitalization, and escalating healthcare costs in intensive care units (ICUs) worldwide. Neurosurgical patients are particularly vulnerable because of frequent exposure to invasive devices such as external ventricular drains (EVDs), central venous catheters, urinary catheters, and mechanical ventilation, combined with impaired neurological status and prolonged ICU stays. Although quality improvement (QI) strategies have been widely implemented across critical care settings, evidence specific to neurosurgical and neurocritical care populations remains fragmented. To systematically evaluate the effectiveness of QI interventions in reducing HAI incidence among neurosurgical and neurological ICU patients and to assess their impact on secondary outcomes including ICU length of stay, device utilization, and bundle compliance. A comprehensive search was conducted across PubMed/MEDLINE, Scopus, Embase, the Cochrane Library, and Web of Science from January 2010 to May 2026, following PRISMA 2020 guidelines. Eligible studies for the primary evidence synthesis inclu",
-      "source": "La Clinica terapeutica",
-      "authors": "Ageel Mohammed Abdulgadir, Omar Abdulmabod, Mohamed Abdalla Mohamed Goda, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42922243/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42859779",
       "title": "Clinical practice guideline for renal replacement therapy in critically ill patients with acute kidney injury (2026 edition).",
       "abstract": "Acute kidney injury (AKI) is a common and severe complication in critically ill patients, associated with high morbidity and mortality. Renal replacement therapy (RRT) is a vital life-support modality for critically ill patients with AKI. However, there remains a lack of unified clinical standards for core issues including the timing of RRT initiation, treatment modality, anticoagulation strategy, and weaning from RRT. In response, the Chinese Society of Critical Care Medicine organized a multidisciplinary expert panel to develop the \"Clinical practice guideline for RRT in critically ill patients with AKI (2026 edition)\" in accordance with the GRADE approach for grading evidence quality. This guideline was developed through systematic literature retrieval, meta-analysis, and evidence-based medical evidence synthesis, followed by multiple rounds of manuscript review and revision via online and offline meetings of the working group, and final approval by the Standing Committee of the Society. A total of 34 recommendations were finalized, covering key clinical topics including timing of RRT initiation, establishment and maintenance of vascular access, selection of treatment modalities",
@@ -1231,6 +1174,66 @@
       "date": "2026 Aug",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494313/",
       "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854756",
+      "title": "Blood Pressure Targets in Critically Ill Children",
+      "abstract": "“Do I need to treat this blood pressure?” is one of the most common questions to pass through the minds of acute care pediatricians during a typical day in the hospital. Blood pressure generally increases with somatic growth, reflecting developmental changes in stroke volume, vascular structure and function, and neurohumoral regulation. As a result of interindividual variation across the developmental stages of childhood, there is a wide range of acceptable blood pressure values. There is also long-standing ambiguity about what should be considered the limits of acceptable blood pressure, particularly among hospitalized children. Age-based reference values offer a starting point, although the threshold used to identify an unusually low blood pressure may differ from the pressure needed to maintain adequate organ perfusion. This uncertainty can create substantial tension when a clinician faces the decision whether to manage potentially low blood pressure in a child. Treatments for potentially low blood pressure can also vary widely, from temporary stimulation to administration of vasopressor and inotropic medications through a central vascular catheter. The clinical question of whet",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Oct 27",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854756",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854755",
+      "title": "Permissive Blood Pressure Targets in Pediatric Critical Care",
+      "abstract": "This randomized clinical trial examines whether adopting a permissive mean arterial blood pressure target improves outcomes in critically ill children with hypotension.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Oct 27",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854755",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854754",
+      "title": "Permissive Blood Pressure Targets in Pediatric Critical Care Research Summary",
+      "abstract": "This trial evaluated whether a permissive mean arterial pressure (MAP) target above the fifth percentile for age improves outcomes in hypotensive critically ill children.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Oct 27",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854754",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854196",
+      "title": "Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment",
+      "abstract": "This substudy of a randomized clinical trial examines whether carotid artery revascularization with carotid stenting or endarterectomy improves cognitive outcomes differentially depending on whether there is impaired cerebral hemodynamic flow at baseline.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Oct 27",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854196",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854192",
+      "title": "Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment and Cognitive Outcomes Research Summary",
+      "abstract": "This study tested whether cognitive benefit from revascularization in asymptomatic high-grade internal carotid artery stenosis varied by baseline cerebral hemodynamic impairment.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Oct 27",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854192",
+      "category": "Research Article",
       "highlighted": false
     }
   ]
