@@ -1,11 +1,25 @@
 {
-  "generated": "2026-10-29T11:57:29.131604+00:00",
-  "count": 83,
+  "generated": "2026-11-01T12:17:59.826327+00:00",
+  "count": 78,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
   "claude_error": null,
   "articles": [
+    {
+      "id": "pmid_42963077",
+      "title": "Serious Adverse Events in Adult ICU Patients: A Substudy of the PATIENCE Cohort.",
+      "abstract": "Prokinetic agents are used to enhance upper gastrointestinal motility, but adverse events related to these agents are poorly described. We aimed to provide detailed epidemiological data on predefined serious adverse events (SAEs) in a cohort of adult intensive care unit (ICU) patients with and without prokinetic treatment. We hypothesised that all predefined SAEs would occur in both patients treated and those not treated with prokinetic agents, and that a higher number of SAEs would occur among patients treated with prokinetic agents for more than three consecutive days. This substudy of the inception cohort study \"Prokinetic agents in adult intensive care unit patients\" included acutely admitted adult ICU patients. The prokinetic agents assessed (exposures) were erythromycin, metoclopramide, domperidone, and prucalopride. The primary outcome was the proportion of patients experiencing at least one episode of five pre-specified SAEs during ICU stay (cardiac arrhythmias, cardiac arrest, vomiting with aspiration, diarrhoea, extrapyramidal symptoms). Secondary outcomes were (1) proportion of patients experiencing each SAE, (2) the proportion of patients experiencing any of the SAEs af",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Crone Vera, Møller Morten Hylander, Granholm Anders, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963077/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
     {
       "id": "pmid_42944582",
       "title": "Discussing Future Treatment and Care in the ICU: Perspectives From Patients.",
@@ -76,6 +90,21 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41864830/",
       "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42960546",
+      "title": "Artificial intelligence and continuous renal replacement therapy.",
+      "abstract": "Continuous renal replacement therapy (CRRT) is an important intervention in the treatment of acute kidney injury (AKI) in intensive care, and its application scope continues to expand alongside technological advancements and an increasing patient population. However, in current clinical practice, several factors, including individual patient differences, dynamic treatment needs, and the rational allocation of medical resources, pose challenges to CRRT implementation. The rapid development of artificial intelligence (AI) offers new approaches to address some of these challenges, and its applications in developing decision-support models, refining workflows, and supporting patient communication and education may contribute to more precise and efficient CRRT management. In this article, we discuss the current evidence and potential applications of AI in CRRT, as well as the challenges and strategies for clinical implementation, aiming to provide a reference for future research and clinical translation of AI-assisted CRRT. Continuous renal replacement therapy (CRRT) is commonly used to support critically ill patients with severe kidney injury. Because patients’ conditions can change ra",
+      "source": "Renal failure",
+      "authors": "Li Xiang, Zhang Ling",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960546/",
+      "category": "Review",
       "highlighted": false
     },
     {
@@ -342,36 +371,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42314451",
-      "title": "Alarms and alarm management with automated versus conventional ventilation in neurocritical care patients.",
-      "abstract": "False or clinically irrelevant alarms are a major driver of ICU alarm fatigue and nursing workload. Ventilator alarms make up a large share, and although automated ventilation modes can reduce manual adjustments, their effect on alarm burden is still unclear. This issue can be particularly relevant in neurocritical care patients, where precise ventilator and alarm management is imperative for patient safety. This explorative post hoc analysis of a randomized clinical trial compared alarm frequency and management between automated ventilation and conventional ventilation in neurocritical care patients. Ventilator alarms and manual ventilator changes were captured continuously from the ventilator for up to 24 h per patient. The primary endpoint was a composite of workload-relevant alarms; with alarm management interventions at the ventilator as a key secondary outcome. Additional endpoints included redundant alarms, alarm duration and ventilator management. 13 patients received automated ventilation and 24 received conventional ventilation. No difference was observed in workload-relevant alarm frequency between automated and conventional ventilation (3.28 [2.87 to 4.30] vs 3.73 [1.66",
-      "source": "Intensive & critical care nursing",
-      "authors": "van Limpt Geertje J C, van Vliet Peter, Molenaar Manon A, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42314451/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41778305",
-      "title": "Oral Agents for the Treatment of Refractory Hypotension in the Acute Care Setting - A Narrative Review.",
-      "abstract": "Refractory hypotension is a common occurrence in the acute care setting and is associated with a variety of conditions and underlying disease states. Persistent hypotension is associated with negative outcomes including organ failure and mortality. While initial management of hypotension often involves parenteral agents such as vasopressors, long term use is not desirable or feasible in many cases. The use of oral agents for refractory hypotension in the acute care setting gives providers options in these clinical scenarios, specifically vasopressor weaning, intradialytic hypotension, and orthostatic hypotension. Common agents used for refractory hypotension include droxidopa, fludrocortisone, midodrine, pseudoephedrine, and pyridostigmine. The use of midodrine has been extensively studied in the setting of vasopressor weaning with no clear benefit to its use, however smaller studies and case reports indicate pseudoephedrine may be useful. In the setting of intradialytic hypotension, there are data to support the use of midodrine, however there are questions about the long-term safety of its use. Midodrine and fludrocortisone alone or in combination with each other has shown benefi",
-      "source": "Journal of pharmacy practice",
-      "authors": "Gibson Gabrielle A, Lista Annette D, Pouliot Jonathon D",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41778305/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42777284",
       "title": "Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.",
       "abstract": "Therapeutic drug monitoring of antibiotics in critically ill patients with sepsis remains challenging due to highly variable pharmacokinetics, increasing the risk of under- or overdosing. This paper presents a novel single-use tetrapolar electrochemical impedance spectroscopy (EIS) biosensor for the rapid detection of meropenem in human serum. The sensor is based on a gold microband electrode functionalised with a self-assembled monolayer, protein G and anti-meropenem antibodies to enable selective antigen capture and impedance-based quantification. The biosensor demonstrated sensitive detection of meropenem over a range of 1-100 μg/mL in phosphate-buffered saline and within clinically relevant concentrations (8-16 μg/mL) in spiked human serum, with the lowest measured concentration of 1 μg/mL. Binding specificity was validated using tandem mass spectrometry and immunocapture liquid chromatography-mass spectrometry. The total assay time was under 15 min. This platform represents a promising approach for rapid, bedside-compatible monitoring of meropenem. While the impedance results demonstrate the potential of the biosensor for therapeutic drug monitoring, further validation is requ",
@@ -413,6 +412,22 @@
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42960561",
+      "title": "Endpoint-specific mortality associated with malignancy among adults with sepsis or septic shock: a systematic review and meta-analysis.",
+      "abstract": "Sepsis is a major global health challenge and increasingly affects patients with complex conditions such as malignancy. Prior studies suggest higher mortality in this population, but interpretation is limited by aggregation of heterogeneous endpoints. We conducted a systematic review and meta-analysis to clarify endpoint-specific prognostic associations between malignancy and mortality in adults with sepsis or septic shock. This study was registered in PROSPERO (CRD420251141216). PubMed, Embase, Web of Science, Cochrane Library and Epistemonikos were searched through 16 September 2025, for studies comparing all-cause mortality between sepsis patients with and without malignancy. Mortality endpoints were grouped as ICU, in-hospital, early, intermediate and extended follow-up mortality. Crude odds ratios (ORs) were estimated using random-effects meta-analysis. Subgroup, meta-regression and sensitivity analyses were performed to explore heterogeneity and assess consistency. Among 105 eligible studies comprising 20,089,138 participants, 85 studies contributing 101 endpoint estimates were included in the primary synthesis. Pooled estimates were elevated across endpoints: ICU (OR 1.21, 9",
+      "source": "Annals of medicine",
+      "authors": "Chung Huei, Chou Hung-Chang, Tsai Tsung-Yu, et al.",
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960561/",
+      "category": "Systematic Review / Meta-Analysis",
       "highlighted": false
     },
     {
@@ -580,20 +595,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42749504",
-      "title": "Characterizing discordant discharge in late preterm and term twin pairs: a retrospective cohort study.",
-      "abstract": "Twin pairs are at risk for discordant hospital discharge, which may lead to postnatal co-twin separation. This study evaluated the prevalence of discordant discharge in late preterm and term twin pairs and identified clinical characteristics associated with this outcome. We conducted a retrospective cohort study of live, nonanomalous, inborn twin pairs ≥ 34 weeks at two urban delivery hospitals in the United States from 2016 to 2024. The primary outcome was discordant discharge between co-twins (inter-twin discharge date ≥ 1 day). Secondary outcomes included discordant neonatal intensive care unit admission and common neonatal morbidities. Clinical characteristics were compared between twin pairs with discordant versus concordant discharge. Cochran-Armitage test was used to assess for a linear trend in the primary outcome across gestational age. Multivariable logistic regression was used to identify factors associated with discordant discharge. Among 359 twin pairs included, 84 (23.4%) had discordant discharge and 275 (76.6%) had concordant discharge. Twin pairs with discordant discharge had lower median gestational age (GA) and birthweight and were more likely to have mild (≥ 18 t",
-      "source": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
-      "authors": "Khan Sara, Diala Prisca C, Duldulao Jared M, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749504/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42447972",
       "title": "Short-chain fatty acid metabolism in acute lung injury and intervention strategies from traditional Chinese medicine.",
       "abstract": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are severe conditions associated with high mortality rates and limited treatment options. Short-chain fatty acids (SCFAs) serve as central immunomodulatory metabolites mediate the crosstalk between the gut and lung. Traditional Chinese medicine (TCM), with its holistic approach, shows promise in restoring gut-lung balance and alleviating respiratory inflammation by modulating gut microbiota and SCFA metabolism. To elucidate the protective role and mechanism of SCFAs in ALI and ARDS via the gut-lung axis. Meanwhile, to evaluate the therapeutic potential of TCM in treating ALI by modulating the gut microbiota and enhancing SCFA production. A comprehensive literature search was conducted across PubMed, Ovid-Embase, Web of Science, and CNKI databases (2010-2025). Keywords included \"short-chain fatty acid\", \"gut microbes\", \"acute lung injury\", \"traditional Chinese medicine\", and related terms. The search focused on preclinical and mechanistic studies investigating SCFA signaling, gut microbiota remodeling, and the therapeutic effects of herbal compounds or their active constituents in ALI/ARDS models. This review ide",
@@ -635,6 +636,21 @@
       ],
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324603/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42963150",
+      "title": "The Pharmacologic Management of Cardiac Arrest.",
+      "abstract": "The effectiveness of pharmacologic management of cardiac arrest patients is widely debated; however, several studies published in the past 5 years have begun to clarify some of these issues. This article covers the current state of evidence for the effectiveness of the vasopressor epinephrine and the combination of vasopressin-steroids-epinephrine and antiarrhythmic medications amiodarone and lidocaine and reviews the role of other medications such as calcium, sodium bicarbonate, magnesium, and atropine in cardiac arrest care. We additionally review the role of β-blockers for refractory pulseless ventricular tachycardia/ventricular fibrillation and thrombolytics in undifferentiated cardiac arrest and suspected fatal pulmonary embolism.",
+      "source": "Cardiac electrophysiology clinics",
+      "authors": "Singh Amandeep, Heeney Megan, Montgomery Martha E",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963150/",
       "category": "Review",
       "highlighted": false
     },
@@ -793,6 +809,37 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42393512",
+      "title": "Remimazolam Versus Midazolam for Sedation in Mechanically Ventilated Patients with Severe Pneumonia: A Randomized Controlled Trial.",
+      "abstract": "PurposePatients with severe pneumonia in the intensive care unit often require mechanical ventilation and sedation. Midazolam, a common sedative, is limited by prolonged sedation and accumulation. Remimazolam besylate, a novel ultra-short-acting benzodiazepine, offers efficacy and safety. This study compared remimazolam and midazolam for sedation in mechanically ventilated patients with severe pneumonia.MethodsThis single-center, prospective, randomized controlled trial enrolled 68 adults with severe pneumonia requiring invasive mechanical ventilation, targeting a Richmond Agitation-Sedation Scale (RASS) score of -3 to 0. Patients were randomized 1:1 to receive either remimazolam (initial dose 0.2 mg/kg/h) or midazolam (initial dose 0.02 mg/kg/h), all receiving remifentanil for analgesia. The primary outcome was the proportion of time spent within the target RASS range without rescue sedation during the first 72 h after randomization. Secondary outcomes included hemodynamic parameters, oxygen saturation, duration of mechanical ventilation, ventilator-free days at day 28 +(VFD-28), and 28-day mortality.ResultsBaseline characteristics were comparable, and the median percentage of tim",
+      "source": "Journal of intensive care medicine",
+      "authors": "Kong Haobo, Pan Jingjing, Liang Min, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42393512/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42314451",
+      "title": "Alarms and alarm management with automated versus conventional ventilation in neurocritical care patients.",
+      "abstract": "False or clinically irrelevant alarms are a major driver of ICU alarm fatigue and nursing workload. Ventilator alarms make up a large share, and although automated ventilation modes can reduce manual adjustments, their effect on alarm burden is still unclear. This issue can be particularly relevant in neurocritical care patients, where precise ventilator and alarm management is imperative for patient safety. This explorative post hoc analysis of a randomized clinical trial compared alarm frequency and management between automated ventilation and conventional ventilation in neurocritical care patients. Ventilator alarms and manual ventilator changes were captured continuously from the ventilator for up to 24 h per patient. The primary endpoint was a composite of workload-relevant alarms; with alarm management interventions at the ventilator as a key secondary outcome. Additional endpoints included redundant alarms, alarm duration and ventilator management. 13 patients received automated ventilation and 24 received conventional ventilation. No difference was observed in workload-relevant alarm frequency between automated and conventional ventilation (3.28 [2.87 to 4.30] vs 3.73 [1.66",
+      "source": "Intensive & critical care nursing",
+      "authors": "van Limpt Geertje J C, van Vliet Peter, Molenaar Manon A, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42314451/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42185742",
       "title": "Prognostic factors in malaria patients with acute kidney injury: a systematic review and meta analysis.",
       "abstract": "This systematic review and meta-analysis aims to evaluate the predictors of mortality in malaria patients with AKI. Studies were searched in PubMed, Scopus, Ebsco, and ScienceDirect. We included observational studies that showed the association between clinical or laboratory abnormalities and mortality, reported in odds ratio. The quality of each study was assessed using the Newcastle-Ottawa Scale. Meta-analysis was performed using R. Sixteen studies with 1,104 patients were analyzed. Factors significantly associated with mortality were respiratory distress syndrome (OR: 18.50,",
@@ -877,6 +924,21 @@
       "highlighted": false
     },
     {
+      "id": "pmid_41778305",
+      "title": "Oral Agents for the Treatment of Refractory Hypotension in the Acute Care Setting - A Narrative Review.",
+      "abstract": "Refractory hypotension is a common occurrence in the acute care setting and is associated with a variety of conditions and underlying disease states. Persistent hypotension is associated with negative outcomes including organ failure and mortality. While initial management of hypotension often involves parenteral agents such as vasopressors, long term use is not desirable or feasible in many cases. The use of oral agents for refractory hypotension in the acute care setting gives providers options in these clinical scenarios, specifically vasopressor weaning, intradialytic hypotension, and orthostatic hypotension. Common agents used for refractory hypotension include droxidopa, fludrocortisone, midodrine, pseudoephedrine, and pyridostigmine. The use of midodrine has been extensively studied in the setting of vasopressor weaning with no clear benefit to its use, however smaller studies and case reports indicate pseudoephedrine may be useful. In the setting of intradialytic hypotension, there are data to support the use of midodrine, however there are questions about the long-term safety of its use. Midodrine and fludrocortisone alone or in combination with each other has shown benefi",
+      "source": "Journal of pharmacy practice",
+      "authors": "Gibson Gabrielle A, Lista Annette D, Pouliot Jonathon D",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41778305/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
       "id": "pmid_41575001",
       "title": "Heliox ventilation promotes pulmonary circulation and cardiac function in elderly hypertensive patients: a randomized controlled trial.",
       "abstract": "Previous studies have indicated that helium-oxygen mixture (heliox) ventilation could improve blood pressure and microcirculation in elderly hypertensive patients. To explore the advantages of heliox ventilation over conventional nitrogen-oxygen ventilation, a randomized controlled study was conducted from October 2020 to January 2023 in the Intensive Care Unit of Fujian Medical University Union Hospital and included 40 elderly hypertensive patients requiring invasive mechanical ventilation. These patients were randomly assigned to two groups: the heliox ventilation group ( n = 20), which received a closed heliox ventilation protocol for 3 hours, and the nitrogen-oxygen ventilation group ( n = 20), which received conventional nitrogen-oxygen ventilation. Compared with the nitrogen-oxygen group, the heliox group demonstrated significantly lower central venous pressure and higher central venous oxygen saturation, indicating increased cardiac output and elevated plasma nitric oxide. Moreover, in the heliox group, the change in plasma caveolin-1 was essentially identical to that in nitric oxide. However, there was no significant difference in endothelin-1 levels between the two groups.",
@@ -906,52 +968,6 @@
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41527456/",
       "category": "Systematic Review / Meta-Analysis",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41144983",
-      "title": "The Impact of Early Palliative Care Consultation on Length of Stay for Critically Ill Adults in the Intensive Care Unit.",
-      "abstract": "Palliative Care Consultation (PCC) is an established intervention that prioritizes goals of care conversations and assists patients with complex medical decision-making. Evidence suggests that PCC can reduce the amount of non-goal concordant care patients receive such as fewer invasive procedures, less mechanical ventilation, and quicker transition to hospice and referral to appropriate resources, if that aligns with patient wishes. This results in decreased resource utilization, reduced anxiety for patients and their family members, and decreased moral distress for the health care team. Studies generally agree that benefits of PCC are greater the quicker the time to intervention, but results are mixed regarding hospital and intensive care unit (ICU) length of stay (LOS). LOS is a surrogate marker for goal-concordant care, and shorter LOS has been associated with decreased health care costs. This systematic literature review seeks to clarify the effects of early PCC versus standard PCC on length of stay. From an extensive search of CINAHL, EMBASE, Scopus, and PubMed, 17 articles met criteria to be reviewed. These articles include 2 randomized controlled trials (RCTs), 6 prospective",
-      "source": "The American journal of hospice & palliative care",
-      "authors": "Caplan Sophie, Pawlow Patricia C",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41144983/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42462625",
-      "title": "Targeting MD2 in diseases: from structure and function to inhibitor development.",
-      "abstract": "Myeloid differentiation protein 2 (MD2) is an indispensable co-receptor for Toll-like receptor 4 (TLR4) and also serves as a key recognition protein for lipopolysaccharide (LPS). Binding of LPS to TLR4-MD2 complex triggers downstream signaling cascades that regulate the production of pro-inflammatory cytokines, thereby contributing to the pathogenesis of inflammation-related diseases such as acute lung injury, sepsis, and cardiac fibrosis. Targeting MD2 has emerged as an important therapeutic strategy for human diseases. Currently, significant progress has been made in the development of MD2 inhibitors, among which ACT001, TAK-242, and eritoran have entered clinical studies for the treatment of diffuse midline glioma, alcoholic hepatitis and septic shock, etc. In this review, we provide a systematic summary of reported MD2 inhibitors, focusing on their structural characteristics, biological functions, binding modes with MD2, and the role of MD2 in related diseases, with the goal of providing reference for the development of novel anti-inflammatory drugs.",
-      "source": "European journal of medicinal chemistry",
-      "authors": "Cheng Feng, Yang Feifei, Xiao Sa, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Nov 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42462625/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42843284",
-      "title": "Prospective controlled study of the recombinant zoster vaccine in autoimmune rheumatic disease: robust seroconversion despite intravenous cyclophosphamide.",
-      "abstract": "Recombinant zoster vaccine (RZV) prevents shingles in autoimmune rheumatic diseases (ARD), but intravenous cyclophosphamide (IVCYC) impact on immunogenicity is unknown. Given cell depletion/cytotoxicity, IVCYC is expected to induce profound immunogenicity impairment, we therefore evaluated its impact. This subanalysis of prospective, randomized, placebo-controlled trial included ARD patients receiving IVCYC (ARD-IVCYC) compared with patients without IVCYC (ARD-no IVCYC) and healthy-controls. RZV was administered in two doses. Humoral response (≥4-fold), geometric mean titers (GMT) and cellular response were assessed after second dose. Disease activity and adverse events (AEs) were recorded. Forty-one ARD-IVCYC, 164 ARD-no IVCYC, and 164 controls were included. Seroconversion did not differ between ARD-IVCYC and ARD-no IVCYC (91.9% vs. 91.5%) and were lower than controls (99.4%, p = 0.022). Post-vaccination GMTs were comparable between ARD groups (p > 0.999), but lower than controls (p = 0.006). Cellular response and ARDs flares did not differ between groups (p > 0.05), with no severe AEs. RZV elicited >90% humoral response in IVCYC-treated patients, supporting it during IVCYC when ",
-      "source": "Vaccine",
-      "authors": "Aikawa Nadia E, Medeiros Julia B, Pasoto Sandra G, et al.",
-      "pub_types": [
-        "Clinical Trial, Phase IV",
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "date": "2026 Nov 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843284/",
-      "category": "Clinical Trial",
       "highlighted": false
     },
     {
@@ -999,7 +1015,7 @@
     },
     {
       "id": "pmid_42906879",
-      "title": "Clinical nutrition for critically ill patients: a practical appraisal of guideline gaps and perspectives for future research.",
+      "title": "Clinical nutrition for critically ill patients: A practical appraisal of guideline gaps and perspectives for future research.",
       "abstract": "Malnutrition and accelerated muscle wasting are frequent during critical illness and make nutritional support a central component of ICU care. Nutritional support is therefore central to ICU care, but its optimal timing, route, dose, and composition remain debated. Recent randomized trials have challenged the traditional objective of early full feeding and shifted practice toward progressive, phase-adapted, and tolerance-based nutrition. This narrative review compares current international guidelines for nutritional support in critically ill adults. Guidelines broadly agree that nutrition should be initiated early after clinical stabilization, acute-phase overfeeding should be avoided, energy and protein delivery should be increased progressively, and refeeding syndrome should be anticipated. However, important differences remain regarding acute-phase energy targets, protein dosing, enteral versus parenteral nutrition, supplemental parenteral nutrition, indirect calorimetry, and enriched enteral formulas. These discrepancies reflect differences in methodology, healthcare context, and interpretation of evidence largely derived from mechanically ventilated patients during the first I",
       "source": "Clinical nutrition ESPEN",
       "authors": "Pardo Emmanuel, Gobé Thibaut, Thibault Ronan",
@@ -1007,7 +1023,7 @@
         "Journal Article",
         "Review"
       ],
-      "date": "2026 Oct 21",
+      "date": "2026 Oct 22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42906879/",
       "category": "Guideline / Consensus",
       "highlighted": false
@@ -1159,81 +1175,6 @@
       "date": "2026 Sep 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42371750/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42494313",
-      "title": "Nutritional Risk Screening Recommendations for Critically Ill Patients: A Meta-Research Study and Quality Appraisal of Clinical Guidelines.",
-      "abstract": "Clinical practice guidelines (CPGs) are essential tools to support evidence-based nutritional care in critically ill patients; however, the methodological quality and credibility of recommendations for nutritional risk screening remain unclear. This study aimed to evaluate the methodological quality of CPGs addressing nutritional risk screening in critically ill adults and to critically appraise the evidence supporting these recommendations. A systematic search was conducted between January and April 2026 in Embase, PubMed, SciELO, Scopus, LILACS, Google Scholar, and guideline repositories. CPGs, consensus statements, and position papers, including nutritional risk screening recommendations for critically ill adults were eligible. Guideline quality was assessed using the AGREE II and AGREE-REX instruments. Original studies and systematic reviews supporting nutritional risk screening recommendations were critically appraised using ROBINS-E and AMSTAR 2, respectively. Four CPGs were included. AGREE II assessment demonstrated satisfactory methodological quality overall, particularly in Scope and Purpose (84.4%) and Clarity of Presentation (92.0%), whereas Applicability showed the lowe",
-      "source": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
-      "authors": "Reis Audrey Machado Dos, Pinheiro Millena Dorneles, Hauschild Daniela Barbieri, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "date": "2026 Aug",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42494313/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854756",
-      "title": "Blood Pressure Targets in Critically Ill Children",
-      "abstract": "“Do I need to treat this blood pressure?” is one of the most common questions to pass through the minds of acute care pediatricians during a typical day in the hospital. Blood pressure generally increases with somatic growth, reflecting developmental changes in stroke volume, vascular structure and function, and neurohumoral regulation. As a result of interindividual variation across the developmental stages of childhood, there is a wide range of acceptable blood pressure values. There is also long-standing ambiguity about what should be considered the limits of acceptable blood pressure, particularly among hospitalized children. Age-based reference values offer a starting point, although the threshold used to identify an unusually low blood pressure may differ from the pressure needed to maintain adequate organ perfusion. This uncertainty can create substantial tension when a clinician faces the decision whether to manage potentially low blood pressure in a child. Treatments for potentially low blood pressure can also vary widely, from temporary stimulation to administration of vasopressor and inotropic medications through a central vascular catheter. The clinical question of whet",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Oct 27",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854756",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854755",
-      "title": "Permissive Blood Pressure Targets in Pediatric Critical Care",
-      "abstract": "This randomized clinical trial examines whether adopting a permissive mean arterial blood pressure target improves outcomes in critically ill children with hypotension.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Oct 27",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854755",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854754",
-      "title": "Permissive Blood Pressure Targets in Pediatric Critical Care Research Summary",
-      "abstract": "This trial evaluated whether a permissive mean arterial pressure (MAP) target above the fifth percentile for age improves outcomes in hypotensive critically ill children.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Oct 27",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854754",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854196",
-      "title": "Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment",
-      "abstract": "This substudy of a randomized clinical trial examines whether carotid artery revascularization with carotid stenting or endarterectomy improves cognitive outcomes differentially depending on whether there is impaired cerebral hemodynamic flow at baseline.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Oct 27",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854196",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854192",
-      "title": "Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment and Cognitive Outcomes Research Summary",
-      "abstract": "This study tested whether cognitive benefit from revascularization in asymptomatic high-grade internal carotid artery stenosis varied by baseline cerebral hemodynamic impairment.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Oct 27",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854192",
-      "category": "Research Article",
       "highlighted": false
     }
   ]
