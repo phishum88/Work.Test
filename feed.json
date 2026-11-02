@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T12:17:59.826327+00:00",
+  "generated": "2026-11-02T14:11:26.899053+00:00",
   "count": 78,
   "digest": null,
   "oe_query_count": 0,
@@ -856,6 +856,21 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42057575",
+      "title": "The effect of intravenous ondansetron on maternal spinal-induced hypotension in preeclamptic patients undergoing caesarean delivery: A randomised, controlled clinical trial.",
+      "abstract": "Prophylactic vasopressor infusions have been recommended for preventing spinal-induced hypotension during caesarean delivery in normotensive patients, but they should be used with caution in patients with preeclampsia due to concerns about exacerbating their haemodynamic instability. Ondansetron has been reported to effectively reduce the incidence of hypotension and decrease the need for vasopressors without causing significant adverse effects in both obstetric and nonobstetric patients undergoing spinal anaesthesia. Nevertheless, evidence regarding its use specifically in patients with preeclampsia remains limited. This study aimed to evaluate the efficacy of ondansetron in preventing spinal anaesthesia-induced hypotension in preeclamptic patients undergoing caesarean delivery. A prospective, double-blinded, randomised clinical trial. Single university hospital. One hundred and twenty preeclamptic patients were enrolled and allocated to Group O and Group C. Patients in Group O receive intravenous ondansetron (4 mg 2 ml -1 ) or in Group C receive 0.9% saline placebo (2 ml) 10 min before spinal injection. The primary outcome of the study was the incidence of hypotension. Secondary ",
+      "source": "European journal of anaesthesiology",
+      "authors": "Xiao Fei, Xu Qiang, Yang Zhong-Sai, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "date": "2026 Dec 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42057575/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
       "id": "pmid_41955447",
       "title": "Comparison of VCV and PCV-VG modes on diaphragmatic function in diabetic patients undergoing laparoscopic colorectal surgery: a prospective randomized controlled study.",
       "abstract": "Diabetic patients are prone to induce diaphragmatic weakness, which can lead to postoperative pulmonary complications (PPCs). The optimal mechanical ventilation mode may potentially improve postoperative diaphragmatic function. This study evaluates the effects of two ventilation modes under driving pressure-guided ventilation strategy on diaphragmatic function, as assessed by diaphragm thickening fraction (DTF) and diaphragm excursion (DE), in diabetic patients following laparoscopic colorectal surgery. Eighty patients diagnosed with Type II diabetes scheduled for elective laparoscopic colorectal surgery, were randomly allocated to either the pressure-controlled volume-guaranteed ventilation (PCV-VG) group (Group P) or the volume-controlled ventilation (VCV) group (Group V) during surgery. The primary outcome was diaphragmatic function assessed during both tidal breathing and maximal inspiratory effort after surgery. Secondary outcomes included intraoperative mechanical power, PPCs, and other complications. A total of eighty patients were included in the final analysis. The averaged area under the curve (AUC) for mechanical power during ventilation was significantly lower in Group ",
@@ -951,23 +966,6 @@
       "date": "2026 Dec 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41575001/",
       "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_41527456",
-      "title": "Risk factors of venous thromboembolism in ICU patients: a systematic review and meta-analysis.",
-      "abstract": "This study aimed to identify risk factors associated with the development of VTE in patients admitted to the intensive care unit (ICU). A systematic literature search was conducted  A total of 2465 relevant studies were identified through the systematic search, of which 30 were included in the meta-analysis. The pooled data showed that the following were significant risk factors for venous thromboembolism (VTE) in ICU patients: central venous catheterization (OR = 2.67, 95% CI: 1.67-4.28;  Invasive mechanical ventilation, central venous catheterization, and elevated D-dimer levels are associated with VTE risk, supported by relatively high-quality evidence. These findings may help identify ICU patients at higher risk of VTE, inform the development of risk assessment models for patient stratification, and ultimately contribute to improved prognosis through optimal screening and management strategies.",
-      "source": "Annals of medicine",
-      "authors": "Yang Xiaoli, Zhou Xiaoli, Qiu Yuehong",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41527456/",
-      "category": "Systematic Review / Meta-Analysis",
       "highlighted": false
     },
     {
