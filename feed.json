@@ -1,11 +1,25 @@
 {
-  "generated": "2026-11-08T12:26:07.095488+00:00",
-  "count": 83,
+  "generated": "2026-11-09T14:41:13.686650+00:00",
+  "count": 80,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
   "claude_error": null,
   "articles": [
+    {
+      "id": "pmid_43000120",
+      "title": "Streamlining the Evidence-to-Practice Pathway With Computerised Decision Support in Anaesthesiology and Critical Care: A Qualitative Study of Clinician and System-Level Interest Holder Perspectives Across Five Scandinavian Countries.",
+      "abstract": "Implementing evidence-based recommendations in anaesthesiology and critical care remains challenging due to guideline, workflow and contextual barriers. Guideline-based computerised clinical decision support systems (CDSS), embedded in structured pathways linking international guidelines to Scandinavian-endorsed recommendations and delivered via electronic health records, may help strengthen the evidence-to-practice pathway. This study aimed to explore perceived barriers and facilitators to their use. This qualitative study interviewed 10 clinicians (anaesthesiologists and intensivists; specialists and non-specialists; < 40 and ≥ 40 years; male and female) and nine system-level stakeholders (hospital and health authority representatives) from Denmark, Finland, Iceland, Norway and Sweden. We integrated endorsed international guidelines into a CDSS providing patient-specific reminders linked to recommendations, as well as shared decision-making tools and decision-analytic components. Using a simulation application, participants explored the CDSS in a demo electronic health record. Through a framework analysis based on the GUIDES checklist, we categorised perspectives as barriers, fac",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Van de Velde Stijn, Seterelv Siri, Kunnamo Ilkka, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000120/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
     {
       "id": "pmid_42983226",
       "title": "A Survey of Clinician-Reported Management of Hypernatremia in the ICU.",
@@ -355,21 +369,6 @@
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575019/",
       "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42541983",
-      "title": "Use of point-of-care ultrasound by critical care nurses in intensive and critical care: A scoping review of practice, training, and outcomes.",
-      "abstract": "To map the existing knowledge in literature on the use of point-of-care ultrasound by critical care nurses in intensive and critical care settings, and to describe current practices, and examine reported training programme characteristics and outcomes. This scoping review followed the Levac et al. framework, building on Arksey and O'Malley, and adhered to the PRISMA-ScR guideline. A systematic literature search was conducted without any time restriction until October 2025 across PubMed/MEDLINE, Scopus, CINAHL, Web of Science, and Embase. Data were extracted, collated, and classified to identify key patterns. Findings were synthesised through tabulation and a narrative summary to map the evidence comprehensively. A total of 305 records were identified, of which 17 studies were included. Across the included studies, nurse-performed point-of-care ultrasound in critical care settings was applied within three overarching domains of patient care: 'verification and guidance of clinical procedures', 'cardiopulmonary assessment', and 'additional diagnostic purposes'. Training programmes for critical care nurses varied widely in duration, content, delivery methods, and assessment strategies,",
-      "source": "Intensive & critical care nursing",
-      "authors": "Knutsen Karina, Vaismoradi Mojtaba, Solbakken Rita",
-      "pub_types": [
-        "Journal Article",
-        "Scoping Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541983/",
-      "category": "Guideline / Consensus",
       "highlighted": false
     },
     {
@@ -1204,42 +1203,6 @@
       "date": "2026 Sep 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42371750/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___link_springer_com_article_10_1007_s00134_026_08648_3",
-      "title": "Vasopressors as immunomodulators: a hidden axis in septic shock",
-      "abstract": "",
-      "source": "Intensive Care Medicine",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 05",
-      "url": "https://link.springer.com/article/10.1007/s00134-026-08648-3",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___link_springer_com_article_10_1007_s00134_026_08659_0",
-      "title": "Consensus on a core outcome set for ventilation trials in critically ill patients with acute brain injury: results of an international Delphi consensus study",
-      "abstract": "Purpose",
-      "source": "Intensive Care Medicine",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 05",
-      "url": "https://link.springer.com/article/10.1007/s00134-026-08659-0",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___link_springer_com_article_10_1007_s00134_026_08645_6",
-      "title": "Vibroacoustic music therapy for postoperative delirium in the ICU: the VIMUD-ICU single-center exploratory randomized controlled trial",
-      "abstract": "",
-      "source": "Intensive Care Medicine",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 05",
-      "url": "https://link.springer.com/article/10.1007/s00134-026-08645-6",
-      "category": "Clinical Trial",
       "highlighted": false
     }
   ]
