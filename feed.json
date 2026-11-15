@@ -1,11 +1,26 @@
 {
-  "generated": "2026-11-12T14:14:34.459375+00:00",
-  "count": 84,
+  "generated": "2026-11-15T13:09:13.169504+00:00",
+  "count": 82,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
   "claude_error": null,
   "articles": [
+    {
+      "id": "pmid_43025921",
+      "title": "Rehabilitation in the Intensive Care Unit: Preparing Physical Medicine and Rehabilitation Professionals to Support Biopsychosocial Well-Being.",
+      "abstract": "With medical advances, more critically ill patients survive and often experience new or worsening physical, cognitive, and/or mental health sequelae. The intensive care unit involves interdisciplinary survival-focused care, and its biopsychosocial impact is profound and long-lasting. In this article, we have highlighted the World Health Organization's International Classification of Functioning as a person-centered, holistic, and contextually grounded framework for early rehabilitation specifically for critical care survivorship. The goal of this article is to elucidate the key role of physical medicine and rehabilitation professionals in enhancing the recovery trajectory of critical illness survivors within a transdiagnostic, interdisciplinary framework.",
+      "source": "Physical medicine and rehabilitation clinics of North America",
+      "authors": "Merbitz Nancy, Hampton Jessica M, Mladen Samantha N, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025921/",
+      "category": "Review",
+      "highlighted": false
+    },
     {
       "id": "pmid_43003546",
       "title": "Prediction, Prescription, and Proactive Medication Management in the Intensive Care Unit.",
@@ -361,21 +376,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42933947",
-      "title": "Deimplementation of Tradition-Based Enteral Feeding Practices to Improve Clinical Outcomes.",
-      "abstract": "Enteral feeding is common in acute and critical care but there are many elements to this practice that are steeped in confusion and lack evidence. This article will focus on verification of feeding tube (FT) placement methods and timing, medication administration by FTs, unnecessary holding or stopping of enteral formula, gastric residual volumes, and volume-based feeding. Supporting evidence for these practices will be reviewed and recommendations made for evidence-based alternatives and possible deimplementation.",
-      "source": "Critical care nursing clinics of North America",
-      "authors": "Bourgault Annette M, Powers Jan",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42933947/",
-      "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
       "id": "pmid_43003547",
       "title": "Culture and the Intensive Care Unit Team: Factors Driving Teamwork, Safety, Quality, and Well-Being.",
       "abstract": "Intensive care unit (ICU) culture and teamwork strongly influence health care quality, patient safety, clinical outcomes, and clinician well-being. Culture shapes how multidisciplinary clinicians communicate, coordinate care, and adopt new practices. Persistent variability in ICU practices, including end-of-life care, sedation management, and mobility, often reflect differences in local culture and team dynamics. Emerging perspectives from complexity science, network science, and behavioral economics conceptualize the ICU as a complex adaptive human network in which collective behavior patterns emerge through repeated clinician interactions. Understanding ICUs through this lens may provide tools, processes, and strategies to improve health care delivery.",
@@ -479,6 +479,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42815288",
+      "title": "Multidrug-resistant CC3 Staphylococcus haemolyticus with increased vancomycin MIC among neonates in a Brazilian NICU.",
+      "abstract": "Staphylococcus haemolyticus has emerged as a cause of outbreaks in neonatal intensive care units (NICUs), particularly involving clonal complex (CC) 3 lineages. We investigated the prevalence and microbiological characteristics of S. haemolyticus colonizing neonates in a Brazilian NICU over two periods, spanning the onset of the COVID-19 pandemic. Nasal swabs were collected weekly between August 2019-March 2020 and between November 2020-April 2021. Isolates were identified by MALDI-TOF-MS and characterized by antimicrobial susceptibility testing, vancomycin minimum inhibitory concentration (MIC) determination, SCCmec typing, GTG5-PCR, and multilocus sequence typing (MLST). Among 108 neonates, 75 were colonized by S. haemolyticus and prematurity was the main cause of hospitalization (p=0.03). Colonization rates were similar between periods (71.2% vs. 67.3%; p=0.57), with no clinical or microbiological differences, except for reduced ampicillin-gentamicin use in the second period (p=0.048). Almost all isolates (96%) were multidrug-resistant, 78% presented increased vancomycin MIC (≥4 mg/L) and 52% carried the SCCmec type V. Molecular analysis revealed low genetic diversity, since >90",
+      "source": "Diagnostic microbiology and infectious disease",
+      "authors": "da Rocha Nathália Salgueiro, da Silva Jefferson Muniz Alves, Neto Adail Orrith Libório, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815288/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42777284",
       "title": "Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.",
       "abstract": "Therapeutic drug monitoring of antibiotics in critically ill patients with sepsis remains challenging due to highly variable pharmacokinetics, increasing the risk of under- or overdosing. This paper presents a novel single-use tetrapolar electrochemical impedance spectroscopy (EIS) biosensor for the rapid detection of meropenem in human serum. The sensor is based on a gold microband electrode functionalised with a self-assembled monolayer, protein G and anti-meropenem antibodies to enable selective antigen capture and impedance-based quantification. The biosensor demonstrated sensitive detection of meropenem over a range of 1-100 μg/mL in phosphate-buffered saline and within clinically relevant concentrations (8-16 μg/mL) in spiked human serum, with the lowest measured concentration of 1 μg/mL. Binding specificity was validated using tandem mass spectrometry and immunocapture liquid chromatography-mass spectrometry. The total assay time was under 15 min. This platform represents a promising approach for rapid, bedside-compatible monitoring of meropenem. While the impedance results demonstrate the potential of the biosensor for therapeutic drug monitoring, further validation is requ",
@@ -533,20 +547,6 @@
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008202/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42980044",
-      "title": "The Effect of an Introductory Palliative Care Education Program in Increasing Knowledge and Communication Self-Efficacy Among NICU Nurses.",
-      "abstract": "Neonatal palliative care is an essential component of care for the most vulnerable infants and their families, yet its provision in neonatal intensive care units (NICUs) remains inconsistent, in part due to gaps in nurse education and training. This project evaluated the effect of a brief, introductory palliative care education program on NICU nurses' knowledge and communication self-efficacy. A one-group pretest-posttest design was used at a private hospital NICU in northern California, where 25 NICU nurses completed a 20-minute self-study video and a small-group role-play session covering the SPIKES and NURSE communication tools. A 10-item investigator-developed survey measured knowledge and self-efficacy at baseline, immediately after training, and 4 weeks later. Mean self-efficacy scores rose from 16.7 at baseline to 19.2 immediately after training and 20.1 at 4-week follow-up, with statistically significant immediate and lasting gains in self-efficacy and overall scores (P < .001), although knowledge gains did not reach statistical significance. Prior infant death experience did not affect gains; however, nurses without prior palliative care education showed significantly grea",
-      "source": "Journal of hospice and palliative nursing : JHPN : the official journal of the Hospice and Palliative Nurses Association",
-      "authors": "Wang Shiou-Huei Joy, Rosenblum Ruth K, Whitney Robin L, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2026 Dec 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42980044/",
       "category": "Research Article",
       "highlighted": false
     },
@@ -607,6 +607,21 @@
       ],
       "date": "2026 Dec 31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324603/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43023249",
+      "title": "Piezo1 in acute and critical illnesses: From mechanosensing to organ dysfunction (Review).",
+      "abstract": "Acute and critical illnesses are typically accompanied by hemodynamic instability, tissue edema, mechanical ventilation and extracellular matrix remodeling. Abnormal shear stress, mechanical stretch, pressure loading and tissue deformation continuously reshape the local mechanical microenvironment. Piezo1 is a mechanosensitive cation channel that converts mechanical stimuli into intracellular signals dominated by Ca²",
+      "source": "International journal of molecular medicine",
+      "authors": "Zhang Li, Gu Hong, Zhu Yibin, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023249/",
       "category": "Review",
       "highlighted": false
     },
@@ -920,23 +935,6 @@
       "highlighted": false
     },
     {
-      "id": "pmid_41955447",
-      "title": "Comparison of VCV and PCV-VG modes on diaphragmatic function in diabetic patients undergoing laparoscopic colorectal surgery: a prospective randomized controlled study.",
-      "abstract": "Diabetic patients are prone to induce diaphragmatic weakness, which can lead to postoperative pulmonary complications (PPCs). The optimal mechanical ventilation mode may potentially improve postoperative diaphragmatic function. This study evaluates the effects of two ventilation modes under driving pressure-guided ventilation strategy on diaphragmatic function, as assessed by diaphragm thickening fraction (DTF) and diaphragm excursion (DE), in diabetic patients following laparoscopic colorectal surgery. Eighty patients diagnosed with Type II diabetes scheduled for elective laparoscopic colorectal surgery, were randomly allocated to either the pressure-controlled volume-guaranteed ventilation (PCV-VG) group (Group P) or the volume-controlled ventilation (VCV) group (Group V) during surgery. The primary outcome was diaphragmatic function assessed during both tidal breathing and maximal inspiratory effort after surgery. Secondary outcomes included intraoperative mechanical power, PPCs, and other complications. A total of eighty patients were included in the final analysis. The averaged area under the curve (AUC) for mechanical power during ventilation was significantly lower in Group ",
-      "source": "Annals of medicine",
-      "authors": "Wang Yanan, Chen Linyao, Xu Zixuan, et al.",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Comparative Study",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41955447/",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
       "id": "pmid_42859779",
       "title": "Clinical practice guideline for renal replacement therapy in critically ill patients with acute kidney injury (2026 edition).",
       "abstract": "Acute kidney injury (AKI) is a common and severe complication in critically ill patients, associated with high morbidity and mortality. Renal replacement therapy (RRT) is a vital life-support modality for critically ill patients with AKI. However, there remains a lack of unified clinical standards for core issues including the timing of RRT initiation, treatment modality, anticoagulation strategy, and weaning from RRT. In response, the Chinese Society of Critical Care Medicine organized a multidisciplinary expert panel to develop the \"Clinical practice guideline for RRT in critically ill patients with AKI (2026 edition)\" in accordance with the GRADE approach for grading evidence quality. This guideline was developed through systematic literature retrieval, meta-analysis, and evidence-based medical evidence synthesis, followed by multiple rounds of manuscript review and revision via online and offline meetings of the working group, and final approval by the Standing Committee of the Society. A total of 34 recommendations were finalized, covering key clinical topics including timing of RRT initiation, establishment and maintenance of vascular access, selection of treatment modalities",
@@ -1021,6 +1019,21 @@
       ],
       "date": "2026 Nov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42885870/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43032138",
+      "title": "Temporal patterns and adverse pregnancy outcomes of hypertensive disorders of pregnancy and gestational diabetes mellitus in Hebei Province, China, 2017-2023: a multicenter retrospective cohort study.",
+      "abstract": "Hypertensive disorders of pregnancy (HDP) and gestational diabetes mellitus (GDM) are common complications with overlapping metabolic, vascular, and inflammatory pathways. GDM is associated with fetal overgrowth but may also coexist with fetal growth restriction, particularly when placental vascular dysfunction is present. Regional evidence on recorded temporal patterns and joint maternal-neonatal outcomes remains limited in northern China. We analyzed 264,278 eligible singleton deliveries at ≥28 gestational weeks recorded in the Hebei Obstetric Critical Illness Monitoring System across 31 hospitals from 2017 to 2023. Pregnancies were classified as HDP alone, GDM alone, coexisting HDP and GDM, or unaffected. Multivariable logistic regression adjusted for maternal age, marital status, education, hospital level, gravidity, parity, prenatal examination frequency, and previous cesarean section. Sensitivity analyses examined center composition and hospital-specific random intercepts. Associations were interpreted as non-causal because important metabolic and behavioral covariates were unavailable. Of eligible deliveries, 11,708 (4.43%) had HDP alone, 18,600 (7.04%) had GDM alone, 2,138 ",
+      "source": "Frontiers in public health",
+      "authors": "Liu Li, Liu Suxin, Du Liyan, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032138/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
@@ -1214,42 +1227,6 @@
       "date": "2026 Nov 12",
       "url": "https://link.springer.com/article/10.1007/s00134-026-08663-4",
       "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___link_springer_com_article_10_1007_s00134_026_08643_8",
-      "title": "Efficacy and safety of oliceridine versus remifentanil for analgesia in mechanically ventilated critically ill adults (CO-ROAM): a multicenter, assessor-blinded, non-inferiority randomized controlled trial",
-      "abstract": "Purpose:",
-      "source": "Intensive Care Medicine",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 10",
-      "url": "https://link.springer.com/article/10.1007/s00134-026-08643-8",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2855382",
-      "title": "Treatment Discontinuation of Blood Pressure–Lowering Drugs—Reply",
-      "abstract": "In Reply We thank Dr Wu and colleagues for their interest in our article. The random-effects model demonstrated consistent results—this was a prespecified sensitivity analysis and can be found in eFigure 12 in Supplement 1 of the article. The overall point estimates and the uncertainty intervals were largely unchanged with random-effects compared with fixed-effects models. We chose to use fixed-effects models as the primary analysis because of the errors random-effects models are prone to, with potential undue influence of small studies.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 10",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855382",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2855364",
-      "title": "Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury",
-      "abstract": "To the Editor We read with interest the article from the recent VICTORY trial that reported increased mortality in patients with severe burns who were randomized to 4-day administration of vitamin C vs placebo. The rationale for vitamin C administration was the massive release of oxygen free radicals following severe burns. However, the median time to discharge alive from the intensive care unit was 42.5 days in the placebo group, suggesting that a 4-day course of vitamin C may have been too short to affect outcomes. Notably, 2 previous randomized clinical trials in critically ill patients reported that abrupt discontinuation of a 4-day course of vitamin C was associated with increased mortality.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 10",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855364",
-      "category": "Clinical Trial",
       "highlighted": false
     }
   ]
