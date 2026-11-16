@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-15T13:09:13.169504+00:00",
-  "count": 82,
+  "generated": "2026-11-16T14:17:14.769976+00:00",
+  "count": 81,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -1030,7 +1030,8 @@
       "authors": "Liu Li, Liu Suxin, Du Liyan, et al.",
       "pub_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
       ],
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43032138/",
@@ -1215,18 +1216,6 @@
       "date": "2026 Sep 01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42371750/",
       "category": "Guideline / Consensus",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___link_springer_com_article_10_1007_s00134_026_08663_4",
-      "title": "From pneumonia to ARDS: a dynamic pulmonary-systemic framework",
-      "abstract": "",
-      "source": "Intensive Care Medicine",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 12",
-      "url": "https://link.springer.com/article/10.1007/s00134-026-08663-4",
-      "category": "Research Article",
       "highlighted": false
     }
   ]
