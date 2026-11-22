@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T14:54:06.248013+00:00",
-  "count": 61,
+  "generated": "2026-11-22T13:46:09.743421+00:00",
+  "count": 81,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -172,6 +172,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_43002802",
+      "title": "External hydrocephalus in adult neurocritical patients.",
+      "abstract": "External hydrocephalus (EH) in adults is an underrecognized clinical entity characterized by CSF circulatory failure and progressive subarachnoid space (SAS) dilation under high intracranial pressure (ICP). Data regarding its incidence, pathophysiology, and management in adult neurocritical care are sparse. To describe the incidence, risk factors and outcome of EH in adult neurocritical patients. Prospective study of patients with moderate-to-severe traumatic brain injury (msTBI) or spontaneous subarachnoid hemorrhage (SAH) admitted to intensive care unit (ICU). Three subgroups ere defined: 1) radiological EH: dilated SAS between two successive CT scans; 2) radiological EH in the context of intracranial hypertension (IH): suspected o confirmed elevated ICP; and 3) radiological EH and invasively documented elevated ICP. A total of 128 patients were included (78 msTBI, 50 SAH). The incidence of radiological EH was 20.3 % (26.9 % in msTBI and 10 % in SAH), while the incidence of radiological EH in the context of IH was 7.8 % (10.3 % in msTBI vs. 4 % in SAH). The median time to EH onset was 4.5. Radiological EH in the context of IH was significantly associated with younger age, refract",
+      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "authors": "Grille Pedro, Lecor Emiliano, Bouzas Pablo",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002802/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_43000120",
       "title": "Streamlining the Evidence-to-Practice Pathway With Computerised Decision Support in Anaesthesiology and Critical Care: A Qualitative Study of Clinician and System-Level Interest Holder Perspectives Across Five Scandinavian Countries.",
       "abstract": "Implementing evidence-based recommendations in anaesthesiology and critical care remains challenging due to guideline, workflow and contextual barriers. Guideline-based computerised clinical decision support systems (CDSS), embedded in structured pathways linking international guidelines to Scandinavian-endorsed recommendations and delivered via electronic health records, may help strengthen the evidence-to-practice pathway. This study aimed to explore perceived barriers and facilitators to their use. This qualitative study interviewed 10 clinicians (anaesthesiologists and intensivists; specialists and non-specialists; < 40 and ≥ 40 years; male and female) and nine system-level stakeholders (hospital and health authority representatives) from Denmark, Finland, Iceland, Norway and Sweden. We integrated endorsed international guidelines into a CDSS providing patient-specific reminders linked to recommendations, as well as shared decision-making tools and decision-analytic components. Using a simulation application, participants explored the CDSS in a demo electronic health record. Through a framework analysis based on the GUIDES checklist, we categorised perspectives as barriers, fac",
@@ -239,6 +253,20 @@
       ],
       "date": "2027 Jan",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42927910/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42925663",
+      "title": "Pressure injury prevention in critical care: A reflexive thematic analysis of clinicians' perspectives on complexity and clinical judgement.",
+      "abstract": "Pressure injury prevention in critical care remains a persistent global challenge. Despite established guidelines, implementation is often constrained by physiological instability, device burden, and competing clinical priorities. Emerging digital and artificial intelligence approaches offer potential support, yet their role within the complexity of critical care practice remains unclear. To explore clinicians' perspectives on pressure injury prevention in critical care, with particular attention to complexity, clinical decision-making and the potential role of emerging technologies. Qualitative study using reflexive thematic analysis. We analysed 12 brief written reflections from clinicians working in critical care and related roles, predominantly in the United Kingdom. We purposively invited contributors through professional networks, who responded to shared prompts on prevention challenges, practice tensions, and potential roles for artificial intelligence. The first author led iterative semantic and latent coding within a contextualist-constructionist reflexive thematic analysis, supported by reflexive discussion among the author team. Five interconnected themes emerged: negoti",
+      "source": "International journal of nursing studies",
+      "authors": "Johnson Gideon U, You HyunBin, Trotta Francesca, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925663/",
       "category": "Guideline / Consensus",
       "highlighted": false
     },
@@ -346,33 +374,18 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42960546",
-      "title": "Artificial intelligence and continuous renal replacement therapy.",
-      "abstract": "Continuous renal replacement therapy (CRRT) is an important intervention in the treatment of acute kidney injury (AKI) in intensive care, and its application scope continues to expand alongside technological advancements and an increasing patient population. However, in current clinical practice, several factors, including individual patient differences, dynamic treatment needs, and the rational allocation of medical resources, pose challenges to CRRT implementation. The rapid development of artificial intelligence (AI) offers new approaches to address some of these challenges, and its applications in developing decision-support models, refining workflows, and supporting patient communication and education may contribute to more precise and efficient CRRT management. In this article, we discuss the current evidence and potential applications of AI in CRRT, as well as the challenges and strategies for clinical implementation, aiming to provide a reference for future research and clinical translation of AI-assisted CRRT. Continuous renal replacement therapy (CRRT) is commonly used to support critically ill patients with severe kidney injury. Because patients’ conditions can change ra",
-      "source": "Renal failure",
-      "authors": "Li Xiang, Zhang Ling",
+      "id": "pmid_42873100",
+      "title": "Clinical application of volatile sedation in adult intensive care units: pharmacological mechanisms, delivery systems, and safety.",
+      "abstract": "Sedation is essential in critically ill mechanically ventilated patients, yet conventional intravenous agents carry risks of accumulation, organ-dependent clearance, and adverse effects. Volatile anesthetics offer several pharmacokinetic advantages, but their adoption in the intensive care unit has historically been limited by technical constraints. This review offers an updated, clinically focused overview of volatile-based sedation in adult intensive care units, covering pharmacological mechanisms, delivery systems, clinical outcomes, safety, and practical application. This review was conducted through systematic searching of PubMed, Scopus, and Web of Science for studies published between January 2016 and December 2025. Sevoflurane and isoflurane achieve sedation primarily via γ-aminobutyric acid type A receptor modulation and offer organ-independent clearance, rapid onset/offset, and real-time end-tidal monitoring. Modern delivery systems, including reflection devices (Sedaconda-ACD) and automated platforms (MIRUS), have improved intensive care unit feasibility. Clinical evidence suggests volatile sedation may reduce awakening times and duration of mechanical ventilation compar",
+      "source": "Medical gas research",
+      "authors": "Mirasola Alice, Piattoli Matteo, Gregoretti Cesare, et al.",
       "pub_types": [
         "Journal Article",
         "Review"
       ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42960546/",
-      "category": "Review",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42933957",
-      "title": "Irritant Contact Dermatitis Related to Fecal and Urinary Incontinence in the Critical Care Population.",
-      "abstract": "Irritant contact dermatitis due to fecal, urinary, or dual incontinence is a common but often under recognized complication in critically ill patients that contributes to pain, skin breakdown, infection, and pressure injury risk. Despite advances in understanding its prevention and management, practice remains variable. This article contrasts traditional and evidence-based approaches, reviewing terminology, risk factors, pathophysiology, diagnosis, and interventions. A practical critical care application of the Manage→Clean→Protect→Restore care bundle, adapted from the 2026 Wounds International Best Practice Update, is presented to support standardized, proactive incontinence skin care, and improve patient outcomes.",
-      "source": "Critical care nursing clinics of North America",
-      "authors": "Hutton Jennifer L",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42933957/",
-      "category": "Review",
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873100/",
+      "category": "Clinical Trial",
       "highlighted": false
     },
     {
@@ -480,6 +493,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42925836",
+      "title": "Effect of circadian-oriented goal-directed sedation on sleep quality and clinical outcomes in mechanically ventilated ICU patients.",
+      "abstract": "Sleep disruption and circadian rhythm disturbances are common in mechanically ventilated intensive care unit (ICU) patients and are associated with delirium, prolonged ventilation, and poor clinical outcomes. Conventional sedation strategies may further impair sleep architecture and circadian regulation. Therefore, this study aimed to evaluate the effects of circadian-oriented, goal-directed sedation on sleep quality and clinical outcomes in mechanically ventilated ICU patients. This study enrolled 65 mechanically ventilated patients admitted to ICU at Suzhou Ninth People's Hospital between March 2024 and December 2024. Using convenience sampling, 33 patients admitted between March and July 2024 were allocated to the control group and received routine sedation and nursing care, while 32 patients admitted between August and December 2024 were formed the intervention group and received sedation management individualized according to circadian sleep-wake patterns. Sleep quality was assessed on days 1, 3, 5, and 7 after intervention using the Richards-Campbell Sleep Questionnaire (RCSQ) and a portable sleep monitor. Delirium was evaluated by Confusion Assessment Method for the ICU (CAM",
+      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "authors": "Gu Rongrong, Yao Xiaofang",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925836/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42860123",
       "title": "Determinants of lower quadriceps skeletal muscle measured by ultrasound at ICU admission: a cross-sectional analysis.",
       "abstract": "Low skeletal muscle (SM) is common at ICU admission and is associated with worse prognosis. Early identification of at-risk patients is essential, but determinants of low SM in critically ill patients remains unclear. To identify sociodemographic, nutritional, and clinical characteristics associated with low SM at ICU admission. This cross-sectional analysis included critically ill patients ≥18 years admitted within 24 hours. Sociodemographic and nutritional data were obtained through anamnesis, while clinical data were extracted from records. Quadriceps muscle layer thickness (QMLT) was measured using a B-mode US. Lower QMLT was defined as values below the sex-specific 25th percentile of the sample. Binary logistic regression was performed. 399 patients were included (age 61.4 ± 14.9 years; 56.6% male). Older age (OR = 1.02; CI 95% 1.0-1.04), previous unintentional weight loss (OR = 1.64; CI 95% 1.03-2.61), reduced food intake before admission (OR = 2.32; CI 95% 1.44-3.74), and pressure injuries (OR = 1.83; CI 95% 1.05-3.20) were associated with low QMLT. However, in multivariate analysis, only older age (OR = 1.02; CI 95% 1.00-1.04) and reduced food intake (OR = 2.26; CI 95% 1.22",
@@ -508,6 +535,20 @@
       "highlighted": false
     },
     {
+      "id": "pmid_42843123",
+      "title": "Improving fairness of large language model-based ICU mortality prediction via case-based prompting.",
+      "abstract": "Accurately predicting mortality risk in intensive care unit (ICU) patients is critical for clinical decision-making. Large language models (LLMs) are increasingly explored for clinical prediction using structured medical data, but their outputs may exhibit demographic disparities. Mitigating such disparities without degrading predictive performance remains challenging. We systematically investigate demographic bias in LLM-based ICU mortality prediction and propose Case-Based Prompting (CAP), a training-free framework designed to improve the empirical balance between predictive performance and subgroup fairness. CAP retrieves clinically similar historical misprediction and demographic-sensitive cases with known outcomes and incorporates them as case-level contextual evidence. We further evaluate model discrimination, subgroup fairness, and feature-dependence consistency. On MIMIC-IV, CAP improved AUROC from 0.806 to 0.873 and AUPRC from 0.497 to 0.694 compared with the Baseline Prompt. CAP also reduced several subgroup disparities, particularly for sex and White-Black comparisons, although age-related disparities remained non-negligible. Controlled demographic-information ablations ",
+      "source": "Artificial intelligence in medicine",
+      "authors": "Zhang Gangxiong, Long Yongchao, Zhou Yuxi, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843123/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
       "id": "pmid_42815288",
       "title": "Multidrug-resistant CC3 Staphylococcus haemolyticus with increased vancomycin MIC among neonates in a Brazilian NICU.",
       "abstract": "Staphylococcus haemolyticus has emerged as a cause of outbreaks in neonatal intensive care units (NICUs), particularly involving clonal complex (CC) 3 lineages. We investigated the prevalence and microbiological characteristics of S. haemolyticus colonizing neonates in a Brazilian NICU over two periods, spanning the onset of the COVID-19 pandemic. Nasal swabs were collected weekly between August 2019-March 2020 and between November 2020-April 2021. Isolates were identified by MALDI-TOF-MS and characterized by antimicrobial susceptibility testing, vancomycin minimum inhibitory concentration (MIC) determination, SCCmec typing, GTG5-PCR, and multilocus sequence typing (MLST). Among 108 neonates, 75 were colonized by S. haemolyticus and prematurity was the main cause of hospitalization (p=0.03). Colonization rates were similar between periods (71.2% vs. 67.3%; p=0.57), with no clinical or microbiological differences, except for reduced ampicillin-gentamicin use in the second period (p=0.048). Almost all isolates (96%) were multidrug-resistant, 78% presented increased vancomycin MIC (≥4 mg/L) and 52% carried the SCCmec type V. Molecular analysis revealed low genetic diversity, since >90",
@@ -522,46 +563,357 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42777284",
-      "title": "Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.",
-      "abstract": "Therapeutic drug monitoring of antibiotics in critically ill patients with sepsis remains challenging due to highly variable pharmacokinetics, increasing the risk of under- or overdosing. This paper presents a novel single-use tetrapolar electrochemical impedance spectroscopy (EIS) biosensor for the rapid detection of meropenem in human serum. The sensor is based on a gold microband electrode functionalised with a self-assembled monolayer, protein G and anti-meropenem antibodies to enable selective antigen capture and impedance-based quantification. The biosensor demonstrated sensitive detection of meropenem over a range of 1-100 μg/mL in phosphate-buffered saline and within clinically relevant concentrations (8-16 μg/mL) in spiked human serum, with the lowest measured concentration of 1 μg/mL. Binding specificity was validated using tandem mass spectrometry and immunocapture liquid chromatography-mass spectrometry. The total assay time was under 15 min. This platform represents a promising approach for rapid, bedside-compatible monitoring of meropenem. While the impedance results demonstrate the potential of the biosensor for therapeutic drug monitoring, further validation is requ",
-      "source": "Biosensors & bioelectronics",
-      "authors": "Bayford Richard H, Nathaniel Neha Nitika, Shah Ajit J, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2027 Jan 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42777284/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42721610",
-      "title": "Early enteral protein intake and respiratory support requirements in critically ill children: a retrospective cohort study.",
-      "abstract": "Optimal protein provision during pediatric critical illness remains uncertain, and its relationship with clinically meaningful outcomes is incompletely defined. We aimed to evaluate the association between early enteral protein intake and short-term clinical outcomes, with particular focus on respiratory support requirements, in critically ill children. In this retrospective cohort study, children aged 1 month to 18 years who received enteral nutrition for at least three consecutive days in a tertiary pediatric intensive care unit between September 2020 and December 2021 were included. Mean protein intake during the first 72 hours was analyzed both relative to age-based Recommended Dietary Allowance (RDA) thresholds and as a continuous variable. Multivariable linear and logistic regression models were constructed to assess associations between early protein intake and pediatric intensive care unit (PICU) length of stay, duration of invasive mechanical ventilation (IMV), 28-day ventilator-free days, and requirement for IMV, adjusting for age, illness severity (PRISM III, PELOD), malnutrition status, and energy intake. A total of 117 children were included (42.7% female; median age 4",
-      "source": "Nutrition (Burbank, Los Angeles County, Calif.)",
-      "authors": "Çinpolat Büşra, Gençay Genco, Aygüler Emrullah, et al.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "date": "2027 Jan",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42721610/",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "pmid_42364890",
-      "title": "Presepsin outperforms conventional biomarkers for Sepsis diagnosis and 30-day mortality prediction: A multicenter prospective study in a north African ICU cohort.",
-      "abstract": "Sepsis remains a leading cause of intensive care unit (ICU) mortality, necessitating the identification of accurate biomarkers for diagnosis and prognosis. Presepsin (sCD14-ST), generated through monocyte/macrophage phagocytosis of bacterial components, offers infection-specific signals. This study compared the diagnostic and prognostic performance of with of procalcitonin (PCT), C-reactive protein (CRP), interleukin-6 (IL-6), and interleukin-8 (IL-8) within the same patient cohort. This prospective multicenter cohort study enrolled 184 participants across two Algerian tertiary ICUs: 60 healthy controls, 30 patients with pulmonary infection, 46 with sepsis, and 48 with septic shock (Sepsis-3 criteria). All biomarkers were measured using a single blood sample collected within six hours of admission. Diagnostic accuracy was assessed using ROC curve analysis and DeLong's test, and independent predictors of 30-day mortality were identified using binary logistic regression. All biomarkers differed significantly between the groups (p < 0.001). Presepsin achieved the highest diagnostic accuracy for septic shock versus healthy controls (AUC = 0.880) and was the best discriminator between s",
-      "source": "Clinica chimica acta; international journal of clinical chemistry",
-      "authors": "Allam Ines, Derdoum Amel, Said Ali, et al.",
+      "id": "pmid_43068288",
+      "title": "Consent for intensive care research involving adults who lack decision-making capacity: A jurisdictional analysis of Australia's fragmented framework.",
+      "abstract": "Critically ill adults frequently cannot consent to research because of sedation, delirium, shock or mechanical ventilation, yet safe intensive care depends on evidence generated in this population; several treatments once regarded as standard care proved harmful when finally tested in randomised trials. The ethical framework for enrolling adults who lack decision-making capacity is national-the National Health and Medical Research Council National Statement on Ethical Conduct in Human Research (2025), in effect since 23 June 2026-but legal authority for substitute consent is conferred by eight state and territory statutes that differ in terminology, in decision-maker hierarchies, in whether they address research at all, and whether they permit enrolment in an emergency. Mapping four representative study archetypes across all eight jurisdictions shows that the lawful basis for enrolling the same patient shifts with study design as much as with geography; differing statutory definitions, tribunal involvement and the transition to the 2025 National Statement produce material and avoidable inconsistency. Contemporary Australian intensive care trials show that practice has converged on ",
+      "source": "Critical care and resuscitation : journal of the Australasian Academy of Critical Care Medicine",
+      "authors": "Bihari Shailesh, Galluccio Steven, McIntyre JoAnne, et al.",
       "pub_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Review"
       ],
-      "date": "2027 Jan 01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42364890/",
-      "category": "Research Article",
+      "date": "2027 Mar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068288/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43061996",
+      "title": "Kidney effects of inhaled nitric oxide in critically ill patients: from pathophysiological considerations to clinical implications.",
+      "abstract": "Inhaled nitric oxide is widely used as a selective pulmonary vasodilator in critical care, yet its renal effects remain controversial. While existing reviews mostly focus on indications for inhaled nitric oxide and its impact on outcomes, limited data exist on its renal effects, since it was thought to act only locally in the lungs. This review examine the clinical evidence regarding kidney outcomes associated with inhaled nitric oxide across major indications and provide an integrated mechanistic analysis of nitric oxide signaling in renal physiology and pathophysiology. Nitric oxide is produced by nitric oxide synthases using L-arginine as a substrate. It acts as a smooth muscle relaxation factor and ultimately causes vasodilation through its effect on cyclic guanosine monophosphate. Nitric oxide plays a pivotal role in renal hemodynamic regulation, glomerular filtration, tubular function, and microcirculatory homeostasis. The net renal effect of inhaled nitric oxide likely reflects the balance between improved nitric oxide signaling and oxidative stress generation. Available clinical data suggest that the renal impact of inhaled nitric oxide is context-dependent. In acute respir",
+      "source": "Medical gas research",
+      "authors": "Robert Arnaud, Gonze Aurélien, Bulpa Pierre, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061996/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42447972",
+      "title": "Short-chain fatty acid metabolism in acute lung injury and intervention strategies from traditional Chinese medicine.",
+      "abstract": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are severe conditions associated with high mortality rates and limited treatment options. Short-chain fatty acids (SCFAs) serve as central immunomodulatory metabolites mediate the crosstalk between the gut and lung. Traditional Chinese medicine (TCM), with its holistic approach, shows promise in restoring gut-lung balance and alleviating respiratory inflammation by modulating gut microbiota and SCFA metabolism. To elucidate the protective role and mechanism of SCFAs in ALI and ARDS via the gut-lung axis. Meanwhile, to evaluate the therapeutic potential of TCM in treating ALI by modulating the gut microbiota and enhancing SCFA production. A comprehensive literature search was conducted across PubMed, Ovid-Embase, Web of Science, and CNKI databases (2010-2025). Keywords included \"short-chain fatty acid\", \"gut microbes\", \"acute lung injury\", \"traditional Chinese medicine\", and related terms. The search focused on preclinical and mechanistic studies investigating SCFA signaling, gut microbiota remodeling, and the therapeutic effects of herbal compounds or their active constituents in ALI/ARDS models. This review ide",
+      "source": "Journal of ethnopharmacology",
+      "authors": "Zhao Bing, Li Rongrong, Chen Dandan, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Jan 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42447972/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42987770",
+      "title": "Effect of pneumatic leg compression on post-induction hypotension in adult patients with isolated traumatic brain injury undergoing decompressive craniotomy: a randomised, double-blind, controlled trial.",
+      "abstract": "Post-induction hypotension is common after induction of general anaesthesia, and in traumatic brain injury even a brief fall in systemic pressure can compromise cerebral perfusion when autoregulation is already impaired. Pneumatic leg compression augments venous return and has reduced post-induction hypotension in obstetric and urological surgery, but has not been examined in neurotrauma patients undergoing decompressive craniotomy. In this prospective, randomised, double-blind trial, adults aged 18-65 years with isolated traumatic brain injury and radiological features of severity (midline shift ≥5 mm with basal cistern effacement) undergoing decompressive craniotomy were allocated 1:1 to a pneumatic compression device activated before induction (Group PC) or an identical device left inactive (Group NC). The primary outcome was the incidence of post-induction hypotension, defined as any recorded one-minute systolic blood pressure below 90 mmHg within 20 minutes of induction. Secondary outcomes included the haemodynamic trend, fluid and vasopressor requirement, arterial blood gas changes, and device-related complications up to 72 hours. Analysis was by modified intention-to-treat. ",
+      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "authors": "Ahlawat Vidushi, Pandey Vaibhav, Luthra Ankur, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987770/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42927731",
+      "title": "The predictive value of early clinical and electrodiagnostic markers on short- and long-term functional outcomes in Guillain-Barré Syndrome: a systematic review and exploratory meta-analysis.",
+      "abstract": "Guillain-Barré Syndrome (GBS) presents with highly variable recovery trajectories. Early identification of prognostic markers is crucial for optimizing patient management and anticipating severe complications. A systematic search of PubMed, EMBASE, and Scopus was conducted in accordance with PRISMA 2020 guidelines. Studies reporting early clinical or electrodiagnostic predictors of functional outcomes in confirmed GBS patients were eligible. Study selection, data extraction, and risk-of-bias assessment were each performed independently and in duplicate by both authors (PYG and JHW). Methodological quality was assessed using the Newcastle-Ottawa Scale. Exploratory meta-analyses were performed using standardized mean differences (SMD) for functional recovery and pooled proportions for mechanical ventilation incidence. Effect sizes were oriented so that a positive SMD consistently denotes poorer functional status in the poor-prognosis group. Functional recovery was additionally stratified a posteriori by outcome assessment timepoint (short-term, 1-4 weeks; long-term, 3-6 months). Seven studies (n = 398 patients) were included. High GBS disability scores, reduced MRC sum scores, elevat",
+      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "authors": "Gunawan Pricilla Yani, Wijaya Jeremiah Hilkiah",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927731/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42854592",
+      "title": "Herpesvirus reactivation in critical illness: Pathogenesis, clinical consequences, and diagnostic challenges.",
+      "abstract": "Human herpesviruses (HHV) remain latent after primary infection and may reactivate during critical illness. HHV reactivation has been associated with adverse clinical outcomes, yet its pathogenic significance and optimal management remain unclear. This review summarizes the dysregulated immune mechanisms and risk factors for HHV reactivation in critical illness, treatment options, outcomes, current diagnostic challenges, and emerging precision medicine approaches. Critical illness induces profound immune dysregulation characterized by an initial hyperinflammatory response followed by immunosuppression, T-cell exhaustion, impaired natural killer cell function, and disrupted antiviral surveillance. These changes facilitate reactivation of latent HHV, including herpes simplex virus type 1 (HSV-1), cytomegalovirus (CMV), Epstein-Barr virus (EBV), and human herpesvirus 6 (HHV-6). HSV and CMV reactivation in mechanically ventilated and septic patients have been associated with prolonged mechanical ventilation, longer intensive care unit (ICU) stay, secondary infections, and increased mortality. However, the distinction between clinically significant disease from asymptomatic reactivation",
+      "source": "Virology",
+      "authors": "Giannis Dimitrios, Gianni Panagiota",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854592/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42635401",
+      "title": "Fecal filtrate transplantation as salvage therapy for fulminant",
+      "abstract": "Fulminant  We conducted a single-center, prospective, protocol-defined pilot case series study including consecutive adults with hematologic malignancies, chemotherapy-induced grade-4 aplasia and fulminant CDI, refractory to ≥5 d of high-dose oral vancomycin plus intravenous metronidazole and tigecycline. FFT was prepared from a single unrelated donor using sequential centrifugation and filtration, and administered via nasogastric tube in two doses. The primary outcome was sustained clinical cure, secondary outcomes included survival and adverse events, assessed at +14 and +30 d post-FFT. 16S rRNA gene sequencing was used to assess microbiome compositions, while viral metagenomics and  Three patients with adverse-risk acute myeloid leukemia and fulminant CDI caused by genetically distinct  FFT was feasible, with rapid sustained CDI resolution in hematologic patients with chemotherapy-induced aplasia. ClinicalTrials.gov identifier NCT07172191. Prospective single-center pilot study of fecal filtrate transplantation (FFT) for fulminant-refractory",
+      "source": "Gut microbes",
+      "authors": "Korózs Dorina, Szabó Bálint Gergely, Apjok Gábor, et al.",
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "date": "2026 Dec 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42635401/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42324603",
+      "title": "Cross-kingdom microbiome interactions along the gut-lung axis: immune-microecological coordination, shared mechanisms, and disease-context dependence in respiratory disorders.",
+      "abstract": "Cross-kingdom dysbiosis of the gut microbiome along the gut-lung axis has emerged as a key driver of chronic and acute respiratory diseases. Beyond bacteria, the intestinal mycobiome and virome, including bacteriophages, shape mucosal immunity and metabolism through partially overlapping but non-redundant pathways. In this Review, we synthesize rapidly expanding evidence that fungi, bacteria, and phages in the gut form an integrated network that may influence susceptibility, inflammatory tone, and therapeutic responsiveness across asthma, chronic obstructive pulmonary disease (COPD), acute respiratory distress syndrome (ARDS), and lung cancer via the gut-lung axis. We first summarize how cross-kingdom communities in the intestine are organized and interact, highlighting a tripartite framework centered on pathogen-associated molecular pattern-pattern recognition receptor (PAMP-PRR) circuits, the short-chain fatty acid (SCFA)-regulatory T-cell axis, and tryptophan-indole-aryl hydrocarbon receptor (AHR) signaling. We then compare how these shared axes are differentially perturbed across asthma, COPD, ARDS, and lung cancer, using these disorders as representative but non-sequential dis",
+      "source": "Gut microbes",
+      "authors": "Yu Jiang, Meng Jianbiao, Shi Zhongliang, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324603/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43023249",
+      "title": "Piezo1 in acute and critical illnesses: From mechanosensing to organ dysfunction (Review).",
+      "abstract": "Acute and critical illnesses are typically accompanied by hemodynamic instability, tissue edema, mechanical ventilation and extracellular matrix remodeling. Abnormal shear stress, mechanical stretch, pressure loading and tissue deformation continuously reshape the local mechanical microenvironment. Piezo1 is a mechanosensitive cation channel that converts mechanical stimuli into intracellular signals dominated by Ca²",
+      "source": "International journal of molecular medicine",
+      "authors": "Zhang Li, Gu Hong, Zhu Yibin, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023249/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42998626",
+      "title": "Prevalence and prognostic significance of respiratory failure before or at liver transplantation in acute-on-chronic liver failure: A systematic review and meta-analysis.",
+      "abstract": "Respiratory failure (RF) is an important organ failure phenotype in acute-on-chronic liver failure (ACLF), but its prevalence and prognostic significance among liver transplant (LT) recipients remain uncertain. We searched PubMed, Embase, and the Web of Science Core Collection for observational studies through August 17, 2026. Of 33 included study reports, clinically comparable data were pooled using random-effects meta-analysis; other evidence was synthesized narratively. Pooled RF prevalence was 7.5% (95% CI: 2.1%-23.0%) at earlier pretransplant assessment, 13.5% (5.7%-28.5%) among recipients with EASL-CLIF ACLF assessed on the day of LT, and 28.9% (9.7%-60.6%) among recipients with ACLF-3 assessed near LT. A broad analysis of 21 reports yielded 12.9% (9.0%-18.1%; 95% prediction interval: 3.3%-38.9%). Across three independent cohorts, pooled 1-year post-LT survival was 55.3% (20.0%-86.0%) in RF-positive recipients and 82.1% (66.9%-91.2%) in RF-negative recipients. RF-positive recipients had higher 1-year mortality (unadjusted RR = 2.41, 95% CI: 1.50-3.90). One study reported 6-month mortality RRs versus non-ACLF recipients of 2.02 (95% CI: 1.23-3.30) without RF and 6.96 (95% CI: ",
+      "source": "Transplantation reviews (Orlando, Fla.)",
+      "authors": "Ni Bin, Wu Wei",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998626/",
+      "category": "Systematic Review / Meta-Analysis",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42963150",
+      "title": "The Pharmacologic Management of Cardiac Arrest.",
+      "abstract": "The effectiveness of pharmacologic management of cardiac arrest patients is widely debated; however, several studies published in the past 5 years have begun to clarify some of these issues. This article covers the current state of evidence for the effectiveness of the vasopressor epinephrine and the combination of vasopressin-steroids-epinephrine and antiarrhythmic medications amiodarone and lidocaine and reviews the role of other medications such as calcium, sodium bicarbonate, magnesium, and atropine in cardiac arrest care. We additionally review the role of β-blockers for refractory pulseless ventricular tachycardia/ventricular fibrillation and thrombolytics in undifferentiated cardiac arrest and suspected fatal pulmonary embolism.",
+      "source": "Cardiac electrophysiology clinics",
+      "authors": "Singh Amandeep, Heeney Megan, Montgomery Martha E",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963150/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42960561",
+      "title": "Endpoint-specific mortality associated with malignancy among adults with sepsis or septic shock: a systematic review and meta-analysis.",
+      "abstract": "Sepsis is a major global health challenge and increasingly affects patients with complex conditions such as malignancy. Prior studies suggest higher mortality in this population, but interpretation is limited by aggregation of heterogeneous endpoints. We conducted a systematic review and meta-analysis to clarify endpoint-specific prognostic associations between malignancy and mortality in adults with sepsis or septic shock. This study was registered in PROSPERO (CRD420251141216). PubMed, Embase, Web of Science, Cochrane Library and Epistemonikos were searched through 16 September 2025, for studies comparing all-cause mortality between sepsis patients with and without malignancy. Mortality endpoints were grouped as ICU, in-hospital, early, intermediate and extended follow-up mortality. Crude odds ratios (ORs) were estimated using random-effects meta-analysis. Subgroup, meta-regression and sensitivity analyses were performed to explore heterogeneity and assess consistency. Among 105 eligible studies comprising 20,089,138 participants, 85 studies contributing 101 endpoint estimates were included in the primary synthesis. Pooled estimates were elevated across endpoints: ICU (OR 1.21, 9",
+      "source": "Annals of medicine",
+      "authors": "Chung Huei, Chou Hung-Chang, Tsai Tsung-Yu, et al.",
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960561/",
+      "category": "Systematic Review / Meta-Analysis",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933951",
+      "title": "Peripheral Vasopressor Administration: An Evidence-Based Risk-Benefit Analysis.",
+      "abstract": "Peripheral vasopressor administration has been heavily researched over the past decade as a way to quickly treat hemodynamically unstable patients. However, current evidence is diverse and limited by quality concerns, including a reliance on retrospective studies, inconsistent criteria, and bias risk. While central venous access devices (CVADs) remain the preferred route for vasopressor administration, use of the peripheral route is necessary when a CVAD is not yet present or contraindicated. Vascular access selection should be tailored to individual patient's needs. Current evidence indicates that using a protocolized approach for peripheral vasopressors appears safe and effective for low-acuity patients requiring short-term therapy (eg, less than 24 hours).",
+      "source": "Critical care nursing clinics of North America",
+      "authors": "Nickel Barbara",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933951/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42933018",
+      "title": "Advancing ventilation during cardiopulmonary resuscitation: a question of optimizing quality, ventilation parameters or both?",
+      "abstract": "Ventilation is provided to most patients during cardiopulmonary resuscitation (CPR). International guidelines emphasize the need for effective intra-arrest ventilation while acknowledging uncertainty regarding the optimal ventilation parameters. This review will discuss how new studies challenge prior beliefs on key ventilation parameters, will highlight challenges and potential solutions for high-quality ventilation and will suggest a translational research approach to advance intra-arrest ventilation. A recent observational study reported that higher ventilation rates during in-hospital cardiac arrest may be positively associated with return of spontaneous circulation, challenging common beliefs. Additionally, a pivotal observational study on bag-valve-mask ventilation during out-of-hospital cardiac arrest found that ventilation was frequently ineffective and if so, associated with reduced survival and neurological function. Scoping and systematic reviews on intra-arrest ventilation parameters, ventilation feedback devices and mechanical ventilation have uncovered uncertainties regarding fundamental aspects of intra-arrest ventilation. This review contextualizes the scientific de",
+      "source": "Current opinion in critical care",
+      "authors": "Wittig Johannes, Skrifvars Markus B",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933018/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42898052",
+      "title": "Prone positioning in acute respiratory distress syndrome: A critical review of clinical evidence and practical challenges.",
+      "abstract": "Early randomised controlled trials (RCTs) of prone positioning (PP) in acute respiratory distress syndrome (ARDS) failed to demonstrate a survival benefit despite consistent improvements in oxygenation. Subsequent meta-analyses suggested a survival advantage in patients with severe hypoxaemia, culminating in the landmark Proning Severe ARDS Patients (PROSEVA) trial, which reported a 28-day mortality rate of 16.0% in patients with a PaO₂/FiO₂ ratio <150 mmHg. However, the optimal criteria for repeating and discontinuing PP sessions remain uncertain. A structured search of PubMed, Embase.com, and the Cochrane Central Register of Controlled Trials (CENTRAL) was conducted to identify RCTs evaluating PP in adults with ARDS with mortality as a prespecified principal outcome. Relevant clinical studies, meta-analyses, and review articles were also evaluated to provide context for the narrative review. Six RCTs were included in the main comparative analysis. Previous RCTs conducted before the PROSEVA trial used diverse protocols and treatment settings and did not demonstrate a survival benefit. Therefore, comparative assessments of these trials may provide valuable insights for optimising c",
+      "source": "Pulmonology",
+      "authors": "Park Kwang Joo",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898052/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42850169",
+      "title": "Intravenous Immunoglobulin Administration in Cardiac Surgery, Heart Transplantation and Infective Endocarditis: A Scoping Review.",
+      "abstract": "Perioperative infections are a common cause of morbidity in cardiac surgery. Intravenous immunoglobulin (IVIG) is increasingly used as a rescue treatment for septic shock. However, data on efficacy and safety in cardiac surgery patients are limited. A scoping review of available literature aimed at identifying studies investigating the use of IVIG in patients undergoing cardiac surgery or with infective endocarditis was performed. Studies reporting data on the use of IVIG in these populations were included, including case reports. Data on study design, population, control group, indications for IVIG therapy, and formulation and dose of IVIG were abstracted. Outcome data from randomized controlled trials (RCTs) were also abstracted. A total of 135 studies were identified, including 7 RCTs and 1 RCT study protocol. Most studies were performed in the setting of heart transplantation, followed by nontransplant cardiac surgery and infective endocarditis. The most common formulation was standard IVIG at a dose of 2 g/kg. Available data on the use of IVIG in cardiac surgery patients are mostly limited to the use of standard IVIG in heart transplantation recipients, and available evidence ",
+      "source": "Journal of cardiothoracic and vascular anesthesia",
+      "authors": "Pilia Eros, Derylo Kamil, Guarnieri Marcello, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Scoping Review",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850169/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42840777",
+      "title": "Triptolide-loaded MSC membrane nanoparticles with enhanced pulmonary accumulation for the treatment of acute lung injury: from network pharmacology to experimental validation.",
+      "abstract": "Acute lung injury (ALI) and its severe form acute respiratory distress syndrome (ARDS) are critical conditions with few effective therapies. Triptolide (TPL), a bioactive compound from Tripterygium wilfordii, exhibits potent anti-inflammatory effects but its clinical use is restricted by poor solubility, rapid clearance, and hepatotoxicity. Using network pharmacology and molecular docking as hypothesis-generating approaches, we prioritized NLRP3 inflammasome activation as a key candidate pathway mediating the therapeutic effects of TPL against ALI. Based on this, we developed mesenchymal stem cell membrane-coated TPL-loaded biomimetic nanoparticles (CM@TPL-NPs) comprising a PLGA core loaded with TPL and coated with mesenchymal stem cell membranes. This coating improved biocompatibility, reduced hepatic sequestration, and enabled preferential lung accumulation, while retaining inherent anti-inflammatory activity. CM@TPL-NPs showed favorable physicochemical properties, sustained release, and improved biocompatibility. Mechanistically, they suppressed NLRP3 inflammasome activation in LPS-stimulated macrophages, while preserving endothelial barrier integrity. In a murine ALI model, bot",
+      "source": "International journal of pharmaceutics: X",
+      "authors": "Liu Jiahao, Zhao Yue, Zhuang Yixin, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840777/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42773805",
+      "title": "Effects of protein, muscle rehabilitation and trunk neuromuscular electrostimulation in patients with prolonged mechanical ventilation: a prospective, randomized controlled pilot study.",
+      "abstract": "Attenuating diaphragmatic dysfunction is important in patients with prolonged mechanical ventilation (PMV). The clinical impact of protein supplementation, core muscle rehabilitation and neuromuscular electrostimulation (NMES) in patients with PMV remains unknown. We conducted a single center, prospective, randomized controlled pilot study for critically ill patients with PMV . All enrolled patients were randomly assigned into four groups: (1) usual care (UC) + high-protein diet (HP); (2) UC + HP + core muscle rehabilitation; (3) UC + HP + core muscle rehabilitation + NMES; and (4) UC. The interventions were maintained for 21 days. Primary outcomes were successful weaning from the ventilator and the duration of mechanical ventilation. Secondary outcomes were length of hospital stay and in-hospital mortality. A total of 100 patients were enrolled, with 10 in the UC group and 30 each in the other three groups. Nine patients discontinued the trial early. The mean compliance rates of core muscle rehabilitation and NMES were nearly 90%. The patients in group 3 had the highest weaning rate followed by group 2 and group 1, and the difference was significant compared to group 4 (87%, 73%, ",
+      "source": "Annals of medicine",
+      "authors": "Lin Chun-Yu, Chang Po-Jui, Hsieh Meng-Jer, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773805/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42757498",
+      "title": "Management of shock phenotypes after cardiac arrest: beyond cardiogenic shock.",
+      "abstract": "Postcardiac-arrest circulatory failure is commonly labeled cardiogenic shock, although its physiology is heterogeneous, dynamic, and frequently mixed. This review examines recent evidence and proposes a treatment-oriented framework. Hypotension, hyperlactatemia, vasopressor dependence, and myocardial dysfunction do not establish ongoing shock after cardiac arrest or identify its mechanism. Recent studies demonstrate clinically important discordance between arterial pressure, cardiac output, filling pressures, oxygen transport, metabolic recovery, and prognosis. Four primary hemodynamic phenotypes are proposed: vasoplegic-inflammatory shock; myocardial dysfunction and low-flow shock; hypovolemia; and right ventricular and pulmonary vascular dysfunction. Mixed shock is an overlap group, whereas reversible metabolic pseudoshock describes arrest-related hyperlactatemia that resolves without persistent hemodynamic compromise. Repeated multimodal assessment should determine whether circulatory dysfunction is resolving or persisting and identify the dominant mechanism. Treatment, advanced monitoring, and mechanical circulatory support should then be individualized, with neurological uncer",
+      "source": "Current opinion in critical care",
+      "authors": "Grand Johannes, Schneekloth Simon, Beske Rasmus P",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42757498/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42710328",
+      "title": "Comparison of subanaesthetic ketamine and lidocaine as adjuvants to propofol-based total intravenous anesthesia on propofol requirement during emergency decompressive craniectomy for traumatic brain injury: a prospective, double-blind, three-arm randomized controlled trial.",
+      "abstract": "Prevention of secondary brain injury remains a key objective during emergency decompressive craniectomy for traumatic brain injury (TBI). Propofol-based total intravenous anesthesia (TIVA) is widely used in TBI because of its favorable cerebral physiological effects but may cause dose-dependent hypotension and compromise cerebral perfusion. Ketamine and lidocaine have been proposed as adjuncts that may reduce anesthetic requirements while preserving intracranial homeostasis. This study compared the effects of ketamine and lidocaine versus placebo on propofol consumption and perioperative intracranial pressure (ICP), cerebral perfusion pressure (CPP), and brain relaxation during TIVA in patients undergoing emergency decompressive craniectomy for TBI. In this prospective, double-blind, three-arm randomized controlled trial, 150 adults undergoing emergency decompressive craniectomy for traumatic acute subdural hematoma were randomized to receive adjunctive ketamine (0.5 mg/kg/h), lidocaine (2 mg/kg/h), or placebo during propofol-based TIVA. Propofol was administered using target-controlled infusion (TCI) to maintain mean arterial pressure within 20% of baseline. The primary outcome wa",
+      "source": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "authors": "Ramadurai Rajasekar, Swaminathan Srinivasan, Bidkar Prasanna Udupi, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710328/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42669183",
+      "title": "Albumin and the kidney, a friend or foe.",
+      "abstract": "Albumin preparations are the most common colloids used in critically ill patients worldwide. This review is to provide the physiological rationale and evidence for benefits and harms in different clinical settings. There is a strong physiological rationale for intravenous albumin administration in critically ill patients. Iso-oncotic and hyperoncotic albumin have both been used for volume resuscitation and to maintain effective plasma volume at an optimal fluid balance. This practice, however, has not proven to be superior to using crystalloids or balanced solutions with no significant reduction in kidney injury or time on vasopressors. In patients with septic shock and hypoalbuminaemia, albeit limitations, subgroup analysis of a randomized trial suggested reduced mortality with albumin supplementation. Similarly, guidelines strongly recommend the use of albumin in hepatic-induced kidney injury and hepatorenal syndrome. Albumin also improved diuresis when combined with diuretics and may improve intradialytic hypotension. Conversely, hyperoncotic albumin infusion increased the risk of kidney injury and red cell transfusion in high-risk cardiac surgery. Hyperoncotic, and albumin admi",
+      "source": "Current opinion in critical care",
+      "authors": "Shehabi Yahya, Balachandran Mayurathan, Glassford Neil",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42669183/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42655964",
+      "title": "Effect of protective ventilation throughout the intubation period on perioperative oxygenation in patients undergoing MIDCABG: a randomised controlled trial.",
+      "abstract": "Minimally invasive direct coronary artery bypass grafting (MIDCABG) requires prolonged one-lung ventilation (OLV), increasing postoperative pulmonary complications (PPCs) risk. We investigated whether protective lung ventilation (PLV) throughout intubation benefits MIDCABG patients. In this single-center randomized study, MIDCABG patients received PLV (low tidal volume of 6-8 mL·kg Sixty patients (n = 30 per group) were enrolled. Compared with CMV, PLV improved PaO In patients undergoing MIDCABG, PLV applied throughout intubation improved perioperative oxygenation and shortened the duration of postoperative mechanical ventilation and hospital stay, but did not reduce PPCs. ChiCTR1900022005.",
+      "source": "Annals of medicine",
+      "authors": "Qian Min, Cong Zhukai, Yang Ning, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42655964/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42644822",
+      "title": "Ventilatory motion management strategies in conscious individuals for improved radiotherapy and diagnostic imaging: an evidence map.",
+      "abstract": "Respiration-induced motion hampers accurate radiotherapy and diagnostic image quality. Ventilatory motion management strategies (VMMS, ie, continuous positive airway pressure, jet ventilation, non-invasive mechanical ventilation, percussive ventilation, and high-flow nasal oxygen) have emerged as novel respiratory motion management strategies. This evidence map aims to summarize these approaches of non-invasive respiratory motion-control to assess feasibility, comfort, potential benefits for radiotherapy and diagnostic imaging, and the identification of current research gaps. Medline, Embase, and Web of Science were searched for publications evaluating VMMS in healthy volunteers or patients to reduce respiratory motion or alter organ positioning during radiotherapy or imaging, published in Dutch, English, or German until October 2024. We identified 114 studies, of which 55 were included for analysis. Ventilatory motion management strategies, ventilator settings, and patient groups appeared to be heterogenous. Most (50 of 55) studies reported reduced motion, favorably changed organ shape/position and/or prolonged breath-hold durations, resulting in reduced organs-at-risk dose, impro",
+      "source": "The British journal of radiology",
+      "authors": "Veldman-Landegent Jeffrey K, Weststrate Thomas, Stevens Markus F, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Dec 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42644822/",
+      "category": "Review",
       "highlighted": false
     },
     {
@@ -849,51 +1201,18 @@
       "highlighted": false
     },
     {
-      "id": "rss_https___link_springer_com_article_10_1007_s00134_026_08669_y",
-      "title": "The path towards precision transfusion medicine in critical care: focus on patient physiology, not only on study populations",
-      "abstract": "",
-      "source": "Intensive Care Medicine",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 18",
-      "url": "https://link.springer.com/article/10.1007/s00134-026-08669-y",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___link_springer_com_article_10_1007_s00134_026_08666_1",
-      "title": "Multiplex PCR in suspected ventilator-associated pneumonia: for which settings, and at what price?",
-      "abstract": "",
-      "source": "Intensive Care Medicine",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 18",
-      "url": "https://link.springer.com/article/10.1007/s00134-026-08666-1",
-      "category": "Research Article",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2855684",
-      "title": "Prone Positioning for Infants With Bronchiolitis and HFNC Support",
-      "abstract": "To the Editor The PROPOSITIS trial was a large study evaluating prone positioning in infants with bronchiolitis receiving high-flow nasal cannula (HFNC) support. Although the primary outcome was not statistically significant, the observed effect size suggests that further investigation remains warranted.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 17",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855684",
-      "category": "Clinical Trial",
-      "highlighted": false
-    },
-    {
-      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2855683",
-      "title": "Prone Positioning for Infants With Bronchiolitis and HFNC Support—Reply",
-      "abstract": "In Reply We thank Drs van Egmond and Mulier for their letter about the PROPOSITIS study. They raise an important point regarding the need to report the prone positioning procedure and the effects of prone positioning beyond transpulmonary pressure gradients.",
-      "source": "JAMA",
-      "authors": "",
-      "pub_types": [],
-      "date": "2026 Nov 17",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855683",
-      "category": "Research Article",
+      "id": "pmid_43058863",
+      "title": "BEYOND PICS: a conceptual framework for post-ICU recovery stewardship.",
+      "abstract": "As survival from critical illness improves, the global burden of post-intensive care syndrome (PICS) and PICS-family continues to grow, reshaping the goals of modern intensive care. Despite growing awareness, prevention, follow-up and rehabilitation remain fragmented, and important gaps persist in the organisation of recovery-oriented care. We propose BEYOND PICS, a conceptual framework for ICU survivorship built around six complementary pillars: Begin before ICU discharge, Early follow-up and equitable access, Your journey, Ongoing multidomain assessment and rehabilitation, Networked care, and Driving improvement. Rather than describing clinical interventions to be implemented in practice, the framework promotes a coordinated recovery pathway integrating prevention, patient partnership, education, rehabilitation, multidisciplinary collaboration and continuous quality improvement across the peri-ICU continuum. BEYOND PICS is not a clinical bundle or guideline, it provides a mental model to guide the organization of care, integrating the key components of ICU survivorship into a coherent continuum of care while highlighting priorities for future research.",
+      "source": "Critical care (London, England)",
+      "authors": "Rousseau Anne-Françoise, Leaver Susannah, Cardoso Teresa, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Aug 26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058863/",
+      "category": "Guideline / Consensus",
       "highlighted": false
     }
   ]
