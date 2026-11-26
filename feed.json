@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-23T16:49:46.061276+00:00",
-  "count": 49,
+  "generated": "2026-11-26T16:00:09.434702+00:00",
+  "count": 89,
   "digest": null,
   "oe_query_count": 0,
   "oe_error": null,
@@ -49,6 +49,20 @@
       "date": "2027 Feb",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43025921/",
       "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43077613",
+      "title": "Mobilizing the Critically Ill: The Central Role of Nurses in Preventing ICU Complications and Enhancing Recovery.",
+      "abstract": "The intensive care unit (ICU) is a high-acuity environment where patients with severe illness receive comprehensive care. Immobility is common among patients with critical disease states and contributes to muscle atrophy, development of pressure ulcers, increased risk of thromboembolic events, and acute respiratory insufficiency. Similarly, delirium is another prevalent complication that further contributes to prolonged ICU stays, increased mortality, and long-term cognitive impairments. Reduced mobility, delirium, and other sequelae of critical illness pose significant challenges to patient recovery and often result in poor long-term outcomes. Early mobility has been shown to improve long-term outcomes of critically ill patients by reducing their length of hospital and ICU stay, reducing ICU-acquired weakness, improving functional outcomes, and improving long-term cognitive function. Given their direct patient contact, nurses are uniquely positioned to serve as the primary facilitators of patient mobility in the ICU. As frontline caregivers, nurses can assess a patient's readiness for mobility, monitor vital signs during activity, and provide hands-on support for safe mobilization",
+      "source": "Critical care nursing quarterly",
+      "authors": "Patel Dhaval, DuMont Tiffany, Kuniak Lindsay, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077613/",
+      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -344,33 +358,278 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42977378",
-      "title": "Intensive Care Unit Management of the Hemodynamically Significant Pulmonary Embolism.",
-      "abstract": "Acute pulmonary embolism remains a major cause of cardiovascular morbidity and mortality, with prognosis determined by right ventricular (RV) adaptation to the abrupt rise in pulmonary vascular resistance. Although most cases can be managed outside the intensive care unit, patients with RV failure, hemodynamic instability, or cardiac arrest require advanced monitoring and intervention. Management in this setting emphasizes rapid diagnosis and risk stratification, timely initiation of reperfusion therapies, and carefully tailored hemodynamic and respiratory support. Optimal outcomes rely on multidisciplinary collaboration, early escalation of care, and individualized, evidence-based decision-making.",
-      "source": "Clinics in chest medicine",
-      "authors": "Ehret Jane, Langston Matthew D, Friedman Oren",
+      "id": "pmid_43080077",
+      "title": "Effect of Spatial Distance From the Crash Scene to a Critical Care Center on Traffic Fatality Rates in Japan.",
+      "abstract": "To evaluate the association between spatial distance from the traffic-crash scene to the nearest critical care center and traffic-crash fatality in Japan. Using National Police Agency Traffic Accident Statistics Open Data for 2022-2024, we calculated the great-circle distance from each crash site to the nearest of 312 critical care centers, stratified crashes into 1-km bands, and grouped crashes into < 5 km, 5-15 km, and ≥ 15 km categories to compare fatality rate, crash type, roadway configuration, and time of day. Fatality rate rose approximately linearly with distance: 0.50% (< 5 km), 0.92% (5-15 km), and 2.29% (≥ 15 km), a 7.1-fold increase beyond 30 km versus the 0-1 km band. Crashes < 5 km were predominantly intersection- and pedestrian-related, whereas crashes ≥ 15 km were disproportionately single-lane, straight-road and single-vehicle events. Spatial distance to the nearest critical care center was strongly and consistently associated with traffic-crash fatality in Japan, reflecting systematic distance-related differences in crash patterns. Because this was an ecological, unadjusted analysis using great-circle distance as a proxy for transport time, an independent causal e",
+      "source": "The Tokai journal of experimental and clinical medicine",
+      "authors": "Iizuka Shinichi, Morita Seiji, Tsuchiya Asuka, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080077/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42873100",
+      "title": "Clinical application of volatile sedation in adult intensive care units: pharmacological mechanisms, delivery systems, and safety.",
+      "abstract": "Sedation is essential in critically ill mechanically ventilated patients, yet conventional intravenous agents carry risks of accumulation, organ-dependent clearance, and adverse effects. Volatile anesthetics offer several pharmacokinetic advantages, but their adoption in the intensive care unit has historically been limited by technical constraints. This review offers an updated, clinically focused overview of volatile-based sedation in adult intensive care units, covering pharmacological mechanisms, delivery systems, clinical outcomes, safety, and practical application. This review was conducted through systematic searching of PubMed, Scopus, and Web of Science for studies published between January 2016 and December 2025. Sevoflurane and isoflurane achieve sedation primarily via γ-aminobutyric acid type A receptor modulation and offer organ-independent clearance, rapid onset/offset, and real-time end-tidal monitoring. Modern delivery systems, including reflection devices (Sedaconda-ACD) and automated platforms (MIRUS), have improved intensive care unit feasibility. Clinical evidence suggests volatile sedation may reduce awakening times and duration of mechanical ventilation compar",
+      "source": "Medical gas research",
+      "authors": "Mirasola Alice, Piattoli Matteo, Gregoretti Cesare, et al.",
       "pub_types": [
         "Journal Article",
         "Review"
       ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42977378/",
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873100/",
+      "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43044613",
+      "title": "Burn Management in Disasters.",
+      "abstract": "Burn disasters are uncommon but uniquely resource-intensive mass casualty events, requiring prolonged multidisciplinary care that can rapidly exhaust the limited number of verified burn centers and beds. This article reviews the epidemiology and injury patterns of burn disasters, burn-specific triage and transport principles, and system-level planning built on regional burn networks. It examines the American Burn Association's role in center verification, regional response plans, and national burn bed capacity monitoring, alongside federal support mechanisms. Acute resuscitation, damage-control operative strategies, temporary wound coverage, workforce augmentation, and pediatric considerations are addressed, together with ethical decision-making, long-term recovery, and emerging technologies.",
+      "source": "The Surgical clinics of North America",
+      "authors": "Khandelwal Anjay, Ozhathil Deepak K",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044613/",
       "category": "Review",
       "highlighted": false
     },
     {
-      "id": "pmid_42976192",
-      "title": "Higher Daily Hospitalization Costs and Intensive Care Utilization Among Decedents With Systemic Lupus Erythematosus and Rheumatoid Arthritis: A Bioethical Analysis of End-of-Life Care.",
-      "abstract": "End-of-life care creates financial burdens. This study examines medical procedures/interventions and costs for inpatients with systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA), comparing those who died during hospitalization to those who survived, analyzing the findings through a bioethical perspective. This observational 1:1 case-control study was conducted at a tertiary care center. Patients with SLE and RA (ICD-10-CM diagnostic codes) who were hospitalized for at least 24 h during two distinct periods-January-June 2019 and January-June 2023-were included. Patients were designated as cases if they died during hospitalization and as controls if they were discharged alive. Data were abstracted from electronic medical records using standardized formats. Microcosting data for each hospitalization were obtained from the accounting department. We identified 29 matched pairs of cases and controls, primarily comprising middle-aged females, with SLE. Cases and controls had similar sociodemographic and disease-related characteristics. However, cases spent a greater proportion of their hospitalization time in the intensive care unit (100% [33.9-100] vs. 27.5% [13.4-45], p ≤ ",
-      "source": "Journal of evaluation in clinical practice",
-      "authors": "Guaracha-Basañez Guillermo Arturo, Contreras-Yáñez Irazú, Jiménez-Decle Julia Giselle, et al.",
+      "id": "pmid_43084738",
+      "title": "Weekly Multidisciplinary Intensive Care Unit Debriefings Provide Effective Support for Intensive Care Unit Nurses.",
+      "abstract": "Nursing burnout is a rising crisis, characterized by emotional exhaustion, depersonalization, and a diminished sense of accomplishment. Primary drivers include chronic staffing shortages, high-intensity workloads, interpersonal conflict, and inadequate resources to tackle work-related issues. In 2016, we launched daily multidisciplinary debriefings to mitigate the effects of such issues in our 18-bed intensive care unit (ICU). It was very effective, but daily meetings were perceived to be burdensome from a workload perspective. Safety restrictions during the coronavirus disease (2019-2020) pandemic and logistical challenges thereafter forced a suspension of debriefing meetings. To address continued needs, we resumed these operational debriefings in June 2025, electing to hold them on a weekly rather than daily basis. To assess the efficacy and impact of weekly multidisciplinary operational debriefings on ICU staff. Study if once-weekly multidisciplinary operational debriefings provide an effective support system for ICU nurses and are as effective as daily debriefings. Time and schedule permitting, operational debriefing meetings were held in the ICU at least once a week at a mutua",
+      "source": "Dimensions of critical care nursing : DCCN",
+      "authors": "Wood Teresa, Sandhu Vardaan, Adams Nicole, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084738/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43084737",
+      "title": "Patient- and Family-centred Nursing Communication in the Intensive Care Unit: A Bibliometric Analysis.",
+      "abstract": "As a fundamental component of critical care, patient- and family-centred nursing communication in the intensive care unit is not merely an information exchange process, but a professional behaviour that requires practical skills. This study aims to employ bibliometric analysis to elucidate the prevailing research focal points and trends within patient- and family-centred nursing communication. Relevant articles were retrieved from the Web of Science Core Collection. CiteSpace and VOSviewer were used for bibliometric analysis and visualization of countries, institutions, authors, and keywords. From 2006 to 2025, annual publications showed a fluctuating upward trend. A total of 925 publications were included, authored by 4048 authors from 1651 institutions. Research hotspots included the impact of communication, communication management, and context-specific communication. The long-term communication needs of intensive care unit survivors and the development of augmentative and alternative communication tools are likely to emerge as future research trends in this field. This study provides an overview of the research in the field of patient- and family-centred nursing communication o",
+      "source": "Dimensions of critical care nursing : DCCN",
+      "authors": "Li Mingzhen, Lan Yanping, Li Jie, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084737/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43084734",
+      "title": "Development and Pilot Psychometric Testing of the ICU-HQI to Assess Handover Quality in Intensive Care Units.",
+      "abstract": "Effective information handover during shift changes is critical for patient safety in intensive care units (ICUs). Despite extensive research on handover practices, measurement instruments with preliminary psychometric evidence applicable across different nursing roles and ICU contexts remain limited. To develop and conduct a preliminary psychometric evaluation of the ICU-HQI questionnaire for assessing ICU nursing professionals' perceptions of handover quality. A pilot cross-sectional methodological study was conducted in 2 ICUs with different physical layouts (open-box and closed-box) in a tertiary hospital in Spain. Content validity was assessed through a Delphi process. The questionnaire was administered to nursing staff, and exploratory dimensionality analysis using principal components analysis was performed to examine the internal structure of the instrument and its internal consistency. Exploratory subgroup analyses were conducted according to professional role, gender, age, and ICU experience to examine the instrument's preliminary discriminatory behavior. A total of 101 professionals participated (response rate: 94.3%). Principal components analysis supported a 3-dimensio",
+      "source": "Dimensions of critical care nursing : DCCN",
+      "authors": "Paredes-Garza Francisco, Muñoz Muñoz Débora, Rincón Domínguez Raquel, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084734/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43084731",
+      "title": "Effect of Chlorhexidine Oral Care on Ventilator-Associated Events in 4 ICU Populations: A Retrospective Study.",
+      "abstract": "Chlorhexidine gluconate (CHG) oral care is used to prevent ventilator-associated pneumonia, but its effectiveness in reducing ventilator-associated events (VAE) remains unclear. VAE encompasses both infectious and noninfectious complications. To examine the impact of twice daily 0.12% CHG oral care on VAE, length of stay (LOS), mechanical ventilator (MV) hours, and in-hospital mortality in 4 intensive care unit (ICU) populations: cardiac surgical, cardiac medical, multisystem, and neurological. An analysis using an electronic health record clinical database of 1567 mechanically ventilated patients from a quaternary hospital in central Florida was conducted. χ2, ANOVA, logistic regression, linear regression, and mediation analysis using LOS and MV hours as mediators assessed the relationship between CHG oral care and clinical outcomes. The cardiac surgical population had the highest VAE rate (47.13), whereas the neurological ICU had the lowest (5.87) per 1000 ventilator days. Each additional CHG oral care treatment was associated with a 4.9% increase in VAE odds, a 6-hour increase in MV duration, and a 0.55-day increase in LOS. LOS but not MV hours partially mediated the relationshi",
+      "source": "Dimensions of critical care nursing : DCCN",
+      "authors": "Carroll Simmons Jennifer S, Peach Brian C, Sole Mary Lou, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084731/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43084729",
+      "title": "Say No to Catheter-Associated Urinary Tract Infections: A Sustained Quality Improvement Initiative in the Neuro Intensive Care Unit.",
+      "abstract": "In 2022 and 2023, the Neuroscience Intensive Care Unit (ICU) reported 12 catheter-associated urinary tract infections (CAUTIs), a marked increase from previous years, prompting a comprehensive review of catheter use, current urine culture collection practices, and evidence-based practices. The aim of this quality improvement (QI) project was to address gaps in urine culture collection technique, reduce excessive catheter days, foster a unit culture that prioritized evidence-based urinary catheter management, and reduce CAUTI rates over a 3-year period. A multidisciplinary initiative was launched, involving staff education, protocol development, and process changes. Key interventions included direct education sessions on proper urine culture collection, implementation of the Neuroscience ICU Urinary Protocol, the Urinary Catheter Nurse-Driven Removal Protocol, and the Urinalysis (UA) and Urine Culture Collection Protocol. Data management involves monthly audits and real-time education to ensure adherence to protocols. Indwelling catheter utilization rates and urine culture collections remained high. However, the unit achieved a 100% reduction in reportable CAUTIs in 2024 and 2025. T",
+      "source": "Dimensions of critical care nursing : DCCN",
+      "authors": "Hicks Samantha, Miller Briana, Anderson Brianna, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084729/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43080164",
+      "title": "Prevalence and Predictors of Dysphagia Following Prolonged Intubation in ICU Patients, and the Association With Voice Impairment and Laryngeal Injury.",
+      "abstract": "Post-extubation Dysphagia (PED), voice impairment, and laryngeal injuries are commonly observed in patients with prolonged intubation in intensive care units (ICU). PED is associated with negative patient outcomes, both short and long term. This study investigated the prevalence of PED and its potential risk factors, as well as the prevalence of voice impairment and laryngeal injuries and their associations with dysphagia. This is a prospective study of adult ICU patients intubated for more than 48 h. Flexible Endoscopic Evaluation of Swallowing (FEES) was conducted bedside on all patients, by nine trained speech and language pathologists (SLP), following a standard protocol assessing function and structure of the velopharynx, pharynx, larynx, voice, and swallowing function. Dysphagia evaluation and ratings coincided during FEES, while voice and laryngeal injuries were retrospectively rated from FEES recordings. Associations between dysphagia and potential risk factors were analyzed using univariable and multivariable models. Among 51 participants, 82% had dysphagia, ranging from mild to severe. Voice impairment was present in 79%, and 83% had laryngeal injuries, including asymmetr",
+      "source": "Acta anaesthesiologica Scandinavica",
+      "authors": "Eliasson Anna, Bergström Liza, Holmlund Thorbjörn, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080164/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43077620",
+      "title": "Factors Influencing ICU Nurses' Intention to Use a Manometer for Endotracheal Tube Cuff Pressure Monitoring: An Application of the Theory of Planned Behavior.",
+      "abstract": "Maintaining endotracheal tube cuff pressure (20-30 cmH2O) is vital to prevent aspiration and tracheal injury. While manometry is considered the gold standard for monitoring cuff pressure, clinical adherence remains suboptimal among critical care providers, including intensive care unit (ICU) nurses and respiratory therapists, leading to potential patient safety risks. Therefore, this study investigated factors influencing critical care providers' intention to use a manometer, based on the Theory of Planned Behavior (TPB). This cross-sectional study was conducted in 2024 among 186 ICU nurses working in four public hospitals in Amol, Iran. Nurses were enrolled through census sampling. Data were collected using a demographic checklist, a checklist of ICU ward structural characteristics, and a validated TPB-based scale assessing attitudes, subjective norms, perceived behavioral control, and intention. Data were analyzed using descriptive statistics and multiple linear regression. The mean (standard deviation) score of intention to use a manometer was 17.81 (3.97). Positive attitudes (β = 0.335, P < .001), supportive subjective norms (β = 0.200, P = .005), perceived behavioral control (",
+      "source": "Critical care nursing quarterly",
+      "authors": "Ghanbari Alireza, Sharif-Nia Hamid, Mousazadeh Noushin, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077620/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43077619",
+      "title": "Reducing Lines, Drains, Airways Dislodgement in the Surgical Intensive Care Unit.",
+      "abstract": "Reduce lines, drains, airways (LDA) dislodgements by 50% in 6 months, as tracked by situation, background, assessment, recommendation dislodgement forms, and safety incident reports. LDA dislodgement is a significant safety concern leading to extended hospital stays, increased costs, and poorer patient outcomes. From January to May 2024, the SICU experienced 31 LDA dislodgements. The LDA Taskforce, consisting of nursing staff and leadership, implemented several strategies. Door signage categorized patients by risk level, and an in-service binder was developed to educate staff using the \"teach-back\" method. Key methods included appropriate restraint usage, 2 registered nurse handoffs during transitions, a \"time-out\" before patient movement, and proper LDA securement. Post-incident debriefings helped identify and address gaps. Data on dislodgements were collected weekly. Before the project, there were 31 dislodgements from January to May 2024. Post-implementation, dislodgements reduced to 15 from June to November 2024, achieving a 50% reduction. Further success was seen from December 2024 to May 2025, with only 11 incidents. The taskforce effectively reduced LDA dislodgements in the ",
+      "source": "Critical care nursing quarterly",
+      "authors": "Tashlyk Lyubov Luba, Ogilvie Jessica, Chavez Jose",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077619/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43077618",
+      "title": "Relationship Between Level of Consciousness, Pressure Ulcer Risk, and Pain Behaviors in Mechanically Ventilated Patients.",
+      "abstract": "Mechanically ventilated patients are vulnerable to pain, pressure injuries, and decreased levels of consciousness. This descriptive and correlational study examined the relationship between the level of consciousness, pressure injury risk, and pain behaviors in 150 patients treated in the intensive care units of a university hospital between November 2023 and February 2024. Data were collected using the Behavioral Pain Scale (BPS), Jackson/Cubbin Pressure Area Risk Assessment Tool, and Full Outline of UnResponsiveness (FOUR) Score. The mean FOUR Score was 6.78 ± 2.15, the mean Jackson/Cubbin score was 29.68 ± 2.79, and the mean BPS score was 4.73 ± 1.46. Pressure injury risk was significantly related to inotropic support and skin integrity (P < .001). Patients receiving enteral nutrition and those without sedation or inotropic support had higher BPS scores (P < .05). Weak positive correlations were found between the FOUR Score and both BPS (r = 0.190) and Jackson/Cubbin scores (r = 0.306). In conclusion, although patients had low consciousness and pain levels, regular assessment of pain, skin integrity, and consciousness remains essential for preventing complications and guiding in",
+      "source": "Critical care nursing quarterly",
+      "authors": "Yücel Sevdanur, Karadag Arli Senay",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077618/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43077616",
+      "title": "Exploration of Professional Competence and Moral Sensitivity in Critical Care Unit Nurses.",
+      "abstract": "Nursing competence is a key aspect of health care quality. This study aimed to explore the relationship between professional competence and moral sensitivity in nurses working in critical care units, utilizing a cross-sectional design. The study was conducted in 2018 and included nurses working in critical care units who met the inclusion criteria of having at least 1 year of experience in cardiac care units and holding a bachelor's degree. Data were collected through a demographic questionnaire, the Competency Inventory for Registered Nurses, and the Moral Sensitivity Questionnaire. The findings revealed a weak positive correlation between professional competence and moral sensitivity (r = 0.319, P = .002). Age, number of shifts, and type of hospital were also significantly correlated with nurses' professional competence and moral sensitivity. Given the direct correlation between professional competence and moral sensitivity, as well as the factors influencing these variables, it is recommended that nursing managers focus on developing programs to enhance them. Nurses should have a solid understanding of ethical principles. As professional competence and moral sensitivity are inte",
+      "source": "Critical care nursing quarterly",
+      "authors": "Ashrafi Zahra, Nobahar Monir, Raiesdana Nayereh, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077616/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43077612",
+      "title": "Impact of Acute Physiology and Chronic Health Evaluation (APACHE II) Scores on the Occurrence of a Hospital-Acquired Pressure Injury in ICU Patients: A Comparative Analytical Study.",
+      "abstract": "Pressure injuries represent a significant challenge for patients, healthcare professionals, and health systems. Their incidence serves as an indicator of quality of care in both primary and specialized care settings. To determine the association between Acute Physiology and Chronic Health Evaluation (APACHE II) scores and the development of hospital-acquired pressure injuries in ICU patients. A retrospective cohort study with comparative analysis was conducted. Critically ill patients admitted to a tertiary care hospital between July 2022 and January 2023 were categorized into two groups based on the presence or absence of pressure injuries. The Braden score was assessed for each patient, and APACHE II scores were stratified into four groups: group 1 (scores 31-40), group 2 (scores 21-30), group 3 (scores 11-20), and group 4 (scores 3-10). Pressure injuries occurred in 46% of patients. Patients with pressure injuries had a mean APACHE II score of 17.70 compared to 15.33 in patients without pressure injuries; however, this difference was not statistically significant. APACHE II scores were not significantly associated with pressure injury occurrence in this study population.",
+      "source": "Critical care nursing quarterly",
+      "authors": "Mahran Ghada Shalaby Khalaf, Mekawy Mimi M, Sayed Magdy Mohammed Mahdy, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "date": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077612/",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43069608",
+      "title": "Usability and Feasibility of a Contactless Communication Support Application for Patients Undergoing Noninvasive Positive-Pressure Ventilation.",
+      "abstract": "To evaluate the usability and patient experience of a contactless communication support application for intensive care unit (ICU) patients receiving noninvasive positive-pressure ventilation (NPPV) and examine the feasibility of maintaining oxygenation during application use. In this prospective, single-group observational feasibility study, 27 conscious ICU patients receiving NPPV used a tablet-based contactless communication application for approximately 5 min. The application, developed using MediaPipe, enabled patients to select on-screen options through fingertip movements without removing the mask. After use, patients completed the User Experience Questionnaire (UEQ) and a satisfaction survey. Peripheral oxygen saturation (SpO UEQ scores were positive across all six domains. The overall satisfaction was favorable, with most patients reporting that the application facilitated communication and helped during NPPV. SpO As an exploratory and observational finding, app-assisted communication may help prevent decreases in SpO",
+      "source": "Japan journal of nursing science : JJNS",
+      "authors": "Ozaki Taro, Hayasaka Tatsuya, Sato Kazunori, et al.",
       "pub_types": [
         "Journal Article",
         "Observational Study"
       ],
-      "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42976192/",
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069608/",
       "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43003547",
+      "title": "Culture and the Intensive Care Unit Team: Factors Driving Teamwork, Safety, Quality, and Well-Being.",
+      "abstract": "Intensive care unit (ICU) culture and teamwork strongly influence health care quality, patient safety, clinical outcomes, and clinician well-being. Culture shapes how multidisciplinary clinicians communicate, coordinate care, and adopt new practices. Persistent variability in ICU practices, including end-of-life care, sedation management, and mobility, often reflect differences in local culture and team dynamics. Emerging perspectives from complexity science, network science, and behavioral economics conceptualize the ICU as a complex adaptive human network in which collective behavior patterns emerge through repeated clinician interactions. Understanding ICUs through this lens may provide tools, processes, and strategies to improve health care delivery.",
+      "source": "Critical care clinics",
+      "authors": "Fuchita Mikita, McPeake Joanne, Mikkelsen Mark E",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003547/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43003544",
+      "title": "Administrative Harm and Workforce Strain Indicators.",
+      "abstract": "The way work is structured within health care, from work environments to workloads, shapes both the workforce experience as well as job performance. Administrative harm describes the downstream effects of upstream decisions on the design of work itself, impacting workforce well-being and performance, patient care and outcomes, and organizational outcomes. The article reviews current and emerging opportunities to harness digital signals readily available within the electronic health record (EHR), including EHR use metadata and related data sources, to measure, monitor, and predict how work design (job demands and resources) affects workforce, patient, and organizational outcomes.",
+      "source": "Critical care clinics",
+      "authors": "Leventhal Kara-Grace, Caudill Darren, Moss Marc, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003544/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43003542",
+      "title": "Intensive Care Unit Staffing Ratios: Evidence, Experience, Economics, and Execution.",
+      "abstract": "The clinician-to-patient ratio is a simple construct which can be useful in strategizing for intensive care unit (ICU) staffing. Evidence is limited and inconsistent, but overall suggests such ratios may impact patient outcomes, clinician experiences, and health system economics. Importantly, however, ICU clinicians function as part of an interprofessional team, and no single staffing metric can be considered in isolation. As such, no one-size-fits-all approach to clinician-to-patient ratios exists. Yet, typical ranges are now known and decisions to operate outside of these ranges should be done with care, at least until new evidence can better guide practice.",
+      "source": "Critical care clinics",
+      "authors": "Gershengorn Hayley B, Buckley Mitchell S, Costa Deena K, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003542/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43003538",
+      "title": "Moral Distress, Burnout, and the Intensive Care Unit Environment.",
+      "abstract": "This article examines the relationship between moral distress and burnout among intensive care unit (ICU) clinicians and argues that moral distress acts as a precursor to burnout. Moral distress arises when clinicians cannot act according to ethical obligations due to systemic constraints, leading to cumulative moral residue. In high-intensity ICU environments, this distress is driven by nonbeneficial treatment, poor communication, and resource limitations. Over time, unresolved moral distress contributes to chronic workplace stress and burnout. The authors emphasize that system-level interventions, particularly ethics consultation and organizational change, are essential to address root causes and improve clinician well-being and patient care.",
+      "source": "Critical care clinics",
+      "authors": "Epstein Elizabeth G, Bourne Dawn, Taylor Julia F",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2027 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003538/",
+      "category": "Review",
       "highlighted": false
     },
     {
@@ -511,6 +770,22 @@
       "highlighted": false
     },
     {
+      "id": "pmid_43085341",
+      "title": "[Hypotension during Spinal Anesthesia for Cesarean Section].",
+      "abstract": "Spinal anaesthesia-mediated hypotension (SAMH) remains the most frequent haemodynamic complication during caesarean section. Without prophylactic measures, hypotension occurs in 60-80% of patients. Severe hypotension is associated with adverse maternal and fetal outcomes. The underlying mechanisms include sympathetic blockade with arterial and venous vasodilation, reduced systemic vascular resistance, decreased venous return, and a subsequent reduction in cardiac output, which may be further aggravated by compression of the inferior vena cava in the supine position.Current international recommendations focus on prevention rather than treatment alone. Following intrathecal injection, a prophylactic vasopressor infusion with phenylephrine or norepinephrine should be initiated and combined with rapid crystalloid coloading. The primary haemodynamic goal is to maintain systolic blood pressure at ≥ 90% of the individually determined baseline value, while a decrease below 80% requires immediate intervention. Phenylephrine remains the international reference vasopressor because of its extensive evidence base, whereas norepinephrine has emerged as an effective alternative with favourable ha",
+      "source": "Anasthesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie : AINS",
+      "authors": "Vojnar Benjamin, Kalmus Gerald, Schmitt Felix",
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085341/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
       "id": "pmid_43023249",
       "title": "Piezo1 in acute and critical illnesses: From mechanosensing to organ dysfunction (Review).",
       "abstract": "Acute and critical illnesses are typically accompanied by hemodynamic instability, tissue edema, mechanical ventilation and extracellular matrix remodeling. Abnormal shear stress, mechanical stretch, pressure loading and tissue deformation continuously reshape the local mechanical microenvironment. Piezo1 is a mechanosensitive cation channel that converts mechanical stimuli into intracellular signals dominated by Ca²",
@@ -626,8 +901,7 @@
       "authors": "Pilia Eros, Derylo Kamil, Guarnieri Marcello, et al.",
       "pub_types": [
         "Journal Article",
-        "Scoping Review",
-        "Review"
+        "Scoping Review"
       ],
       "date": "2026 Dec",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42850169/",
@@ -712,19 +986,314 @@
       "highlighted": false
     },
     {
-      "id": "pmid_42655964",
-      "title": "Effect of protective ventilation throughout the intubation period on perioperative oxygenation in patients undergoing MIDCABG: a randomised controlled trial.",
-      "abstract": "Minimally invasive direct coronary artery bypass grafting (MIDCABG) requires prolonged one-lung ventilation (OLV), increasing postoperative pulmonary complications (PPCs) risk. We investigated whether protective lung ventilation (PLV) throughout intubation benefits MIDCABG patients. In this single-center randomized study, MIDCABG patients received PLV (low tidal volume of 6-8 mL·kg Sixty patients (n = 30 per group) were enrolled. Compared with CMV, PLV improved PaO In patients undergoing MIDCABG, PLV applied throughout intubation improved perioperative oxygenation and shortened the duration of postoperative mechanical ventilation and hospital stay, but did not reduce PPCs. ChiCTR1900022005.",
+      "id": "pmid_42859779",
+      "title": "Clinical practice guideline for renal replacement therapy in critically ill patients with acute kidney injury (2026 edition).",
+      "abstract": "Acute kidney injury (AKI) is a common and severe complication in critically ill patients, associated with high morbidity and mortality. Renal replacement therapy (RRT) is a vital life-support modality for critically ill patients with AKI. However, there remains a lack of unified clinical standards for core issues including the timing of RRT initiation, treatment modality, anticoagulation strategy, and weaning from RRT. In response, the Chinese Society of Critical Care Medicine organized a multidisciplinary expert panel to develop the \"Clinical practice guideline for RRT in critically ill patients with AKI (2026 edition)\" in accordance with the GRADE approach for grading evidence quality. This guideline was developed through systematic literature retrieval, meta-analysis, and evidence-based medical evidence synthesis, followed by multiple rounds of manuscript review and revision via online and offline meetings of the working group, and final approval by the Standing Committee of the Society. A total of 34 recommendations were finalized, covering key clinical topics including timing of RRT initiation, establishment and maintenance of vascular access, selection of treatment modalities",
+      "source": "Journal of intensive medicine",
+      "authors": "Kang Yan, Guan Xiangdong, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42859779/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42532052",
+      "title": "Evaluating the prognostic value of admission IL-8 and sST2 as biomarkers of early myocardial injury in severe community-acquired pneumonia.",
+      "abstract": "Myocardial injury in severe community-acquired pneumonia (SCAP) is often under-recognized, and interpretation of high-sensitivity cardiac troponin I (hs-cTnI) may be complicated by renal dysfunction and critical illness. We evaluated whether admission interleukin-8 (IL-8) and soluble suppression of tumorigenicity 2 (sST2) could support early risk stratification of guideline-consistent myocardial injury in patients with SCAP. In this prospective cohort of 146 patients with SCAP, guideline-consistent myocardial injury was defined as hs-cTnI elevation above the assay-specific 99th percentile upper reference limit. Admission IL-8, sST2, and their combination were assessed using receiver operating characteristic curve analysis and 10-fold cross-validation. Fixed and estimated glomerular filtration rate (eGFR)-stratified hs-cTnI thresholds were compared in an exploratory analysis. An exploratory subgroup analysis was performed among patients with CURB-65 ≤ 1. The median age was 71 years; 91 patients (62.3%) were male and 55 (37.7%) were female. Myocardial injury occurred in 88 patients (60.3%). The IL-8 + sST2 model showed good discrimination for myocardial injury, with an AUC of 0.825 (",
       "source": "Annals of medicine",
-      "authors": "Qian Min, Cong Zhukai, Yang Ning, et al.",
+      "authors": "Liu Shanshan, Liu Lu, Dong Jian",
       "pub_types": [
         "Journal Article",
-        "Randomized Controlled Trial",
         "Research Support, Non-U.S. Gov't"
       ],
       "date": "2026 Dec",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42655964/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42532052/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43087914",
+      "title": "The ROAD Concept: A Mechanism-Guided Approach to Antimicrobial Therapy for Carbapenemase-Producing Bacteria.",
+      "abstract": "Carbapenemase-producing Gram-negative bacteria are among the most challenging pathogens encountered in contemporary infectious diseases and critical care practice. Although antimicrobial susceptibility testing remains the cornerstone of laboratory diagnosis, reliance on the minimum inhibitory concentration (MIC) in isolation is insufficient to predict clinical outcome. The activity of a given regimen is governed by an interplay of factors that extends well beyond the static, in vitro MIC value: the specific carbapenemase produced (Ambler class A, B or D), co-existing resistance determinants such as porin loss, efflux-pump over-expression and AmpC hyperproduction, the infecting species and its intrinsic resistome, the anatomical site of infection and the antibiotic exposure actually achievable there, and the markedly altered pharmacokinetics of critically ill patients. This narrative review synthesizes recent evidence, with an emphasis on literature published between 2021 and 2026, on the molecular epidemiology of carbapenemases; the mechanism-specific activity of novel beta-lactam/beta-lactamase-inhibitor combinations (ceftazidime-avibactam, meropenem-vaborbactam, imipenem-cilastat",
+      "source": "Biomedicines",
+      "authors": "Rodríguez Alejandro, Claverias Laura, Canadell Laura, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43087914/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43002231",
+      "title": "[Emergency medicine requirements for the resuscitation room and the resuscitation room team].",
+      "abstract": "The resuscitation room is the central interface between prehospital emergency medical services (EMS) and in-hospital emergency care for critically ill and severely injured patients. From an EMS perspective, requirements are defined for activation, prenotification, team structure, handover, overload management and feedback. Written activation and allocation criteria are required that are applicable in the prehospital setting and agreed upon by hospitals, emergency dispatch centres and EMS providers. Prenotification must take place through a continuously available, reliable communication channel, be actively acknowledged and enable transparent feedback on capacity. Paramedics must be authorised to activate the resuscitation room independently of the presence of an emergency physician. On arrival, a qualified and operational team with clearly identifiable roles should be available. Handover should be structured and as interruption-free as possible. The exploratory online survey showed that trauma resuscitation care is predominantly guideline-based and more often includes a written minimum staffing requirement. In nontrauma resuscitation care, written activation criteria and binding te",
+      "source": "Medizinische Klinik, Intensivmedizin und Notfallmedizin",
+      "authors": "Briegel Janika, Viergutz Tim, Häske David",
+      "pub_types": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov 09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002231/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42998837",
+      "title": "The efficacy and safety of micronutrient complementation in adults during the acute phase of critical illness: A retrospective cohort study.",
+      "abstract": "Critically ill patients often experience metabolic imbalances and potentially low micronutrient blood levels that worsen oxidative stress and impair immune function. Despite guideline recommendations, micronutrient complementation is inconsistently applied due to accessibility issues and the lack of validated assessment tools during acute critical illness. This retrospective cohort study evaluated the impact of early intravenous micronutrient complementation on clinical outcomes in ICU patients using real-world electronic medical record data. Adult ICU patients at National Taiwan University Hsinchu Branch from July 2024 to November 2025 who received parenteral nutrition (PN) for at least 24 hours were included. Patients were divided into a treatment group receiving micronutrients within 72 hours of ICU admission and a control group without complementation. Primary outcomes included in-hospital mortality and infectious complications after day 6 of PN; secondary outcomes included ICU/hospital length of stay, inflammatory and metabolic biomarkers, organ support needs, and refeeding syndrome incidence. Among 462 patients analyzed, 213 received early micronutrient therapy. Baseline char",
+      "source": "The American journal of the medical sciences",
+      "authors": "Kao Hua-Ling, Shao Wei-Chao",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov 07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998837/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42987438",
+      "title": "Sleep and circadian research across critical care settings and populations, 2000-2025: a layered bibliometric and science-mapping analysis.",
+      "abstract": "We characterised the growth, composition and intellectual structure of sleep and circadian research across critical care settings and populations from 2000 to 2025, with particular attention to the representation and citation visibility of Nursing-category journals. Web of Science Core Collection Article and Review records retrieved on 1 August 2026 yielded 4760 after deduplication. A deterministic title/author-keyword rule gave a field-central corpus of 1047 nested in an abstract-inclusive corpus of 3588. Two authors independently assessed a 200-record stratified sample. Growth, annual Nursing-category share and citations were modelled using log-linear, binomial logistic and negative binomial regression, respectively. Reporting followed the preliminary guideline for reporting bibliometric reviews of the biomedical literature (BIBLIO). The corpus held 859 Articles and 188 Reviews from 370 sources (29,660 citations; h-index 79), growing 15.30%/year (95% confidence interval [CI] 13.73-16.89). Nursing-category journals produced 21.2% of 2000-2024 records, with increasing annual odds (odds ratio [OR] 1.041, 95% CI 1.009-1.075; p = 0.013), but accounted for 13.3% of citations and 1 of t",
+      "source": "Intensive & critical care nursing",
+      "authors": "Toprak Hasan Burak, Taşkın Gürhan, Yamanel Hüseyin Levent",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov 05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987438/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42885870",
+      "title": "The Role of Family Needs in Emotional Distress Among Next of Kin of Critically Ill Patients: A Cross-Sectional Study.",
+      "abstract": "Next of kin of critically ill patients frequently experience distress. Although family needs have been associated with psychological outcomes, their potential role as a pathway linking clinical and relational factors to emotional distress remains poorly understood. To examine whether family needs mediate the relationships between ventilatory support, relationship to the patient and emotional distress among the next of kin of critically ill patients. A cross-sectional study was conducted in an adult Intensive Care Unit in Portugal between September 2024 and February 2025. Emotional distress was assessed using the Depression, Anxiety and Stress Scales-21 and family needs using the Family Needs Inventory in the Intensive Care Unit. Mediation analysis was performed using maximum likelihood estimation with bias-corrected bootstrap confidence intervals (5000 resamples). The study followed the A Guideline for Reporting Mediation Analyses (AGReMA) Statement. Data from 130 critically ill patient-next of kin dyads were analysed. Next of kin of patients receiving invasive mechanical ventilation and those with closer relational proximity (spouses and sons/daughters) reported significantly high",
+      "source": "Nursing in critical care",
+      "authors": "Regalado Bernardete Costa, Alvarelhão José Joaquim Marques, Simões João Filipe Fernandes Lindo",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885870/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42714474",
+      "title": "Rehabilitation and the post-intensive care syndrome across the recovery continuum: a narrative review.",
+      "abstract": "Improved survival from critical illness has produced a growing population of intensive care unit (ICU) survivors with new or worsened physical, cognitive, and mental-health impairment, defined as post-intensive care syndrome (PICS), and frequent distress among families/caregivers (PICS-family, PICS-F). This narrative review synthesises the evidence in adults treated in high-resource settings. Rather than a formal guideline process, we used a structured descriptive approach: for each recommendation, we identified the predominant study design, assessed the consistency of findings, summarised uncertainties, and assigned an evidence-strength label (high, moderate, low, or insufficient). We summarise the definition of PICS and its overlap with related constructs (post-sepsis morbidity, chronic critical illness, post-COVID conditions, and frailty); the mechanisms linking acute injury to persistent disability, including skeletal-muscle pathobiology, neuroinflammation, mitochondrial and neuroendocrine dysfunction, and epigenetic change; and the instruments assessing the three PICS core domains (recommending a two-step assessment approach), as well as quality of life, across the care contin",
+      "source": "Intensive care medicine",
+      "authors": "Schaller Stefan J, Cardoso Teresa, Eggmann Sabrina, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42714474/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_43032138",
+      "title": "Temporal patterns and adverse pregnancy outcomes of hypertensive disorders of pregnancy and gestational diabetes mellitus in Hebei Province, China, 2017-2023: a multicenter retrospective cohort study.",
+      "abstract": "Hypertensive disorders of pregnancy (HDP) and gestational diabetes mellitus (GDM) are common complications with overlapping metabolic, vascular, and inflammatory pathways. GDM is associated with fetal overgrowth but may also coexist with fetal growth restriction, particularly when placental vascular dysfunction is present. Regional evidence on recorded temporal patterns and joint maternal-neonatal outcomes remains limited in northern China. We analyzed 264,278 eligible singleton deliveries at ≥28 gestational weeks recorded in the Hebei Obstetric Critical Illness Monitoring System across 31 hospitals from 2017 to 2023. Pregnancies were classified as HDP alone, GDM alone, coexisting HDP and GDM, or unaffected. Multivariable logistic regression adjusted for maternal age, marital status, education, hospital level, gravidity, parity, prenatal examination frequency, and previous cesarean section. Sensitivity analyses examined center composition and hospital-specific random intercepts. Associations were interpreted as non-causal because important metabolic and behavioral covariates were unavailable. Of eligible deliveries, 11,708 (4.43%) had HDP alone, 18,600 (7.04%) had GDM alone, 2,138 ",
+      "source": "Frontiers in public health",
+      "authors": "Liu Li, Liu Suxin, Du Liyan, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032138/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42906879",
+      "title": "Clinical nutrition for critically ill patients: A practical appraisal of guideline gaps and perspectives for future research.",
+      "abstract": "Malnutrition and accelerated muscle wasting are frequent during critical illness and make nutritional support a central component of ICU care. Nutritional support is therefore central to ICU care, but its optimal timing, route, dose, and composition remain debated. Recent randomized trials have challenged the traditional objective of early full feeding and shifted practice toward progressive, phase-adapted, and tolerance-based nutrition. This narrative review compares current international guidelines for nutritional support in critically ill adults. Guidelines broadly agree that nutrition should be initiated early after clinical stabilization, acute-phase overfeeding should be avoided, energy and protein delivery should be increased progressively, and refeeding syndrome should be anticipated. However, important differences remain regarding acute-phase energy targets, protein dosing, enteral versus parenteral nutrition, supplemental parenteral nutrition, indirect calorimetry, and enriched enteral formulas. These discrepancies reflect differences in methodology, healthcare context, and interpretation of evidence largely derived from mechanically ventilated patients during the first I",
+      "source": "Clinical nutrition ESPEN",
+      "authors": "Pardo Emmanuel, Gobé Thibaut, Thibault Ronan",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906879/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42979465",
+      "title": "Pathophysiology-guided nutritional strategies for persistent inflammation, immunosuppression, and catabolism syndrome: an immunometabolic perspective.",
+      "abstract": "Persistent inflammation, immunosuppression, and catabolism syndrome (PICS) is a phenotype of chronic critical illness characterized by unresolved inflammation, impaired immune competence, sustained catabolism, skeletal muscle loss, recurrent infections, and poor functional recovery. Although guideline-based nutritional support remains fundamental, persistent immunometabolic abnormalities may limit responsiveness to nutrient delivery and contribute to anabolic resistance, impaired substrate utilization, and defective tissue repair. This mini-review examines biological mechanisms limiting nutritional responsiveness in PICS and evaluates evidence for pathophysiology-guided nutritional strategies. A structured literature search of PubMed/MEDLINE, Embase, and Web of Science was conducted from database inception through September 6, 2026, prioritizing English-language clinical guidelines, clinical studies, and mechanistic or translational evidence relevant to PICS, critical illness, nutritional responsiveness, and immunometabolic nutrition. We propose a framework addressing major barriers to recovery through strategies to restore anabolic responsiveness with protein, leucine, and rehabil",
+      "source": "Frontiers in immunology",
+      "authors": "Wu Zhiyang, Yao Bo",
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979465/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42880916",
+      "title": "[Correlation between acute kidney injury diagnosed by serum creatinine and urine output criteria and short-term prognosis in critically ill patients following non-cardiac surgery].",
+      "abstract": "To analyze the correlation between acute kidney injury (AKI) diagnosed by elevated serum creatinine (Scr) versus only meeting the urine output (UO) reduction criteria and short-term adverse outcomes in critically ill patients following non-cardiac surgery, and to evaluate the association between even mild elevations in Scr and clinical outcomes furthermore. This study was a secondary analysis of data from a prospective cohort study. A total of 1020 non-cardiac surgery adults admitted to the intensive care unit (ICU) of Peking University First Hospital from May 20, 2019 to March 7, 2022 were included. According to Kidney Disease: Improving Global Outcomes (KDIGO) guideline, AKI patients were classified into two groups: the AKI-Scr group (those meeting the Scr elevation criteria) and the AKI-UO group (those fulfilling only the UO reduction criteria). The primary outcome was in-hospital mortality in patients with AKI, and the secondary outcomes were major renal adverse events, post-operative renal replacement therapy (RRT), postoperative complications, postoperative mechanical ventilation time, ICU stay, postoperative hospital stay, total hospital stay, and total medical costs. Multiv",
+      "source": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "authors": "Xie Fangfei, Xie Min, Zhou Weijie, et al.",
+      "pub_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "date": "2026 Oct 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880916/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42613789",
+      "title": "Fiber and fluid administration and the risk of constipation in critically ill adults on mechanical ventilation: A prospective cohort study.",
+      "abstract": "Constipation is a common complication in critically ill patients and has been associated with adverse clinical outcomes. However, the role of enteral nutrition composition, particularly fiber and fluid administration, remains unclear. The aim of this study was to evaluate the association between dietary fiber and fluid administration and constipation in invasive mechanical ventilated critically ill adults. We conducted a prospective cohort study including 74 critically ill adults requiring invasive mechanical ventilation and enteral nutrition. Patients were followed for up to 144 h from initiation of mechanical ventilation. Fiber and total fluid administration were evaluated as time-varying exposures. Constipation was defined as absence of defecation within 144 h. Discrete-time survival analysis was used to assess associations. Constipation occurred in 54% of patients. Time to first defecation ranged from 48 to 504 h. Most patients (97.3%) received early enteral nutrition, although fiber and fluid delivery were frequently below guideline-recommended targets. No significant association was observed between fiber intake or fluid administration and constipation after adjustment, with ",
+      "source": "JPEN. Journal of parenteral and enteral nutrition",
+      "authors": "Lamoyi-Domínguez Paola Renata, Rodríguez-Moguel Nadia Carolina, Pedroza-Terán Lourdes Guadalupe, et al.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42613789/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42612524",
+      "title": "Nutrition management in critically ill surgical patients: a clinical practice guideline appraisal and synthesis.",
+      "abstract": "Critically ill surgical patients are particularly vulnerable to inadequate nutritional intake due to surgery, trauma, treatment-related interruptions, and hypermetabolic stress. Clinical practice guidelines (CPGs) are important for guiding nutritional management in this population, but specific recommendations remain limited. Therefore, this systematic review aimed to evaluate the methodological quality of CPGs related to nutritional management in critically ill surgical patients and to synthesize their recommendations. Comprehensive bibliographic searches were conducted across six literature databases and ten guideline repositories to identify CPGs published between January 2005 and November 2025. Professional society websites and relevant grey literature sources were also searched. Data on guideline characteristics and development methodology were extracted. The methodological quality of included guidelines was appraised using the Appraisal of Guidelines for Research and Evaluation II (AGREE II), and the quality of recommendations using the AGREE-Recommendation Excellence (AGREE-REX). Recommendations relevant to nutritional management in critically ill surgical patients were then",
+      "source": "Clinical nutrition (Edinburgh, Scotland)",
+      "authors": "Xin Chen, Luo Yuhong, Liu Yuhua, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612524/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42485467",
+      "title": "Individualizing post-ICU nutrition: from guideline intent to bedside practice.",
+      "abstract": "Survivorship of critical illness has increased, shifting attention toward recovery and long-term outcomes. Post-ICU nutrition is emerging as a clinically relevant, yet underperforming contributor to functional recovery and quality of life. Persistent nutritional inadequacy reflects insufficiently defined physiological requirements and limited implementable evidence-based guidance during ICU recovery. Energy and protein delivery sharply decline after ICU discharge, despite persistent metabolic demands. Underfeeding can result from the absence of recovery-specific targets, patient-level barriers (e.g. appetite loss, dysphagia, fatigue), and fragmented care transitions, including premature feeding-tube removal and suboptimal monitoring of oral intake. Structured patient and family engagement can help operationalize individualized nutritional strategies and improve feasibility without substantial resource burden, acting as continuity agents. Post-ICU nutritional failure reflects combined physiological and implementation challenges. Clinicians should recognize the post-ICU hospitalization period as a potential 'metabolic danger zone', requiring a shift from acute-phase restrictive feedi",
+      "source": "Current opinion in critical care",
+      "authors": "Leemans Oona, Rosseel Zenzi, Pichard Claude, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Oct 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485467/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42831012",
+      "title": "ICU-Associated Exposure Keratopathy and Preventable Corneal Blindness: A Clinical Review.",
+      "abstract": "Exposure keratopathy is an ocular surface injury caused by prolonged corneal exposure, most often from incomplete eyelid closure. Critical illness can intensify exposure through reduced blinking, chemosis, impaired corneal reflexes, sedation, mechanical ventilation, and tear film instability. This narrative clinical review synthesizes contemporary evidence on epidemiology, mechanisms, risk factors, bedside assessment, prevention, protocol implementation, and care in resource-constrained intensive care units (ICUs). PubMed/MEDLINE was searched for English language literature from January 2000 through 15 September 2026, supplemented by reference list and guideline searches. Systematic reviews, randomized trials, cohort studies, quality improvement reports, and relevant guidance were prioritized. Pooled evidence indicates that exposure keratopathy is common among critically ill patients, and recent trials support scheduled lubrication, eyelid closure support, and moisture chamber approaches, particularly when the cornea remains exposed. Fluorescein assessment and clear ophthalmology referral criteria improve detection of epithelial injury and complications that threaten vision. The re",
+      "source": "Clinical ophthalmology (Auckland, N.Z.)",
+      "authors": "Omar Abdullahi Abdirahman",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831012/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42871092",
+      "title": "Case report: Fatal hematogenous gastrosplenic mucormycosis in an immunocompetent adult following sigmoid perforation, septic shock, and short-term stress glucocorticoids.",
+      "abstract": "Mucormycosis is an aggressive angioinvasive fungal infection that predominantly affects chronically immunosuppressed individuals. Hematogenous dissemination of  We report a fatal case of synchronous gastric perforation and total splenic infarction secondary to hematogenous  This case delivers three critical clinical takeaways. First, even brief stress-dose glucocorticoids may induce sufficient transient immune paralysis to permit life-threatening hematogenous mucormycosis in patients without chronic underlying immunosuppression, acting as one potential contributing factor alongside sepsis-related critical-illness immune dysfunction. Second, empirical carbapenem plus echinocandin regimens, commonly used in ICUs, lack activity against",
+      "source": "Frontiers in fungal biology",
+      "authors": "Liu Jiewei, Zhang Wei, Chen Hua",
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42871092/",
       "category": "Clinical Trial",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42739079",
+      "title": "Improving the Outcome of Brain-Injured Patients by Non-Continuous Feeding to Prevent Dysbiosis.",
+      "abstract": "",
+      "source": "Nutrients",
+      "authors": "Corriero Alberto, Soloperto Rossana, Giglio Mariateresa, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Sep 04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42739079/",
+      "category": "Review",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42424121",
+      "title": "Use of Cystatin C in Tandem with Creatinine to Improve GFR Estimation and Clinical Decision Making.",
+      "abstract": "Recognizing its clinical utility, the 2024 Kidney Disease Improving Global Outcomes (KDIGO) guideline recommends using equations that integrate serum creatinine and cystatin C for CKD diagnosis and staging. Cystatin C-inclusive equations generally outperform creatinine-based equations in bias and accuracy across diverse populations, including children and patients with comorbidities. Moreover, cystatin C-inclusive equations consistently demonstrate greater prognostic value than creatinine-only equations for clinical outcomes such as kidney failure with replacement therapy, cardiovascular disease, and mortality, particularly in individuals with large differences between creatinine-based and cystatin C-based eGFR. Among hospitalized patients and those undergoing significant changes in muscle mass, such as during weight loss or critical illness, cystatin C may improve GFR estimation and facilitate earlier detection of AKI. In clinical practice, cystatin C informs CKD staging, risk stratification, and medication dosing, particularly in scenarios where creatinine-based equations are less reliable. Although the integration of cystatin C into risk equations has shown mixed results, its in",
+      "source": "Journal of the American Society of Nephrology : JASN",
+      "authors": "Awdishu Linda, Karger Amy B, Shlipak Michael G, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "date": "2026 Sep 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42424121/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "pmid_42371750",
+      "title": "Noninvasive respiratory support for adult patients with acute respiratory failure: an official American Thoracic Society Clinical Practice Guideline.",
+      "abstract": "Acute hypoxemic and hypercapnic respiratory failure are among the most common reasons for ICU admission and need for invasive mechanical ventilation. Noninvasive respiratory support (NIRS) strategies-including high-flow nasal cannula (HFNC), noninvasive ventilation (NIV), and continuous positive airway pressure (CPAP)-may prevent intubation, improve outcomes, and reduce ICU utilization. However, there is uncertainty regarding optimal patient and modality selection, resulting in variable implementation. There are no clinical practice guidelines comprehensively addressing the use of the different NIRS strategies across the spectrum of acute respiratory failure. To update and develop new evidence-based clinical practice recommendations informing NIRS use, including HFNC, NIV and CPAP, in adults with acute respiratory failure. A multidisciplinary panel used the Grading of Recommendations, Assessment, Development, and Evaluation approach to address four PICO (Population, Intervention, Comparator, Outcome) questions related to the use of NIRS for hypoxemic and hypercapnic respiratory failure, preoxygenation for intubation, and postextubation respiratory support. Recommendations were info",
+      "source": "American journal of respiratory and critical care medicine",
+      "authors": "Goel Neha N, Ferreyro Bruno L, Pitre Tyler, et al.",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "date": "2026 Sep 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42371750/",
+      "category": "Guideline / Consensus",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___link_springer_com_article_10_1007_s00134_026_08678_x",
+      "title": "Echocardiography in ARDS: beyond imaging, toward bedside decision-making",
+      "abstract": "",
+      "source": "Intensive Care Medicine",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Nov 26",
+      "url": "https://link.springer.com/article/10.1007/s00134-026-08678-x",
+      "category": "Research Article",
       "highlighted": false
     },
     {
@@ -736,6 +1305,18 @@
       "pub_types": [],
       "date": "2026 Nov 23",
       "url": "https://link.springer.com/article/10.1007/s00134-026-08636-7",
+      "category": "Research Article",
+      "highlighted": false
+    },
+    {
+      "id": "rss_https___jamanetwork_com_journals_jama_fullarticle_2854584",
+      "title": "Critically Ill Neonates and Secondary Genomic Findings",
+      "abstract": "This Perspective discusses whether secondary genomic findings in the clinical context of diagnostic genomic sequencing tests should be sought and reported.",
+      "source": "JAMA",
+      "authors": "",
+      "pub_types": [],
+      "date": "2026 Nov 24",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854584",
       "category": "Research Article",
       "highlighted": false
     }
